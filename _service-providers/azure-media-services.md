@@ -5,7 +5,7 @@ description: <p>Azure Media Services gives you broadcast-quality video streaming
   enhances accessibility, distribution, and scalability, and makes it easy and cost-effective
   to stream content to your local and worldwide audiences&mdash;all while protecting
   your content.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/media-services-video-on-demand.png
+image: http://api.specificationtoolbox.com/images/service-providers/azure-media-services.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -84,4 +84,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...
