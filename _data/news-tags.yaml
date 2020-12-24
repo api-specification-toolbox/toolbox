@@ -1,31 +1,46 @@
 ---
-- name: Tag One
-  description: This is the description for tag one.
+- name: AsyncAPI
+  description: This is the description for AsyncAPI
   featured: true
-- name: Tag Two
-  description: This is the description for tag two.
+- name: Blockchain
+  description: This is the description for Blockchain
   featured: true
-- name: Tag Three
-  description: This is the description for tag three.
+- name: Eclipse
+  description: This is the description for Eclipse
   featured: true
-- name: Tag Four
-  description: This is the description for tag four.
+- name: History
+  description: This is the description for History
   featured: true
-- name: Tag Five
-  description: This is the description for tag five.
-  featured: false
-- name: Tag Six
-  description: This is the description for tag six.
-  featured: false
-- name: Tag Seven
-  description: This is the description for tag seven.
-  featured: false
-- name: Tag Eight
-  description: This is the description for tag eight.
-  featured: false
-- name: Tag Nine
-  description: This is the description for tag nine.
-  featured: false
-- name: Tag Ten
-  description: This is the description for tag ten.
-  featured: false
+- name: IDE
+  description: This is the description for IDE
+  featured: true
+- name: IntelliJ
+  description: This is the description for IntelliJ
+  featured: true
+- name: Introduction
+  description: This is the description for Introduction
+  featured: true
+- name: Mocking
+  description: This is the description for Mocking
+  featured: true
+- name: OpenAPI
+  description: This is the description for OpenAPI
+  featured: true
+- name: Partnership
+  description: This is the description for Partnership
+  featured: true
+- name: Postman
+  description: This is the description for Postman
+  featured: true
+- name: PyCharm
+  description: This is the description for PyCharm
+  featured: true
+- name: Security
+  description: This is the description for Security
+  featured: true
+- name: Testing
+  description: This is the description for Testing
+  featured: true
+- name: Versions
+  description: This is the description for Versions
+  featured: true
