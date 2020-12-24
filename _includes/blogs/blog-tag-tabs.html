@@ -55,7 +55,7 @@
                             <ul class="post-meta">
                                <li><span class="icon fa fa-clock-o"></span>Date</li>
                             </ul>
-                            <div class="text">{{ post.content | truncate: 395 }}</div>
+                            <div class="text">{{ post.content | strip_html | truncate: 395 }}</div>
                             <a href="{{ post.url }}" class="read-more">Read More </a>
                          </div>
                       </div>
