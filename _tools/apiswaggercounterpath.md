@@ -1,0 +1,26 @@
+---
+name: ApiSwaggerCounterPath
+description: api counterpath desarrolada en swagger
+image: ""
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: 0
+created: "2020-12-23"
+modified: "2020-12-23"
+url: http://api.specificationtoolbox.com/resources/tools/apiswaggercounterpath/
+tags:
+- Swagger
+- Path
+- GitHub Swagger Search
+- Count
+- API
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/dannySanchez1212/ApiSwaggerCounterPath/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

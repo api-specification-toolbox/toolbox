@@ -1,0 +1,27 @@
+---
+name: graphql demo with spring boot
+description: This is myfirst demo for graphql with spring-boot, only for study usage
+image: ""
+specificationVersion: "0.14"
+x-rank: "5.4"
+x-alexaRank: 0
+created: "2020-12-23"
+modified: "2020-12-23"
+url: http://api.specificationtoolbox.com/resources/tools/graphql-demo-with-spring-boot/
+tags:
+- Usage
+- Study
+- Spring
+- GraphQL
+- Graph
+- Github GraphQL Search
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/NathanPiggy/graphql-demo-with-spring-boot/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

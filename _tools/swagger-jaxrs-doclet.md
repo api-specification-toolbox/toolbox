@@ -1,0 +1,23 @@
+---
+name: swagger jaxrs doclet
+description: ""
+image: ""
+specificationVersion: "0.14"
+x-rank: "17.6"
+x-alexaRank: 0
+created: "2020-12-23"
+modified: "2020-12-23"
+url: http://api.specificationtoolbox.com/resources/tools/swagger-jaxrs-doclet/
+tags:
+- Swagger
+- GitHub Swagger Search
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/ryankennedy/swagger-jaxrs-doclet
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

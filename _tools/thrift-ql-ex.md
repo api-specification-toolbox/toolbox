@@ -1,0 +1,24 @@
+---
+name: thrift_ql_ex
+description: Convert Thrift to GraphQL
+image: ""
+specificationVersion: "0.14"
+x-rank: "0.6"
+x-alexaRank: 0
+created: "2020-12-23"
+modified: "2020-12-23"
+url: http://api.specificationtoolbox.com/resources/tools/thrift-ql-ex/
+tags:
+- GraphQL
+- Graph
+- Github GraphQL Search
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/sambou/thrift_ql_ex/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

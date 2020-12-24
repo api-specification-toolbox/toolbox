@@ -1,0 +1,26 @@
+---
+name: KBank OpenAPI Swift
+description: ""
+image: ""
+specificationVersion: "0.14"
+x-rank: "0.6"
+x-alexaRank: 0
+created: "2020-12-23"
+modified: "2020-12-23"
+url: http://api.specificationtoolbox.com/resources/tools/kbank-openapi-swift/
+tags:
+- Swift
+- OpenAPI
+- Open
+- GitHub OpenAPI Search
+- API
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/kbank-open-api/KBank-OpenAPI-Swift/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

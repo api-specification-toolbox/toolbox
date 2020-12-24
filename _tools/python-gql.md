@@ -1,0 +1,26 @@
+---
+name: python gql
+description: Python schema-first GraphQL library based on GraphQL-core.
+image: ""
+specificationVersion: "0.14"
+x-rank: "0.9"
+x-alexaRank: 0
+created: "2020-12-23"
+modified: "2020-12-23"
+url: http://api.specificationtoolbox.com/resources/tools/python-gql/
+tags:
+- Schema
+- Python
+- GraphQL
+- Graph
+- Github GraphQL Search
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/syfun/python-gql/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

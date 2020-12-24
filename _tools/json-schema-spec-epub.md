@@ -1,0 +1,26 @@
+---
+name: json schema spec epub
+description: A small script to generate the JSON Schema specification in epub format
+image: ""
+specificationVersion: "0.14"
+x-rank: "0"
+x-alexaRank: 0
+created: "2020-12-23"
+modified: "2020-12-23"
+url: http://api.specificationtoolbox.com/resources/tools/json-schema-spec-epub/
+tags:
+- Schema
+- JSON Schema
+- JSON
+- GitHub JSON Schema Search
+- Generate
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/leadpony/json-schema-spec-epub/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

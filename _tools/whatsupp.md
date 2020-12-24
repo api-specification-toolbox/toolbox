@@ -1,0 +1,25 @@
+---
+name: whatsupp
+description: Fullstack JavaScript Whatsapp clone
+image: ""
+specificationVersion: "0.14"
+x-rank: "0.2"
+x-alexaRank: 0
+created: "2020-12-23"
+modified: "2020-12-23"
+url: http://api.specificationtoolbox.com/resources/tools/whatsupp/
+tags:
+- JavaScript
+- Java
+- Github GraphQL Search
+- Clone
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/richiemccoll/whatsupp/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

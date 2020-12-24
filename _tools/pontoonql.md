@@ -1,0 +1,24 @@
+---
+name: pontoonql
+description: Get translation status for a Pontoon project.
+image: ""
+specificationVersion: "0.14"
+x-rank: "0.2"
+x-alexaRank: 0
+created: "2020-12-23"
+modified: "2020-12-23"
+url: http://api.specificationtoolbox.com/resources/tools/pontoonql/
+tags:
+- Status
+- SLA
+- Github GraphQL Search
+apis: []
+x-common:
+- type: x-github
+  url: https://github.com/pdehaan/pontoonql/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---
