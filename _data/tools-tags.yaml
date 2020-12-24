@@ -26,29 +26,14 @@
 - name: API Blueprint
   description: This is a description for the API Blueprint.
   featured: false
-- name: API Provider
-  description: This is a description for the API Provider.
-  featured: false
 - name: APIMatic
   description: This is a description for the APIMatic.
   featured: false
 - name: APIs.json
   description: This is a description for the APIs.json.
   featured: false
-- name: ASSIST
-  description: This is a description for the ASSIST.
-  featured: false
-- name: Abandoned
-  description: This is a description for the Abandoned.
-  featured: false
 - name: Abilities
   description: This is a description for the Abilities.
-  featured: false
-- name: About
-  description: This is a description for the About.
-  featured: false
-- name: Absolute
-  description: This is a description for the Absolute.
   featured: false
 - name: Abstract
   description: This is a description for the Abstract.
@@ -1834,7 +1819,7 @@
   featured: false
 - name: Documentation
   description: This is a description for the Documentation.
-  featured: false
+  featured: true
 - name: Documentdb
   description: This is a description for the Documentdb.
   featured: false
@@ -2383,7 +2368,7 @@
   featured: false
 - name: Generators
   description: This is a description for the Generators.
-  featured: false
+  featured: True
 - name: Generic
   description: This is a description for the Generic.
   featured: false
@@ -2402,8 +2387,8 @@
 - name: GitHub API Blueprint Search
   description: This is a description for the GitHub API Blueprint Search.
   featured: false
-- name: GitHub AsyncAPI Search
-  description: This is a description for the GitHub AsyncAPI Search.
+- name: AsyncAPI
+  description: This is a description for AsyncAPI.
   featured: false
 - name: GitHub JSON Schema Search
   description: This is a description for the GitHub JSON Schema Search.
@@ -3577,7 +3562,7 @@
   featured: false
 - name: Parser
   description: This is a description for the Parser.
-  featured: false
+  featured: true
 - name: Parses
   description: This is a description for the Parses.
   featured: false
@@ -4963,7 +4948,7 @@
   featured: false
 - name: Testing
   description: This is a description for the Testing.
-  featured: false
+  featured: true
 - name: Tests
   description: This is a description for the Tests.
   featured: false

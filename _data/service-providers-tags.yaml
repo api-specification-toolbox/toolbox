@@ -2,9 +2,6 @@
 - name: .NET
   description: This is the description for .NET
   featured: false
-- name: 3rd Party Products And Developer Tools
-  description: This is the description for 3rd Party Products And Developer Tools
-  featured: false
 - name: AMQP
   description: This is the description for AMQP
   featured: false
@@ -14,41 +11,8 @@
 - name: API Commons
   description: This is the description for API Commons
   featured: false
-- name: API Description
-  description: This is the description for API Description
-  featured: false
-- name: API Events
-  description: This is the description for API Events
-  featured: false
-- name: API Key
-  description: This is the description for API Key
-  featured: false
-- name: API LIfeycle
+- name: API Lifeycle
   description: This is the description for API LIfeycle
-  featured: false
-- name: API Learning
-  description: This is the description for API Learning
-  featured: false
-- name: API Management Other
-  description: This is the description for API Management Other
-  featured: false
-- name: API Management SDK
-  description: This is the description for API Management SDK
-  featured: false
-- name: API Not Found
-  description: This is the description for API Not Found
-  featured: false
-- name: API Provider
-  description: This is the description for API Provider
-  featured: false
-- name: API Service Provider
-  description: This is the description for API Service Provider
-  featured: false
-- name: API Tools
-  description: This is the description for API Tools
-  featured: false
-- name: API United Kingdom
-  description: This is the description for API United Kingdom
   featured: false
 - name: APIs.json
   description: This is the description for APIs.json

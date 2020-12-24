@@ -48,16 +48,13 @@
                 {% for entry in videos limit:6 %}
                    <div class="news-block-two col-lg-6 col-md-6 col-sm-12">
                       <div class="inner-box">
-                         <div class="image">
-                            <img src="{{ entry.image }}" alt="" />
-                         </div>
+                         <div class="image">{{ entry.embed }}</div>
                          <div class="lower-box">
                             <h3><a href="{{ entry.url }}">{{ entry.name }}</a></h3>
                             <ul class="post-meta">
                                <li><span class="icon fa fa-clock-o"></span>{{ entry.modified | date: "%b %d, %y" }}</li>
                             </ul>
-                            <div class="text">{{ entry.description | truncate: 395 | strip_html }}</div>
-                            <a href="{{ entry.url }}" class="read-more">Read More </a>
+                            <div class="text">{{ entry.date | truncate: 395 | strip_html }}</div>
                          </div>
                       </div>
                    </div>
