@@ -9,9 +9,9 @@ description: <p>The Data Lake store provides a single repository where you can c
   data can be ingested in real-time from sensors and devices for IoT solutions, or
   from online shopping websites into the store without the restriction of fixed limits
   on account or file size unlike current offerings in the market.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/azure-data-lake-store-01-petabyte.png
+image: http://api.specificationtoolbox.com/images/service-providers/azure-data-lake-store.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "33"
@@ -90,4 +90,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

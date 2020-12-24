@@ -5,9 +5,9 @@ description: <p>Netty is an asynchronous event-driven network application framew
   Netty is a NIO client server framework which enables quick and easy development
   of network applications such as protocol servers and clients. It greatly simplifies
   and streamlines network programming such as TCP and UDP socket server.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/netty-project.png
+image: http://api.specificationtoolbox.com/images/service-providers/netty.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "373504"
@@ -34,4 +34,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

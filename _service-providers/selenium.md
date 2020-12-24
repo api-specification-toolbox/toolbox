@@ -4,9 +4,9 @@ description: Selenium automates browsers. That's it! What you do with that power
   entirely up to you. Primarily it is for automating web applications for testing
   purposes, but is certainly not limited to just that. Boring web-based administration
   tasks can (and should) also be automated as well.
-image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+image: http://api.specificationtoolbox.com/images/service-providers/selenium.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "105894"
@@ -31,4 +31,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -3,9 +3,9 @@ name: Seneca JS
 description: <p>A Micro-Services toolkit for Node.js. This toolkit lets you write
   clean code that you can scale without needing to refactor. Start with everything
   in one process, and split it all out onto multiple systems when you need to.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/seneca-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/seneca-js.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "2518256"
@@ -48,4 +48,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

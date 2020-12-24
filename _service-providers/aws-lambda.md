@@ -6,9 +6,9 @@ description: <p><span>AWS Lambda is a zero-administration compute platform for b
   code on its own AWS compute fleet of Amazon Elastic Compute Cloud (Amazon EC2) instances
   across multiple Availability Zones in a region, which provides the high availability,
   security, performance, and scalability of the AWS infrastructure.</span></p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSLambda.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-lambda.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -59,4 +59,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

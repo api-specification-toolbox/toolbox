@@ -3,9 +3,9 @@ name: Gremlin
 description: Downtime is expensive and can hurt your brand. Gremlin provides engineers
   with the framework to safely, securely, and easily simulate real outages with an
   ever-growing library of attacks. Turn failure into resilience with chaos engineering.
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28174-www-gremlin-com.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/gremlin.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "289164"
@@ -42,4 +42,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

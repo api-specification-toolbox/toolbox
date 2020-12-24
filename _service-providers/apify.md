@@ -2,9 +2,9 @@
 name: Apify
 description: Apify extracts data from websites, crawls lists of URLs and automates
   workflows on the web. Turn any website into an API in a few minutes!
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/serviceproviders/apify-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/apify.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "711"
 x-alexaRank: "86050"
@@ -91,4 +91,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...
