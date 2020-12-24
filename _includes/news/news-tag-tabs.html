@@ -55,7 +55,7 @@
                             <ul class="post-meta">
                                <li><span class="icon fa fa-clock-o"></span>{{ entry.date | date: "%b %d, %y" }}</li>
                             </ul>
-                            <div class="text">{{ entry.content | truncate: 395 | strip_html }}</div>
+                            <div class="text">{{ entry.details | truncate: 395 | strip_html }}</div>
                             <a href="{{ entry.source }}" class="read-more">Read More </a>
                          </div>
                       </div>
