@@ -6,9 +6,9 @@ description: <p>Azure Machine Learning lets you easily design, test, operational
   drag-and-drop interface&mdash;and go from idea to deployment in a matter of clicks.
   Try it free. If you're a developer who wants the data science built in, check out
   our APIs and Azure Marketplace.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/azure-simple-scalable-cutting-edge.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/azure-machine-learning.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "33"
@@ -86,4 +86,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

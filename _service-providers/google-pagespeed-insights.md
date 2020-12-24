@@ -6,9 +6,9 @@ description: <p>Page Speed Insights measures the performance of a page for mobil
   A higher score is better and a score of 85 or above indicates that the page is performing
   well. Please note that PageSpeed Insights is being continually improved and so the
   score will change as we add new rules or improve our analysis.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/54de5c09d56ec853cc9310e1.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-pagespeed-insights.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -44,4 +44,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

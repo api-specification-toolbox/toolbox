@@ -8,10 +8,9 @@ description: <p>AWS Shield is a managed Distributed Denial of Service protection
   the automatic protections of AWS Shield Standard, at no additional charge. AWS Shield
   Standard defends against most common, frequently occurring network and transport
   layer DDoS attacks that target your web site or applications.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
-  Shot 2016-12-30 at 10.35.48 PM.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-shield.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -59,4 +58,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

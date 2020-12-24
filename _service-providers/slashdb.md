@@ -4,9 +4,9 @@ description: SlashDB is an API service provider that focuses primarily on delive
   APIs (Application programming interface) from your database. Once it is installed
   on any web server, it will connect your internal databases and construct a REST/HTTP
   web service, ...
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/slashdb-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/slashdb.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "3622003"
@@ -52,4 +52,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

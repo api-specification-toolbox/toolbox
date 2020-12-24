@@ -3,9 +3,9 @@ name: AWS Code Pipeline
 description: |-
   <p>AWS Data Pipeline is a web service that helps you reliably process and move data between different AWS compute and storage services, as well as on-premise data sources, at specified intervals. With AWS Data Pipeline, you can regularly access your data where it&rsquo;s stored, transform and process it at scale, and efficiently transfer the results to AWS services such as Amazon S3, Amazon RDS, Amazon DynamoDB, and Amazon EMR.</p>
   <p>AWS Data Pipeline helps you easily create complex data processing workloads that are fault tolerant, repeatable, and highly available. You don&rsquo;t have to worry about ensuring resource availability, managing inter-task dependencies, retrying transient failures or timeouts in individual tasks, or creating a failure notification system. AWS Data Pipeline also allows you to move and process data that was previously locked up in on-premise data silos.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Developer-Tools_AWSCodePipeline.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-code-pipeline.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -73,4 +73,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

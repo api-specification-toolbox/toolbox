@@ -7,9 +7,9 @@ description: <p>Google Cloud DNS is a scalable, reliable and managed authoritati
   like www.google.com into IP addresses like 74.125.29.101. Cloud DNS is programmable.
   You can easily publish and manage millions of DNS zones and records using our simple
   user interface, command-line interface or API.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/global-dns-network.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-cloud-dns.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -150,4 +150,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

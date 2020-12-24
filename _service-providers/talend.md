@@ -2,9 +2,9 @@
 name: Talend
 description: Talend Data Fabric offers a single suite of cloud apps for data integration
   and data integrity to help enterprises collect, govern, transform, and share data.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/serviceproviders/talend-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/talend.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "32469"
@@ -83,4 +83,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

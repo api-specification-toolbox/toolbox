@@ -3,9 +3,9 @@ name: KintoHub
 description: "We build online tools to make developers\u2019 lives easier. You code
   microservices - we take care of hosting, infra, CI / CD, discovery, compatibility,
   documentation and dependencies."
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28745-www-kintohub-com.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/kintohub.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "1316331"
@@ -42,4 +42,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

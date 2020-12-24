@@ -2,9 +2,9 @@
 name: Appsee
 description: Appsee is a mobile app analytics platform that offers you powerful, qualitative
   analytics tools that enable you to track and optimize the UX in your app.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/2002_logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/appsee.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "276251"
@@ -45,4 +45,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

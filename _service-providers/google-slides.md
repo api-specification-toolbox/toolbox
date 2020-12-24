@@ -6,9 +6,9 @@ description: <p>The Google Slides API lets you create and modify Google Slides p
   from a database and combine them with predesigned templates and selected configuration
   options to create finished presentations in a fraction of the time it would take
   to create them manually.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/google-slides-icon.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-slides.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -64,4 +64,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

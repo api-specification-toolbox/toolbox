@@ -2,9 +2,9 @@
 name: APIEmbed
 description: Auto-generated code snippets in many programming languages for your website,
   blog or API documentation. Made with Love by Mashape.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/APIembed.png
+image: http://api.specificationtoolbox.com/images/service-providers/apiembed.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "7898899"
@@ -30,4 +30,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

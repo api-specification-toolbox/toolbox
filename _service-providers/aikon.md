@@ -7,9 +7,9 @@ description: AIKON (pronounced ???icon???) is transforming the $2.2 Trillion API
   equal opportunity for the people building the decentralized future -- regardless
   of location, background, or access to banks or credit cards. This is the promise
   of decentralization and it is our mission to make that dream a reality.
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28176-aikon-com.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/aikon.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "651900"
@@ -54,4 +54,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

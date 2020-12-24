@@ -2,9 +2,9 @@
 name: Apica
 description: "Apica\u2019s performance testing and monitoring solutions provide critical
   peak performance data and 24/7 monitoring of applications and sites around the world."
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/apica-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/apica.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "711"
 x-alexaRank: "3720976"
@@ -81,4 +81,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

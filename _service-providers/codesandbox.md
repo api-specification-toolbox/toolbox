@@ -2,9 +2,9 @@
 name: CodeSandbox
 description: CodeSandbox is an online code editor with a focus on creating and sharing
   web application projects
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28167-codesandbox-io.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/codesandbox.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "13815"
@@ -56,4 +56,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

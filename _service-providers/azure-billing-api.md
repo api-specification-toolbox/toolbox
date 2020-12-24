@@ -4,9 +4,9 @@ description: <p>Use Azure Billing APIs to pull usage and resource data into your
   data analysis tools. The Azure Resource Usage and RateCard APIs can help you accurately
   predict and manage your costs. The APIs are implemented as a Resource Provider and
   part of the family of APIs exposed by the Azure Resource Manager.<span class="lf-thread-btn">&nbsp;</span></p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/azure-billing-api.png
+image: http://api.specificationtoolbox.com/images/service-providers/azure-billing-api.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "33"
@@ -41,4 +41,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

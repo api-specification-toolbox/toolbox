@@ -4,9 +4,9 @@ description: <p>Azure Resource Manager enables you to deploy and manage the infr
   for your Azure solutions. You organize related resources in resource groups, and
   deploy your resources with JSON templates. For an introduction to deploying and
   managing resources with Resource Manager, see Azure Resource Manager overview.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/azure-resource-manager.png
+image: http://api.specificationtoolbox.com/images/service-providers/azure-resource-manager.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "33"
@@ -38,4 +38,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

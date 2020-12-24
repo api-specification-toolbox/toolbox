@@ -2,9 +2,9 @@
 name: hook.io
 description: Twitter account for hook.io open-source microservice hosting platform.    Tweet
   here for Questions or Support.    File support issues @ https://t.co/jHGKd4iuop
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/hook-io-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/hook-io.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "1419812"
@@ -41,4 +41,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

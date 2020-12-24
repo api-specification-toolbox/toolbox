@@ -2,9 +2,9 @@
 name: ArangoDB
 description: ArangoDB is an easy to use mostly memory, high performance, open source
   NoSQL database with a unique combination of features like graph & geo algorithms.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/arangodb_logo2.png
+image: http://api.specificationtoolbox.com/images/service-providers/arangodb.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "210563"
@@ -75,4 +75,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

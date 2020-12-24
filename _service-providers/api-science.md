@@ -3,9 +3,9 @@ name: API Science
 description: <p>Traditional monitoring services were designed long before APIs became
   core to modern applications. API Science is designed specifically for monitoring
   APIs. Sure, we understand REST, JSON, OAuth, XML. No problem.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/api-science-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/api-science.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "1232791"
@@ -49,4 +49,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...
