@@ -43,7 +43,9 @@
            <div class="content">
               <div class="row clearfix">
 
-                 {% for entry in site.news limit 4 %}
+                {% assign news = site.news %}
+                {% assign news = news | sort: 'date' | reverse %}
+                {% for entry in news limit: 20 %}
                    <div class="news-block-two col-lg-6 col-md-6 col-sm-12">
                       <div class="inner-box">
                          <div class="image">

@@ -4,43 +4,43 @@
   featured: true
 - name: Blockchain
   description: This is the description for Blockchain
-  featured: true
+  featured: false
 - name: Eclipse
   description: This is the description for Eclipse
-  featured: true
+  featured: false
 - name: History
   description: This is the description for History
-  featured: true
+  featured: false
 - name: IDE
   description: This is the description for IDE
-  featured: true
+  featured: false
 - name: IntelliJ
   description: This is the description for IntelliJ
-  featured: true
+  featured: false
 - name: Introduction
   description: This is the description for Introduction
   featured: true
 - name: Mocking
   description: This is the description for Mocking
-  featured: true
+  featured: false
 - name: OpenAPI
   description: This is the description for OpenAPI
   featured: true
 - name: Partnership
   description: This is the description for Partnership
-  featured: true
+  featured: false
 - name: Postman
   description: This is the description for Postman
-  featured: true
+  featured: false
 - name: PyCharm
   description: This is the description for PyCharm
-  featured: true
+  featured: false
 - name: Security
   description: This is the description for Security
   featured: true
 - name: Testing
   description: This is the description for Testing
-  featured: true
+  featured: false
 - name: Versions
   description: This is the description for Versions
-  featured: true
+  featured: false

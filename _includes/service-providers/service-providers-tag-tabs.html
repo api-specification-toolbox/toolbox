@@ -43,7 +43,9 @@
            <div class="content">
               <div class="row clearfix">
 
-                 {% for entry in site.service-providers limit:6 %}
+                {% assign service_providers = site.service-providers %}
+                {% assign service_providers = service_providers | sort: 'x-rank' | reverse %}
+                {% for entry in service_providers limit:6 %}
                    <div class="news-block-two col-lg-6 col-md-6 col-sm-12">
                       <div class="inner-box">
                          <div class="image">

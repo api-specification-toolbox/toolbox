@@ -4,7 +4,9 @@
      <h2>Categories</h2>
   </div>
   <ul class="cat-list">
-    {% for tag in site.data.news-tags %}
+    {% assign tags = site.data.news-tags  %}
+    {% assign tags = tags | sort: 'name' %}
+    {% for tag in tags limit: 25 %}
       <li class="clearfix"><a href="#">{{ tag.name }} <span>(30)</span></a></li>
     {% endfor %}
   </ul>
