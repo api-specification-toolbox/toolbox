@@ -3,9 +3,9 @@ name: Ardoq
 description: Ardoq provides SaaS alternatives to enterprise architecture and software
   documentation. Our model based system focuses on automation, visualisation and democratisation
   of documentation.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/ardoq-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/ardoq.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "332267"
@@ -100,4 +100,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

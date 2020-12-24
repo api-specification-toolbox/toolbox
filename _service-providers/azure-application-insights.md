@@ -4,9 +4,9 @@ description: <p>Get rich performance monitoring, powerful alerting, and easy-to-
   dashboards to help ensure your applications are available and performing as you
   expect. Quickly see if you have a problem, how many customers are affected, and
   perform a root cause analysis to find and fix the issue.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/performance-management.png
+image: http://api.specificationtoolbox.com/images/service-providers/azure-application-insights.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "33"
@@ -84,4 +84,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

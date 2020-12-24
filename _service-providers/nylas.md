@@ -2,10 +2,9 @@
 name: Nylas
 description: <p>Nylas makes it incredibly easy to interface with email, scheduling,
   and contacts. It&rsquo;s the modern email messaging platform for enterprise apps.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
-  Shot 2017-05-08 at 1.45.11 PM.png
+image: http://api.specificationtoolbox.com/images/service-providers/nylas.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "89360"
@@ -84,4 +83,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

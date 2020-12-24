@@ -2,9 +2,9 @@
 name: Iframely
 description: Iframely gives you simple APIs to have all the Web's best media on your
   site and on all your users' devices.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/iframely.png
+image: http://api.specificationtoolbox.com/images/service-providers/iframely.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "58500"
@@ -34,4 +34,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

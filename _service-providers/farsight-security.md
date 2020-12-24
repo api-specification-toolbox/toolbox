@@ -2,9 +2,9 @@
 name: Farsight Security
 description: Farsight Security provides real-time actionable cyber security data solutions
   for Threat Intelligence, SOC and Incident Response teams
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/farsight-logo.svg
+image: http://api.specificationtoolbox.com/images/service-providers/farsight-security.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "1272100"
@@ -54,4 +54,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

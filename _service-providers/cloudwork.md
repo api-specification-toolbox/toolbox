@@ -2,9 +2,9 @@
 name: CloudWork
 description: Review, Compare and Evaluate small business software. GetApp has software
   offers, SaaS and Cloud Apps, independent evaluations and reviews
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/serviceproviders/cloudwork-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/cloudwork.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "1000000"
@@ -50,4 +50,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

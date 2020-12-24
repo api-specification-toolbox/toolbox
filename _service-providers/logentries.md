@@ -2,9 +2,9 @@
 name: Logentries
 description: Log management and analytics by Logentries for development, IT operations
   and Security teams. 100% free service trusted by thousands of customers worldwide.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/logentries-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/logentries.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "91329"
@@ -84,4 +84,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

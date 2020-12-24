@@ -5,7 +5,7 @@ description: API Integration and API Management software to create APIs to lever
   using a microservices approach.
 image: http://api.specificationtoolbox.com/images/service-providers/openlegacy.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "621393"

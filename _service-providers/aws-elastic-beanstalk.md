@@ -6,7 +6,7 @@ description: |-
   <p>There is no additional charge for Elastic Beanstalk - you pay only for the AWS resources needed to store and run your applications.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/aws-elastic-beanstalk.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"

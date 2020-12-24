@@ -2,9 +2,9 @@
 name: Atooma - Resonance AI
 description: Resonance AI makes devices use IoE and big data in order to forecast
   user problems, and solve them with personalized automation and suggestions.
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28415-www-resonance-ai-com.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/atooma--resonance-ai.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "8832937"
@@ -28,4 +28,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

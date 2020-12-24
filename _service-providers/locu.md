@@ -3,9 +3,9 @@ name: Locu
 description: Locu was acquired by GoDaddy in August of 2013 and re-branded as Get
   Found business listings. For support for the Locu API or Locu please contact GoDaddy
   at (480) 505-8877 or via the GoDaddy Facebook account at www.facebook.com/GoDaddy
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1339_logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/locu.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "366290"
@@ -54,4 +54,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

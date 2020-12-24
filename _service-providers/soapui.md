@@ -7,9 +7,9 @@ description: <p><span>SoapUI is the world's leading Functional Testing tool for 
   test coverage - from SOAP and REST-based Web services, to JMS enterprise messaging
   layers, databases, Rich Internet Applications, and much more. And that's just the
   beginning.</span></p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/soapui-logo.svg
+image: http://api.specificationtoolbox.com/images/service-providers/soapui.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "1000000"
@@ -29,4 +29,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

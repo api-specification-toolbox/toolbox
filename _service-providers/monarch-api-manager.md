@@ -2,9 +2,9 @@
 name: Monarch API Manager
 description: 100% open source API Management solution for quickly deploying, managing,
   and analyzing your APIs.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/monarch-api-manager.png
+image: http://api.specificationtoolbox.com/images/service-providers/monarch-api-manager.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "1000000"
@@ -43,4 +43,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

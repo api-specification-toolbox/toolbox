@@ -5,7 +5,7 @@ description: <p>Azure DocumentDB is a fully-managed NoSQL document database serv
   and reliable performance, and rapid development.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/azure-documentdb.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "33"

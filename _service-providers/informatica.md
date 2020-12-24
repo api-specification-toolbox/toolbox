@@ -2,9 +2,9 @@
 name: Informatica
 description: "As the world\u2019s leader in enterprise cloud data management, we\u2019re
   prepared to help you intelligently lead\u2014in any sector, category or niche."
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/372_logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/informatica.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "35409"
@@ -208,4 +208,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

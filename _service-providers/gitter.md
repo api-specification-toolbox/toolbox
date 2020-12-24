@@ -2,9 +2,9 @@
 name: Gitter
 description: <p>Gitter is a chat and networking platform that helps to manage, grow
   and connect communities through messaging, content and discovery.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/22248-gitter-im.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/gitter.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "23643"
@@ -54,4 +54,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

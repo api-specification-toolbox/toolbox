@@ -4,7 +4,7 @@ description: Centrify delivers Zero Trust Security through the power of Next-Gen
   Secure access to apps, endpoints & infrastructure. Click for a FREE Trial!
 image: http://api.specificationtoolbox.com/images/service-providers/centrify.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "18361"

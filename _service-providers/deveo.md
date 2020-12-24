@@ -2,9 +2,9 @@
 name: Deveo
 description: Discover why enterprise teams powered by Perforce have freedom to innovate
   at unrivaled scale.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1833_logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/deveo.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "9635908"
@@ -46,4 +46,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

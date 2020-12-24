@@ -2,9 +2,9 @@
 name: Dropbox
 description: Dropbox is a modern workspace designed to reduce busywork-so you can
   focus on the things that matter. Sign in and put your creative energy to work.
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/184-dropbox.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/dropbox.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "61"
@@ -113,4 +113,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

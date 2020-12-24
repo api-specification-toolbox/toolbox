@@ -4,9 +4,9 @@ description: Cycle is multi-cloud container orchestration, abstracting away all 
   distractions of infrastructure, networking, OS patching, and server maintenance
   and filtering it under a beautiful user centric interface. Cycle helps with managing
   private, public, hybrid, or a combination (multi) cloud environments as hubs.
-image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+image: http://api.specificationtoolbox.com/images/service-providers/cycle.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "2649606"
@@ -62,4 +62,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

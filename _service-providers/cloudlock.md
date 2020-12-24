@@ -4,7 +4,7 @@ description: The leading CASB and Cybersecurity-as-a-Service provider, protectin
   enterprises from compromised accounts, cloud malware, and data breaches in the cloud.
 image: http://api.specificationtoolbox.com/images/service-providers/cloudlock.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "2094179"

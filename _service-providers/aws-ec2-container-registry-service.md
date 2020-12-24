@@ -12,9 +12,9 @@ description: <p><span>Amazon EC2 Container Registry (ECR) is a fully-managed&nbs
   (IAM) provides resource-level control of each repository. With Amazon ECR, there
   are no upfront fees or commitments. You pay only for the amount of data you store
   in your repositories and data transferred to the Internet.</span></p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Amazon_ECR_icon.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-ec2-container-registry-service.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -62,4 +62,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

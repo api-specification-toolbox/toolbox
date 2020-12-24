@@ -5,9 +5,9 @@ description: <p>FaunaDB is a global <strong>serverless</strong> database that gi
   and scale. It eliminates layers of app code for manually  handling data anomalies,
   security, and scale, creating a friendlier dev  experience for you and better app
   experience for your&nbsp;users.</p>
-image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+image: http://api.specificationtoolbox.com/images/service-providers/fauna.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "20000000"
@@ -33,4 +33,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

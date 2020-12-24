@@ -5,9 +5,9 @@ description: <p>Google Drive is a file storage and synchronization service opera
   devices, and share files. Google Drive encompasses Google Docs, Sheets and Slides,
   an office suite that permits collaborative editing of documents, spreadsheets, presentations,
   drawings, forms, and more.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/google-drive-icon.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-drive.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -66,4 +66,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

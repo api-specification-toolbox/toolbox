@@ -4,7 +4,7 @@ description: Speca - simple and powerful web API design and documentation platfo
   Create, edit, test and share rich and beautiful API documentation.
 image: http://api.specificationtoolbox.com/images/service-providers/speca-io.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "0"
 x-alexaRank: "8611463"

@@ -4,7 +4,7 @@ description: Bintray gives developers a CDN-based, reliable, download center wit
   REST automation & support for RPM & Debian packages, and generic software distribution
 image: http://api.specificationtoolbox.com/images/service-providers/bintray.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "50868"

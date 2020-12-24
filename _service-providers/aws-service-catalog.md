@@ -7,9 +7,9 @@ description: <p><span>AWS Service Catalog allows organizations to create and man
   to centrally manage commonly deployed IT services, and helps you achieve consistent
   governance and meet your compliance requirements, while enabling users to quickly
   deploy only the approved IT services they need.</span></p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSServiceCatalog.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-service-catalog.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -56,4 +56,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

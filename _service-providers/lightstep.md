@@ -4,9 +4,9 @@ description: '<p>Reliability Management for Modern Systems. Unprecedented visibi
   from mobile clients to microservices, all using end-to-end distributed tracing.
   We learned from our experience building Google&rsquo;s tracing and monitoring systems.
   LightStep is a leap forward: open source integration and built for 1,000x the throughput.</p>'
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/pull_image_09-13-2020-04-20-pm.svg
+image: http://api.specificationtoolbox.com/images/service-providers/lightstep.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "1000000"
@@ -34,4 +34,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

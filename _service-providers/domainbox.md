@@ -3,9 +3,9 @@ name: Domainbox
 description: Founded in 2011, Domainbox is the complete domain reseller package. Want
   to become a domain registrar and resell domain names, or take control and consolidate
   all your domains to one central location? Start today with Domainbox!
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/domainbox-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/domainbox.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "995304"
@@ -30,4 +30,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

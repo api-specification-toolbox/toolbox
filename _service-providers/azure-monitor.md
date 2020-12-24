@@ -6,9 +6,9 @@ description: <p><span>Autoscale is a built-in feature of Cloud Services, Mobile 
   Some apps are CPU-bound, others memory-bound. For example, you could have a web
   app that handles millions of requests during the day and none at night. Autoscale
   can scale your service by any of these&mdash;or by a custom metric you define.</span></p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/manage-monitoring-data.png
+image: http://api.specificationtoolbox.com/images/service-providers/azure-monitor.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "33"
@@ -87,4 +87,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -3,9 +3,9 @@ name: Lateral
 description: Lateral's mission is to help people discover the information they need
   when they need it. In doing so we hope to accelerate discovery, understanding and
   collaboration in a wide range of disciplines.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/lateral-io-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/lateral.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "498721"
@@ -53,4 +53,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -7,9 +7,9 @@ description: <p>AWS CodeDeploy is a service that automates code deployments to a
   applications. You can use AWS CodeDeploy to automate software deployments, eliminating
   the need for error-prone manual operations, and the service scales with your infrastructure
   so you can easily deploy to one instance or thousands.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/aws-codedeploy.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-codedeploy.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -68,4 +68,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

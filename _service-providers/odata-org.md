@@ -5,9 +5,9 @@ description: <p>OData (Open Data Protocol) is an OASIS standard that defines the
   business logic while building RESTful APIs without having to worry about the approaches
   to define request and response headers, status codes, HTTP methods, URL conventions,
   media types, payload formats and query options etc.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/odata-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/odata-org.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "197733"
@@ -34,4 +34,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

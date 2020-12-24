@@ -4,7 +4,7 @@ description: Build or record automated website tests in your browser with Ghost 
   We run them continuously from the cloud, monitoring your website for issues.
 image: http://api.specificationtoolbox.com/images/service-providers/ghost-inspector.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "365876"
