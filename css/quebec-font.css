@@ -1,0 +1,239 @@
+@font-face {
+  font-family: 'quebec';
+  src:  url('../fonts/quebec.eot?4ujjnm');
+  src:  url('../fonts/quebec.eot?4ujjnm#iefix') format('embedded-opentype'),
+    url('../fonts/quebec.ttf?4ujjnm') format('truetype'),
+    url('../fonts/quebec.woff?4ujjnm') format('woff'),
+    url('../fonts/quebec.svg?4ujjnm#quebec') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="qb-"], [class*=" qb-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'quebec' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.qb-home:before {
+  content: "\e900";
+}
+.qb-menu1:before {
+  content: "\e901";
+}
+.qb-menu2:before {
+  content: "\e902";
+}
+.qb-menu3:before {
+  content: "\e903";
+}
+.qb-black-star:before {
+  content: "\e904";
+}
+.qb-empty-star:before {
+  content: "\e905";
+}
+.qb-pencil:before {
+  content: "\e906";
+}
+.qb-quote-symbol:before {
+  content: "\e907";
+}
+.qb-push-pin:before {
+  content: "\e908";
+}
+.qb-paper-push-pin:before {
+  content: "\e909";
+}
+.qb-portfolio-menu:before {
+  content: "\e90a";
+}
+.qb-heart-outline:before {
+  content: "\e942";
+}
+.qb-heart:before {
+  content: "\e90b";
+}
+.qb-expand:before {
+  content: "\e90c";
+}
+.qb-arrow-bottom:before {
+  content: "\e90f";
+}
+.qb-arrow-top:before {
+  content: "\e910";
+}
+.qb-arrow-left:before {
+  content: "\e911";
+}
+.qb-arrow-right:before {
+  content: "\e912";
+}
+.qb-arrow-top-double:before {
+  content: "\e92a";
+}
+.qb-pause-button:before {
+  content: "\e93d";
+}
+.qb-calendar:before {
+  content: "\e941";
+}
+.qb-clock:before {
+  content: "\e943";
+}
+.qb-asside:before {
+  content: "\e944";
+}
+.qb-image-gallery:before {
+  content: "\e945";
+}
+.qb-photo:before {
+  content: "\e946";
+}
+.qb-link2:before {
+  content: "\e947";
+}
+.qb-audio:before {
+  content: "\e948";
+}
+.qb-info:before {
+  content: "\e949";
+}
+.qb-status:before {
+  content: "\e94a";
+}
+.qb-play-arrow:before {
+  content: "\e94e";
+}
+.qb-play-button2:before {
+  content: "\e94b";
+}
+.qb-play-button1:before {
+  content: "\e90d";
+}
+.qb-user1:before {
+  content: "\e94d";
+}
+.qb-user2:before {
+  content: "\e956";
+}
+.qb-user3:before {
+  content: "\e90e";
+}
+.qb-chat:before {
+  content: "\e94f";
+}
+.qb-speech1:before {
+  content: "\e913";
+}
+.qb-speech2:before {
+  content: "\e914";
+}
+.qb-eye:before {
+  content: "\e94c";
+}
+.qb-magnifier1:before {
+  content: "\e950";
+}
+.qb-magnifier2:before {
+  content: "\e954";
+}
+.qb-magnifier3:before {
+  content: "\e955";
+}
+.qb-shop1:before {
+  content: "\e958";
+}
+.qb-shop2:before {
+  content: "\e915";
+}
+.qb-shop3:before {
+  content: "\e959";
+}
+.qb-shop4:before {
+  content: "\e962";
+}
+.qb-shop5:before {
+  content: "\e967";
+}
+.qb-check-mark:before {
+  content: "\e916";
+}
+.qb-close-button:before {
+  content: "\e917";
+}
+.qb-forbidden-mark:before {
+  content: "\e918";
+}
+.qb-plus1:before {
+  content: "\e96a";
+}
+.qb-plus2:before {
+  content: "\e919";
+}
+.qb-plus3:before {
+  content: "\e971";
+}
+.qb-facebook:before {
+  content: "\e923";
+}
+.qb-twitter:before {
+  content: "\e922";
+}
+.qb-google-plus:before {
+  content: "\e921";
+}
+.qb-vimeo:before {
+  content: "\e91f";
+}
+.qb-youtube:before {
+  content: "\e920";
+}
+.qb-linkedin:before {
+  content: "\e91e";
+}
+.qb-pinterest:before {
+  content: "\e91d";
+}
+.qb-instagram:before {
+  content: "\e91c";
+}
+.qb-skype:before {
+  content: "\e91b";
+}
+.qb-apple:before {
+  content: "\e91a";
+}
+.qb-android:before {
+  content: "\e924";
+}
+.qb-behance:before {
+  content: "\e925";
+}
+.qb-dribbble:before {
+  content: "\e926";
+}
+.qb-flickr:before {
+  content: "\e927";
+}
+.qb-envelope1:before {
+  content: "\e928";
+}
+.qb-envelope2:before {
+  content: "\e929";
+}
+.qb-phone1:before {
+  content: "\e92b";
+}
+.qb-phone2:before {
+  content: "\e92c";
+}

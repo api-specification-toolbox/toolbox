@@ -1,0 +1,34 @@
+---
+name: Lightning
+description: Lightning data visualization server. By @mathisonian and @thefreemanlab
+image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Lightning___Data_Visualization_Server.png
+created: "2020-12-23"
+modified: "2020-12-23"
+specificationVersion: "0.14"
+x-rank: "7"
+x-alexaRank: "4561823"
+url: http://api.specificationtoolbox.com/resources/service-providers/lightning/
+tags:
+- Visualizations
+- Visualizations
+- Have API
+- API Service Provider
+- API Provider
+apis: []
+x-common:
+- type: x-website
+  url: http://lightning-viz.org
+- type: x-developers
+  url: http://lightning-viz.org/documentation/
+- type: x-github
+  url: https://github.com/lightning-viz
+- type: x-github
+  url: https://github.com/lightning-viz/lightning
+- type: x-website
+  url: http://lightning-viz.org/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---

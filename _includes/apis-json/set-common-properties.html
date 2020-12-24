@@ -1,0 +1,14 @@
+{% assign twitter_url = '' %}
+{% assign website_url = '' %}
+{% assign github_url = '' %}
+{% for common in page.x-common %}
+  {% if common.type == 'x-twitter' %}
+    {% assign twitter_url = common.url %}
+  {% endif %}
+  {% if common.type == 'x-website' %}
+    {% assign website_url = common.url %}
+  {% endif %}
+  {% if common.type == 'x-github' %}
+    {% assign github_url = common.url %}
+  {% endif %}
+{% endfor %}

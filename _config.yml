@@ -1,0 +1,77 @@
+title: API Specification Toolbox
+description: An API-driven toolbox for building and managing APIs using common API specifications, providing a variety of resources about API specifications and how they are being put to use across the API lifecycle.
+tagline: All Your Information About API Specifications
+image: images/network-logo.png
+url: https://postman-toolboxes2.github.io/service-providers
+twitter: APISpecToolbox
+
+email: info@apievangelist.com
+
+github_user: api-network
+github_repo: template
+github_branch: master
+
+version:      1.1.1
+author:
+  name:       'Kin Lane'
+  email:      'info@apievangelist.com'
+markdown:     kramdown
+
+permalink: /:categories/:year/:month/:day/:title/
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
+
+paginate: 25
+paginate_path: "/blog/page:num"
+
+collections:
+  news:
+    output: true
+    permalink: /news/:path/
+  service-providers:
+    output: true
+    permalink: /service-providers/:path/
+  tools:
+    output: true
+    permalink: /tools/:path/
+  people:
+    output: true
+    permalink: /people/:path/
+  extensions:
+    output: true
+    permalink: /extensions/:path/
+  taxonomy:
+    output: true
+    permalink: /taxonomy/:path/
+  videos:
+    output: true
+    permalink: /videos/:path/
+
+defaults:
+  - scope:
+      type: news
+    values:
+      layout: news
+  - scope:
+      type: service-providers
+    values:
+      layout: service-providers
+  - scope:
+      type: tools
+    values:
+      layout: tools
+  - scope:
+      type: people
+    values:
+      layout: people
+  - scope:
+      type: extensions
+    values:
+      layout: extensions
+  - scope:
+      type: taxonomy
+    values:
+      layout: taxonomy
+  - scope:
+      type: videos
+    values:
+      layout: videos
