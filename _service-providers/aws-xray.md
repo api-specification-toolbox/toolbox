@@ -8,7 +8,7 @@ description: AWS X-Ray helps developers analyze and debug production, distribute
   and shows a map of your applications underlying components. You can use X-Ray to
   analyze both applications in development and in production, from simple three-tier
   applications to complex microservices applications consisting of thousands of services.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/aws-xray.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-xray.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -61,4 +61,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

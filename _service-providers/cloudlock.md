@@ -2,7 +2,7 @@
 name: CloudLock
 description: The leading CASB and Cybersecurity-as-a-Service provider, protecting
   enterprises from compromised accounts, cloud malware, and data breaches in the cloud.
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28321-cloudlock.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/cloudlock.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -50,4 +50,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

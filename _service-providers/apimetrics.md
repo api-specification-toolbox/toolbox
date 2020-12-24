@@ -2,9 +2,9 @@
 name: APIMetrics
 description: API performance monitoring, Cloud Service, SLA monitoring and analysis
   that gives you answers, not excuses. Find out how today.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/api-metrics-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/apimetrics.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1077691"
@@ -55,4 +55,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

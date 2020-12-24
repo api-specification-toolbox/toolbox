@@ -3,7 +3,7 @@ name: Azure DocumentDB
 description: <p>Azure DocumentDB is a fully-managed NoSQL document database service
   that offers querying and transaction-processing over schema-free data, predictable
   and reliable performance, and rapid development.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/azure-document-db-03-replicate.png
+image: http://api.specificationtoolbox.com/images/service-providers/azure-documentdb.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -86,4 +86,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

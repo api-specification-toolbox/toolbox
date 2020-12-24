@@ -4,8 +4,7 @@ description: <p>Strapi is an open-source Node.js framework built on top of Koa f
   building applications. We give you some built-in but not mandatory features aiming
   to not repeat yourself. The Studio is dedicated to build applications without writing
   any single line of code.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
-  Shot 2017-03-19 at 11.02.40 PM.png
+image: http://api.specificationtoolbox.com/images/service-providers/strapi.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -35,4 +34,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

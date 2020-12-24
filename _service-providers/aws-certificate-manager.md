@@ -10,9 +10,9 @@ description: <p><span>AWS Certificate Manager is a service that lets you easily 
   and let AWS Certificate Manager handle certificate renewals. SSL/TLS certificates
   provisioned through AWS Certificate Manager are free. You pay only for the AWS resources
   you create to run your application.</span></p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_ACM_certificate-manager.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-certificate-manager.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -65,4 +65,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

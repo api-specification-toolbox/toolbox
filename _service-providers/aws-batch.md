@@ -9,7 +9,7 @@ description: <p>AWS Batch enables developers, scientists, and engineers to easil
   you to focus on analyzing results and solving problems. AWS Batch plans, schedules,
   and executes your batch computing workloads across the full range of AWS compute
   services and features, such as Amazon EC2 and Spot Instances.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/aws-batch.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/aws-batch.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -59,4 +59,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

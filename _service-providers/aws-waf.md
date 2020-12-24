@@ -4,9 +4,9 @@ description: |-
   <p>AWS WAF is a web application firewall that helps protect your web&nbsp;applications from common web exploits that could affect application&nbsp;availability, compromise security, or consume excessive resources. AWS&nbsp;WAF gives you control over which traffic to allow or block to your web&nbsp;applications by defining customizable web security rules. You can use AWS&nbsp;WAF to create custom rules that block common attack patterns, such as SQL&nbsp;injection or cross-site scripting, and rules that are designed for your specific application. New rules can be deployed within minutes, letting you respond&nbsp;quickly to changing traffic patterns. Also, AWS WAF includes a full-featured&nbsp;API that you can use to automate the creation, deployment, and maintenance&nbsp;of web security rules.</p>
   <p>With AWS WAF you pay only for what you use. AWS WAF pricing is based on how many rules you deploy and how many web requests your web application receives. There are no upfront commitments.</p>
   <p>You can deploy AWS WAF on either Amazon CloudFront as part of your CDN solution or the Application Load Balancer (ALB) that fronts your web servers or origin servers running on EC2.&nbsp;</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSWAF.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-waf.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -61,4 +61,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

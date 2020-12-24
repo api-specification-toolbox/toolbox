@@ -2,7 +2,7 @@
 name: Ghost Inspector
 description: Build or record automated website tests in your browser with Ghost Inspector.
   We run them continuously from the cloud, monitoring your website for issues.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/GhostInspectorSlackbotGhostInspectorSlackbot.png
+image: http://api.specificationtoolbox.com/images/service-providers/ghost-inspector.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -63,4 +63,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

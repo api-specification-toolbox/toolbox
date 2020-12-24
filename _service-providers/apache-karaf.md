@@ -3,7 +3,7 @@ name: Apache Karaf
 description: <p>Karaf provides dual polymorphic container and application bootstrapping
   paradigms to the Enterprise. Focus on your business code and application, Karaf
   deals with the rest.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/apache-karaf-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/apache-karaf.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -27,4 +27,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

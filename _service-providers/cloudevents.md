@@ -6,9 +6,9 @@ description: <p>Enter CloudEvents, a specification for describing event data in 
   development. However, its working group has received a surprising amount of industry
   interest, ranging from major cloud providers to popular SaaS companies. Our end
   goal is to offer this specification to the Cloud Native Computing Foundation.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/cloudevents.png
+image: http://api.specificationtoolbox.com/images/service-providers/cloudevents.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "0"
 x-alexaRank: "1000000"
@@ -32,4 +32,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

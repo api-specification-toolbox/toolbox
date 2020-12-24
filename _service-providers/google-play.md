@@ -4,9 +4,9 @@ description: '<p>The Google Play Developer API allows you to perform a number of
   and app-management tasks. It includes two components: The Subscriptions and In-App
   Purchases API lets you manage in-app purchases and subscriptions. The Publishing
   API lets you upload and publish apps, and perform other publishing-related tasks.</p>'
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/google-play.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-play.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -75,4 +75,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -8,7 +8,7 @@ description: "SAP is the market leader in enterprise application software, helpi
   enables our customers to operate profitably, adapt continuously, and make a difference.
   With a global network of customers, partners, employees, and thought leaders, SAP
   helps the world run better and improves people\u2019s lives."
-image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+image: http://api.specificationtoolbox.com/images/service-providers/sap-com.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -148,4 +148,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

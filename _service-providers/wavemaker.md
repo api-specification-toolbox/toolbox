@@ -4,7 +4,7 @@ description: Enterprise applications can't change overnight and modernization is
   things done right. The WaveMaker platform helps you to wrap around existing data
   and business logic, to develop and deliver modern applications that are future-proof,
   web-scale ...
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/wavemaker-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/wavemaker.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -33,4 +33,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

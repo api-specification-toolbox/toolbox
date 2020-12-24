@@ -2,7 +2,7 @@
 name: DigiCert
 description: SSL certificates by DigiCert secure unlimited servers with the strongest
   encryption and highest authentication available.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/digicert-logo.jpeg
+image: http://api.specificationtoolbox.com/images/service-providers/digicert.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -166,4 +166,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

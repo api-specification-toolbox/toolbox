@@ -2,7 +2,7 @@
 name: CloudPassage
 description: Automated Security & Compliance for Containers, DevOps, DevSecOps, &
   Workload Visibility
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1040-cloudpassage.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/cloudpassage.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -74,4 +74,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

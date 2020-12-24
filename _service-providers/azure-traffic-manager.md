@@ -3,7 +3,7 @@ name: Azure Traffic Manager
 description: '<p>Azure Traffic Manager gives you three methods for traffic routing:
   failover, performance, or weighted round-robin. Choose the one that&rsquo;s right
   for your application or scenario.</p>'
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/azure-traffic-improved-application-performance.png
+image: http://api.specificationtoolbox.com/images/service-providers/azure-traffic-manager.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -82,4 +82,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

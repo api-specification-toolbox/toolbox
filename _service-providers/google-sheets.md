@@ -5,9 +5,9 @@ description: '<p><span>Google Sheets is an online spreadsheet app that lets user
   Sheets isn&rsquo;t only for consumers: it''s used every day by businesses and schools
   to manage spreadsheet data. With the new Sheets API v4 and Sheets add-ons, that
   data can be accessed by code as well as users.</span></p>'
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/google-sheets-icon.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-sheets.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -51,4 +51,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

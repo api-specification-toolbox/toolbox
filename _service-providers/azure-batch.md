@@ -8,7 +8,7 @@ description: <p>Batch processing began with mainframe computers and punch cards.
   disease. Previously, few people had access to the computing power for these scenarios.
   With Azure Batch, that power is available to you when you need it, without any capital
   investment.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/azure-batch-100x-scale.png
+image: http://api.specificationtoolbox.com/images/service-providers/azure-batch.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -90,4 +90,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

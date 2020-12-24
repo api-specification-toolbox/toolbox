@@ -3,9 +3,9 @@ name: DNS Made Easy
 description: DNS Made Easy offers affordable DNS management services that are easy
   to manage and blazingly fast. Get set up in minutes and enjoy the fastest and most
   reliable managed DNS in the industry.
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/763-dns-made-easy.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/dns-made-easy.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "40691"
@@ -69,4 +69,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

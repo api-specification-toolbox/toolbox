@@ -4,9 +4,9 @@ description: <p>APIMINT is an API lifecycle management tool. With our design fir
   approach, all stake holders get a platform to collaborate and give feedback on API
   design and structure. We make sure your all your teams can easily agree and understand
   your APIs.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Apimint_-_Rapidly_Prototype_APIs.png
+image: http://api.specificationtoolbox.com/images/service-providers/apimint.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "2"
 x-alexaRank: "1000000"
@@ -31,4 +31,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

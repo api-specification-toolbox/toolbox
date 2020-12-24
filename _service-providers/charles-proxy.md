@@ -4,7 +4,7 @@ description: <p>Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that ena
   a developer to view all of the HTTP and SSL / HTTPS traffic between their machine
   and the Internet. This includes requests, responses and the HTTP headers (which
   contain the cookies and caching information).</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/charles-proxy-banner.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/charles-proxy.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -32,4 +32,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

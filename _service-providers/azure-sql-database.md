@@ -3,7 +3,7 @@ name: Azure SQL Database
 description: <p>Make building and maintaining applications easier and more productive.
   With built-in intelligence that learns app patterns and adapts to maximize performance,
   reliability, and data protection, SQL Database is a cloud database built for developers.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/azure-sql-01-stop-worrying.png
+image: http://api.specificationtoolbox.com/images/service-providers/azure-sql-database.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -81,4 +81,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

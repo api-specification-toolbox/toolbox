@@ -3,7 +3,7 @@ name: Google Service Management
 description: <p>Google Service Management is an infrastructure service of Google Cloud
   Platform that manages other APIs and services, including Google's own Cloud Platform
   services and their APIs, and services created using Google Cloud Endpoints.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-icon.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-service-management.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -111,4 +111,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

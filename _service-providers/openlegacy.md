@@ -3,7 +3,7 @@ name: OpenLegacy
 description: API Integration and API Management software to create APIs to leverage
   core (legacy) systems & quickly deliver innovative digital transformation projects
   using a microservices approach.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/openlegacy-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/openlegacy.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -122,4 +122,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

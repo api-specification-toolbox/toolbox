@@ -1,3 +1,3 @@
 ---
-
----
+image: http://api.specificationtoolbox.com/images/service-providers/.jpg
+...

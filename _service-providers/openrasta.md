@@ -5,9 +5,9 @@ description: <p>OpenRasta is an open-source .NET framework for building everythi
   mind, OpenRasta removes the faff from your code and lets you concentrate on writing
   clean, beautiful code. Proven in the real world, OpenRasta is the perfect choice
   for building scalable, high-performance, reliable web services.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/OpenRasta-Logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/openrasta.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "1000000"
@@ -46,4 +46,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

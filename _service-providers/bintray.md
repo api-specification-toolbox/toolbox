@@ -2,7 +2,7 @@
 name: bintray
 description: Bintray gives developers a CDN-based, reliable, download center with
   REST automation & support for RPM & Debian packages, and generic software distribution
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1603_logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/bintray.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -46,4 +46,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -4,9 +4,9 @@ description: CloverDX is a data integration platform for designing, automating a
   operating data jobs at scale. We've engineered CloverDX to solve complex data scenarios
   with a combination of visual IDE for data jobs, flexibility of coding and extensible
   automation and orchestration features.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/serviceproviders/cloveretl-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/cloverdx.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "1000000"
@@ -80,4 +80,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -5,7 +5,7 @@ description: <p>Google Container Engine is a powerful cluster manager and orches
   into the cluster and manages them automatically based on requirements you define
   (such as CPU and memory). It's built on the open source Kubernetes system, giving
   you the flexibility to take advantage of on-premises, hybrid, or public cloud infrastructure.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/docker-container.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-container-engine.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -157,4 +157,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -6,7 +6,7 @@ description: <p>Google Cloud Identity &amp; Access Management (IAM) lets adminis
   complex organizational structures, hundreds of workgroups and potentially many more
   projects, Cloud IAM provides a unified view into security policy across your entire
   organization, with built-in auditing to ease compliance processes.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/right-roles.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-cloud-identity-access-management.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -151,4 +151,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

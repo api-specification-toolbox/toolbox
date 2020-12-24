@@ -3,7 +3,7 @@ name: API Umbrella
 description: GitHub brings together the world???s largest community of developers
   to discover, share, and build better software. From open source projects to private
   team repositories, we???re your all-in-one platform for collaborative development.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/api-umbrella-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/api-umbrella.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -35,4 +35,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -4,7 +4,7 @@ description: |-
   <p>AWS Elastic Beanstalk is an easy-to-use service for deploying and scaling web applications and services developed with Java,&nbsp;<a href="https://aws.amazon.com/net/">.NET</a>, PHP, Node.js, Python, Ruby, Go, and&nbsp;<a href="https://aws.amazon.com/docker/" target="_blank">Docker</a>&nbsp;on familiar servers such as Apache, Nginx, Passenger, and&nbsp;<a href="https://aws.amazon.com/windows/">IIS</a>.</p>
   <p>You can simply upload your code and Elastic Beanstalk automatically handles the deployment, from capacity provisioning, load balancing, auto-scaling to application health monitoring. At the same time, you retain full control over the AWS resources powering your application and can access the underlying resources at any time.</p>
   <p>There is no additional charge for Elastic Beanstalk - you pay only for the AWS resources needed to store and run your applications.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSElasticBeanstalk.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-elastic-beanstalk.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -78,4 +78,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -5,7 +5,7 @@ description: <p>The Apache Knox Gateway is a REST API Gateway for interacting wi
   with Hadoop clusters. In this capacity, the Knox Gateway is able to provide valuable
   functionality to aid in the control, integration, monitoring and automation of critical
   administrative and analytical needs of the enterprise.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/apache-knox-logo.gif
+image: http://api.specificationtoolbox.com/images/service-providers/apache-knox.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -28,4 +28,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

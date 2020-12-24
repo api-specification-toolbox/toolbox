@@ -10,7 +10,7 @@ description: <p><span>Amazon Relational Database Service (Amazon RDS) makes it e
   href="https://aws.amazon.com/rds/mysql/">MySQL</a><span>,&nbsp;</span><a href="https://aws.amazon.com/rds/mariadb/">MariaDB</a><span>,&nbsp;</span><a
   href="https://aws.amazon.com/rds/oracle/">Oracle</a><span>, and&nbsp;</span><a href="https://aws.amazon.com/rds/sqlserver/">Microsoft
   SQL Server</a><span>.</span></p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonRDS.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-rds.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -81,4 +81,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

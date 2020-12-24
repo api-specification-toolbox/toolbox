@@ -11,9 +11,9 @@ description: <p>Amazon Elastic Compute Cloud is a web service that provides resi
   by allowing you to pay only for capacity that you actually use. Amazon EC2 provides
   developers the tools to build failure resilient applications and isolate themselves
   from common failure scenarios.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-ec2.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -64,4 +64,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

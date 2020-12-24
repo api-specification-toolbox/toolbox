@@ -6,9 +6,9 @@ description: <p><span>Amazon Lightsail is the easiest way to get started with AW
   data transfer, DNS management, and a static IP - for a low, predictable price. You
   manage those Lightsail servers through the Lightsail console or by using the API
   or command-line interface (CLI).</span></p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/aws-lightsail.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-lightsale.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "1000000"
@@ -34,4 +34,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -8,9 +8,9 @@ description: <p>Kony is the fastest growing cloud-based mobile application devel
   you can deliver stunning user-first experiences, get to market faster, and lower
   your application TCO. Kony also offers ready-to-run B2E and B2C apps that enable
   customers to quickly extend their business.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/kony-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/kony.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "143694"
@@ -51,4 +51,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

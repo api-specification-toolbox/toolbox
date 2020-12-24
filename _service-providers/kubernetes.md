@@ -6,7 +6,7 @@ description: <p>Manage a cluster of Linux containers as a single system to accel
   workloads to ensure that their state matches the users declared intentions. Using
   the concepts of labels and pods, it groups the containers which make up an application
   into logical units for easy management and discovery.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/kubernetes-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/kubernetes.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -54,4 +54,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

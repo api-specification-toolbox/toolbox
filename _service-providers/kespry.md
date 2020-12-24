@@ -2,9 +2,9 @@
 name: Kespry
 description: <p>Kespry Automated Drone Systems are transforming data collection, analysis
   and reporting with a complete, enterprise-ready UAV solution.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/pull_image_10-12-2019-02-58-pm.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/kespry.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "914857"
@@ -66,4 +66,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

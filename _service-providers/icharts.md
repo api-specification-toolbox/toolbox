@@ -2,7 +2,7 @@
 name: iCharts
 description: Real-time business intelligence reporting and analytics for NetSuite
   and Google Cloud. iCharts BI is the native visual reporting application for NetSuite.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1074_logo.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/icharts.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -61,4 +61,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -1,9 +1,9 @@
 ---
 name: Yappes
 description: Travel API Discovery & Marketplace
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28121-yappes-com.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/yappes.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "4945454"
@@ -31,4 +31,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

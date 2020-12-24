@@ -3,7 +3,7 @@ name: Frisby.js
 description: <p>Frisby is a REST API testing framework built on node.js and Jasmine
   that makes testing API endpoints easy, fast, and fun. Read below for a quick overview,
   or check out the API documentation.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/frisby-js.png
+image: http://api.specificationtoolbox.com/images/service-providers/frisby-js.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -23,4 +23,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

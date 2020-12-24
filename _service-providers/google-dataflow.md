@@ -4,9 +4,9 @@ description: <p>Dataflow is a unified programming model and a managed service fo
   developing and executing a wide range of data processing patterns including ETL,
   batch computation, and continuous computation. Cloud Dataflow frees you from operational
   tasks like resource management and performance optimization.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-dataflow.jpeg
+image: http://api.specificationtoolbox.com/images/service-providers/google-dataflow.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -175,4 +175,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

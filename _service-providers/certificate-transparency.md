@@ -8,7 +8,7 @@ description: <p>Google's Certificate Transparency project fixes several structur
   up by certificate authorities. If left unchecked, these flaws can facilitate a wide
   range of security attacks, such as website spoofing, server impersonation, and man-in-the-middle
   attacks.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Certificate-Transparency.png
+image: http://api.specificationtoolbox.com/images/service-providers/certificate-transparency.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -32,4 +32,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -2,7 +2,7 @@
 name: Curity Developer Portal
 description: Curity is the leading supplier of API-driven identity management, providing
   unified security for digital services
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/
+image: http://api.specificationtoolbox.com/images/service-providers/curity-developer-portal.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -53,4 +53,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

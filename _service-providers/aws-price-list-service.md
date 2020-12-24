@@ -1,7 +1,7 @@
 ---
 name: AWS Price List Service
 description: ""
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/apache-kafka.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-price-list-service.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -27,4 +27,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

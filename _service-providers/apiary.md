@@ -3,7 +3,7 @@ name: Apiary
 description: Apiary provides the leading API-First platform designed specifically
   to help companies accelerate and control the design, development, and documentation
   of APIs.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1807_logo.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/apiary.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -37,4 +37,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

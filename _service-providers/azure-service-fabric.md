@@ -5,9 +5,9 @@ description: <p>Service Fabric is a microservices platform used to build scalabl
   challenges in developing and managing cloud applications, Service Fabric allows
   developers and administrators to avoid solving complex infrastructure problems and
   focus instead on implementing mission-critical, demanding workloads.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/service-fabric-02.png
+image: http://api.specificationtoolbox.com/images/service-providers/azure-service-fabric.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "33"
@@ -85,4 +85,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

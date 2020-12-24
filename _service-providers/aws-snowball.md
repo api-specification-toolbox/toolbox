@@ -4,7 +4,7 @@ description: |-
   <p>Snowball is a petabyte-scale data transport solution that uses secure appliances to&nbsp;<a href="https://aws.amazon.com/cloud-data-migration/">transfer large amounts of data</a>&nbsp;into and out of the&nbsp;<a href="https://aws.amazon.com/what-is-cloud-storage/">AWS cloud</a>. Using Snowball addresses common challenges with large-scale data transfers including high network costs, long transfer times, and security concerns. Transferring data with Snowball is simple, fast, secure, and can be as little as one-fifth the cost of high-speed Internet.</p>
   <p>With Snowball, you don&rsquo;t need to write any code or purchase any hardware to transfer your data. Simply create a job in the AWS Management Console and a Snowball appliance will be automatically shipped to you*. Once it arrives, attach the appliance to your local network, download and run the Snowball client to establish a connection, and then use the client to select the file directories that you want to transfer to the appliance. The client will then encrypt and transfer the files to the appliance at high speed. Once the transfer is complete and the appliance is ready to be returned, the E Ink shipping label will automatically update and you can track the job status via&nbsp;<a href="https://aws.amazon.com/sns/">Amazon Simple Notification Service (SNS)</a>, text messages, or directly in the Console.</p>
   <p>Snowball uses multiple layers of security designed to protect your data including tamper-resistant enclosures, 256-bit encryption, and an industry-standard Trusted Platform Module (TPM) designed to ensure both security and full chain-of-custody of your data. Once the data transfer job has been processed and verified, AWS performs a software erasure of the Snowball appliance.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSImportExportSnowball.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-snowball.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -56,4 +56,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

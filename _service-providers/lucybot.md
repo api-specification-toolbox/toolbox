@@ -5,7 +5,7 @@ description: <p>At LucyBot, we believe APIs should be easy. We help API provider
   sample code in several different programming languages and frameworks. This increases
   API adoption, expands usage among existing users, and alleviates the burden of customer
   support.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/LucyPNG.png
+image: http://api.specificationtoolbox.com/images/service-providers/lucybot.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -34,4 +34,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

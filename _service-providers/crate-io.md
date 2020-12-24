@@ -3,9 +3,9 @@ name: Crate.io
 description: An open source real-time SQL database with integrated search that is
   simple to scale. It is ideal for storing and analyzing IoT and machine data in real
   time.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/create-io-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/crate-io.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "520078"
@@ -97,4 +97,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

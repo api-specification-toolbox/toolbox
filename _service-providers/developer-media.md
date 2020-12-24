@@ -2,7 +2,7 @@
 name: Developer Media
 description: "Reach Millions of Developers. Developer Media connects your company
   with today\u2019s most influential developers in everything from cloud to IoT."
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/developermedia_logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/developer-media.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -34,4 +34,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -2,7 +2,7 @@
 name: Speca.io
 description: Speca - simple and powerful web API design and documentation platform.
   Create, edit, test and share rich and beautiful API documentation.
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27928-speca-io.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/speca-io.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -23,4 +23,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -3,7 +3,7 @@ name: Serverless
 description: <p>The Serverless Framework is an application framework for building
   web, mobile and IoT applications powered by AWS Lambda, AWS API Gateway and in the
   future other Function as a Service providers.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/serverless-framework-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/serverless.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -41,4 +41,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

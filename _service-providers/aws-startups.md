@@ -1,7 +1,7 @@
 ---
 name: AWS startups
 description: ""
-image: ""
+image: http://api.specificationtoolbox.com/images/service-providers/aws-startups.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -22,4 +22,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

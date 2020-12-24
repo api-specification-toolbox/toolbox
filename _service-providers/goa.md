@@ -3,7 +3,7 @@ name: Goa
 description: goa is a code generation framework built in Go that provides the developer
   with a clear and concise path to generate idiomatic API and Microservice architectures
   by using a design-first methodology.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/goa-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/goa.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -34,4 +34,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

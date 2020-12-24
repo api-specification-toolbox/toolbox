@@ -1,7 +1,7 @@
 ---
 name: Materia
 description: A modern development environment to build advanced mobile and web applications
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Materia_-_Develop_web_and_mobile_application_at_the_speed_of_light_.png
+image: http://api.specificationtoolbox.com/images/service-providers/materia.jpg
 created: "2020-12-23"
 modified: "2020-12-23"
 specificationVersion: "0.14"
@@ -28,4 +28,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...
