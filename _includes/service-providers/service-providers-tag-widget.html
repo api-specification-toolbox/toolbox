@@ -3,10 +3,12 @@
   <div class="sidebar-title">
      <h2>Categories</h2>
   </div>
-  <ul class="cat-list">
-    {% for tag in site.data.service-providers-tags %}
-      <li class="clearfix"><a href="#">{{ tag.name }} <span>(30)</span></a></li>
-    {% endfor %}
-  </ul>
+  <div  style="overflow auto: height: 500px;">
+    <ul class="cat-list">
+      {% for tag in site.data.service-providers-tags %}
+        <li class="clearfix"><a href="#">{{ tag.name }} <span>(30)</span></a></li>
+      {% endfor %}
+    </ul>
+  </div>
 </div>
 <!--End Category Widget-->
