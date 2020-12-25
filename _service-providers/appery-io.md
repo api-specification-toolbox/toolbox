@@ -6,9 +6,9 @@ description: <p><span>Appery.io is a rapid development, integration and deployme
   backend services to accelerate enterprise mobilization. Appery.io enables developers
   and business analysts to rapidly create and run apps that help businesses of all
   sizes increase revenues and improve productivity.</span></p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/appery-io-logo.svg
+image: http://api.specificationtoolbox.com/images/service-providers/appery-io.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "120386"
@@ -47,4 +47,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

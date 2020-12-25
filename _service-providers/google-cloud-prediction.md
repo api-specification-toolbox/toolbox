@@ -4,9 +4,9 @@ description: <p>Google Cloud Prediction API provides a RESTful API to build Mach
   Learning models. Prediction's cloud-based machine learning tools can help analyze
   your data to add various features to your applications, such as customer sentiment
   analysis, spam detection, recommendation systems, and more.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/google-prediction-api-500x500.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/google-cloud-prediction.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -117,4 +117,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

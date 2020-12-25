@@ -8,7 +8,7 @@ description: '<p>MeaningCloud is the easiest, most powerful and most affordable 
   and Reputation Analysis - Clustering. - Voice of the Customer/Employee/Patient Analytics&nbsp;</p>'
 image: http://api.specificationtoolbox.com/images/service-providers/meaning-cloud.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "446024"

@@ -4,7 +4,7 @@ description: Cloud Elements is the leading API integration platform for SaaS app
   and the digital enterprise. Turn integration into your competitive advantage.
 image: http://api.specificationtoolbox.com/images/service-providers/cloud-elements.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "212451"

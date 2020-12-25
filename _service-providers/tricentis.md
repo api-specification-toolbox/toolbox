@@ -4,7 +4,7 @@ description: Test faster and earlier, improve software quality and gain real-tim
   insight into the business risks associated with every release.
 image: http://api.specificationtoolbox.com/images/service-providers/tricentis.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "20000000"

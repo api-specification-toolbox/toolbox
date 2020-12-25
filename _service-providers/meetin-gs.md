@@ -6,7 +6,7 @@ description: Meetin.gs is a web and mobile meeting organizer that helps professi
   provides organ...
 image: http://api.specificationtoolbox.com/images/service-providers/meetin-gs.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "2329868"

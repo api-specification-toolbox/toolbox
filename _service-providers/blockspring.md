@@ -5,7 +5,7 @@ description: Blockspring makes it easy to find data, run algorithms, automate re
   super analyst on your team, without needing to learn any new tools.
 image: http://api.specificationtoolbox.com/images/service-providers/blockspring.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "298085"

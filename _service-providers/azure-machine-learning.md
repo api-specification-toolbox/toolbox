@@ -8,7 +8,7 @@ description: <p>Azure Machine Learning lets you easily design, test, operational
   our APIs and Azure Marketplace.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/azure-machine-learning.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "33"

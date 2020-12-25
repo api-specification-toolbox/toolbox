@@ -6,9 +6,9 @@ description: <p>Google Stackdriver provides powerful monitoring, logging, and di
   with Google Cloud Platform, Amazon Web Services, and popular open source packages.
   Stackdriver provides a wide variety of metrics, dashboards, alerting, log management,
   reporting, and tracing capabilities.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/google-stackdriver.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-stackdriver-monitoring.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "1"
@@ -135,4 +135,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

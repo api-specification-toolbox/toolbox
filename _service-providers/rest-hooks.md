@@ -3,9 +3,9 @@ name: REST Hooks
 description: <p>REST Hooks itself is not a specification, it is a collection of patterns
   that treat webhooks like subscriptions. These subscriptions are manipulated via
   a REST API just like any other resource.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/rest-hooks-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/rest-hooks.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "3835979"
@@ -28,4 +28,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -5,9 +5,9 @@ description: <p>glot.io lets you run and share snippets. Snippets can be saved a
   by search engines. Secret snippets can only be accessed by those who know the url.
   Code is executed inside a temporary container without a network connection. Execution
   time is limited to 15 seconds and the output can not exceed 100KiB.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/glot-io-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/glot-io.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "482720"
@@ -38,4 +38,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -7,7 +7,7 @@ description: <p>Make cloud computing as easy and accessible as mobile computing.
   developers and designers. And those who aspire to become one.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/zeit.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "0"
 x-alexaRank: "1000000"

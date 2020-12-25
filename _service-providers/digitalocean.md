@@ -10,7 +10,7 @@ description: <p>DigitalOcean is a simple and fast cloud hosting service built fo
   walkthroughs and tutorials that cover server configuration and optimization.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/digitalocean.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "2762"

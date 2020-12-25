@@ -7,7 +7,7 @@ description: <p><span>AWS OpsWorks is a configuration management service that us
   OpsWorks has two offerings, AWS Opsworks for Chef Automate, and AWS OpsWorks Stacks.</span></p>
 image: http://api.specificationtoolbox.com/images/service-providers/aws-opsworks.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"

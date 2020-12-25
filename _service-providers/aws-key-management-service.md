@@ -7,9 +7,9 @@ description: <p><span>AWS Key Management Service (KMS) is a managed service that
   you protect the data you store with these services. AWS Key Management Service is
   also integrated with AWS CloudTrail to provide you with logs of all key usage to
   help meet your regulatory and compliance needs.</span></p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/aws-key-management.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/aws-key-management-service.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -59,4 +59,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

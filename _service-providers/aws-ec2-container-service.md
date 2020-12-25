@@ -12,7 +12,7 @@ description: <p>Amazon EC2 Container Service (ECS) is a highly scalable, high pe
   third-party schedulers to meet business or application specific requirements.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/aws-ec2-container-service.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"

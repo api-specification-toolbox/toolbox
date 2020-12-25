@@ -10,7 +10,7 @@ description: <p>AWS Shield is a managed Distributed Denial of Service protection
   layer DDoS attacks that target your web site or applications.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/aws-shield.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"

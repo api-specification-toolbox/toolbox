@@ -6,7 +6,7 @@ description: <p>AWS Device Farm is an app testing service that lets you test and
   pinpoint and fix issues before shipping your app.&nbsp;</p>
 image: http://api.specificationtoolbox.com/images/service-providers/aws-device-farm.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"

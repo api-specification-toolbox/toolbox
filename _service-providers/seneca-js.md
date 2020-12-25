@@ -5,7 +5,7 @@ description: <p>A Micro-Services toolkit for Node.js. This toolkit lets you writ
   in one process, and split it all out onto multiple systems when you need to.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/seneca-js.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "2518256"

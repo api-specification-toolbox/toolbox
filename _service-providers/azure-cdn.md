@@ -4,9 +4,9 @@ description: <p><span>Ensuring a consistent user experience is important. If you
   websites or mobile apps involve streaming media, gaming software, firmware updates
   (Smart TVs, consumer electronic appliances) or IoT endpoints (cars, sensors), Content
   Delivery Network helps you reduce load times, save bandwidth, and increase responsiveness.</span></p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/02-delivery.png
+image: http://api.specificationtoolbox.com/images/service-providers/azure-cdn.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "33"
@@ -79,4 +79,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -1,9 +1,9 @@
 ---
 name: Crosscheck Networks
 description: Web services testing
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/cross-check-networks.png
+image: http://api.specificationtoolbox.com/images/service-providers/crosscheck-networks.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "10463115"
@@ -61,4 +61,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

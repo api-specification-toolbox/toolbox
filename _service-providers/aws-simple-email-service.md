@@ -5,9 +5,9 @@ description: <p><span>Amazon Simple Email Service (Amazon SES) is a cost-effecti
   developed to serve its own customer base. With Amazon SES, you can send and receive
   email with no required minimum commitments &ndash; you pay as you go, and you only
   pay for what you use.</span></p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Application-Services_AmazonSES.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-simple-email-service.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -65,4 +65,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

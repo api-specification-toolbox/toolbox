@@ -6,7 +6,7 @@ description: |-
   <p>It's simple to move large volumes of data into or out of S3 with Amazon's&nbsp;<a href="https://aws.amazon.com/cloud-data-migration/">cloud data migration</a>&nbsp;options. Once data is stored in Amazon S3, it can be automatically tiered into lower cost, longer-term&nbsp;<a href="https://aws.amazon.com/what-is-cloud-storage/">cloud storage</a>&nbsp;classes like S3 Standard - Infrequent Access and Amazon Glacier for archiving.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/aws-s3.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"

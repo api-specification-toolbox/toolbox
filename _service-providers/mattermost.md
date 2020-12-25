@@ -3,9 +3,9 @@ name: Mattermost
 description: Open source, private cloud Slack-alternative, Workplace messaging for
   web, PCs and phones. MIT-licensed. Hundreds of contributors. 14 languages. Secure,
   configurable, and scalable from teams to the enterprise.
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28196-about-mattermost-com.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/mattermost.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "48572"
@@ -118,4 +118,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

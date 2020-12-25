@@ -4,7 +4,7 @@ description: Appsee is a mobile app analytics platform that offers you powerful,
   analytics tools that enable you to track and optimize the UX in your app.
 image: http://api.specificationtoolbox.com/images/service-providers/appsee.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "276251"

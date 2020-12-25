@@ -14,7 +14,7 @@ description: <p><span>Amazon EC2 Container Registry (ECR) is a fully-managed&nbs
   in your repositories and data transferred to the Internet.</span></p>
 image: http://api.specificationtoolbox.com/images/service-providers/aws-ec2-container-registry-service.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"

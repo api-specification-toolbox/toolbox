@@ -4,9 +4,9 @@ description: <p>Automate all of those frequent, time-consuming, and error-prone 
   management tasks. Azure Automation helps you focus on work that adds business value.
   By reducing errors and boosting efficiency, it also helps to lower your operational
   costs.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/azure-automation-save-time.png
+image: http://api.specificationtoolbox.com/images/service-providers/azure-automation.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "33"
@@ -86,4 +86,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

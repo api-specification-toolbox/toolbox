@@ -2,9 +2,9 @@
 name: CloudFlare
 description: Here at Cloudflare, we make the Internet work the way it should. Offering
   CDN, DNS, DDoS protection and security, find out how we can help your site.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/cloudflare-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/cloudflare.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1246"
@@ -104,4 +104,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -3,7 +3,7 @@ name: fancyapps
 description: Need help with fancybox?
 image: http://api.specificationtoolbox.com/images/service-providers/fancyapps.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "64908"

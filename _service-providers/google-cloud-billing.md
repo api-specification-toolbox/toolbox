@@ -4,7 +4,7 @@ description: <p>The Google Cloud Billing API provides methods that you can use t
   programmatically manage billing for your projects in the Google Cloud Platform.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/google-cloud-billing.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"

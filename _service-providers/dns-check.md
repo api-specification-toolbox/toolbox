@@ -6,7 +6,7 @@ description: Monitor DNS records. Request DNS updates by sharing reports that sh
   added in...
 image: http://api.specificationtoolbox.com/images/service-providers/dns-check.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "1283742"

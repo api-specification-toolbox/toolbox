@@ -6,7 +6,7 @@ description: <p>Use this tool to design your own snapshots of IT Dashboard data.
   and widgets for your website or the community!</p>
 image: http://api.specificationtoolbox.com/images/service-providers/itdashboard-gov.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "3275049"

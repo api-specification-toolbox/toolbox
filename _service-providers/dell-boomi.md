@@ -4,7 +4,7 @@ description: 'The #1 Integration Cloud - Connect Everything, Engage Everywhere a
   Run Anywhere with Boomi''s industry leading iPaaS platform.'
 image: http://api.specificationtoolbox.com/images/service-providers/dell-boomi.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "18707"

@@ -4,7 +4,7 @@ description: Find bugs earlier and faster with Ranorex. Test automation of deskt
   web and mobile software. Download your free 30-day trial now!
 image: http://api.specificationtoolbox.com/images/service-providers/ranorex.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "136149"

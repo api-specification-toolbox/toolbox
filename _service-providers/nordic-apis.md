@@ -2,9 +2,9 @@
 name: Nordic APIs
 description: The number one place for information and resources on API technology
   and business. Ebooks, events, blog posts and much much more! Come and check us out
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/nordic-apis.jpeg
+image: http://api.specificationtoolbox.com/images/service-providers/nordic-apis.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "73042"
@@ -62,4 +62,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

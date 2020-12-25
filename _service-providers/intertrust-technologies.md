@@ -16,7 +16,7 @@ description: '<p>A new reality is emerging as we adjust to the world where senso
   trust in a connected world.</p>'
 image: http://api.specificationtoolbox.com/images/service-providers/intertrust-technologies.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "536909"

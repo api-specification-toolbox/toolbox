@@ -5,7 +5,7 @@ description: Lateral's mission is to help people discover the information they n
   collaboration in a wide range of disciplines.
 image: http://api.specificationtoolbox.com/images/service-providers/lateral.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "498721"

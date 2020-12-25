@@ -5,9 +5,9 @@ description: <p>Cloud SQL is a fully-managed database service that makes it easy
   databases in the cloud. Cloud SQL offers high performance, scalability, and convenience.
   Hosted on Google Cloud Platform, Cloud SQL provides a database infrastructure for
   applications running anywhere.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-sql-lead-2x.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-cloud-sql.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -176,4 +176,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -1,9 +1,9 @@
 ---
 name: EveryDeveloper
 description: ""
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/every-developer.png
+image: http://api.specificationtoolbox.com/images/service-providers/everydeveloper.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "2643614"
@@ -52,4 +52,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

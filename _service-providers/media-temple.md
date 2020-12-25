@@ -2,9 +2,9 @@
 name: Media Temple
 description: Media Temple provides reliable web hosting and cloud hosting at a premium
   service level. Perfect for developers, web designers and content creators.
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/618-media-temple.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/media-temple.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "13296"
@@ -53,4 +53,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

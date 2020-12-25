@@ -7,7 +7,7 @@ description: <p>The Safe Browsing APIs (v4) let your client applications check U
   considered unsafe.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/google-safe-browsing.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"

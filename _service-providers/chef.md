@@ -2,9 +2,9 @@
 name: Chef
 description: Automation for all of your technology. Overcome the complexity and rapidly
   ship your infrastructure and apps anywhere with automation.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/pic-chef-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/chef.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "113534"
@@ -136,4 +136,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

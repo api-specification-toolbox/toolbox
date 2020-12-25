@@ -4,7 +4,7 @@ description: Talend Data Fabric offers a single suite of cloud apps for data int
   and data integrity to help enterprises collect, govern, transform, and share data.
 image: http://api.specificationtoolbox.com/images/service-providers/talend.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "32469"

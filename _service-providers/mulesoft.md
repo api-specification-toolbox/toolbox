@@ -4,7 +4,7 @@ description: MuleSoft provides the most widely used integration platform (Mule E
   & CloudHub) for connecting SaaS & enterprise applications in the cloud and on-premise.
 image: http://api.specificationtoolbox.com/images/service-providers/mulesoft.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "14023"

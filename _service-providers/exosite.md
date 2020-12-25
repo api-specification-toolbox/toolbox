@@ -4,7 +4,7 @@ description: Exosite is a leading Internet of Things (IoT) platform that makes i
   easy to build connected products, solutions, and businesses. Get started for free.
 image: http://api.specificationtoolbox.com/images/service-providers/exosite.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "934096"

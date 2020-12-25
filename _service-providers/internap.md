@@ -4,9 +4,9 @@ description: 'Internap Corporation (NASDAQ: INAP) is a leading technology provid
   of Internet infrastructure through both Colocation Business and Enterprise Services
   (including network connectivity, IP, bandwidth, and Managed Hosting), and Cloud
   Services (including...'
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/965_logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/internap.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "5926543"
@@ -37,4 +37,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

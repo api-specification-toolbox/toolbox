@@ -5,9 +5,9 @@ description: <p>Amazon Route 53 is a highly available and scalable cloud Domain 
   reliable and cost effective way to route end users to Internet applications by translating
   names like www.example.com into the numeric IP addresses like 192.0.2.1 that computers
   use to connect to each other.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AmazonRoute53.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-route-53.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "14"
@@ -64,4 +64,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

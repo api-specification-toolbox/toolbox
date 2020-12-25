@@ -4,7 +4,7 @@ description: Find Meetups so you can do more of what matters to you. Or create y
   own group and meet people near you who share your interests.
 image: http://api.specificationtoolbox.com/images/service-providers/meetup.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "805"

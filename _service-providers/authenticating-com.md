@@ -4,7 +4,7 @@ description: Authenticating as a Service for peer-to-peer exchanges, two sided m
   social networks and other transactional apps, sites and services worldwide.
 image: http://api.specificationtoolbox.com/images/service-providers/authenticating-com.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "3464765"

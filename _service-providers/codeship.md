@@ -4,7 +4,7 @@ description: Codeship is a fast and secure hosted Continuous Integration service
   scales with your needs. It supports GitHub, Bitbucket, and Gitlab projects.
 image: http://api.specificationtoolbox.com/images/service-providers/codeship.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "46090"

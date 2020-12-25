@@ -4,7 +4,7 @@ description: Heroku is a platform as a service (PaaS) that enables developers to
   run, and operate applications entirely in the cloud.
 image: http://api.specificationtoolbox.com/images/service-providers/heroku.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "6672"

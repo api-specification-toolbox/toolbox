@@ -4,7 +4,7 @@ description: The ultimate technology to build plug'n play, reusable API Integrat
   helping developers & companies get the most of APIs.
 image: http://api.specificationtoolbox.com/images/service-providers/bearer.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "629411"

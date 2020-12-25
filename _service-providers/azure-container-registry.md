@@ -6,7 +6,7 @@ description: <p>Azure Container Registry allows you to store images for all type
   the configuration of apps isolated from the configuration of the hosting environment.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/azure-container-registry.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "33"

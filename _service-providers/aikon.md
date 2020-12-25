@@ -9,7 +9,7 @@ description: AIKON (pronounced ???icon???) is transforming the $2.2 Trillion API
   of decentralization and it is our mission to make that dream a reality.
 image: http://api.specificationtoolbox.com/images/service-providers/aikon.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "651900"

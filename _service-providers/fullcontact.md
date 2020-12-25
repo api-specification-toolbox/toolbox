@@ -3,9 +3,9 @@ name: FullContact
 description: FullContact is an international provider of identity resolution including
   data enrichment and audience insights for personalized relationships between a brand
   and an individual.
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/205-fullcontact.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/fullcontact.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "90156"
@@ -121,4 +121,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

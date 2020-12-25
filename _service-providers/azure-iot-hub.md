@@ -8,9 +8,9 @@ description: <p>Jumpstart your Internet of Things project with Microsoft IoT Hub
   using per-device authentication to communicate with devices that have the appropriate
   credentials. Revoke access rights to specific devices to maintain the integrity
   of your system.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/azure-iot-01-establish.png
+image: http://api.specificationtoolbox.com/images/service-providers/azure-iot-hub.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "33"
@@ -99,4 +99,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

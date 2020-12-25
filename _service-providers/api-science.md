@@ -5,7 +5,7 @@ description: <p>Traditional monitoring services were designed long before APIs b
   APIs. Sure, we understand REST, JSON, OAuth, XML. No problem.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/api-science.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "1232791"

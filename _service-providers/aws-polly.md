@@ -6,7 +6,7 @@ description: |-
   <p>With Polly, you only pay for the number of characters you convert to speech, and you can save and replay Polly&rsquo;s generated speech. Polly&rsquo;s low cost per character converted, and lack of restrictions on storage and reuse of voice output, make it a cost-effective way to enable Text-to-Speech everywhere.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/aws-polly.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"

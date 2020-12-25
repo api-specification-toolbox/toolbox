@@ -5,9 +5,9 @@ description: <p>Azure DNS lets you host your DNS domains alongside your Azure ap
   global network of name servers has the reach, scale, and redundancy to ensure ultra-fast
   DNS responses and ultra-high availability for your domains. With Azure DNS, you
   can be sure your DNS will always be fast and available.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/azure-dns-01-host.png
+image: http://api.specificationtoolbox.com/images/service-providers/azure-dns.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "33"
@@ -83,4 +83,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

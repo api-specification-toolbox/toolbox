@@ -5,7 +5,7 @@ description: "Monitor your website\u2019s availability and performance for free 
   required."
 image: http://api.specificationtoolbox.com/images/service-providers/pingdom.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "15025"

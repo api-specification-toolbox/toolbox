@@ -5,7 +5,7 @@ description: Provide secure identity management and single sign-on to any applic
   and customers with Okta.
 image: http://api.specificationtoolbox.com/images/service-providers/okta.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "221"

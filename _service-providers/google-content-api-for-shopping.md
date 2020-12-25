@@ -9,7 +9,7 @@ description: '<p>API allowing retailers to manage their product feed content pro
   of programming languages and data formats.</p>'
 image: http://api.specificationtoolbox.com/images/service-providers/google-content-api-for-shopping.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"

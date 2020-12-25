@@ -6,7 +6,7 @@ description: <p>The Ad Exchange Buyer REST API allows your Real-Time Bidding app
   direct deals that sellers make available.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/google-doubleclick.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1408410"

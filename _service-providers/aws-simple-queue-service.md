@@ -5,7 +5,7 @@ description: |-
   <p>With Amazon SQS, you can offload the administrative burden of operating and scaling a highly available messaging cluster, while paying a low price for only what you use.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/aws-simple-queue-service.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"

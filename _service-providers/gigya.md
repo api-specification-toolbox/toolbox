@@ -4,7 +4,7 @@ description: Identify, engage & build single customer views to create relevant, 
   experiences. Designed to meet privacy, compliance & security best practices.
 image: http://api.specificationtoolbox.com/images/service-providers/gigya.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "3800"

@@ -8,7 +8,7 @@ description: <p>The Google URL Shortener at goo.gl is a service that takes long 
   to create, inspect, and manage goo.gl short links from desktop, mobile, or web.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/google-url-shortener.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "5738"

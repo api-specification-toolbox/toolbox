@@ -10,7 +10,7 @@ description: <p>Google Cloud Vision API enables developers to understand the con
   with your image storage on Google Cloud Storage.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/google-cloud-vision.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"

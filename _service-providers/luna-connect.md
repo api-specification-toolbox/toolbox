@@ -2,9 +2,9 @@
 name: luna connect
 description: luna connect is a data marketplace and developer platform providing fintechs
   access to banking data using APIs
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28181-lunaconnect-io.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/luna-connect.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "1000000"
@@ -37,4 +37,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

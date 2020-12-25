@@ -6,7 +6,7 @@ description: <p>Azure Resource Manager enables you to deploy and manage the infr
   managing resources with Resource Manager, see Azure Resource Manager overview.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/azure-resource-manager.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "33"

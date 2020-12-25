@@ -8,9 +8,9 @@ description: <p>With offices in Vienna (HQ) and London, we are an Austrian techn
   on your back-end. Our team has the opportunity to rethink how business processes
   work and how they can be improved, and we are thrilled to be building an entire
   platform dedicated to allowing companies to focus on what really matters.</p>
-image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+image: http://api.specificationtoolbox.com/images/service-providers/apilayer.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "291612"
@@ -47,4 +47,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

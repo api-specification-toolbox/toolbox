@@ -7,7 +7,7 @@ description: <p>AWS Marketplace provides a new sales channel for ISVs and Consul
   usage dimensions.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/aws-marketplace-metering-service.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"

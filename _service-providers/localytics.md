@@ -4,7 +4,7 @@ description: With our platform you get smarter analytics insights and mobile app
   experiences that better engage your users. Check out a full list of features!
 image: http://api.specificationtoolbox.com/images/service-providers/localytics.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "62206"

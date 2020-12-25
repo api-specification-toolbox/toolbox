@@ -3,9 +3,9 @@ name: AWS CloudSearch
 description: |-
   <p>Amazon CloudSearch is a managed service in the AWS Cloud that makes it simple and cost-effective to set up, manage, and scale a search solution for your website or application.</p>
   <p>Amazon CloudSearch supports 34 languages and popular search features such as highlighting, autocomplete, and geospatial search. For more information, see Benefits.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/amazon-cloudsearch-300x300.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/aws-cloudsearch.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -65,4 +65,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

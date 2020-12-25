@@ -8,7 +8,7 @@ description: <p><span>Autoscale is a built-in feature of Cloud Services, Mobile 
   can scale your service by any of these&mdash;or by a custom metric you define.</span></p>
 image: http://api.specificationtoolbox.com/images/service-providers/azure-monitor.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "33"

@@ -5,9 +5,9 @@ description: <p>An open-source project that makes deploying complex containerize
   app marketplace hosted in GitHub. Panamax provides a friendly interface for users
   of Docker, Fleet &amp; CoreOS. With Panamax, you can easily create, share and deploy
   any containerized app no matter how complex it might be.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/panamax-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/panamax-project.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "6036464"
@@ -37,4 +37,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

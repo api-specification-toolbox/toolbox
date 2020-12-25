@@ -4,7 +4,7 @@ description: "Apica\u2019s performance testing and monitoring solutions provide 
   peak performance data and 24/7 monitoring of applications and sites around the world."
 image: http://api.specificationtoolbox.com/images/service-providers/apica.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "711"
 x-alexaRank: "3720976"

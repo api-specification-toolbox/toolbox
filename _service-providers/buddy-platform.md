@@ -2,9 +2,9 @@
 name: Buddy Platform
 description: Buddy Platform is a lightweight, fast and flexible platform for collecting
   and processing Internet of Things (IoT) data.
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/61-buddy-platform.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/buddy-platform.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "767122"
@@ -63,4 +63,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

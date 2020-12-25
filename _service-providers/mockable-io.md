@@ -5,7 +5,7 @@ description: Mockable is a simple configurable service to mock out RESTful API o
   SOAP endpoints and have them return JSON or XML data.
 image: http://api.specificationtoolbox.com/images/service-providers/mockable-io.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "355757"

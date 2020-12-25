@@ -4,7 +4,7 @@ description: Load Impact is a cloud-based SaaS for load testing and website opti
   offer load testing and reporting as a service. Try it for free at www.loadimpact.com
 image: http://api.specificationtoolbox.com/images/service-providers/load-impact.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "60543"

@@ -6,9 +6,9 @@ description: <p>Deploy and update measurement tags on your websites and mobile a
   editing your site code, you use GTM user interface to add and update AdWords, Google
   Analytics, Floodlight, and non-Google tags. This reduces errors and allows you to
   to deploy tags on your site quickly.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/googl_tag_manager_gplus-250.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-tag-manager.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -47,4 +47,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

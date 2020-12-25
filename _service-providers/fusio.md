@@ -4,9 +4,9 @@ description: <p>Fusio is an open source API management platform which helps to b
   and manage REST APIs. Fusio provides all tools to create an API without writing
   any backend code still it is possible to easily extend the API if the complexity
   rises.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Fusio_-_Open_source_API_management_platform.png
+image: http://api.specificationtoolbox.com/images/service-providers/fusio.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "1828032"
@@ -32,4 +32,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

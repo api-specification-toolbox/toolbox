@@ -5,9 +5,9 @@ description: <p>Cloud Datastore is a highly-scalable NoSQL database for your app
   a highly available and durable database that scales automatically to handle your
   applications' load. Cloud Datastore provides a myriad of capabilities such as ACID
   transactions, SQL-like queries, indexes and much more.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/nosql-tree.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-cloud-datastore.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -119,4 +119,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

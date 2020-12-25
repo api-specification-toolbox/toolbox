@@ -4,7 +4,7 @@ description: We're the creators of Elasticsearch, Kibana, Beats, and Logstash --
   Elastic Stack. Securely and reliably search, analyze, and visualize your data.
 image: http://api.specificationtoolbox.com/images/service-providers/elasticsearch.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1000000"

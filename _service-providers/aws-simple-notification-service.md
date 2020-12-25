@@ -6,7 +6,7 @@ description: |-
   <p>Beyond these endpoints, Amazon SNS can also deliver messages to&nbsp;<a href="https://aws.amazon.com/sqs/">Amazon Simple Queue Service</a>&nbsp;(SQS),&nbsp;<a href="https://aws.amazon.com/lambda/">AWS Lambda functions</a>, or to any HTTP endpoint.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/aws-simple-notification-service.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"

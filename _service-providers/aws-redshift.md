@@ -9,7 +9,7 @@ description: <p><span>Amazon Redshift is a fast, fully managed, petabyte-scale&n
   costs to $333 per uncompressed terabyte per year.</span></p>
 image: http://api.specificationtoolbox.com/images/service-providers/aws-redshift.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"

@@ -6,7 +6,7 @@ description: <p>Azure Scheduler lets you create jobs in the cloud that invoke se
   on a recurring schedule, or at some point in the future.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/azure-scheduler.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "33"

@@ -4,7 +4,7 @@ description: ArangoDB is an easy to use mostly memory, high performance, open so
   NoSQL database with a unique combination of features like graph & geo algorithms.
 image: http://api.specificationtoolbox.com/images/service-providers/arangodb.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "210563"

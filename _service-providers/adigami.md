@@ -4,9 +4,9 @@ description: Adigami is a web analytics and search marketing company. We have de
   a robust analytics platform for   evaluating and improving online marketing efforts.
   Our product can be used by individual business owners,   marketing departments,
   and advertis...
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/adigami-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/adigami.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "6694888"
@@ -33,4 +33,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

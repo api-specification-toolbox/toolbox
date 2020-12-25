@@ -6,7 +6,7 @@ description: <p>Blogger is a blog-publishing service that allows multi-user blog
   Blogs can also be hosted in the registered custom domain of the blogger (like www.example.com).</p>
 image: http://api.specificationtoolbox.com/images/service-providers/blogger.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "232"

@@ -4,7 +4,7 @@ description: Turn your spreadsheets into APIs effortlessly. Eliminate the hassle
   human error of manually emailing and importing spreadsheets.
 image: http://api.specificationtoolbox.com/images/service-providers/sheetlabs.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "6255451"

@@ -6,7 +6,7 @@ description: "Catchpoint provides a unified User Experience Measurement and Moni
   Reduce MTTR and improve customer experiences."
 image: http://api.specificationtoolbox.com/images/service-providers/catchpoint.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "158233"

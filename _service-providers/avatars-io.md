@@ -7,7 +7,7 @@ description: <p>Every app needs avatars, we make it hassle-free. Hosted user ava
   a specific service.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/avatars-io.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "672808"

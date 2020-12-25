@@ -4,7 +4,7 @@ description: <p>The GraphQL Editor is a supportive tool for both advanced GraphQ
   users  as well as those taking their first steps with GraphQL APIs.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/graphql-editor.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "20000000"

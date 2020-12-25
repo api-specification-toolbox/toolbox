@@ -5,7 +5,7 @@ description: CircleCI???s continuous integration and delivery platform makes it 
   for Linux, macOS, and Android, in the cloud or behind your firewall.
 image: http://api.specificationtoolbox.com/images/service-providers/circleci.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "7635"

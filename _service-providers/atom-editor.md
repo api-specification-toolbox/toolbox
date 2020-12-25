@@ -5,7 +5,7 @@ description: 'At GitHub, we???re building the text editor we???ve always wanted:
   We can???t wait to see what you build with it.'
 image: http://api.specificationtoolbox.com/images/service-providers/atom-editor.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "11343"

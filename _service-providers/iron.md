@@ -4,9 +4,9 @@ description: Iron.io provides massively scalable cloud application services. Ava
   on multiple platforms and clouds, Iron.io products eliminate the need to worry about
   managing and scaling infrastructure, letting developers focus on building great
   applications.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/ironio-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/iron.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "74157"
@@ -86,4 +86,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

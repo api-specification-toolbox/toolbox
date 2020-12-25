@@ -11,7 +11,7 @@ description: <p>The Data Lake store provides a single repository where you can c
   on account or file size unlike current offerings in the market.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/azure-data-lake-store.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "33"

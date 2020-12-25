@@ -4,7 +4,7 @@ description: Let&rsquo;s&nbsp;Encrypt is a free, automated, and open certificate
   brought to you by the non-profit Internet Security Research Group (ISRG).
 image: http://api.specificationtoolbox.com/images/service-providers/lets-encrypt.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "16662"

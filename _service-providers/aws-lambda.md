@@ -8,7 +8,7 @@ description: <p><span>AWS Lambda is a zero-administration compute platform for b
   security, performance, and scalability of the AWS infrastructure.</span></p>
 image: http://api.specificationtoolbox.com/images/service-providers/aws-lambda.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"

@@ -3,7 +3,7 @@ name: Apigility
 description: The world's easiest way to create high-quality APIs.
 image: http://api.specificationtoolbox.com/images/service-providers/apigility.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "769296"

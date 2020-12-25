@@ -2,9 +2,9 @@
 name: Cypress.io
 description: Fast, easy and reliable testing for anything that runs in a browser.
   Install Cypress in seconds and take the pain out of front-end testing.
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28233-www-cypress-io.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/cypress-io.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "39084"
@@ -71,4 +71,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

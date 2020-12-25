@@ -6,7 +6,7 @@ description: <p>MoBagel is a real-time cloud analytics platform that helps IoT c
   product returns. As a result, companies can also save up to millions in cost reductions.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/mobagel.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "717746"

@@ -8,7 +8,7 @@ description: <p>Depend on Azure Service Bus when you need highly-reliable cloud 
   and publish/subscribe capabilities&mdash;excellent for tasks like order processing.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/azure-service-bus.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "33"

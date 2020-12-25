@@ -2,9 +2,9 @@
 name: Hypothes.is
 description: <p>Our mission is to bring a new layer to the web. Use Hypothesis to
   discuss, collaborate, organize your research, or take personal notes.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/hypothesis-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/hypothes-is.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "115052"
@@ -66,4 +66,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

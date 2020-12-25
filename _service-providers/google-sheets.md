@@ -7,7 +7,7 @@ description: '<p><span>Google Sheets is an online spreadsheet app that lets user
   data can be accessed by code as well as users.</span></p>'
 image: http://api.specificationtoolbox.com/images/service-providers/google-sheets.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"

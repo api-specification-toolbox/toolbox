@@ -7,7 +7,7 @@ description: <p>Netty is an asynchronous event-driven network application framew
   and streamlines network programming such as TCP and UDP socket server.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/netty.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "373504"

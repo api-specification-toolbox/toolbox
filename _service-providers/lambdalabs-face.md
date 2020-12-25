@@ -4,7 +4,7 @@ description: High-powered machines built specifically for Deep Learning applicat
   Pre-built and configured with Deep Learning software like Theano, Torch, and CUDA.
 image: http://api.specificationtoolbox.com/images/service-providers/lambdalabs-face.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "1000000"

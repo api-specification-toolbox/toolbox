@@ -3,7 +3,7 @@ name: Auth0
 description: The new way to solve Identity
 image: http://api.specificationtoolbox.com/images/service-providers/auth0.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1468"

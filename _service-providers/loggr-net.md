@@ -4,7 +4,7 @@ description: Monitor your web app events in Loggr, get powerful analytics, notif
   and sharing from anywhere... in realtime.
 image: http://api.specificationtoolbox.com/images/service-providers/loggr-net.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "1393379"

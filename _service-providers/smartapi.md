@@ -9,7 +9,7 @@ description: <p>The SmartAPI project aims to maximize the FAIRness (Findability,
   content that can be treated as Linked Data.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/smartapi.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "3488127"

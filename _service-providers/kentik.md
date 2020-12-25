@@ -6,9 +6,9 @@ description: <p>As network and service operators and developers, we&rsquo;ve spe
   always wanted &mdash; but never found &mdash; was an infrastructure visibility solution
   that&rsquo;s scalable, powerful, easy to use, and affordable. We started Kentik
   to create that solution.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Kentik_Logo_380_340.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/kentik.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "661566"
@@ -39,4 +39,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

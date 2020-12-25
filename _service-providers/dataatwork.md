@@ -7,7 +7,7 @@ description: ta at Work is about enabling an open 21st century workforce data ec
   of skills and jobs built on data from a large set of public and private data contributors.
 image: http://api.specificationtoolbox.com/images/service-providers/dataatwork.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "3876105"

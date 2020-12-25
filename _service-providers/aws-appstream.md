@@ -7,7 +7,7 @@ description: <p>Amazon AppStream is a fully managed, secure application streamin
   the device of their choice.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/aws-appstream.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"

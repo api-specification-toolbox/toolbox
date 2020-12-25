@@ -8,7 +8,7 @@ description: <p>RapidAPI is the world&rsquo;s largest API marketplace. RapidAPI 
   uses to communicate and connect. &nbsp;That&rsquo;s why we love APIs.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/rapidapi.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "1000000"

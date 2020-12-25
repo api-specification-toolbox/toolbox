@@ -10,7 +10,7 @@ description: <p>Amazon Elasticsearch Service makes it easy to deploy, operate, a
   data to actionable insights quickly.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/aws-elasticsearch-service.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"

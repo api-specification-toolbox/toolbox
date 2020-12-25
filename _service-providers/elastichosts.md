@@ -4,7 +4,7 @@ description: ElasticHosts offers simple, flexible and cost-effective cloud serve
   with high performance, availability, and scalability for businesses worldwide.
 image: http://api.specificationtoolbox.com/images/service-providers/elastichosts.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "281759"

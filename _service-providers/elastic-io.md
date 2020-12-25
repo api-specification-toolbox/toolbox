@@ -4,7 +4,7 @@ description: Microservices-based hybrid integration platform for real-time data 
   across disparate cloud-based and on-premise applications, platforms and databases.
 image: http://api.specificationtoolbox.com/images/service-providers/elastic-io.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "610835"

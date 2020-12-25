@@ -8,7 +8,7 @@ description: <p>Google Cloud Storage is unified object storage for developers an
   large data objects to users via direct download.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/google-cloud-storage.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"

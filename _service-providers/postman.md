@@ -4,9 +4,9 @@ description: <p>Postman is the only complete API development environment, used b
   nearly five million developers and more than 100,000 companies worldwide. Postman
   is an elegant, flexible tool used to build connected software via APIs &mdash; quickly,
   easily and accurately.&nbsp;</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/postman-rest-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/postman.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "9227"
@@ -415,4 +415,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

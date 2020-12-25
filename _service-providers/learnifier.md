@@ -5,7 +5,7 @@ description: Create your online courses in minutes. Learnifier is the fast and e
   desktop. Book a DEMO or test it out with our FREE TRIAL.
 image: http://api.specificationtoolbox.com/images/service-providers/learnifier.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "1936346"

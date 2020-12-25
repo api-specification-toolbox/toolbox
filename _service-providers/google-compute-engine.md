@@ -6,7 +6,7 @@ description: <p>Google Compute Engine delivers virtual machines running in Googl
   computing.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/google-compute-engine.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"

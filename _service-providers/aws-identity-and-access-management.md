@@ -6,7 +6,7 @@ description: |-
   <p>To get started using IAM, or&nbsp;if you have already registered with AWS, go to the&nbsp;<a href="https://console.aws.amazon.com/iam/home"><span>AWS Management Console</span></a>&nbsp;and get started with these<span>&nbsp;<a href="http://docs.aws.amazon.com/IAM/latest/UserGuide/IAMBestPractices.html">IAM Best Practices</a></span>.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/aws-identity-and-access-management.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"

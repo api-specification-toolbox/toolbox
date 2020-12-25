@@ -4,7 +4,7 @@ description: Browser Testing made simple! Run automated, visual, and manual test
   on 1500+ real browsers and mobile devices. Test more browsers, in less time.
 image: http://api.specificationtoolbox.com/images/service-providers/crossbrowsertesting.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "37050"

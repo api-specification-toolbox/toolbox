@@ -3,10 +3,9 @@ name: Google API Discovery Service
 description: <p>You can use the Google API Discovery Service to build client libraries,
   IDE plugins, and other tools that interact with Google APIs. It provides a lightweight,
   JSON-based API that exposes machine-readable metadata about Google APIs.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
-  Shot 2017-03-16 at 9.06.47 PM.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-api-discovery-service.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -39,4 +38,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -3,9 +3,9 @@ name: Read the Docs
 description: Read the Docs simplifies technical documentation by automating building,
   versioning, and hosting for you. Build up-to-date documentation for the web, print,
   and offline use on every version control push automatically.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/readthedocs.png
+image: http://api.specificationtoolbox.com/images/service-providers/read-the-docs.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "22218"
@@ -55,4 +55,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...
