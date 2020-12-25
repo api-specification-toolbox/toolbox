@@ -24,9 +24,6 @@ layout: default
                             {% endfor %}
                          </ul>
                          <h2>{{ page.name }}</h2>
-                         <ul class="post-meta">
-                            <li><span class="icon qb-clock"></span>{{ page.modified | date: "%b %d, %y" }}</li>
-                         </ul>
                       </div>
                       <div class="text">
                         {{ page.description }}
@@ -50,10 +47,36 @@ layout: default
                       </table>
                       </div>
 
+                      {% assign prevflag = 1 %}
+                      {% assign nextflag = 1 %}
+
+                      {% for c in site.service-providers %}
+                        {% if c.name == page.name %}
+                          {% assign currentItemIndex = forloop.index0 %}
+                          {% if forloop.index == 1 %}
+                            {% assign prevflag = 0 %}
+                            {% assign nextflag = 1 %}
+                          {% elsif forloop.index == forloop.length %}
+                            {% assign prevflag = 1 %}
+                            {% assign nextflag = 0 %}
+                          {% endif %}
+                        {% endif %}
+                      {% endfor %}
+
+                      {% if prevflag == 1 %}
+                        {% assign prevItemIndex = currentItemIndex | minus: 1 %}
+                        {% assign prevPost = site.service-providers[prevItemIndex] %}
+                      {% endif %}
+
+                      {% if nextflag == 1 %}
+                        {% assign nextItemIndex = currentItemIndex | plus: 1 %}
+                        {% assign nextPost = site.service-providers[nextItemIndex] %}
+                      {% endif %}
+
                       <!--New Article-->
                       <ul class="new-article clearfix">
-                         <li><a href="#"><span class="fa fa-angle-left"></span> &ensp; &ensp; &ensp; &ensp; Previous Article</a></li>
-                         <li><a href="#">Next Article &ensp; &ensp; &ensp; &ensp; <span class="fa fa-angle-right"></span></a></li>
+                         <li><a href="#"><span class="fa fa-angle-left"></span> &ensp; &ensp; &ensp; &ensp; Previous Article ({{ prevPost }})</a></li>
+                         <li><a href="#">Next Article &ensp; &ensp; &ensp; &ensp; ({{ nextPost }}) <span class="fa fa-angle-right"></span></a></li>
                       </ul>
                    </div>
 
