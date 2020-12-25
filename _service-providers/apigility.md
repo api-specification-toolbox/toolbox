@@ -1,9 +1,9 @@
 ---
 name: Apigility
 description: The world's easiest way to create high-quality APIs.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/apigility-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/apigility.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "769296"
@@ -27,4 +27,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

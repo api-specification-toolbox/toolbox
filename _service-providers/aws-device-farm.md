@@ -4,9 +4,9 @@ description: <p>AWS Device Farm is an app testing service that lets you test and
   with your Android, iOS, and web apps on many devices at once, or reproduce issues
   on a device in real time. View video, screenshots, logs, and performance data to
   pinpoint and fix issues before shipping your app.&nbsp;</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Mobile-Services_AWSDeviceFarm.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-device-farm.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -62,4 +62,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

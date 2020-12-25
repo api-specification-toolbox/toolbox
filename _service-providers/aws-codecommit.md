@@ -5,9 +5,9 @@ description: <p>AWS CodeCommit is a fully-managed source control service that ma
   CodeCommit eliminates the need to operate your own source control system or worry
   about scaling its infrastructure. You can use CodeCommit to securely store anything
   from source code to binaries, and it works seamlessly with your existing Git tools.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Developer-Tools_AWSCodeCommit.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-codecommit.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -58,4 +58,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

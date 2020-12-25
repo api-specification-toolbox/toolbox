@@ -4,9 +4,9 @@ description: Meetin.gs is a web and mobile meeting organizer that helps professi
   run better meetings in a smarter way. Sure-fire tools and a guided process bring
   the benefits of online collaboration to both online and offline meetings. Meetin.gs
   provides organ...
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28423-www-meetin-gs.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/meetin-gs.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "2329868"
@@ -50,4 +50,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

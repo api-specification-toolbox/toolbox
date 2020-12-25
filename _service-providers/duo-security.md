@@ -3,9 +3,9 @@ name: Duo Security
 description: Duo???s Trusted Access platform verifies the identity of your users with
   two-factor authentication and security health of their devices before they connect
   to the apps you want them to access.
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1050-duo-security.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/duo-security.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "15395"
@@ -74,4 +74,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

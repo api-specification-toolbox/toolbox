@@ -8,9 +8,9 @@ description: <p>Cloud Translation API provides a simple programmatic interface f
   where the source language is unknown. The underlying technology pushes the boundary
   of Machine Translation and is updated constantly to seamlessly improve translations
   and introduce new languages and language pairs.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/google-translate-hello-lead-2x.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-translate.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -62,4 +62,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

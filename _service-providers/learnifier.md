@@ -3,9 +3,9 @@ name: Learnifier
 description: Create your online courses in minutes. Learnifier is the fast and easy
   tool for creating and sharing great courses that work on your mobile, tablet and
   desktop. Book a DEMO or test it out with our FREE TRIAL.
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28448-learnifier.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/learnifier.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "1936346"
@@ -85,4 +85,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

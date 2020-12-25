@@ -5,9 +5,9 @@ description: Nimbella is a serverless cloud that helps developers and organizati
   cloud landscape. Nimbella is backed by proven enterprise-grade open source software,
   and offers organizations the peace of mind of being able to run across multiple
   clouds, including private infrastructure.
-image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+image: http://api.specificationtoolbox.com/images/service-providers/nimbella.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "20000000"
@@ -26,4 +26,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

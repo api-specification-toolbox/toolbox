@@ -3,9 +3,9 @@ name: OpenUMA
 description: At ForgeRock we provide an identity and access platform to secure every
   online relationship for the enterprise market, educational sector and even entire
   countries.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/open-uma.png
+image: http://api.specificationtoolbox.com/images/service-providers/openuma.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "934211"
@@ -57,4 +57,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -4,9 +4,9 @@ description: <p>Load test with thousands of concurrent users. Monitor website up
   and perfomance. Measure website speed and get insights. Run load tests in the Cloud
   and stress your API with up to 50,000 concurrent users. Inspect results to optimise
   and improve performance.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/loadfocus.png
+image: http://api.specificationtoolbox.com/images/service-providers/loadfocus.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "751634"
@@ -35,4 +35,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -3,9 +3,9 @@ name: AWS Simple Queue Service
 description: |-
   <p>Amazon Simple Queue Service (SQS) is a fast, reliable, scalable, fully managed message queuing service. Amazon SQS makes it simple and cost-effective to decouple the components of a cloud application. You can use Amazon SQS to transmit any volume of data, without losing messages or requiring other services to be always available. Amazon SQS includes&nbsp;<em>standard queues</em>&nbsp;with high throughput and at-least-once processing, and&nbsp;<em>FIFO queues</em>&nbsp;that provide FIFO (first-in, first-out) delivery and exactly-once processing. &nbsp;</p>
   <p>With Amazon SQS, you can offload the administrative burden of operating and scaling a highly available messaging cluster, while paying a low price for only what you use.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Application-Services_AmazonSQS.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-simple-queue-service.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -62,4 +62,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -6,9 +6,9 @@ description: <p>Google Cloud Container Builder lets you create Docker container 
   can deploy the container images you create on Google Container Engine, Google Compute
   Engine, Google App Engine flexible environment or other services where you can run
   applications from Docker containers.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/container-builder-lead.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-cloud-container-builder.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -154,4 +154,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

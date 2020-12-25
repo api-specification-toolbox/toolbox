@@ -5,9 +5,9 @@ description: <p>Azure Container Service optimizes the configuration of popular o
   portability for both your containers and your application configuration. You select
   the size, number of hosts, and choice of orchestrator tools&mdash;Container Service
   handles everything else.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/azure-container-service.png
+image: http://api.specificationtoolbox.com/images/service-providers/azure-container-service.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "33"
@@ -92,4 +92,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

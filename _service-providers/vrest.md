@@ -2,9 +2,9 @@
 name: vREST
 description: An effective online tool for automated REST API Testing. It also provides
   automated recording of REST / RESTful / HTTP APIs.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/vrsest-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/vrest.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "4156668"
@@ -59,4 +59,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

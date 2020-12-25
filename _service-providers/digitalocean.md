@@ -8,9 +8,9 @@ description: <p>DigitalOcean is a simple and fast cloud hosting service built fo
   intuitive, which power users can replicate on a larger scale with the company&rsquo;s
   API. DigitalOcean uses KVM virtualization and additionally hosts a library of helpful
   walkthroughs and tutorials that cover server configuration and optimization.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/DO_Logo_Horizontal_Black-3500c326.png
+image: http://api.specificationtoolbox.com/images/service-providers/digitalocean.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "2762"
@@ -98,4 +98,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

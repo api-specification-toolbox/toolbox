@@ -3,9 +3,9 @@ name: Gluu
 description: Gluu allows Organizations to safely manage identity security. Gluu supports
   SAML2.0, OpenID Content, idp shibboleth, idp saml, open source sso, active directory
   saml. Free Trial Available.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/gluu-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/gluu.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "285237"
@@ -82,4 +82,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -3,9 +3,9 @@ name: AWS Storage Gateway Service
 description: |-
   <p>The AWS Storage Gateway service seamlessly enables hybrid storage between on-premises storage environments and&nbsp;<a href="https://aws.amazon.com/what-is-cloud-storage/">the AWS Cloud</a>. It combines a multi-protocol storage appliance with highly efficient network connectivity to&nbsp;<a href="https://aws.amazon.com/products/storage/">Amazon cloud storage</a>&nbsp;services, delivering&nbsp; local performance with virtually unlimited scale. Customers use it in remote offices and datacenters for hybrid cloud workloads, backup and restore, archive, disaster recovery, and tiered storage.</p>
   <p>The Storage Gateway virtual appliance connects seamlessly to your local infrastructure as a file server, as a volume, or as a virtual tape library (VTL). This seamless connection makes it simple for organizations to augment existing on-premises storage investments with the high scalability, extreme durability and low cost of cloud storage. &nbsp;</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AWSStorageGateway.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-storage-gateway-service.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -54,4 +54,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

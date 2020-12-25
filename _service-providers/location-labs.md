@@ -2,9 +2,9 @@
 name: Location Labs
 description: "Enable your network\u2019s full potential by delivering top grade products
   your customers will love."
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/516_logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/location-labs.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "2885087"
@@ -82,4 +82,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

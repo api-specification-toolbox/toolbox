@@ -4,9 +4,9 @@ description: <p>Enable natural and contextual interaction with tools that augmen
   users' experiences using the power of machine-based intelligence. Tap into an ever-growing
   collection of powerful artificial intelligence algorithms for vision, speech, language,
   and knowledge.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/cognitive-services.png
+image: http://api.specificationtoolbox.com/images/service-providers/azure-cognitive-services.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "33"
@@ -83,4 +83,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

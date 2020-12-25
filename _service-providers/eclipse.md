@@ -3,9 +3,9 @@ name: Eclipse
 description: Facebook probably not the best place to post questions. If you have questions
   about Eclipse software, the forums is probably the best place to start (http://www.eclipse.org/forums).
   If you're not sure where your question fits, try the "newcomer" forum ...
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/mosquitto-145x100.png
+image: http://api.specificationtoolbox.com/images/service-providers/eclipse.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "7096"
@@ -102,4 +102,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -2,9 +2,9 @@
 name: loggr.net
 description: Monitor your web app events in Loggr, get powerful analytics, notifications
   and sharing from anywhere... in realtime.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/838_logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/loggr-net.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "1393379"
@@ -63,4 +63,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

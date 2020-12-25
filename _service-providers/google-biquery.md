@@ -6,9 +6,9 @@ description: <p>BigQuery is Google's fully managed, petabyte scale, low cost ent
   data to find meaningful insights using familiar SQL. BigQuery is a powerful Big
   Data analytics platform used by all types of organizations, from startups to Fortune
   500 companies.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/BigQuery_500px.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-biquery.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -183,4 +183,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

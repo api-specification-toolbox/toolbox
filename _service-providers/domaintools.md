@@ -3,9 +3,9 @@ name: DomainTools
 description: DomainTools helps security analysts turn threat data into threat intelligence.
   We take indicators from your network, including domains and IPs, and connect them
   with nearly every active domain on the Internet. Those connections inform risk assessments,...
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/393_logo..png
+image: http://api.specificationtoolbox.com/images/service-providers/domaintools.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "3010"
@@ -47,4 +47,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

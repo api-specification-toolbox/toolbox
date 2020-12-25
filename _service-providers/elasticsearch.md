@@ -2,9 +2,9 @@
 name: Elasticsearch
 description: We're the creators of Elasticsearch, Kibana, Beats, and Logstash -- the
   Elastic Stack. Securely and reliably search, analyze, and visualize your data.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1910_logo.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/elasticsearch.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1000000"
@@ -67,4 +67,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

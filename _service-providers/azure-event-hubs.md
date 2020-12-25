@@ -5,9 +5,9 @@ description: <p>Azure Event Hubs is a hyper-scale telemetry ingestion service th
   platform, it gives you low latency and configurable time retention, which enables
   you to ingress massive amounts of telemetry into the cloud and read the data from
   multiple applications using publish-subscribe semantics.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/azure-event-hubs-stream.png
+image: http://api.specificationtoolbox.com/images/service-providers/azure-event-hubs.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "33"
@@ -89,4 +89,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -5,10 +5,9 @@ description: ta at Work is about enabling an open 21st century workforce data ec
   tools, standards, and best practices for publishing data on skills, jobs, and training.
   The heart of Data at Work is the Open Skills Project, an dynamic national taxonomy
   of skills and jobs built on data from a large set of public and private data contributors.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
-  Shot 2016-10-12 at 11.19.25 PM.png
+image: http://api.specificationtoolbox.com/images/service-providers/dataatwork.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "3876105"
@@ -48,4 +47,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

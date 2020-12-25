@@ -7,9 +7,9 @@ description: '<p>API allowing retailers to manage their product feed content pro
   have the latest price-points and know what&rsquo;s in-stock before they click through
   to your site. More integration options: &nbsp;The newer API supports a broader choice
   of programming languages and data formats.</p>'
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Google-shopping-API1.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/google-content-api-for-shopping.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -44,4 +44,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -4,9 +4,9 @@ description: "Catchpoint provides a unified User Experience Measurement and Moni
   platform for Web, DNS, APIs, SSL, SaaS, networks and legacy applications using Advanced
   Synthetic Monitoring and RUM.\vso you can confidently fix issues faster than ever,
   Reduce MTTR and improve customer experiences."
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/726-catchpoint.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/catchpoint.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "158233"
@@ -52,4 +52,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

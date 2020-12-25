@@ -1,9 +1,9 @@
 ---
 name: Deltacloud
 description: Home page of The Apache Software Foundation
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/serviceproviders/delta_cloud_small.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/deltacloud.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "1791"
@@ -55,4 +55,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

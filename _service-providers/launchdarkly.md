@@ -6,9 +6,9 @@ description: <p>Our vision is to eliminate risk for developers and operations te
   comes with the desire to maintain control. LaunchDarkly is the feature management
   platform that enables dev and ops teams to control the whole feature lifecycle,
   from concept to launch to value.&nbsp;</p>
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/21652-launchdarkly-com.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/launchdarkly.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "96085"
@@ -83,4 +83,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

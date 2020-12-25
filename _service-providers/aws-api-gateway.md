@@ -11,9 +11,9 @@ description: <p>Amazon API Gateway is a fully managed service that makes it easy
   monitoring, and API version management. Amazon API Gateway has no minimum fees or
   startup costs. You pay only for the API calls you receive and the amount of data
   transferred out.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/aws-api-gateway-icon.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-api-gateway.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -65,4 +65,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

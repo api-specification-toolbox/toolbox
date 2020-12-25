@@ -7,9 +7,9 @@ description: Public API for managing Manufacturer Center related data. Impact th
   to the world. That information helps create more effective listings on Google Shopping
   and other Google services. If anything changes, you can provide new product data
   at any time.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/google-manufacturer-center-800x546.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-manufacturer-center.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -68,4 +68,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

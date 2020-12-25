@@ -5,9 +5,9 @@ description: <p>Apigee Edge is a platform for developing and managing API proxie
   APIs and provides value-added features like security, rate limiting, quotas, analytics,
   and more. The primary consumers of Edge API proxies are app developers who want
   to use your backend services.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/apigee-edge.png
+image: http://api.specificationtoolbox.com/images/service-providers/apigee.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "1"
@@ -70,4 +70,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

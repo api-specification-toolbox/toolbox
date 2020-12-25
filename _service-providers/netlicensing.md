@@ -5,9 +5,9 @@ description: <p>Labs64 NetLicensing is a first-class solution in the Licensing-a
   and scalable platform for software vendors and developers who want to concentrate
   on their product&rsquo;s core functionality instead of spending resources on developing
   an own license management software.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28466-labs64-net-licensing-restful-api-test-center.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/netlicensing.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "1269933"
@@ -57,4 +57,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

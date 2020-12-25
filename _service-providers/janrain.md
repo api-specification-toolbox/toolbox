@@ -8,9 +8,9 @@ description: <p>The Janrain User Management Platform (JUMP) helps organizations 
   strategy services, improve the effectiveness of online marketing initiatives for
   leading brands like Fox, Universal Music Group, Whole Foods, MTV, Purina, Avis and
   Dr Pepper.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/825_logo.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/janrain.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "293949"
@@ -59,4 +59,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

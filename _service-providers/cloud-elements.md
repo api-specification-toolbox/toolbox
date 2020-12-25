@@ -2,9 +2,9 @@
 name: Cloud Elements
 description: Cloud Elements is the leading API integration platform for SaaS app providers
   and the digital enterprise. Turn integration into your competitive advantage.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/cloud-elements-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/cloud-elements.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "212451"
@@ -91,4 +91,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

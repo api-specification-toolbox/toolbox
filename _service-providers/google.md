@@ -2,9 +2,9 @@
 name: Google
 description: "Firebase is Google\u2019s mobile platform that helps you quickly develop
   high-quality apps and grow your business."
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/firebase-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/google.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -99,4 +99,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -10,9 +10,9 @@ description: <p>Amazon Cognito lets you easily add user sign-up and sign-in to y
   device they use. With Amazon Cognito, you can focus on creating great app experiences
   instead of worrying about building, securing, and scaling a solution to handle user
   management, authentication, and sync across devices.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/aws-cognito.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-cognito.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -75,4 +75,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

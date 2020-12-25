@@ -8,9 +8,9 @@ description: <p>Google Cloud Vision API enables developers to understand the con
   your image catalog, moderate offensive content, or enable new marketing scenarios
   through image sentiment analysis. Analyze images uploaded in the request or integrate
   with your image storage on Google Cloud Storage.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-vision-what-is-it.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-cloud-vision.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -193,4 +193,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

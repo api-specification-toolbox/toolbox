@@ -5,9 +5,9 @@ description: <p>The Safe Browsing APIs (v4) let your client applications check U
   web resources are social engineering sites (phishing and deceptive sites) and sites
   that host malware or unwanted software. Any URL found on a Safe Browsing list is
   considered unsafe.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/SafeBrowsing_Icon.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-safe-browsing.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -42,4 +42,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

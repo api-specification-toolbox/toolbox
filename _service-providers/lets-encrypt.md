@@ -2,9 +2,9 @@
 name: Lets Encrypt
 description: Let&rsquo;s&nbsp;Encrypt is a free, automated, and open certificate    authority
   brought to you by the non-profit Internet Security Research Group (ISRG).
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/About_-_Let_s_Encrypt_-_Free_SSL_TLS_Certificates.png
+image: http://api.specificationtoolbox.com/images/service-providers/lets-encrypt.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "16662"
@@ -54,4 +54,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

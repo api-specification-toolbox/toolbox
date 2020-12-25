@@ -4,9 +4,9 @@ description: Domo is the fully mobile, cloud-based operating system that unifies
   component of your business and delivers it all, right on your phone. Domo brings
   together all your people, data, and systems into one place for a digitally-connected
   business.
-image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+image: http://api.specificationtoolbox.com/images/service-providers/domo.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "20000000"
@@ -26,4 +26,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

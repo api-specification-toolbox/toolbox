@@ -2,9 +2,9 @@
 name: LambdaLabs Face
 description: High-powered machines built specifically for Deep Learning applications.
   Pre-built and configured with Deep Learning software like Theano, Torch, and CUDA.
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1438-lambdalabs-face.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/lambdalabs-face.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "1000000"
@@ -40,4 +40,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

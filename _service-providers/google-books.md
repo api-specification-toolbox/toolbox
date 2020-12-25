@@ -4,10 +4,9 @@ description: <p>Google Books is our effort to make book content more discoverabl
   on the Web. Using the Google Books API, your application can perform full-text searches
   and retrieve book information, viewability and eBook availability. You can also
   manage your personal bookshelves.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
-  Shot 2017-03-16 at 4.28.26 PM.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-books.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -50,4 +49,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

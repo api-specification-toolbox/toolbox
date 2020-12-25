@@ -10,9 +10,9 @@ description: <p>Amazon EC2 Container Service (ECS) is a highly scalable, high pe
   to schedule the placement of containers across your cluster based on your resource
   needs and availability requirements. You can also integrate your own scheduler or
   third-party schedulers to meet business or application specific requirements.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECS.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-ec2-container-service.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -60,4 +60,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

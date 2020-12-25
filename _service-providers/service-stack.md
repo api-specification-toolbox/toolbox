@@ -2,9 +2,9 @@
 name: Service Stack
 description: "Thoughtfully architected, obscenely fast, \r  thoroughly enjoyable web
   services for all"
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/service-stack.png
+image: http://api.specificationtoolbox.com/images/service-providers/service-stack.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "206374"
@@ -124,4 +124,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

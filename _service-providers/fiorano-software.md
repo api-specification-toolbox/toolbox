@@ -1,9 +1,9 @@
 ---
 name: Fiorano Software
 description: Fiorano Software Technologies | Support with Invoative Products
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/fiorano-logo.gif
+image: http://api.specificationtoolbox.com/images/service-providers/fiorano-software.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "926077"
@@ -95,4 +95,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

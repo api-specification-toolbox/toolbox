@@ -4,9 +4,9 @@ description: <p>Brick is a collection of UI components designed for the easy and
   building of web application UIs. Brick components are built using the Web Components
   standard to allow developers to describe the UI of their app using the HTML syntax
   they already know.</p>
-image: ""
+image: http://api.specificationtoolbox.com/images/service-providers/mozilla-brick.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "1000000"
@@ -32,4 +32,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

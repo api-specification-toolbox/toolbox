@@ -2,9 +2,9 @@
 name: AppsFlyer
 description: "Accurate data, a customer-centric approach, and privacy by design make
   AppsFlyer the attribution platform of choice for the world\u2019s leading brands."
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/351-appsflyer.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/appsflyer.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "17108"
@@ -69,4 +69,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...
