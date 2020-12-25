@@ -745,7 +745,7 @@
   featured: false
 - name: OpenAPI
   description: This is the description for OpenAPI
-  featured: true
+  featured: false
 - name: Swagger
   description: This is the description for Swagger
   featured: false

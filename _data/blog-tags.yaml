@@ -1,13 +1,13 @@
 ---
 - name: Capabilities
   description: This is the description for Capabilities
-  featured: true
+  featured: false
 - name: Census
   description: This is the description for Census
-  featured: true
+  featured: false
 - name: Collections
   description: This is the description for Collections
-  featured: true
+  featured: false
 - name: Design
   description: This is the description for Design
   featured: true
@@ -16,13 +16,13 @@
   featured: true
 - name: Editor
   description: This is the description for Editor
-  featured: true
+  featured: false
 - name: Jira
   description: This is the description for Jira
-  featured: true
+  featured: false
 - name: Mocking
   description: This is the description for Mocking
-  featured: true
+  featured: false
 - name: OpenAPI
   description: This is the description for OpenAPI
   featured: true
@@ -31,13 +31,13 @@
   featured: true
 - name: Projects
   description: This is the description for Projects
-  featured: true
+  featured: false
 - name: Reference
   description: This is the description for Reference
-  featured: true
+  featured: false
 - name: Scope
   description: This is the description for Scope
-  featured: true
+  featured: false
 - name: Workspaces
   description: This is the description for Workspaces
-  featured: true
+  featured: false
