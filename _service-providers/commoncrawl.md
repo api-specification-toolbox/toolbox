@@ -1,9 +1,9 @@
 ---
 name: CommonCrawl
 description: CommonCrawl is a non-profit foundation dedicated to the open web.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/common-crawl-logo-2.png
+image: http://api.specificationtoolbox.com/images/service-providers/commoncrawl.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "254159"
@@ -56,4 +56,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

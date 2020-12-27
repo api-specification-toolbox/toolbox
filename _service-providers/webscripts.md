@@ -7,9 +7,9 @@ description: <p>Webscripts respond to HTTP requests, making them easy to call fr
   Webscripts are a fast and easy way to receive those webhooks. Our built-in request
   logging makes them equally easy to debug on-the-fly. Webscripts can also be activated
   on a schedule, providing a simple way to build monitoring or other automation.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/serviceproviders/webscript-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/webscripts.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "9925548"
@@ -41,4 +41,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

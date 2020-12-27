@@ -3,9 +3,9 @@ name: TIBCO Software
 description: TIBCO Software is the leading independent provider of infrastructure
   software creating event-enabled enterprises to use on-premise or as part of cloud
   computing environments.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/tibco-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/tibco-software.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "38636"
@@ -68,4 +68,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

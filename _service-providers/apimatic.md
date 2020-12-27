@@ -3,9 +3,9 @@ name: APIMATIC
 description: Create the best in class API Documentation, along with SDKs, Code Samples
   and Test Cases without any prior expertise. Enhance Developer Experience to make
   adoption rates for your API soar.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/apimatic-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/apimatic.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "305577"
@@ -46,4 +46,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

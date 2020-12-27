@@ -7,9 +7,9 @@ description: <p>The SmartAPI project aims to maximize the FAIRness (Findability,
   for defining the key API metadata elements and value sets. SmartAPI's leverage the
   Open API specification v3 and JSON-LD for providing semantically annotated JSON
   content that can be treated as Linked Data.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/smart-api-logo.jpeg
+image: http://api.specificationtoolbox.com/images/service-providers/smartapi.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "3488127"
@@ -37,4 +37,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

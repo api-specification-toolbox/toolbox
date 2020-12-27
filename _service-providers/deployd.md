@@ -1,9 +1,9 @@
 ---
 name: deployd
 description: Deployd is the simplest way to build APIs. Ever.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/deployd-logo.jpeg
+image: http://api.specificationtoolbox.com/images/service-providers/deployd.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "1501185"
@@ -44,4 +44,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

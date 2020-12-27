@@ -2,9 +2,9 @@
 name: API Academy
 description: Intensive Mentoring & Training for API Publishers & Architects APIs are
   at the heart of effective mobile, cloud and developer engagement strategies.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/api-academy-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/api-academy.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1560968"
@@ -30,4 +30,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -2,9 +2,9 @@
 name: Exosite
 description: Exosite is a leading Internet of Things (IoT) platform that makes it
   easy to build connected products, solutions, and businesses. Get started for free.
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1006-exosite.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/exosite.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "934096"
@@ -81,4 +81,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

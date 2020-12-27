@@ -4,9 +4,9 @@ description: AdSense is a free, simple way to make money online by placing ads o
   your website. Ads are reviewed to ensure they???re high quality and relevant to
   your content or audience, even when viewed on smartphones and tablets. The result?
   You can make more money online.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/google-adsense.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-adsense.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -64,4 +64,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -3,9 +3,9 @@ name: Google Cloud User Accounts
 description: <p>Service for managing the global Google Cloud user accounts. This API
   reference is organized by resource type. Each resource type has one or more data
   representations and one or more methods.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-icon.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-cloud-user-accounts.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -131,4 +131,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

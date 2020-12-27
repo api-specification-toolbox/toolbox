@@ -3,9 +3,9 @@ name: AppNeta
 description: AppNeta's award-winning suite of network monitoring tools allow unparalleled
   SaaS-based application end-user performance monitoring for 100% delivery confidence.
   Request a free demo!
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/11161-appneta.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/appneta.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "244492"
@@ -49,4 +49,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

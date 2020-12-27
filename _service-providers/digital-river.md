@@ -3,9 +3,9 @@ name: Digital River
 description: <p><strong>Digital River</strong><span>&nbsp;is a public company that
   provides global ecommerce, payments and marketing services. In 2013, Digital River
   processed more than $30 billion in online transactions.</span></p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/DigitalRiver_corp_logo_4c2.png
+image: http://api.specificationtoolbox.com/images/service-providers/digital-river.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "5320"
@@ -64,4 +64,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

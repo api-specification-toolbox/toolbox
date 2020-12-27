@@ -3,9 +3,9 @@ name: Algorithmia
 description: Algorithmia makes applications smarter, by building a community around
   algorithm development, where state of the art algorithms are always live and accessible
   to anyone.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/algorithmia-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/algorithmia.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "64189"
@@ -70,4 +70,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

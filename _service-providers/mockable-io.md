@@ -3,9 +3,9 @@ name: Mockable.io
 description: Mockable is a simple configurable service to mock out RESTful API or
   SOAP web-services. This online service allows you to quickly define REST API or
   SOAP endpoints and have them return JSON or XML data.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/mockable-io.jpeg
+image: http://api.specificationtoolbox.com/images/service-providers/mockable-io.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "355757"
@@ -29,4 +29,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

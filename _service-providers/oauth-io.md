@@ -2,9 +2,9 @@
 name: OAuth.io
 description: Integrate 100+ OAuth providers in minutes. Setup your keys, install oauth.js,
   and you are ready to play !
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/oauth-io.png
+image: http://api.specificationtoolbox.com/images/service-providers/oauth-io.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "1035394"
@@ -42,4 +42,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

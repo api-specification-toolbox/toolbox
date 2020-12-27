@@ -2,9 +2,9 @@
 name: Catch Software
 description: Enterprise Tester | JIRA | Confluence | Enterprise Architect for innovation,
   quality and test.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/catch_logo.gif
+image: http://api.specificationtoolbox.com/images/service-providers/catch-software.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "2248260"
@@ -50,4 +50,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

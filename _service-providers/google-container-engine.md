@@ -7,7 +7,7 @@ description: <p>Google Container Engine is a powerful cluster manager and orches
   you the flexibility to take advantage of on-premises, hybrid, or public cloud infrastructure.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/google-container-engine.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"

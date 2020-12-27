@@ -5,9 +5,9 @@ description: <p>Deploy and manage microservices with power and ease. Vamp, or th
   service based architectures. Vamp's core features are a platform-agnostic microservices
   DSL, powerful A-B testing/canary releasing, autoscaling and an integrated metrics
   &amp; event engine.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Vamp____The_Very_Awesome_Microservices_Platform.png
+image: http://api.specificationtoolbox.com/images/service-providers/vamp.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "2835871"
@@ -46,4 +46,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

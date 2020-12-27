@@ -1,31 +1,1843 @@
 ---
-- name: Tag One
-  description: This is the description for tag one.
+- name: .NET
+  description: This is the description for .NET
   featured: true
-- name: Tag Two
-  description: This is the description for tag two.
+- name: 3rd Party Products And Developer Tools
+  description: This is the description for 3rd Party Products And Developer Tools
   featured: true
-- name: Tag Three
-  description: This is the description for tag three.
+- name: AMQP
+  description: This is the description for AMQP
   featured: true
-- name: Tag Four
-  description: This is the description for tag four.
+- name: API
+  description: This is the description for API
   featured: true
-- name: Tag Five
-  description: This is the description for tag five.
-  featured: false
-- name: Tag Six
-  description: This is the description for tag six.
-  featured: false
-- name: Tag Seven
-  description: This is the description for tag seven.
-  featured: false
-- name: Tag Eight
-  description: This is the description for tag eight.
-  featured: false
-- name: Tag Nine
-  description: This is the description for tag nine.
-  featured: false
-- name: Tag Ten
-  description: This is the description for tag ten.
-  featured: false
+- name: API Commons
+  description: This is the description for API Commons
+  featured: true
+- name: API Description
+  description: This is the description for API Description
+  featured: true
+- name: API Events
+  description: This is the description for API Events
+  featured: true
+- name: API Key
+  description: This is the description for API Key
+  featured: true
+- name: API LIfeycle
+  description: This is the description for API LIfeycle
+  featured: true
+- name: API Learning
+  description: This is the description for API Learning
+  featured: true
+- name: API Management Other
+  description: This is the description for API Management Other
+  featured: true
+- name: API Management SDK
+  description: This is the description for API Management SDK
+  featured: true
+- name: API Not Found
+  description: This is the description for API Not Found
+  featured: true
+- name: API Provider
+  description: This is the description for API Provider
+  featured: true
+- name: API Service Provider
+  description: This is the description for API Service Provider
+  featured: true
+- name: API Tools
+  description: This is the description for API Tools
+  featured: true
+- name: API United Kingdom
+  description: This is the description for API United Kingdom
+  featured: true
+- name: APIs.json
+  description: This is the description for APIs.json
+  featured: true
+- name: Accounting
+  description: This is the description for Accounting
+  featured: true
+- name: Address Verification
+  description: This is the description for Address Verification
+  featured: true
+- name: Addresses
+  description: This is the description for Addresses
+  featured: true
+- name: Aggregation
+  description: This is the description for Aggregation
+  featured: true
+- name: Airlines
+  description: This is the description for Airlines
+  featured: true
+- name: Alexa
+  description: This is the description for Alexa
+  featured: true
+- name: Amazon Echo
+  description: This is the description for Amazon Echo
+  featured: true
+- name: Amazon Web Services
+  description: This is the description for Amazon Web Services
+  featured: true
+- name: Analysis
+  description: This is the description for Analysis
+  featured: true
+- name: Analytics
+  description: This is the description for Analytics
+  featured: true
+- name: Android
+  description: This is the description for Android
+  featured: true
+- name: Annotations
+  description: This is the description for Annotations
+  featured: true
+- name: Anomaly Detector
+  description: This is the description for Anomaly Detector
+  featured: true
+- name: Anomaly Score
+  description: This is the description for Anomaly Score
+  featured: true
+- name: Apache
+  description: This is the description for Apache
+  featured: true
+- name: Apache Software Foundation
+  description: This is the description for Apache Software Foundation
+  featured: true
+- name: Api Gateway
+  description: This is the description for Api Gateway
+  featured: true
+- name: Api Search
+  description: This is the description for Api Search
+  featured: true
+- name: Apicommons
+  description: This is the description for Apicommons
+  featured: true
+- name: Apijson
+  description: This is the description for Apijson
+  featured: true
+- name: Apisjson
+  description: This is the description for Apisjson
+  featured: true
+- name: Append
+  description: This is the description for Append
+  featured: true
+- name: Application Layer Gateways
+  description: This is the description for Application Layer Gateways
+  featured: true
+- name: Application Log
+  description: This is the description for Application Log
+  featured: true
+- name: Applications
+  description: This is the description for Applications
+  featured: true
+- name: Artificial Intelligence
+  description: This is the description for Artificial Intelligence
+  featured: true
+- name: Authentication
+  description: This is the description for Authentication
+  featured: true
+- name: Automated Testing
+  description: This is the description for Automated Testing
+  featured: true
+- name: Automatic Optimization
+  description: This is the description for Automatic Optimization
+  featured: true
+- name: Automation
+  description: This is the description for Automation
+  featured: true
+- name: Automl
+  description: This is the description for Automl
+  featured: true
+- name: Availability
+  description: This is the description for Availability
+  featured: true
+- name: Axway
+  description: This is the description for Axway
+  featured: true
+- name: B2B Solutions
+  description: This is the description for B2B Solutions
+  featured: true
+- name: BaaS
+  description: This is the description for BaaS
+  featured: true
+- name: Backups
+  description: This is the description for Backups
+  featured: true
+- name: Bandwidth
+  description: This is the description for Bandwidth
+  featured: true
+- name: Bandwidth Pooling
+  description: This is the description for Bandwidth Pooling
+  featured: true
+- name: Banking
+  description: This is the description for Banking
+  featured: true
+- name: Batch
+  description: This is the description for Batch
+  featured: true
+- name: Beacons
+  description: This is the description for Beacons
+  featured: true
+- name: Behavior
+  description: This is the description for Behavior
+  featured: true
+- name: Best Practices
+  description: This is the description for Best Practices
+  featured: true
+- name: Big Data
+  description: This is the description for Big Data
+  featured: true
+- name: Billing
+  description: This is the description for Billing
+  featured: true
+- name: Binaries
+  description: This is the description for Binaries
+  featured: true
+- name: Bindings
+  description: This is the description for Bindings
+  featured: true
+- name: Block Storage
+  description: This is the description for Block Storage
+  featured: true
+- name: Blockchain
+  description: This is the description for Blockchain
+  featured: true
+- name: Blogger
+  description: This is the description for Blogger
+  featured: true
+- name: Blogging
+  description: This is the description for Blogging
+  featured: true
+- name: Books
+  description: This is the description for Books
+  featured: true
+- name: Boosted Trees
+  description: This is the description for Boosted Trees
+  featured: true
+- name: Boosting Ensembles
+  description: This is the description for Boosting Ensembles
+  featured: true
+- name: Bootstrap
+  description: This is the description for Bootstrap
+  featured: true
+- name: Bots
+  description: This is the description for Bots
+  featured: true
+- name: Browser Testing
+  description: This is the description for Browser Testing
+  featured: true
+- name: Business
+  description: This is the description for Business
+  featured: true
+- name: Business Card
+  description: This is the description for Business Card
+  featured: true
+- name: Business Intelligence
+  description: This is the description for Business Intelligence
+  featured: true
+- name: C++
+  description: This is the description for C++
+  featured: true
+- name: CMS
+  description: This is the description for CMS
+  featured: true
+- name: CRM
+  description: This is the description for CRM
+  featured: true
+- name: Cache
+  description: This is the description for Cache
+  featured: true
+- name: Caching
+  description: This is the description for Caching
+  featured: true
+- name: Calendaring
+  description: This is the description for Calendaring
+  featured: true
+- name: Cameras
+  description: This is the description for Cameras
+  featured: true
+- name: Careers
+  description: This is the description for Careers
+  featured: true
+- name: Catalog
+  description: This is the description for Catalog
+  featured: true
+- name: Centroids
+  description: This is the description for Centroids
+  featured: true
+- name: Certificates
+  description: This is the description for Certificates
+  featured: true
+- name: Change Log Example
+  description: This is the description for Change Log Example
+  featured: true
+- name: Charts
+  description: This is the description for Charts
+  featured: true
+- name: Chats
+  description: This is the description for Chats
+  featured: true
+- name: Checks
+  description: This is the description for Checks
+  featured: true
+- name: Chrome
+  description: This is the description for Chrome
+  featured: true
+- name: Ci/
+  description: This is the description for Ci/
+  featured: true
+- name: Ci/cd
+  description: This is the description for Ci/cd
+  featured: true
+- name: Circuit Breaker
+  description: This is the description for Circuit Breaker
+  featured: true
+- name: City Government
+  description: This is the description for City Government
+  featured: true
+- name: Clients
+  description: This is the description for Clients
+  featured: true
+- name: Cloud Storage
+  description: This is the description for Cloud Storage
+  featured: true
+- name: Cloud Storage Platform
+  description: This is the description for Cloud Storage Platform
+  featured: true
+- name: Cluster
+  description: This is the description for Cluster
+  featured: true
+- name: Clustering
+  description: This is the description for Clustering
+  featured: true
+- name: Code
+  description: This is the description for Code
+  featured: true
+- name: Code Issues
+  description: This is the description for Code Issues
+  featured: true
+- name: Coding
+  description: This is the description for Coding
+  featured: true
+- name: Cognitive
+  description: This is the description for Cognitive
+  featured: true
+- name: Collaboration
+  description: This is the description for Collaboration
+  featured: true
+- name: Command Line Interface
+  description: This is the description for Command Line Interface
+  featured: true
+- name: Commerce
+  description: This is the description for Commerce
+  featured: true
+- name: Commercial Services
+  description: This is the description for Commercial Services
+  featured: true
+- name: Communications
+  description: This is the description for Communications
+  featured: true
+- name: Compilers
+  description: This is the description for Compilers
+  featured: true
+- name: Compliance
+  description: This is the description for Compliance
+  featured: true
+- name: Compute
+  description: This is the description for Compute
+  featured: true
+- name: Conferences
+  description: This is the description for Conferences
+  featured: true
+- name: Contacts
+  description: This is the description for Contacts
+  featured: true
+- name: Containers
+  description: This is the description for Containers
+  featured: true
+- name: Content
+  description: This is the description for Content
+  featured: true
+- name: Content Discovery
+  description: This is the description for Content Discovery
+  featured: true
+- name: Continuous Deployment
+  description: This is the description for Continuous Deployment
+  featured: true
+- name: Continuous Integration
+  description: This is the description for Continuous Integration
+  featured: true
+- name: Contracts
+  description: This is the description for Contracts
+  featured: true
+- name: Conversions
+  description: This is the description for Conversions
+  featured: true
+- name: Courses
+  description: This is the description for Courses
+  featured: true
+- name: Crawler
+  description: This is the description for Crawler
+  featured: true
+- name: Crawling
+  description: This is the description for Crawling
+  featured: true
+- name: Cross
+  description: This is the description for Cross
+  featured: true
+- name: Currencies
+  description: This is the description for Currencies
+  featured: true
+- name: Cybersecurity
+  description: This is the description for Cybersecurity
+  featured: true
+- name: DDoS
+  description: This is the description for DDoS
+  featured: true
+- name: DNS
+  description: This is the description for DNS
+  featured: true
+- name: DNS Check
+  description: This is the description for DNS Check
+  featured: true
+- name: DNS General
+  description: This is the description for DNS General
+  featured: true
+- name: DNS Internet
+  description: This is the description for DNS Internet
+  featured: true
+- name: DNS Monitor
+  description: This is the description for DNS Monitor
+  featured: true
+- name: DSL
+  description: This is the description for DSL
+  featured: true
+- name: Dashboards
+  description: This is the description for Dashboards
+  featured: true
+- name: Data Extraction
+  description: This is the description for Data Extraction
+  featured: true
+- name: Data Modeling
+  description: This is the description for Data Modeling
+  featured: true
+- name: Data Provider
+  description: This is the description for Data Provider
+  featured: true
+- name: Data Standards
+  description: This is the description for Data Standards
+  featured: true
+- name: Data Warehouse
+  description: This is the description for Data Warehouse
+  featured: true
+- name: Data Warehousing
+  description: This is the description for Data Warehousing
+  featured: true
+- name: Database
+  description: This is the description for Database
+  featured: true
+- name: Databases
+  description: This is the description for Databases
+  featured: true
+- name: Datasets
+  description: This is the description for Datasets
+  featured: true
+- name: Debugging
+  description: This is the description for Debugging
+  featured: true
+- name: Decision Trees
+  description: This is the description for Decision Trees
+  featured: true
+- name: Deep Learning
+  description: This is the description for Deep Learning
+  featured: true
+- name: Deep Neural Networks
+  description: This is the description for Deep Neural Networks
+  featured: true
+- name: Deepnets
+  description: This is the description for Deepnets
+  featured: true
+- name: Definitions
+  description: This is the description for Definitions
+  featured: true
+- name: Demographics
+  description: This is the description for Demographics
+  featured: true
+- name: Deployment
+  description: This is the description for Deployment
+  featured: true
+- name: Design
+  description: This is the description for Design
+  featured: true
+- name: Design Editor
+  description: This is the description for Design Editor
+  featured: true
+- name: Desktop
+  description: This is the description for Desktop
+  featured: true
+- name: Desktops
+  description: This is the description for Desktops
+  featured: true
+- name: Detection
+  description: This is the description for Detection
+  featured: true
+- name: Developer Portals
+  description: This is the description for Developer Portals
+  featured: true
+- name: Developer Tools
+  description: This is the description for Developer Tools
+  featured: true
+- name: Developers
+  description: This is the description for Developers
+  featured: true
+- name: Development
+  description: This is the description for Development
+  featured: true
+- name: Devices
+  description: This is the description for Devices
+  featured: true
+- name: Devops
+  description: This is the description for Devops
+  featured: true
+- name: Diagnostics
+  description: This is the description for Diagnostics
+  featured: true
+- name: Diagram
+  description: This is the description for Diagram
+  featured: true
+- name: Diagramming
+  description: This is the description for Diagramming
+  featured: true
+- name: Diagrams
+  description: This is the description for Diagrams
+  featured: true
+- name: Diff
+  description: This is the description for Diff
+  featured: true
+- name: Differences
+  description: This is the description for Differences
+  featured: true
+- name: Digital Assets
+  description: This is the description for Digital Assets
+  featured: true
+- name: Digital Business
+  description: This is the description for Digital Business
+  featured: true
+- name: Digital Transformation
+  description: This is the description for Digital Transformation
+  featured: true
+- name: Directories
+  description: This is the description for Directories
+  featured: true
+- name: Directory
+  description: This is the description for Directory
+  featured: true
+- name: Discovery
+  description: This is the description for Discovery
+  featured: true
+- name: Display
+  description: This is the description for Display
+  featured: true
+- name: Distance
+  description: This is the description for Distance
+  featured: true
+- name: Dnsbl
+  description: This is the description for Dnsbl
+  featured: true
+- name: Documentation
+  description: This is the description for Documentation
+  featured: true
+- name: Documents
+  description: This is the description for Documents
+  featured: true
+- name: Domain
+  description: This is the description for Domain
+  featured: true
+- name: Domain-specific Language
+  description: This is the description for Domain-specific Language
+  featured: true
+- name: Domains
+  description: This is the description for Domains
+  featured: true
+- name: DotNet
+  description: This is the description for DotNet
+  featured: true
+- name: Drones
+  description: This is the description for Drones
+  featured: true
+- name: Drupal
+  description: This is the description for Drupal
+  featured: true
+- name: ETL
+  description: This is the description for ETL
+  featured: true
+- name: Easy
+  description: This is the description for Easy
+  featured: true
+- name: Eclipse
+  description: This is the description for Eclipse
+  featured: true
+- name: Economy
+  description: This is the description for Economy
+  featured: true
+- name: Editor
+  description: This is the description for Editor
+  featured: true
+- name: Emails
+  description: This is the description for Emails
+  featured: true
+- name: Embed
+  description: This is the description for Embed
+  featured: true
+- name: Embeddable
+  description: This is the description for Embeddable
+  featured: true
+- name: Encryption
+  description: This is the description for Encryption
+  featured: true
+- name: Endpoint
+  description: This is the description for Endpoint
+  featured: true
+- name: Energy
+  description: This is the description for Energy
+  featured: true
+- name: Enrichment
+  description: This is the description for Enrichment
+  featured: true
+- name: Ensembles
+  description: This is the description for Ensembles
+  featured: true
+- name: Evaluate Predictive Models
+  description: This is the description for Evaluate Predictive Models
+  featured: true
+- name: Evaluation
+  description: This is the description for Evaluation
+  featured: true
+- name: Event Brokers
+  description: This is the description for Event Brokers
+  featured: true
+- name: Event Data
+  description: This is the description for Event Data
+  featured: true
+- name: Event Declaration
+  description: This is the description for Event Declaration
+  featured: true
+- name: Event Log
+  description: This is the description for Event Log
+  featured: true
+- name: Event Logs
+  description: This is the description for Event Logs
+  featured: true
+- name: Event Viewer
+  description: This is the description for Event Viewer
+  featured: true
+- name: Event-Driven
+  description: This is the description for Event-Driven
+  featured: true
+- name: Event-driven Runtime
+  description: This is the description for Event-driven Runtime
+  featured: true
+- name: Events
+  description: This is the description for Events
+  featured: true
+- name: Exchange
+  description: This is the description for Exchange
+  featured: true
+- name: Extensions
+  description: This is the description for Extensions
+  featured: true
+- name: Extraction
+  description: This is the description for Extraction
+  featured: true
+- name: Extraction And Transformation
+  description: This is the description for Extraction And Transformation
+  featured: true
+- name: Face
+  description: This is the description for Face
+  featured: true
+- name: Fast Predictions
+  description: This is the description for Fast Predictions
+  featured: true
+- name: File Storage
+  description: This is the description for File Storage
+  featured: true
+- name: Financial
+  description: This is the description for Financial
+  featured: true
+- name: Fitness
+  description: This is the description for Fitness
+  featured: true
+- name: Flatline
+  description: This is the description for Flatline
+  featured: true
+- name: Fonts
+  description: This is the description for Fonts
+  featured: true
+- name: Forecast
+  description: This is the description for Forecast
+  featured: true
+- name: Foreign Payment
+  description: This is the description for Foreign Payment
+  featured: true
+- name: Forking
+  description: This is the description for Forking
+  featured: true
+- name: Framework
+  description: This is the description for Framework
+  featured: true
+- name: Free
+  description: This is the description for Free
+  featured: true
+- name: Free Website Monitoring
+  description: This is the description for Free Website Monitoring
+  featured: true
+- name: Fusion
+  description: This is the description for Fusion
+  featured: true
+- name: G-means
+  description: This is the description for G-means
+  featured: true
+- name: GIS
+  description: This is the description for GIS
+  featured: true
+- name: GRPC
+  description: This is the description for GRPC
+  featured: true
+- name: Games
+  description: This is the description for Games
+  featured: true
+- name: Gateway
+  description: This is the description for Gateway
+  featured: true
+- name: Gateways
+  description: This is the description for Gateways
+  featured: true
+- name: General Data
+  description: This is the description for General Data
+  featured: true
+- name: Genome
+  description: This is the description for Genome
+  featured: true
+- name: Geo
+  description: This is the description for Geo
+  featured: true
+- name: GitHub
+  description: This is the description for GitHub
+  featured: true
+- name: Glasses
+  description: This is the description for Glasses
+  featured: true
+- name: Global
+  description: This is the description for Global
+  featured: true
+- name: Global Payment
+  description: This is the description for Global Payment
+  featured: true
+- name: Google
+  description: This is the description for Google
+  featured: true
+- name: Google Chrome
+  description: This is the description for Google Chrome
+  featured: true
+- name: Governance
+  description: This is the description for Governance
+  featured: true
+- name: Gradient Boosted Trees
+  description: This is the description for Gradient Boosted Trees
+  featured: true
+- name: Gradient Boosting
+  description: This is the description for Gradient Boosting
+  featured: true
+- name: Graph
+  description: This is the description for Graph
+  featured: true
+- name: GraphQL
+  description: This is the description for GraphQL
+  featured: true
+- name: GraphQL Editor
+  description: This is the description for GraphQL Editor
+  featured: true
+- name: Graphs
+  description: This is the description for Graphs
+  featured: true
+- name: Guides
+  description: This is the description for Guides
+  featured: true
+- name: HAL
+  description: This is the description for HAL
+  featured: true
+- name: HP 3000
+  description: This is the description for HP 3000
+  featured: true
+- name: HTTP/2
+  description: This is the description for HTTP/2
+  featured: true
+- name: Has API
+  description: This is the description for Has API
+  featured: true
+- name: Have API
+  description: This is the description for Have API
+  featured: true
+- name: Have API Paths
+  description: This is the description for Have API Paths
+  featured: true
+- name: Have OpenAPI
+  description: This is the description for Have OpenAPI
+  featured: true
+- name: Have Swagger
+  description: This is the description for Have Swagger
+  featured: true
+- name: Historical Data API
+  description: This is the description for Historical Data API
+  featured: true
+- name: History
+  description: This is the description for History
+  featured: true
+- name: Hydra
+  description: This is the description for Hydra
+  featured: true
+- name: Hypermedia
+  description: This is the description for Hypermedia
+  featured: true
+- name: IAM
+  description: This is the description for IAM
+  featured: true
+- name: IDE
+  description: This is the description for IDE
+  featured: true
+- name: IPaaS
+  description: This is the description for IPaaS
+  featured: true
+- name: ISP
+  description: This is the description for ISP
+  featured: true
+- name: Identification
+  description: This is the description for Identification
+  featured: true
+- name: Identities
+  description: This is the description for Identities
+  featured: true
+- name: Identity
+  description: This is the description for Identity
+  featured: true
+- name: Identity Systems
+  description: This is the description for Identity Systems
+  featured: true
+- name: Impact
+  description: This is the description for Impact
+  featured: true
+- name: Imports
+  description: This is the description for Imports
+  featured: true
+- name: Incident
+  description: This is the description for Incident
+  featured: true
+- name: Infrastructure As A Service Providers
+  description: This is the description for Infrastructure As A Service Providers
+  featured: true
+- name: Integration
+  description: This is the description for Integration
+  featured: true
+- name: Integration Landscape
+  description: This is the description for Integration Landscape
+  featured: true
+- name: Integrations
+  description: This is the description for Integrations
+  featured: true
+- name: Interesting
+  description: This is the description for Interesting
+  featured: true
+- name: Internet Of Things
+  description: This is the description for Internet Of Things
+  featured: true
+- name: Interoperability
+  description: This is the description for Interoperability
+  featured: true
+- name: Isolation Forest
+  description: This is the description for Isolation Forest
+  featured: true
+- name: Issue Management
+  description: This is the description for Issue Management
+  featured: true
+- name: Issues
+  description: This is the description for Issues
+  featured: true
+- name: Issues Example
+  description: This is the description for Issues Example
+  featured: true
+- name: JSON
+  description: This is the description for JSON
+  featured: true
+- name: JSON LD
+  description: This is the description for JSON LD
+  featured: true
+- name: Jaeger
+  description: This is the description for Jaeger
+  featured: true
+- name: Java
+  description: This is the description for Java
+  featured: true
+- name: Java Message Service
+  description: This is the description for Java Message Service
+  featured: true
+- name: JavaScript
+  description: This is the description for JavaScript
+  featured: true
+- name: Job Queueing
+  description: This is the description for Job Queueing
+  featured: true
+- name: K-means
+  description: This is the description for K-means
+  featured: true
+- name: Keys
+  description: This is the description for Keys
+  featured: true
+- name: Kubernetes
+  description: This is the description for Kubernetes
+  featured: true
+- name: Kubernetes Cluster
+  description: This is the description for Kubernetes Cluster
+  featured: true
+- name: LDA
+  description: This is the description for LDA
+  featured: true
+- name: Language API
+  description: This is the description for Language API
+  featured: true
+- name: Languages
+  description: This is the description for Languages
+  featured: true
+- name: Latent Dirichlet Allocation
+  description: This is the description for Latent Dirichlet Allocation
+  featured: true
+- name: Lds
+  description: This is the description for Lds
+  featured: true
+- name: Legal
+  description: This is the description for Legal
+  featured: true
+- name: Library
+  description: This is the description for Library
+  featured: true
+- name: Licensing
+  description: This is the description for Licensing
+  featured: true
+- name: Linear Regression
+  description: This is the description for Linear Regression
+  featured: true
+- name: Linked Data
+  description: This is the description for Linked Data
+  featured: true
+- name: Links
+  description: This is the description for Links
+  featured: true
+- name: Listener Discovery Service
+  description: This is the description for Listener Discovery Service
+  featured: true
+- name: Literate Programming
+  description: This is the description for Literate Programming
+  featured: true
+- name: Load And Performance Testing
+  description: This is the description for Load And Performance Testing
+  featured: true
+- name: Load Balancer
+  description: This is the description for Load Balancer
+  featured: true
+- name: Load Balancers
+  description: This is the description for Load Balancers
+  featured: true
+- name: Load Reporting Service
+  description: This is the description for Load Reporting Service
+  featured: true
+- name: Load Testing
+  description: This is the description for Load Testing
+  featured: true
+- name: Locations
+  description: This is the description for Locations
+  featured: true
+- name: Log Analysis
+  description: This is the description for Log Analysis
+  featured: true
+- name: Log Analyzer
+  description: This is the description for Log Analyzer
+  featured: true
+- name: Log Server
+  description: This is the description for Log Server
+  featured: true
+- name: Log Viewer
+  description: This is the description for Log Viewer
+  featured: true
+- name: Logging
+  description: This is the description for Logging
+  featured: true
+- name: Login
+  description: This is the description for Login
+  featured: true
+- name: Logistic Regression
+  description: This is the description for Logistic Regression
+  featured: true
+- name: Lookup
+  description: This is the description for Lookup
+  featured: true
+- name: Lr
+  description: This is the description for Lr
+  featured: true
+- name: MFT Services
+  description: This is the description for MFT Services
+  featured: true
+- name: ML
+  description: This is the description for ML
+  featured: true
+- name: MQTT
+  description: This is the description for MQTT
+  featured: true
+- name: Mac
+  description: This is the description for Mac
+  featured: true
+- name: Machine Learning
+  description: This is the description for Machine Learning
+  featured: true
+- name: Machine Learning API
+  description: This is the description for Machine Learning API
+  featured: true
+- name: Machine Learning As A Service
+  description: This is the description for Machine Learning As A Service
+  featured: true
+- name: Machine Learning Scraping
+  description: This is the description for Machine Learning Scraping
+  featured: true
+- name: Maintenance
+  description: This is the description for Maintenance
+  featured: true
+- name: Management
+  description: This is the description for Management
+  featured: true
+- name: Manufacturing
+  description: This is the description for Manufacturing
+  featured: true
+- name: MapReduce
+  description: This is the description for MapReduce
+  featured: true
+- name: Marketplace
+  description: This is the description for Marketplace
+  featured: true
+- name: Marketplaces
+  description: This is the description for Marketplaces
+  featured: true
+- name: Markets
+  description: This is the description for Markets
+  featured: true
+- name: Mashape
+  description: This is the description for Mashape
+  featured: true
+- name: Meetups
+  description: This is the description for Meetups
+  featured: true
+- name: Menus
+  description: This is the description for Menus
+  featured: true
+- name: Merging
+  description: This is the description for Merging
+  featured: true
+- name: Mesh
+  description: This is the description for Mesh
+  featured: true
+- name: Mesh Networks
+  description: This is the description for Mesh Networks
+  featured: true
+- name: Messages
+  description: This is the description for Messages
+  featured: true
+- name: Metrics
+  description: This is the description for Metrics
+  featured: true
+- name: Microservice
+  description: This is the description for Microservice
+  featured: true
+- name: Microservices
+  description: This is the description for Microservices
+  featured: true
+- name: Microservices Architecture
+  description: This is the description for Microservices Architecture
+  featured: true
+- name: Microsoft
+  description: This is the description for Microsoft
+  featured: true
+- name: Middleware
+  description: This is the description for Middleware
+  featured: true
+- name: Migrations
+  description: This is the description for Migrations
+  featured: true
+- name: Mock
+  description: This is the description for Mock
+  featured: true
+- name: Mocking
+  description: This is the description for Mocking
+  featured: true
+- name: Model Gallery
+  description: This is the description for Model Gallery
+  featured: true
+- name: Models
+  description: This is the description for Models
+  featured: true
+- name: Money
+  description: This is the description for Money
+  featured: true
+- name: Monitoring
+  description: This is the description for Monitoring
+  featured: true
+- name: Monitors
+  description: This is the description for Monitors
+  featured: true
+- name: Multi-Cloud
+  description: This is the description for Multi-Cloud
+  featured: true
+- name: Mx Record Check
+  description: This is the description for Mx Record Check
+  featured: true
+- name: My API Stack
+  description: This is the description for My API Stack
+  featured: true
+- name: NGINX
+  description: This is the description for NGINX
+  featured: true
+- name: Name Search
+  description: This is the description for Name Search
+  featured: true
+- name: Netherlands
+  description: This is the description for Netherlands
+  featured: true
+- name: Network
+  description: This is the description for Network
+  featured: true
+- name: Network Management
+  description: This is the description for Network Management
+  featured: true
+- name: Networking
+  description: This is the description for Networking
+  featured: true
+- name: Networks
+  description: This is the description for Networks
+  featured: true
+- name: Neural Network
+  description: This is the description for Neural Network
+  featured: true
+- name: Neural Networks
+  description: This is the description for Neural Networks
+  featured: true
+- name: New
+  description: This is the description for New
+  featured: true
+- name: News
+  description: This is the description for News
+  featured: true
+- name: News And Media
+  description: This is the description for News And Media
+  featured: true
+- name: No API
+  description: This is the description for No API
+  featured: true
+- name: No API Definition
+  description: This is the description for No API Definition
+  featured: true
+- name: No Credit Card
+  description: This is the description for No Credit Card
+  featured: true
+- name: NoSQL
+  description: This is the description for NoSQL
+  featured: true
+- name: Node.js
+  description: This is the description for Node.js
+  featured: true
+- name: Notification
+  description: This is the description for Notification
+  featured: true
+- name: Notifications
+  description: This is the description for Notifications
+  featured: true
+- name: OAuth
+  description: This is the description for OAuth
+  featured: true
+- name: Office
+  description: This is the description for Office
+  featured: true
+- name: Open API
+  description: This is the description for Open API
+  featured: true
+- name: Open Source
+  description: This is the description for Open Source
+  featured: true
+- name: OpenID
+  description: This is the description for OpenID
+  featured: true
+- name: Operations
+  description: This is the description for Operations
+  featured: true
+- name: Optiml
+  description: This is the description for Optiml
+  featured: true
+- name: Orchestration
+  description: This is the description for Orchestration
+  featured: true
+- name: PCA
+  description: This is the description for PCA
+  featured: true
+- name: PHP
+  description: This is the description for PHP
+  featured: true
+- name: PSD2
+  description: This is the description for PSD2
+  featured: true
+- name: PaaS
+  description: This is the description for PaaS
+  featured: true
+- name: Partial Dependence Plot
+  description: This is the description for Partial Dependence Plot
+  featured: true
+- name: Passwords
+  description: This is the description for Passwords
+  featured: true
+- name: Pastebin
+  description: This is the description for Pastebin
+  featured: true
+- name: Payment
+  description: This is the description for Payment
+  featured: true
+- name: Pb10
+  description: This is the description for Pb10
+  featured: true
+- name: Pb11
+  description: This is the description for Pb11
+  featured: true
+- name: Pb12
+  description: This is the description for Pb12
+  featured: true
+- name: Pb12.5
+  description: This is the description for Pb12.5
+  featured: true
+- name: Pb6.5
+  description: This is the description for Pb6.5
+  featured: true
+- name: Pb7
+  description: This is the description for Pb7
+  featured: true
+- name: Pb8
+  description: This is the description for Pb8
+  featured: true
+- name: Pb9
+  description: This is the description for Pb9
+  featured: true
+- name: Performance
+  description: This is the description for Performance
+  featured: true
+- name: Phones
+  description: This is the description for Phones
+  featured: true
+- name: Photos
+  description: This is the description for Photos
+  featured: true
+- name: Plans
+  description: This is the description for Plans
+  featured: true
+- name: Platform As A Service Providers
+  description: This is the description for Platform As A Service Providers
+  featured: true
+- name: Portability
+  description: This is the description for Portability
+  featured: true
+- name: Portals
+  description: This is the description for Portals
+  featured: true
+- name: Postman Collections
+  description: This is the description for Postman Collections
+  featured: true
+- name: Postman Doc Search
+  description: This is the description for Postman Doc Search
+  featured: true
+- name: PowerBuilder
+  description: This is the description for PowerBuilder
+  featured: true
+- name: Pre-built Binaries
+  description: This is the description for Pre-built Binaries
+  featured: true
+- name: Predictions
+  description: This is the description for Predictions
+  featured: true
+- name: Predictive Models
+  description: This is the description for Predictive Models
+  featured: true
+- name: Previous Versions
+  description: This is the description for Previous Versions
+  featured: true
+- name: Principal Component Analysis
+  description: This is the description for Principal Component Analysis
+  featured: true
+- name: Privacy
+  description: This is the description for Privacy
+  featured: true
+- name: Procedures
+  description: This is the description for Procedures
+  featured: true
+- name: Productivity
+  description: This is the description for Productivity
+  featured: true
+- name: Products And Tools
+  description: This is the description for Products And Tools
+  featured: true
+- name: Profile
+  description: This is the description for Profile
+  featured: true
+- name: Program
+  description: This is the description for Program
+  featured: true
+- name: ProgrammableWeb
+  description: This is the description for ProgrammableWeb
+  featured: true
+- name: Programming
+  description: This is the description for Programming
+  featured: true
+- name: Projects
+  description: This is the description for Projects
+  featured: true
+- name: Prometheus
+  description: This is the description for Prometheus
+  featured: true
+- name: Protocols
+  description: This is the description for Protocols
+  featured: true
+- name: Prototyping
+  description: This is the description for Prototyping
+  featured: true
+- name: Proxies
+  description: This is the description for Proxies
+  featured: true
+- name: Proxy
+  description: This is the description for Proxy
+  featured: true
+- name: Ptr
+  description: This is the description for Ptr
+  featured: true
+- name: PubSub
+  description: This is the description for PubSub
+  featured: true
+- name: Python
+  description: This is the description for Python
+  featured: true
+- name: Queries
+  description: This is the description for Queries
+  featured: true
+- name: Query
+  description: This is the description for Query
+  featured: true
+- name: REST
+  description: This is the description for REST
+  featured: true
+- name: Random Decision Forest
+  description: This is the description for Random Decision Forest
+  featured: true
+- name: Rankings
+  description: This is the description for Rankings
+  featured: true
+- name: Recognition
+  description: This is the description for Recognition
+  featured: true
+- name: Recovery
+  description: This is the description for Recovery
+  featured: true
+- name: Ref
+  description: This is the description for Ref
+  featured: true
+- name: Reference
+  description: This is the description for Reference
+  featured: true
+- name: Registrations
+  description: This is the description for Registrations
+  featured: true
+- name: Regression
+  description: This is the description for Regression
+  featured: true
+- name: Relative Data
+  description: This is the description for Relative Data
+  featured: true
+- name: Reliability
+  description: This is the description for Reliability
+  featured: true
+- name: Remote Website Monitoring
+  description: This is the description for Remote Website Monitoring
+  featured: true
+- name: Reseller
+  description: This is the description for Reseller
+  featured: true
+- name: Resellers
+  description: This is the description for Resellers
+  featured: true
+- name: Resources
+  description: This is the description for Resources
+  featured: true
+- name: Restaurants
+  description: This is the description for Restaurants
+  featured: true
+- name: Reverse
+  description: This is the description for Reverse
+  featured: true
+- name: Reverse Proxy
+  description: This is the description for Reverse Proxy
+  featured: true
+- name: Review
+  description: This is the description for Review
+  featured: true
+- name: Revision History
+  description: This is the description for Revision History
+  featured: true
+- name: Run In Postman Button
+  description: This is the description for Run In Postman Button
+  featured: true
+- name: SEO Rank Checking Service
+  description: This is the description for SEO Rank Checking Service
+  featured: true
+- name: SOAP
+  description: This is the description for SOAP
+  featured: true
+- name: SPF Record Check
+  description: This is the description for SPF Record Check
+  featured: true
+- name: SSL
+  description: This is the description for SSL
+  featured: true
+- name: SaaS
+  description: This is the description for SaaS
+  featured: true
+- name: Sandbox
+  description: This is the description for Sandbox
+  featured: true
+- name: Scalable Access
+  description: This is the description for Scalable Access
+  featured: true
+- name: Scatter Plot
+  description: This is the description for Scatter Plot
+  featured: true
+- name: Schedules
+  description: This is the description for Schedules
+  featured: true
+- name: Schema.org
+  description: This is the description for Schema.org
+  featured: true
+- name: Schemas
+  description: This is the description for Schemas
+  featured: true
+- name: Scraping
+  description: This is the description for Scraping
+  featured: true
+- name: Scraping Tools
+  description: This is the description for Scraping Tools
+  featured: true
+- name: Scraping Web Crawler
+  description: This is the description for Scraping Web Crawler
+  featured: true
+- name: Screenshot Comparison
+  description: This is the description for Screenshot Comparison
+  featured: true
+- name: Screenshots
+  description: This is the description for Screenshots
+  featured: true
+- name: Scripts
+  description: This is the description for Scripts
+  featured: true
+- name: Search
+  description: This is the description for Search
+  featured: true
+- name: Search Engine
+  description: This is the description for Search Engine
+  featured: true
+- name: Secure Website Monitoring
+  description: This is the description for Secure Website Monitoring
+  featured: true
+- name: Security
+  description: This is the description for Security
+  featured: true
+- name: Security Cameras
+  description: This is the description for Security Cameras
+  featured: true
+- name: Sensors
+  description: This is the description for Sensors
+  featured: true
+- name: Sentiment Analysis
+  description: This is the description for Sentiment Analysis
+  featured: true
+- name: Server Monitoring
+  description: This is the description for Server Monitoring
+  featured: true
+- name: Serverless
+  description: This is the description for Serverless
+  featured: true
+- name: Servers
+  description: This is the description for Servers
+  featured: true
+- name: Service Level Agreement
+  description: This is the description for Service Level Agreement
+  featured: true
+- name: Service Mesh
+  description: This is the description for Service Mesh
+  featured: true
+- name: Service Providers
+  description: This is the description for Service Providers
+  featured: true
+- name: Sharing
+  description: This is the description for Sharing
+  featured: true
+- name: Shopping
+  description: This is the description for Shopping
+  featured: true
+- name: Single Page Applications
+  description: This is the description for Single Page Applications
+  featured: true
+- name: Single Source Of Truth
+  description: This is the description for Single Source Of Truth
+  featured: true
+- name: Skills
+  description: This is the description for Skills
+  featured: true
+- name: Slack
+  description: This is the description for Slack
+  featured: true
+- name: Slides
+  description: This is the description for Slides
+  featured: true
+- name: Snippets
+  description: This is the description for Snippets
+  featured: true
+- name: Social Bookmarking
+  description: This is the description for Social Bookmarking
+  featured: true
+- name: Social Networking
+  description: This is the description for Social Networking
+  featured: true
+- name: Social Profiles
+  description: This is the description for Social Profiles
+  featured: true
+- name: Social Sharing
+  description: This is the description for Social Sharing
+  featured: true
+- name: Software
+  description: This is the description for Software
+  featured: true
+- name: Software As A Service Providers
+  description: This is the description for Software As A Service Providers
+  featured: true
+- name: Source
+  description: This is the description for Source
+  featured: true
+- name: Spanish Bank
+  description: This is the description for Spanish Bank
+  featured: true
+- name: Spectrum
+  description: This is the description for Spectrum
+  featured: true
+- name: Speech
+  description: This is the description for Speech
+  featured: true
+- name: Speech Recognition
+  description: This is the description for Speech Recognition
+  featured: true
+- name: Spreadsheets
+  description: This is the description for Spreadsheets
+  featured: true
+- name: Stability
+  description: This is the description for Stability
+  featured: true
+- name: Stack
+  description: This is the description for Stack
+  featured: true
+- name: Standards
+  description: This is the description for Standards
+  featured: true
+- name: State Government
+  description: This is the description for State Government
+  featured: true
+- name: Stateful
+  description: This is the description for Stateful
+  featured: true
+- name: Statuses
+  description: This is the description for Statuses
+  featured: true
+- name: Stocks
+  description: This is the description for Stocks
+  featured: true
+- name: Storage
+  description: This is the description for Storage
+  featured: true
+- name: Stored
+  description: This is the description for Stored
+  featured: true
+- name: Streaming
+  description: This is the description for Streaming
+  featured: true
+- name: Streams
+  description: This is the description for Streams
+  featured: true
+- name: Studio
+  description: This is the description for Studio
+  featured: true
+- name: Surveillance
+  description: This is the description for Surveillance
+  featured: true
+- name: Surveys
+  description: This is the description for Surveys
+  featured: true
+- name: Sybase
+  description: This is the description for Sybase
+  featured: true
+- name: Syncing
+  description: This is the description for Syncing
+  featured: true
+- name: TCP
+  description: This is the description for TCP
+  featured: true
+- name: Tags
+  description: This is the description for Tags
+  featured: true
+- name: Target
+  description: This is the description for Target
+  featured: true
+- name: Tasks
+  description: This is the description for Tasks
+  featured: true
+- name: TempSave
+  description: This is the description for TempSave
+  featured: true
+- name: Templates
+  description: This is the description for Templates
+  featured: true
+- name: Test Cases
+  description: This is the description for Test Cases
+  featured: true
+- name: Test Editor
+  description: This is the description for Test Editor
+  featured: true
+- name: Test End-points
+  description: This is the description for Test End-points
+  featured: true
+- name: Test Recorder
+  description: This is the description for Test Recorder
+  featured: true
+- name: Test Services
+  description: This is the description for Test Services
+  featured: true
+- name: Testing
+  description: This is the description for Testing
+  featured: true
+- name: Tests
+  description: This is the description for Tests
+  featured: true
+- name: Text Analysis
+  description: This is the description for Text Analysis
+  featured: true
+- name: Text Recognition
+  description: This is the description for Text Recognition
+  featured: true
+- name: Texts
+  description: This is the description for Texts
+  featured: true
+- name: Thermostats
+  description: This is the description for Thermostats
+  featured: true
+- name: Third Party Certificate Authorities
+  description: This is the description for Third Party Certificate Authorities
+  featured: true
+- name: Time Series Forecasting
+  description: This is the description for Time Series Forecasting
+  featured: true
+- name: Timeseries
+  description: This is the description for Timeseries
+  featured: true
+- name: Token
+  description: This is the description for Token
+  featured: true
+- name: Tool
+  description: This is the description for Tool
+  featured: true
+- name: Toolbox
+  description: This is the description for Toolbox
+  featured: true
+- name: Tools
+  description: This is the description for Tools
+  featured: true
+- name: Topic
+  description: This is the description for Topic
+  featured: true
+- name: Topic Distributions
+  description: This is the description for Topic Distributions
+  featured: true
+- name: Topic Modeling
+  description: This is the description for Topic Modeling
+  featured: true
+- name: Tracing
+  description: This is the description for Tracing
+  featured: true
+- name: Track Revisions
+  description: This is the description for Track Revisions
+  featured: true
+- name: Traffic
+  description: This is the description for Traffic
+  featured: true
+- name: Trainings
+  description: This is the description for Trainings
+  featured: true
+- name: Translations
+  description: This is the description for Translations
+  featured: true
+- name: Traversal
+  description: This is the description for Traversal
+  featured: true
+- name: Trends
+  description: This is the description for Trends
+  featured: true
+- name: Trust
+  description: This is the description for Trust
+  featured: true
+- name: Twitter
+  description: This is the description for Twitter
+  featured: true
+- name: UI
+  description: This is the description for UI
+  featured: true
+- name: UK Banks
+  description: This is the description for UK Banks
+  featured: true
+- name: UML
+  description: This is the description for UML
+  featured: true
+- name: URL Shorteners
+  description: This is the description for URL Shorteners
+  featured: true
+- name: US Bank
+  description: This is the description for US Bank
+  featured: true
+- name: Under Active Development
+  description: This is the description for Under Active Development
+  featured: true
+- name: Unified
+  description: This is the description for Unified
+  featured: true
+- name: Uptime Monitoring
+  description: This is the description for Uptime Monitoring
+  featured: true
+- name: Url Monitoring
+  description: This is the description for Url Monitoring
+  featured: true
+- name: User Activity
+  description: This is the description for User Activity
+  featured: true
+- name: User Interface Testing
+  description: This is the description for User Interface Testing
+  featured: true
+- name: Users
+  description: This is the description for Users
+  featured: true
+- name: Verification
+  description: This is the description for Verification
+  featured: true
+- name: Version Control
+  description: This is the description for Version Control
+  featured: true
+- name: Version Tagging
+  description: This is the description for Version Tagging
+  featured: true
+- name: Versioning
+  description: This is the description for Versioning
+  featured: true
+- name: Viewers
+  description: This is the description for Viewers
+  featured: true
+- name: Virtualizations
+  description: This is the description for Virtualizations
+  featured: true
+- name: Visual Expert
+  description: This is the description for Visual Expert
+  featured: true
+- name: Visualizations
+  description: This is the description for Visualizations
+  featured: true
+- name: Wearables
+  description: This is the description for Wearables
+  featured: true
+- name: Web Apps
+  description: This is the description for Web Apps
+  featured: true
+- name: Web Crawler
+  description: This is the description for Web Crawler
+  featured: true
+- name: Web Scraper
+  description: This is the description for Web Scraper
+  featured: true
+- name: Web Server
+  description: This is the description for Web Server
+  featured: true
+- name: Web Tools
+  description: This is the description for Web Tools
+  featured: true
+- name: WebSocket
+  description: This is the description for WebSocket
+  featured: true
+- name: Webhooks
+  description: This is the description for Webhooks
+  featured: true
+- name: Webpage Monitor
+  description: This is the description for Webpage Monitor
+  featured: true
+- name: Website Analysis
+  description: This is the description for Website Analysis
+  featured: true
+- name: Website Availability Monitoring
+  description: This is the description for Website Availability Monitoring
+  featured: true
+- name: Website Monitor
+  description: This is the description for Website Monitor
+  featured: true
+- name: Website Monitoring
+  description: This is the description for Website Monitoring
+  featured: true
+- name: Website Monitoring Services
+  description: This is the description for Website Monitoring Services
+  featured: true
+- name: Website Monitoring Tools
+  description: This is the description for Website Monitoring Tools
+  featured: true
+- name: Website Performance Monitoring
+  description: This is the description for Website Performance Monitoring
+  featured: true
+- name: Website Uptime
+  description: This is the description for Website Uptime
+  featured: true
+- name: Websites
+  description: This is the description for Websites
+  featured: true
+- name: Whizzml
+  description: This is the description for Whizzml
+  featured: true
+- name: Wiki
+  description: This is the description for Wiki
+  featured: true
+- name: Word Processors
+  description: This is the description for Word Processors
+  featured: true
+- name: WorkSpaces
+  description: This is the description for WorkSpaces
+  featured: true
+- name: Workers
+  description: This is the description for Workers
+  featured: true
+- name: Workflows
+  description: This is the description for Workflows
+  featured: true
+- name: XDS
+  description: This is the description for XDS
+  featured: true
+- name: YAML
+  description: This is the description for YAML
+  featured: true
+- name: Zapier
+  description: This is the description for Zapier
+  featured: true
+- name: Zip Codes
+  description: This is the description for Zip Codes
+  featured: true

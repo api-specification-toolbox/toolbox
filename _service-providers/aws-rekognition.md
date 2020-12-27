@@ -4,9 +4,9 @@ description: |-
   <p>Amazon Rekognition is a service that makes it easy to add image analysis to your applications. With Rekognition, you can detect objects, scenes, and faces in images. You can also search and compare faces. Rekognition&rsquo;s API enables you to quickly add sophisticated deep learning-based visual search and image classification to your applications.</p>
   <p>Amazon Rekognition is based on the same proven, highly scalable, deep learning technology developed by Amazon&rsquo;s computer vision scientists to analyze billions of images daily for Prime Photos. Amazon Rekognition uses deep neural network models to detect and label thousands of objects and scenes in your images, and we are continually adding new labels and facial recognition features to the service.</p>
   <p>Rekognition&rsquo;s API lets you easily build powerful visual search and discovery into your applications. With Amazon Rekognition, you only pay for the images you analyze and the face metadata you store. There are no minimum fees and there are no upfront commitments.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/aws-rekognition.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-rekognition.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -59,4 +59,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

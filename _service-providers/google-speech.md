@@ -7,9 +7,9 @@ description: <p>Google Cloud Speech API enables developers to convert audio to t
   through voice, or transcribe audio files, among many other use cases. Recognize
   audio uploaded in the request, and integrate with your audio storage on Google Cloud
   Storage, by using the same technology Google uses to power its own products.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/speech-api-lead_2x.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-speech.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -163,4 +163,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

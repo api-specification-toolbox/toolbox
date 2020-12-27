@@ -2,9 +2,9 @@
 name: Cisco Continuum
 description: Cisco is the worldwide leader in IT and networking. We help companies
   of all sizes transform how people connect, communicate, and collaborate.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Cisco_Continuum.png
+image: http://api.specificationtoolbox.com/images/service-providers/cisco-continuum.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "918"
@@ -56,4 +56,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

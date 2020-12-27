@@ -10,9 +10,9 @@ description: <p>Amazon ElastiCache is a web service that makes it easy to deploy
   load times. Through integration with Amazon CloudWatch, Amazon ElastiCache provides
   enhanced visibility into key performance metrics associated with your Redis or Memcached
   nodes.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonElasticCache.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-elasticache.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -73,4 +73,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -3,9 +3,9 @@ name: Speedway
 description: These aren't your basic uptime checks. Speedway tests scripted transactional
   flows against multiple API endpoints so you can make sure your entire API stays
   fast, functional, and reliable.
-image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+image: http://api.specificationtoolbox.com/images/service-providers/speedway.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "20000000"
@@ -23,4 +23,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

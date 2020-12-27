@@ -4,9 +4,9 @@ description: <p>oEmbed is a format for allowing an embedded representation of a 
   on third party sites. The simple API allows a website to display embedded content
   (such as photos or videos) when a user posts a link to that resource, without having
   to parse the resource directly.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/oEmbed.png
+image: http://api.specificationtoolbox.com/images/service-providers/oembed.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "388468"
@@ -142,4 +142,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

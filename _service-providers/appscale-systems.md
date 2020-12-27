@@ -3,9 +3,9 @@ name: AppScale Systems
 description: AppScale is an easy-to-manage serverless platform for building and running
   scalable web and mobile applications on any infrastructure. Build your app rapidly
   for multi cloud deployment.
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/21971-appscale-com.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/appscale-systems.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "1883488"
@@ -63,4 +63,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

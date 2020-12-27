@@ -6,7 +6,7 @@ description: Did you know?     ??? Thermostats represent 50-70% of your home ene
   customers run an ene...
 image: http://api.specificationtoolbox.com/images/service-providers/ecobee.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "28314"

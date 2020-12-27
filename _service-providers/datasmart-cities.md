@@ -4,9 +4,9 @@ description: Data-Smart City Solutions is working to catalyze adoption of data p
   on the local government level by serving as a central resource for cities interested
   in this emerging field. We highlight best practices, top innovators, and promising
   case studies while also connecting leading industry, academic, and government officials.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/data-smart-city-solutions.png
+image: http://api.specificationtoolbox.com/images/service-providers/datasmart-cities.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "864"
@@ -33,4 +33,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

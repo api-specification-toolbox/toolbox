@@ -5,9 +5,9 @@ description: <p>Amazon Kinesis Firehose is the easiest way to load streaming dat
   Analytics, Amazon S3, Amazon Redshift, and Amazon Elasticsearch Service, enabling
   near real-time analytics with existing business intelligence tools and dashboards
   you are already using today.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisFirehose.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-kinesis.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -69,4 +69,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

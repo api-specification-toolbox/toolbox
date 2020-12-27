@@ -5,9 +5,9 @@ description: <p>The Calendar API lets you display, create and modify calendar ev
   controls. This document describes how to use RESTful calls and client libraries
   for various programming languages (Java, PHP, .NET, JavaScript, NodeJs, Ruby, Python,
   Go, Android, iOS).</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/google-calendar-icon-66527.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-calendar.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -44,4 +44,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

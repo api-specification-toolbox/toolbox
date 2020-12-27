@@ -3,9 +3,9 @@ name: ProgrammableWeb
 description: "The leading source of news & information about APIs, chronicling the
   evolution of the global API economy & providing the web\u2019s most relied-on API
   Directory"
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/serviceproviders/programmable-web-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/programmableweb.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "15830"
@@ -66,4 +66,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

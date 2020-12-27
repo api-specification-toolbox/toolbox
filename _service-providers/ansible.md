@@ -2,9 +2,9 @@
 name: Ansible
 description: Ansible is the simplest way to automate apps and IT infrastructure. Application
   Deployment + Configuration Management + Continuous Delivery.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/pull_image_09-13-2020-03-59-pm.png
+image: http://api.specificationtoolbox.com/images/service-providers/ansible.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "21418"
@@ -62,4 +62,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

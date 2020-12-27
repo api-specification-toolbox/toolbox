@@ -4,9 +4,9 @@ description: <p>The Google Tasks API lets you search, read, and update Google Ta
   content and metadata. This document describes how to use a RESTful calling style
   and client libraries for various programming languages (currently Java, Python,
   and PHP) to access and edit Google Tasks data.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/google-tasks-icon.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-tasks.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -43,4 +43,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

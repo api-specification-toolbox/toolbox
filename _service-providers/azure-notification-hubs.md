@@ -4,9 +4,9 @@ description: <p><span>Azure Notification Hubs provide an easy-to-use, multi-plat
   scaled-out push engine. With a single cross-platform API call, you can easily send
   targeted and personalized push notifications to any mobile platform from any cloud
   or on-premises backend.</span></p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/azure-notification-hubs.png
+image: http://api.specificationtoolbox.com/images/service-providers/azure-notification-hubs.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "33"
@@ -42,4 +42,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

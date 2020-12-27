@@ -8,7 +8,7 @@ description: <p>Manage a cluster of Linux containers as a single system to accel
   into logical units for easy management and discovery.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/kubernetes.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:00:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "9958"
