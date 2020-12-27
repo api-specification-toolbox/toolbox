@@ -1,0 +1,43 @@
+---
+- name: Capabilities
+  description: This is the description for Capabilities
+  featured: false
+- name: Census
+  description: This is the description for Census
+  featured: false
+- name: Collections
+  description: This is the description for Collections
+  featured: false
+- name: Design
+  description: This is the description for Design
+  featured: true
+- name: Documentation
+  description: This is the description for Documentation
+  featured: true
+- name: Editor
+  description: This is the description for Editor
+  featured: false
+- name: Jira
+  description: This is the description for Jira
+  featured: false
+- name: Mocking
+  description: This is the description for Mocking
+  featured: false
+- name: OpenAPI
+  description: This is the description for OpenAPI
+  featured: true
+- name: Postman
+  description: This is the description for Postman
+  featured: true
+- name: Projects
+  description: This is the description for Projects
+  featured: false
+- name: Reference
+  description: This is the description for Reference
+  featured: false
+- name: Scope
+  description: This is the description for Scope
+  featured: false
+- name: Workspaces
+  description: This is the description for Workspaces
+  featured: false
