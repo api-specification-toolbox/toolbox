@@ -3,9 +3,9 @@ name: Authentiq Connect
 description: <p>Authentiq offers the convenience of passwordless authentication with
   the safety of two step verification. Sign up for Authentiq today, and never think
   about authentication again.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/authentiq-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/authentiq-connect.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "1000000"
@@ -47,4 +47,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

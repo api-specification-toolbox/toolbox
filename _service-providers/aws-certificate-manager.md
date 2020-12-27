@@ -12,7 +12,7 @@ description: <p><span>AWS Certificate Manager is a service that lets you easily 
   you create to run your application.</span></p>
 image: http://api.specificationtoolbox.com/images/service-providers/aws-certificate-manager.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"

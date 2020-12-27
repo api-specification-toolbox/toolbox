@@ -4,9 +4,9 @@ description: AppNexus is a technology company that provides trading solutions an
   powers marketplaces for Internet advertising. Its open, unified, and powerful programmatic
   platform empowers customers to more effectively buy and sell media, allowing them
   to innovat...
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/2633-appnexus.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/appnexus.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "34144"
@@ -76,4 +76,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

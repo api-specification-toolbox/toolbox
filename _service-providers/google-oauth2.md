@@ -8,9 +8,9 @@ description: <p>Google APIs use the OAuth 2.0 protocol for authentication and au
   token to the Google API that you want to access. For an interactive demonstration
   of using OAuth 2.0 with Google (including the option to use your own client credentials),
   experiment with the OAuth 2.0 Playground.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Google-OAuth@2x.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-oauth2.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -60,4 +60,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

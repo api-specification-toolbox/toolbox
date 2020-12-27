@@ -8,9 +8,9 @@ description: <p>AWS CodeBuild is a fully managed build service that compiles sou
   build environments, or you can create custom build environments that use your own
   build tools. With CodeBuild, you are charged by the minute for the compute resources
   you use.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/code-build-console-icon.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-codebuild.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -61,4 +61,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

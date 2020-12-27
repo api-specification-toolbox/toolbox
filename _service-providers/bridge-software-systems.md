@@ -11,9 +11,9 @@ description: <p>Bridge connects the world&rsquo;s most successful Cloud based so
   across multiple systems and reduce costs by eliminating lag time, manual labor,
   and human errors associated with manually bridging the gap between software systems.
   We build the &ldquo;Bridge&rdquo; between software systems.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/bridge-software.gif
+image: http://api.specificationtoolbox.com/images/service-providers/bridge-software-systems.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "6421436"
@@ -45,4 +45,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

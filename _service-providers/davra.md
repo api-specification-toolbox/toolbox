@@ -4,9 +4,9 @@ description: Davra???s RuBANtm solution has been designed from the ground up to 
   control all elements of an IoT installation from initial deployment, through ongoing
   network and data management and our open API allows for the translation of raw sensor
   data ...
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/davralogo.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/davra.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "1000000"
@@ -62,4 +62,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

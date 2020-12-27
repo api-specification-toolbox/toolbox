@@ -2,9 +2,9 @@
 name: AuthorityLabs
 description: Use our SEO rank tracking software to automate your keyword monitoring,
   track local, mobile, and competitor rankings, and recover not provided keywords.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/694_logo.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/authoritylabs.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "61231"
@@ -82,4 +82,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

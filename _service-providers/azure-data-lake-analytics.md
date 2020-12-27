@@ -12,9 +12,9 @@ description: <p>The Data Lake analytics service is a new distributed analytics s
   power of user code. U-SQL&rsquo;s scalable distributed runtime enables you to efficiently
   analyze data in the store and across SQL Servers in Azure, Azure SQL Database and
   Azure SQL Data Warehouse.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/data-lake-analytics-05.png
+image: http://api.specificationtoolbox.com/images/service-providers/azure-data-lake-analytics.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "33"
@@ -90,4 +90,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

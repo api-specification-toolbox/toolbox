@@ -3,9 +3,9 @@ name: Logz.io
 description: Logz.io provides Elasticsearch, Logstash and Kibana on the cloud with
   alerts, unlimited scalability and free ELK apps. Index, search & visualize your
   data!
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/27925-logz-io.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/logz-io.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "0"
 x-alexaRank: "102761"
@@ -40,4 +40,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

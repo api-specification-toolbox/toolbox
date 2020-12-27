@@ -5,10 +5,9 @@ description: <p>PowerShell is an automation platform and scripting language for 
   other text-based shells, PowerShell harnesses the power of the .NET Framework, providing
   rich objects and a massive set of built-in functionality for taking control of your
   Windows environments.&nbsp;</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/PowerShell
-  logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/microsoft-powershell.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "33"
@@ -41,4 +40,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

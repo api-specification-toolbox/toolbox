@@ -4,9 +4,9 @@ description: <p>The Google Site Verification API lets you develop applications o
   services that automate the process of verifying that the authenticated user owns
   a domain or website. This is important, since some Google services can only be used
   by site owners.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/google-site-verification-500x362.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-site-verification.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -38,4 +38,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

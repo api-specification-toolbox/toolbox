@@ -5,7 +5,7 @@ description: |-
   <p>EC2 Systems Manager is easy to use. Simply access EC2 Systems Manager from the EC2 Management Console, select the instances you want to manage, and define the management tasks you want to perform. EC2 Systems Manager is available now at no cost to manage both your EC2 and on-premises resources.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/aws-ec2-systems-manager.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"

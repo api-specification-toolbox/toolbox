@@ -2,9 +2,9 @@
 name: RepreZen API Studio
 description: Powerful IDE for API-first design, documentation & development w/ Swagger-OpenAPI
   2.0, 3.0 & RAPID-ML description languages. Multi-file editing & custom codegen
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/reprezen-logo.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/reprezen-api-studio.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "2125302"
@@ -57,4 +57,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

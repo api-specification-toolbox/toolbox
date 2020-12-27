@@ -4,9 +4,9 @@ description: Pronovix is a software development company building and integrating
   web systems in Drupal. We operate internationally, with offices in Belgium and Hungary,
   working to become a valuable partner, rather than a simple supplier for our clients
   worl...
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/21079-pronovix-com.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/pronovix.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "763079"
@@ -50,4 +50,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -6,9 +6,9 @@ description: <p>Drupal is content management software. It's used to make many of
   sets it apart is its flexibility; modularity is one of its core principles. Its
   tools help you build the versatile, structured content that dynamic web experiences
   need.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/drupal-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/drupal.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "8659"
@@ -40,4 +40,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

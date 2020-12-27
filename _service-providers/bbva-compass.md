@@ -2,9 +2,9 @@
 name: BBVA Compass
 description: BBVA Compass bank offers checking and savings accounts, credit cards,
   wealth management, and other financial services for individuals and businesses.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/bbva.png
+image: http://api.specificationtoolbox.com/images/service-providers/bbva-compass.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "55755"
@@ -61,4 +61,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

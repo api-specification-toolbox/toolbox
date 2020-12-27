@@ -4,9 +4,9 @@ description: <p>Google Compute Engine delivers virtual machines running in Googl
   innovative data centers and worldwide fiber network. Compute Engine's tooling and
   workflow support enable scaling from single instances to global, load-balanced cloud
   computing.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Google_Compute_Engine_logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-compute-engine.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -174,4 +174,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

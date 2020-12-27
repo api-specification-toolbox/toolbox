@@ -4,7 +4,11 @@ description: Farsight Security provides real-time actionable cyber security data
   for Threat Intelligence, SOC and Incident Response teams
 image: http://api.specificationtoolbox.com/images/service-providers/farsight-security.jpg
 created: "2020-12-23"
+<<<<<<< HEAD
 modified: 2020-12-24PST10:00:00-28800
+=======
+modified: 2020-12-24PST10:05:00-28800
+>>>>>>> a4863c807d915be416e4c9342926ad270ca6159b
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "1272100"

@@ -3,9 +3,9 @@ name: Kaspersky Lab
 description: Kaspersky Lab is a multinational cybersecurity and anti-virus provider
   headquartered in Moscow, Russia and operated by a holding company in the United
   Kingdom.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/kaspersky-lab-square.pxm
+image: http://api.specificationtoolbox.com/images/service-providers/kaspersky-lab.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "2096"
@@ -43,4 +43,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -2,9 +2,9 @@
 name: API Platform
 description: <p>An incredible PHP web framework to build modern, API-first web projects!
   Out of the box hypermedia and Linked Data support with JSON-LD, Schema.org and Hydra.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/api-platform-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/api-platform.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "164504"
@@ -64,4 +64,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

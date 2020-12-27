@@ -5,9 +5,9 @@ description: <p>Search Console is a free service that enables you to monitor you
   app correctly, and to test the validity and performance of a given page. Search
   Console provides programmatic access to the service through the APIs documented
   here.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/subdomains-google-webmaster-tools-13960.gif
+image: http://api.specificationtoolbox.com/images/service-providers/google-search-console.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -43,4 +43,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

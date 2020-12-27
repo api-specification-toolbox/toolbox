@@ -2,9 +2,9 @@
 name: Nagios
 description: Nagios provides enterprise-class Open Source IT monitoring, network monitoring,
   server and applications monitoring. Download Nagios Today!
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/nagios-logo
+image: http://api.specificationtoolbox.com/images/service-providers/nagios.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "180299"
@@ -101,4 +101,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

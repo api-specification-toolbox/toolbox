@@ -7,9 +7,9 @@ description: <p>Google AdWords is an online advertising service developed by Goo
   these characteristics to place advertising copy on pages where they think it might
   be relevant. Advertisers pay when users divert their browsing to click on the advertising
   copy. Partner websites receive a portion of the generated income.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/google-adwords.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-adwords.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -57,4 +57,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -7,7 +7,7 @@
     {% assign tags = site.data.news-tags  %}
     {% assign tags = tags | sort: 'name' %}
     {% for tag in tags limit: 25 %}
-      <li class="clearfix"><a href="#">{{ tag.name }} <span>(30)</span></a></li>
+      <li class="clearfix"><a href="#">{{ tag.name }} <span>(25)</span></a></li>
     {% endfor %}
   </ul>
 </div>

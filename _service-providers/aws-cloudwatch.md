@@ -9,9 +9,9 @@ description: <p>Amazon CloudWatch is a monitoring service for AWS cloud resource
   files your applications generate. You can use Amazon CloudWatch to gain system-wide
   visibility into resource utilization, application performance, and operational health.
   You can use these insights to react and keep your application running smoothly.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/aws-logo.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/aws-cloudwatch.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -76,4 +76,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

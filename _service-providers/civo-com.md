@@ -2,9 +2,9 @@
 name: Civo.com
 description: Experience blazing fast cloud servers with a developer-friendly API,
   plus our commitment to deliver the features you need.
-image: http://www.civo.com
+image: http://api.specificationtoolbox.com/images/service-providers/civo-com.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "2059850"
@@ -59,4 +59,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

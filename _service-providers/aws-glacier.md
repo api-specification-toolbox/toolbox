@@ -6,9 +6,9 @@ description: <p>Amazon Glacier is a secure, durable, and extremely low-cost clou
   a significant savings compared to on-premises solutions. To keep costs low yet suitable
   for varying retrieval needs, Amazon Glacier provides three options for access to
   archives, from a few minutes to several hours.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AmazonGlacier.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-glacier.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -61,4 +61,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

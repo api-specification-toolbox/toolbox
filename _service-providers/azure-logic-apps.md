@@ -6,9 +6,9 @@ description: <p>You can connect apps, data, and devices anywhere&mdash;on-premis
   services, and more. It's never been easier to access data and keep your disparate
   systems up-to-date, in real-time. New connectors are being added to the Azure Marketplace
   all of the time.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/azure-logic-apps-01-connectors.png
+image: http://api.specificationtoolbox.com/images/service-providers/azure-logic-apps.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "33"
@@ -85,4 +85,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

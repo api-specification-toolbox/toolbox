@@ -2,9 +2,9 @@
 name: CrossBrowserTesting
 description: Browser Testing made simple! Run automated, visual, and manual tests
   on 1500+ real browsers and mobile devices. Test more browsers, in less time.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/cbt-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/crossbrowsertesting.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "37050"
@@ -74,4 +74,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -5,9 +5,9 @@ description: <p>The Google Civic Information API lets developers build applicati
   you can look up who represents that address at each elected level of government.
   During supported elections, you can also look up polling places, early vote location,
   candidate data, and other election official information.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/google-civic-information-api.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-civic-information.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -44,4 +44,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

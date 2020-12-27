@@ -3,9 +3,9 @@ name: Google Classroom
 description: <p>Google Classroom is mission control for your classes. As a free service
   for teachers and students, you can create classes, distribute assignments, send
   feedback, and see everything in one place. Instant. Paperless. Easy.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/google-classroom.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-classroom.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -37,4 +37,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

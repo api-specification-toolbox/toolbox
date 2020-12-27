@@ -2,9 +2,9 @@
 name: Atlassian
 description: Millions of users globally rely on Atlassian products every day for improving
   software development, project management, collaboration, and code quality.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/691_logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/atlassian.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "1416"
@@ -112,4 +112,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -4,9 +4,9 @@ description: Monitor DNS records. Request DNS updates by sharing reports that sh
   the pass/fail status of each record. Troubleshoot DNS issues. DNS records are automatically
   re-checked, and reports updated. DNS records can be imported from a zone file, or
   added in...
-image: https://cdn.dnscheck.co/images/dns-check-icon.png
+image: http://api.specificationtoolbox.com/images/service-providers/dns-check.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "1283742"
@@ -42,4 +42,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

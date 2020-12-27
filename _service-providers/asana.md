@@ -2,9 +2,9 @@
 name: Asana
 description: "It\u2019s free to use, simple to get started, and powerful enough to
   run your entire business. Sign up for free today."
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28427-asana-com.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/asana.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "1083"
@@ -73,4 +73,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

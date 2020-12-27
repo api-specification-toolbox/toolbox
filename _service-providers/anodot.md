@@ -7,7 +7,7 @@ description: Anodot is pioneering Autonomous Analytics, an entirely new approach
   is empowering businesses to become proactive.
 image: http://api.specificationtoolbox.com/images/service-providers/anodot.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "20000000"

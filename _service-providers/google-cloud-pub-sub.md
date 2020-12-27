@@ -7,9 +7,9 @@ description: <p>Cloud Pub/Sub is a fully-managed real-time messaging service tha
   Google uses, Cloud Pub/Sub is designed to provide &ldquo;at least once&rdquo; delivery
   at low latency with on-demand scalability to 1 million messages per second (and
   beyond).</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/google-pub-sub-middleware.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-cloud-pub-sub.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -183,4 +183,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

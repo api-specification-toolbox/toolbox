@@ -5,9 +5,9 @@ description: <p><span>AWS OpsWorks is a configuration management service that us
   uses Chef to automate how servers are configured, deployed, and managed across your
   Amazon Elastic Compute Cloud (Amazon EC2) instances or on-premises compute environments.
   OpsWorks has two offerings, AWS Opsworks for Chef Automate, and AWS OpsWorks Stacks.</span></p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSOpsWorks.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-opsworks.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -51,4 +51,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -6,9 +6,9 @@ description: Aspen Meshers come from startups and some of the most recognizable 
   infrastructure is a generational technological shift. Our engineers are experts
   in Istio, Envoy and Kubernetes, and we can help you make the most out of containerized
   applications in the enterprise.
-image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+image: http://api.specificationtoolbox.com/images/service-providers/aspen-mesh.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "1339278"
@@ -71,4 +71,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

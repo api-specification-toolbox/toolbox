@@ -9,9 +9,9 @@ description: <p><span>Auto Scaling helps you maintain application availability a
   decrease capacity during lulls to reduce costs. Auto Scaling is well suited both
   to applications that have stable demand patterns or that experience hourly, daily,
   or weekly variability in usage.&nbsp;</span></p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-auto-scaling.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -74,4 +74,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

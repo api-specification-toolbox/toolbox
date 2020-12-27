@@ -4,9 +4,9 @@ description: |-
   <p>Amazon Simple Notification Service (Amazon SNS) is a fast, flexible, fully managed push notification service that lets you send individual messages or to fan-out messages to large numbers of recipients. Amazon SNS makes it simple and cost effective to send push notifications to mobile device users, email recipients or even send messages to other distributed services.</p>
   <p>With Amazon SNS, you can send notifications to Apple, Google, Fire OS, and Windows devices, as well as to Android devices in China with Baidu Cloud Push. You can use SNS to send SMS messages to mobile device users worldwide.</p>
   <p>Beyond these endpoints, Amazon SNS can also deliver messages to&nbsp;<a href="https://aws.amazon.com/sqs/">Amazon Simple Queue Service</a>&nbsp;(SQS),&nbsp;<a href="https://aws.amazon.com/lambda/">AWS Lambda functions</a>, or to any HTTP endpoint.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Mobile-Services_AmazonSNS.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-simple-notification-service.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -60,4 +60,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

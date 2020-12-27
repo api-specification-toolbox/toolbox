@@ -7,9 +7,9 @@ description: <p>Google Cloud Machine Learning Engine is a managed service that e
   size with our managed scalable infrastructure. Your trained model is immediately
   available for use with our global prediction platform that can support thousands
   of users and TBs of data.&nbsp;</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-ml.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-cloud-machine-learning-engine.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -154,4 +154,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

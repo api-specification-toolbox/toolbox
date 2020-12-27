@@ -7,9 +7,9 @@ description: <p><span>Google Cloud Source Repositories provides Git version cont
   information alongside your code during application runtime. Cloud Source Repositories
   also provides a source browser that you can use to view your repository files from
   within the Cloud Console.</span></p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-repositories.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-cloud-source-repositories.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -143,4 +143,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -2,9 +2,9 @@
 name: StatusPage
 description: StatusPage.io is the best way for web infrastructure, developer API,
   and SaaS companies to get set up with their very own status page in minutes
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/status-page-io-icon.png
+image: http://api.specificationtoolbox.com/images/service-providers/statuspage.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "19189"
@@ -95,4 +95,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

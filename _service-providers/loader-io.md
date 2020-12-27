@@ -2,9 +2,9 @@
 name: Loader.io
 description: Free tool for web application load testing that allows for the simulation
   of concurrent connections to your web application's APIs
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/222_logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/loader-io.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "103832"
@@ -48,4 +48,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

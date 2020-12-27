@@ -5,9 +5,9 @@ description: <p>QPX Express is suited for companies that want to provide airfare
   information with real-time availability through an easy-to-implement JSON interface.
   The QPX Express self-service, pay-as-you-go model offers business flexibility and
   new opportunities for innovation.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/qpx-express-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-qpx-express.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "1"
@@ -40,4 +40,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

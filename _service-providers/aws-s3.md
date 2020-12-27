@@ -4,9 +4,9 @@ description: |-
   <p>Amazon Simple Storage Service (Amazon S3) is object storage with a simple web service interface to store and retrieve any amount of data from anywhere on the web. It is designed to deliver 99.999999999% durability, and scale past trillions of objects worldwide.</p>
   <p>Customers use S3 as a bulk repository, or "data lake," for analytics; backup &amp; recovery; disaster recovery; and serverless computing. Many cloud-native applications even use S3 as primary storage.</p>
   <p>It's simple to move large volumes of data into or out of S3 with Amazon's&nbsp;<a href="https://aws.amazon.com/cloud-data-migration/">cloud data migration</a>&nbsp;options. Once data is stored in Amazon S3, it can be automatically tiered into lower cost, longer-term&nbsp;<a href="https://aws.amazon.com/what-is-cloud-storage/">cloud storage</a>&nbsp;classes like S3 Standard - Infrequent Access and Amazon Glacier for archiving.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AmazonS3.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-s3.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -57,4 +57,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

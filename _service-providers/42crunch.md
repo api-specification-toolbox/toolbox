@@ -2,9 +2,9 @@
 name: 42Crunch
 description: 42Crunch builds the enterprise grade API Security platform including
   an industry-first API firewall and support for OAuth, OpenID Connect and JWT.
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28360-www-42crunch-com.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/42crunch.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1340896"
@@ -36,4 +36,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

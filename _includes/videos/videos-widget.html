@@ -1,0 +1,38 @@
+<!--News Post Widget-->
+<div class="sidebar-widget posts-widget">
+  <!--Product widget Tabs-->
+  <div class="product-widget-tabs">
+     <!--Product Tabs-->
+     <div class="prod-tabs tabs-box">
+        <!--Tab Btns-->
+        <ul class="tab-btns tab-buttons clearfix">
+           <li data-tab="#prod-popular" class="tab-btn active-btn">Popular</li>
+           <li data-tab="#prod-recent" class="tab-btn">Recent</li>
+        </ul>
+        <!--Tabs Container-->
+        <div class="tabs-content">
+           <!--Tab / Active Tab-->
+           <div class="tab active-tab" id="prod-popular">
+              <div class="content">
+
+                {% assign videos = site.videos %}
+                {% assign videos = videos | sort: 'x-rank' | reverse %}
+                {% for entry in videos limit:6 %}
+
+                   <article class="widget-post">
+                      <div class="text"><a href="{{ entry.url }}">{{ entry.name }}</a></div>
+                      <div class="post-info">{{ entry.date | date: "%b %d, %y" }}</div>
+                   </article>
+
+                 {% endfor %}
+
+              </div>
+           </div>
+           <!--Tab-->
+
+        </div>
+     </div>
+  </div>
+  <!--End Product Info Tabs-->
+</div>
+<!--End Post Widget-->

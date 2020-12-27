@@ -6,9 +6,9 @@ description: <p><span><span>We know how hard it is to find great APIs. So&nbsp;w
   public APIs, developers can save time and energy, easily finding the APIs (software
   components) they need to quickly create and deliver an application on any platform
   (Mobile, Web, etc).</span></p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/public-apis-com-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/public-apis.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "1000000"
@@ -28,4 +28,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

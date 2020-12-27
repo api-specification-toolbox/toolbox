@@ -4,9 +4,9 @@ description: Find out why the world's best brands trust Elastic Path. Our API-ba
   ecommerce software solutions are open, modular and flexible. Built for enterprise
   from the ground up, they are designed as scalable ecommerce solutions, able to take
   advantage of any touchpoint and any technology.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/elastic-path.jpeg
+image: http://api.specificationtoolbox.com/images/service-providers/elastic-path.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "283166"
@@ -56,4 +56,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

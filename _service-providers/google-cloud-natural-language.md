@@ -7,9 +7,9 @@ description: <p>Google Cloud Natural Language API reveals the structure and mean
   sentiment about your product on social media or parse intent from customer conversations
   happening in a call center or a messaging app. You can analyze text uploaded in
   your request or integrate with your document storage on Google Cloud Storage.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/powerful-text-analysis-2x.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-cloud-natural-language.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -157,4 +157,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -4,7 +4,11 @@ description: Dropbox is a modern workspace designed to reduce busywork-so you ca
   focus on the things that matter. Sign in and put your creative energy to work.
 image: http://api.specificationtoolbox.com/images/service-providers/dropbox.jpg
 created: "2020-12-23"
+<<<<<<< HEAD
 modified: 2020-12-24PST10:00:00-28800
+=======
+modified: 2020-12-24PST10:05:00-28800
+>>>>>>> a4863c807d915be416e4c9342926ad270ca6159b
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "61"

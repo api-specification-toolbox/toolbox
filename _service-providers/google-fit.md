@@ -5,9 +5,9 @@ description: <p>Google Fit is an open ecosystem that allows developers to upload
   and apps in one location. Fitness apps can store data from any wearable or sensor.
   Fitness apps can access data created by any app. User's fitness data is persisted
   when they upgrade their fitness devices.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/google-fit.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/google-fit.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -39,4 +39,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -5,9 +5,9 @@ description: <p>Google Consumer Surveys brings journalists the latest data on el
   your audience for free. Faster and more accurate online polling. Imagine surveying
   public opinion with a tool so precise, it could predict the nation&rsquo;s next
   president. That tool is Google Consumer Surveys.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Google-Consumer-Surveys-earn-money-payment.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/google-consumer-surveys.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1356144"
@@ -44,4 +44,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

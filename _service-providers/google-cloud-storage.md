@@ -6,9 +6,9 @@ description: <p>Google Cloud Storage is unified object storage for developers an
   time. You can use Google Cloud Storage for a range of scenarios including serving
   website content, storing data for archival and disaster recovery, or distributing
   large data objects to users via direct download.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-storage-unified-object-storage-2x.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-cloud-storage.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -191,4 +191,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

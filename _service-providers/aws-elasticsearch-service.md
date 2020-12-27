@@ -8,9 +8,9 @@ description: <p>Amazon Elasticsearch Service makes it easy to deploy, operate, a
   offers built-in integrations with Kibana, Logstash, and AWS services including Amazon
   Kinesis Firehose, AWS Lambda, and Amazon CloudWatch so that you can go from raw
   data to actionable insights quickly.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonElasticsearchService.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-elasticsearch-service.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -66,4 +66,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

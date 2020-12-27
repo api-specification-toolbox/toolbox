@@ -2,9 +2,9 @@
 name: Gigya
 description: Identify, engage & build single customer views to create relevant, personalized
   experiences. Designed to meet privacy, compliance & security best practices.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/600_logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/gigya.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "3800"
@@ -52,4 +52,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

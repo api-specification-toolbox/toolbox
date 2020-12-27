@@ -3,9 +3,9 @@ name: Hootsuite
 description: Enhance your social media management with Hootsuite, the leading social
   media dashboard. Manage multiple networks and profiles and measure your campaign
   results.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/1602_logo..png
+image: http://api.specificationtoolbox.com/images/service-providers/hootsuite.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "372"
@@ -136,4 +136,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

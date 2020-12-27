@@ -5,45 +5,6 @@ title: Home
 
 {% include slider.html %}
 
-<!--Blog Posts-->
-<div class="sidebar-page-container" style="margin-bottom: 0px; padding-bottom: 0px;">
-  <div class="auto-container" style="margin-bottom: 0px; padding-bottom: 0px;">
-
-     <div class="row clearfix">
-
-        <!--Content Side-->
-        <div class="content-side col-lg-8 col-md-12 col-sm-12">
-
-          {% include blogs/blog-tag-tabs.html %}
-
-        </div>
-
-        <!--Sidebar Side-->
-        <div class="sidebar-side col-lg-4 col-md-12 col-sm-12">
-           <aside class="sidebar default-sidebar">
-              <div class="sidebar-inner">
-
-                 {% include social/social-widget.html %}
-
-                 {% include advertising/advertising-widget.html %}
-
-                 {% include blogs/blog-widget.html %}
-
-                 {% include blogs/blog-tag-widget.html %}
-
-              </div>
-           </aside>
-
-        </div>
-
-     </div>
-
-  </div>
-</div>
-<!--End Blog Posts-->
-
-{% include advertising/full-width-ad.html %}
-
 <!--News Posts-->
 <div class="sidebar-page-container" style="margin-bottom: 0px; padding-bottom: 0px;">
   <div class="auto-container" style="margin-bottom: 0px; padding-bottom: 0px;">
@@ -81,6 +42,8 @@ title: Home
 </div>
 <!--End News Posts-->
 
+{% include advertising/full-width-ad-1.html %}
+
 <!--Service Providers-->
 <div class="sidebar-page-container" style="margin-bottom: 0px; padding-bottom: 0px;">
   <div class="auto-container" style="margin-bottom: 0px; padding-bottom: 0px;">
@@ -90,6 +53,8 @@ title: Home
         <!--Content Side-->
         <div class="content-side col-lg-8 col-md-12 col-sm-12">
 
+          {% assign service_provider_listing_count = 6 %}
+          {% assign service_provider_tag_height = 500 %}
           {% include service-providers/service-providers-tag-tabs.html %}
 
         </div>
@@ -117,3 +82,122 @@ title: Home
   </div>
 </div>
 <!--Service Providers-->
+
+{% include advertising/full-width-ad-2.html %}
+
+<!--Tools-->
+<div class="sidebar-page-container" style="margin-bottom: 0px; padding-bottom: 0px;">
+  <div class="auto-container" style="margin-bottom: 0px; padding-bottom: 0px;">
+
+     <div class="row clearfix">
+
+        <!--Content Side-->
+        <div class="content-side col-lg-8 col-md-12 col-sm-12">
+
+          {% include tools/tools-tag-tabs.html %}
+
+        </div>
+
+        <!--Sidebar Side-->
+        <div class="sidebar-side col-lg-4 col-md-12 col-sm-12">
+           <aside class="sidebar default-sidebar">
+              <div class="sidebar-inner">
+
+                 {% include tweets/sidebar-tweet-widget.html %}
+
+                 {% include advertising/advertising-widget.html %}
+
+                 {% include tools/tools-widget.html %}
+
+                 {% include tools/tools-tag-widget.html %}
+
+              </div>
+           </aside>
+
+        </div>
+
+     </div>
+
+  </div>
+</div>
+<!--Tools-->
+
+{% include advertising/full-width-ad-3.html %}
+
+<!--Videos-->
+<div class="sidebar-page-container" style="margin-bottom: 0px; padding-bottom: 0px;">
+  <div class="auto-container" style="margin-bottom: 0px; padding-bottom: 0px;">
+
+     <div class="row clearfix">
+
+        <!--Content Side-->
+        <div class="content-side col-lg-8 col-md-12 col-sm-12">
+
+          {% include videos/videos-tag-tabs.html %}
+
+        </div>
+
+        <!--Sidebar Side-->
+        <div class="sidebar-side col-lg-4 col-md-12 col-sm-12">
+           <aside class="sidebar default-sidebar">
+              <div class="sidebar-inner">
+
+                 {% include tweets/sidebar-tweet-widget.html %}
+
+                 {% include advertising/advertising-widget.html %}
+
+                 {% include videos/videos-widget.html %}
+
+                 {% include videos/videos-tag-widget.html %}
+
+              </div>
+           </aside>
+
+        </div>
+
+     </div>
+
+  </div>
+</div>
+<!--Videos-->
+
+{% include advertising/full-width-ad-4.html %}
+
+<!--Blog Posts-->
+<div class="sidebar-page-container" style="margin-bottom: 0px; padding-bottom: 0px;">
+  <div class="auto-container" style="margin-bottom: 0px; padding-bottom: 0px;">
+
+     <div class="row clearfix">
+
+        <!--Content Side-->
+        <div class="content-side col-lg-8 col-md-12 col-sm-12">
+
+          {% include blogs/blog-tag-tabs.html %}
+
+        </div>
+
+        <!--Sidebar Side-->
+        <div class="sidebar-side col-lg-4 col-md-12 col-sm-12">
+           <aside class="sidebar default-sidebar">
+              <div class="sidebar-inner">
+
+                 {% include social/social-widget.html %}
+
+                 {% include advertising/advertising-widget.html %}
+
+                 {% include blogs/blog-widget.html %}
+
+                 {% include blogs/blog-tag-widget.html %}
+
+              </div>
+           </aside>
+
+        </div>
+
+     </div>
+
+  </div>
+</div>
+<!--End Blog Posts-->
+
+{% include advertising/full-width-ad-5.html %}

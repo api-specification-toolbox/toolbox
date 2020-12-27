@@ -5,9 +5,9 @@ description: <p>Amazon AppStream is a fully managed, secure application streamin
   a web browser, without rewriting them. Amazon AppStream 2.0 provides users instant-on
   access to the applications they need, and a responsive, fluid user experience on
   the device of their choice.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/appstream2_try_it_now_2_big.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-appstream.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -64,4 +64,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

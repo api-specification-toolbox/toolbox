@@ -5,9 +5,9 @@ description: <p>The Reaktivity Project uses shared memory streams to directly co
   protocols and the microservices logic. Parallel execution of each layer in the application
   stack takes full advantage of the available CPU cores to maximize throughput with
   predictably low latency.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/reaktivity-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/reaktivity.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "0"
 x-alexaRank: "1000000"
@@ -26,4 +26,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

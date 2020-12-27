@@ -3,9 +3,9 @@ name: Cacoo
 description: Online diagram software to create and securely share flowcharts, wireframes,
   UML models, network diagram and more. Over 2.5 million users. Start with a Free
   account!
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/553_logo..png
+image: http://api.specificationtoolbox.com/images/service-providers/cacoo.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "33784"
@@ -62,4 +62,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

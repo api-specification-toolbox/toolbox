@@ -2,9 +2,9 @@
 name: Dataiku
 description: Dataiku's collaborative data science platform enables the whole data
   team to explore, prototype, build and deliver their own data products more efficiently.
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28238-www-dataiku-com.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/dataiku.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "87111"
@@ -60,4 +60,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

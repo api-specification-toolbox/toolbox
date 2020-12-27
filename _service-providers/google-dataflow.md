@@ -6,7 +6,7 @@ description: <p>Dataflow is a unified programming model and a managed service fo
   tasks like resource management and performance optimization.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/google-dataflow.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"

@@ -39,6 +39,9 @@ collections:
   extensions:
     output: true
     permalink: /extensions/:path/
+  tags:
+    output: true
+    permalink: /tags/:path/
   taxonomy:
     output: true
     permalink: /taxonomy/:path/
@@ -67,6 +70,10 @@ defaults:
       type: extensions
     values:
       layout: extensions
+  - scope:
+      type: tags
+    values:
+      layout: tags      
   - scope:
       type: taxonomy
     values:

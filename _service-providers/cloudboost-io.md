@@ -1,9 +1,9 @@
 ---
 name: CloudBoost.io
 description: CloudBoost let's you build mobile and web applications that scale.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/cloudboost-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/cloudboost-io.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "104670"
@@ -84,4 +84,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

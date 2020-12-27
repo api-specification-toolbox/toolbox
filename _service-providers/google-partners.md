@@ -4,9 +4,9 @@ description: <p>Google Partners is Google's program for advertising agencies, di
   marketing professionals, and other online consultants who manage AdWords accounts.
   The Google Partners API lets advertisers search certified companies and create contact
   leads with them, and also audits the usage of clients.&nbsp;</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Google-Partner.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/google-partners.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -32,4 +32,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

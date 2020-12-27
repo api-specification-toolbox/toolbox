@@ -4,9 +4,9 @@ description: <p>MoBagel is a real-time cloud analytics platform that helps IoT c
   monitor and analyze hardware usage, speed up research and development, forecast
   sales and marketing strategies, and proactively engage with customers to prevent
   product returns. As a result, companies can also save up to millions in cost reductions.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/mobagel-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/mobagel.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "717746"
@@ -38,4 +38,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

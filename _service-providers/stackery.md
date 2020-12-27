@@ -10,9 +10,9 @@ description: <p>Design, deploy, and monitor your cloud-native applications, easi
   production-grade serverless applications by providing an abstraction layer on top
   of base serverless technologies like AWS Lambda. Stackery allows you to focus on
   your business logic rather than configuring infrastructure services.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/stacker-logo-index.png
+image: http://api.specificationtoolbox.com/images/service-providers/stackery.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "0"
 x-alexaRank: "1000000"
@@ -42,4 +42,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

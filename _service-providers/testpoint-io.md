@@ -6,9 +6,9 @@ description: Testpoint.io exists to support the ausdigital.org implementer commu
   and to make their services discoverable. As the detailed specifications at ausdigital.org
   describe, there are a number of moving parts. Without a suite of test services and
   test cases, there would be a major risk of incompatible implementations.
-image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+image: http://api.specificationtoolbox.com/images/service-providers/testpoint-io.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "1000000"
@@ -35,4 +35,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

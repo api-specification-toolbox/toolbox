@@ -3,9 +3,9 @@ name: Apitive
 description: <p>Designing APIs needs much more than just engineering. Apitive Studio
   is a powerful platform for digital product managers and API consultants to practice
   agile API product development.</p>
-image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+image: http://api.specificationtoolbox.com/images/service-providers/apitive.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "20000000"
@@ -31,4 +31,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

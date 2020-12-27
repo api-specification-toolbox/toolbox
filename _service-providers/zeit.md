@@ -5,10 +5,9 @@ description: <p>Make cloud computing as easy and accessible as mobile computing.
   everyone, applications have to be fast from every geographical point. To be accessible,
   great care has to go into the user experience and design. We build products for
   developers and designers. And those who aspire to become one.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
-  Shot 2017-01-11 at 10.19.30 PM.png
+image: http://api.specificationtoolbox.com/images/service-providers/zeit.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "0"
 x-alexaRank: "1000000"
@@ -33,4 +32,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

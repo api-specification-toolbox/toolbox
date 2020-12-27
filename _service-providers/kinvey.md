@@ -2,9 +2,9 @@
 name: Kinvey
 description: Focus on innovation with fully managed data integrations, legacy system
   abstraction, as well as complete app backends for high productivity app delivery.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/kinvey-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/kinvey.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "789707"
@@ -69,4 +69,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

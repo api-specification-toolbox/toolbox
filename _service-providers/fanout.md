@@ -1,9 +1,9 @@
 ---
 name: Fanout
 description: Fanout???s reverse proxy helps you push data to connected devices instantly.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/fanout-io-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/fanout.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "3775144"
@@ -47,4 +47,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

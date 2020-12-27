@@ -2,9 +2,9 @@
 name: CloudMine
 description: 'Bringing together patient data to power digital health. Leaders in #interoperability
   #mHealth #wearables #IoT & #connectedhealth #HIMSS'
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/41-cloudmine.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/cloudmine.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "4808848"
@@ -34,4 +34,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

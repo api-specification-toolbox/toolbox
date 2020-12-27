@@ -10,9 +10,9 @@ description: <p>Mockaroo lets you generate up to 1,000 rows of realistic test da
   app will accumulate in a few days in production. Worse, the data you enter will
   be biased towards your own usage patterns and won't match real-world usage, leaving
   important bugs undiscovered.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/mockaroo-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/mockaroo.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "136938"
@@ -36,4 +36,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

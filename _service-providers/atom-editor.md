@@ -3,9 +3,9 @@ name: Atom Editor
 description: 'At GitHub, we???re building the text editor we???ve always wanted: hackable
   to the core, but approachable on the first day without ever touching a config file.
   We can???t wait to see what you build with it.'
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/atom-editor-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/atom-editor.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "11343"
@@ -48,4 +48,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

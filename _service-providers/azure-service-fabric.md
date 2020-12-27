@@ -7,7 +7,7 @@ description: <p>Service Fabric is a microservices platform used to build scalabl
   focus instead on implementing mission-critical, demanding workloads.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/azure-service-fabric.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:00:00-28800
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "33"

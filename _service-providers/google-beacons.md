@@ -6,9 +6,9 @@ description: <p>Give your users better location and proximity experiences by pro
   enables you to manage your beacons remotely, integrate with Google services and
   help users' devices to discover content and functionality across Android, native
   apps and the web.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/google-beacons.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/google-beacons.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -41,4 +41,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

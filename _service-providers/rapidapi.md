@@ -6,9 +6,9 @@ description: <p>RapidAPI is the world&rsquo;s largest API marketplace. RapidAPI 
   every aspect of our lives. We believe that they can get exponentially better by
   sharing data and functionality with each other. APIs are the language that software
   uses to communicate and connect. &nbsp;That&rsquo;s why we love APIs.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/rapidapi-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/rapidapi.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "1000000"
@@ -39,4 +39,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

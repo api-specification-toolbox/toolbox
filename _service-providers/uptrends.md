@@ -2,9 +2,9 @@
 name: Uptrends
 description: Monitor website uptime, optimize performance and monitor multiple steps
   from 165+ locations, incl. alerts. Free & paid website monitoring services.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/uptrends-monitoring-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/uptrends.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "31879"
@@ -41,4 +41,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

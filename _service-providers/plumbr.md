@@ -3,9 +3,9 @@ name: Plumbr
 description: <p>Plumbr is a Java performance monitoring solution that brings transparency
   into your JVM performance. It is the only solution that automatically detects the
   root causes of Java performance issues by interpreting application performance data.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/plumbr-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/plumbr.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "7871314"
@@ -59,4 +59,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

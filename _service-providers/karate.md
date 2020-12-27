@@ -5,9 +5,9 @@ description: <p>arate is the only open-source tool to combine API test-automatio
   by Cucumber is language-neutral, and easy for even non-programmers. Besides powerful
   JSON &amp; XML assertions, you can run tests in parallel for speed - which is critical
   for HTTP API testing.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/karate-testing.png
+image: http://api.specificationtoolbox.com/images/service-providers/karate.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "20000000"
@@ -24,4 +24,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

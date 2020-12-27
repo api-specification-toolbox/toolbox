@@ -2,9 +2,9 @@
 name: ItsAlive
 description: Facebook ChatBot Creation Platform everyone can use. The tool that makes
   Facebook Chatbots easy and fast!
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28213-itsalive-io.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/itsalive.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "152493"
@@ -35,4 +35,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

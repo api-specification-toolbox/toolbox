@@ -3,9 +3,9 @@ name: Giant Swarm
 description: "Giant Swarm\u2019s managed microservices infrastructure enables enterprises
   to run agile, resilient, distributed systems at scale, while removing the tasks
   related to managing the complex underlying infrastructure."
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/giant-swarm.png
+image: http://api.specificationtoolbox.com/images/service-providers/giant-swarm.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "661557"
@@ -47,4 +47,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

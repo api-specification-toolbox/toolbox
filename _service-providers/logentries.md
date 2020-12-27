@@ -4,7 +4,11 @@ description: Log management and analytics by Logentries for development, IT oper
   and Security teams. 100% free service trusted by thousands of customers worldwide.
 image: http://api.specificationtoolbox.com/images/service-providers/logentries.jpg
 created: "2020-12-23"
+<<<<<<< HEAD
 modified: 2020-12-24PST10:00:00-28800
+=======
+modified: 2020-12-24PST10:05:00-28800
+>>>>>>> a4863c807d915be416e4c9342926ad270ca6159b
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "91329"

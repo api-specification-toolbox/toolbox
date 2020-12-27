@@ -6,9 +6,9 @@ description: "At Botify, we\u2019re giving SEO stakeholders the data, tools, and
   as the \u201Cadvanced version of Google Search Console\u201D by our customers. Hundreds
   of leading international companies have already made the switch to Botify, making
   our application a new standard in organic search analytics for enterprise businesses."
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28561-botify.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/botify.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "75973"
@@ -77,4 +77,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

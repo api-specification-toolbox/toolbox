@@ -4,9 +4,9 @@ description: <p>The Ad Exchange Buyer REST API allows your Real-Time Bidding app
   to access and update account information and to submit creatives. The API also allows
   an application (whether it does static bidding or real-time bidding) to discover
   direct deals that sellers make available.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/google-double-click.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-doubleclick.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1408410"
@@ -40,4 +40,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -4,9 +4,9 @@ description: <p>Azure Scheduler lets you create jobs in the cloud that invoke se
   inside and outside of Azure&mdash;such as calling HTTP/S endpoints or posting messages
   to Azure Storage queues, or Azure Service Bus queues or topics. Run jobs right away,
   on a recurring schedule, or at some point in the future.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/azure-scheduler-create.png
+image: http://api.specificationtoolbox.com/images/service-providers/azure-scheduler.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "33"
@@ -83,4 +83,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

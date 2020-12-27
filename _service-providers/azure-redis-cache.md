@@ -3,9 +3,9 @@ name: Azure Redis Cache
 description: <p>Azure Redis Cache is based on the popular open source Redis cache.
   It gives you access to a secure, dedicated Redis cache, managed by Microsoft and
   accessible from any application within Azure.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/azure-redis-cache-performance.png
+image: http://api.specificationtoolbox.com/images/service-providers/azure-redis-cache.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "33"
@@ -81,4 +81,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

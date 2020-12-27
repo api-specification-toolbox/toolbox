@@ -3,9 +3,9 @@ name: AWS Elastic Load Balancing
 description: |-
   <p>Elastic Load Balancing automatically distributes incoming application traffic across multiple Amazon EC2 instances. It enables you to achieve fault tolerance in your applications, seamlessly providing the required amount of load balancing capacity needed to route application traffic.</p>
   <p>Elastic Load Balancing offers two types of load balancers that both feature high availability, automatic scaling, and robust security. These include the&nbsp;<a href="https://aws.amazon.com/elasticloadbalancing/classicloadbalancer/">Classic Load Balancer</a>&nbsp;that routes traffic based on either application or network level information, and the&nbsp;<a href="https://aws.amazon.com/elasticloadbalancing/applicationloadbalancer/">Application Load Balancer</a>&nbsp;that routes traffic based on advanced application level information that includes the content of the request. The Classic Load Balancer is ideal for simple load balancing of traffic across multiple EC2 instances, while the Application Load Balancer is ideal for applications needing advanced routing capabilities, microservices, and container-based architectures. Application Load Balancer offers ability to route traffic to multiple services or load balance across multiple ports on the same EC2 instance.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_ElasticLoadBalancing.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-elastic-load-balancing.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -57,4 +57,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

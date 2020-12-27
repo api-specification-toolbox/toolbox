@@ -19,11 +19,9 @@
                 {% for post in site.posts limit 4 %}
                  <article class="widget-post">
                     <figure class="post-thumb">
-                       <a href="blog-single.html"><img src="images/resource/post-thumb-1.jpg" alt=""></a>
-                       <div class="overlay"><span class="icon qb-play-arrow"></span></div>
+                       <a href="{{ post.url }}"><img src="{{ post.image }}" alt="" /></a>
                     </figure>
                     <div class="text"><a href="blog-single.html">{{ post.title }}</a></div>
-                    <div class="post-info">April 01, 2017</div>
                  </article>
                  {% endfor %}
 
@@ -33,15 +31,13 @@
            <!--Tab-->
            <div class="tab" id="prod-recent">
               <div class="content">
-                
+
                 {% for post in site.posts limit 4 %}
                  <article class="widget-post">
                     <figure class="post-thumb">
-                       <a href="blog-single.html"><img src="images/resource/post-thumb-1.jpg" alt=""></a>
-                       <div class="overlay"><span class="icon qb-play-arrow"></span></div>
+                       <a href="{{ post.url }}"><img src="{{ post.image }}" alt="" /></a>
                     </figure>
                     <div class="text"><a href="blog-single.html">{{ post.title }}</a></div>
-                    <div class="post-info">April 01, 2017</div>
                  </article>
                  {% endfor %}
 

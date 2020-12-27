@@ -4,9 +4,9 @@ description: "Exicon brings your digital idea to life. From finding a developer,
   \r  strategy, and design to implementation, analytics and management. We have \r
   \ years of experience in various industries and knowledge of the latest \r  trends.
   Create mobile app..."
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/serviceproviders/exicon-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/exicon.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "4166446"
@@ -40,4 +40,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

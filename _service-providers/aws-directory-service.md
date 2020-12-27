@@ -13,9 +13,9 @@ description: <p><span>AWS Directory Service for Microsoft Active Directory (Ente
   href="https://aws.amazon.com/enterprise-applications/">AWS Enterprise IT applications</a><span>&nbsp;such
   as&nbsp;</span><a href="https://aws.amazon.com/workspaces/">Amazon WorkSpaces</a><span>&nbsp;with
   Active Directory users and groups.</span></p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+image: http://api.specificationtoolbox.com/images/service-providers/aws-directory-service.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"
@@ -66,4 +66,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -2,9 +2,9 @@
 name: DataHero
 description: DataHero is an online data visualization and data dashboard software
   platform that makes it easy to share insights with your team and your clients.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/datahero_logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/datahero.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "92333"
@@ -73,4 +73,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

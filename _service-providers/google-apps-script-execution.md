@@ -7,9 +7,9 @@ description: <p>Runs a function in an Apps Script project. The project must be d
   this API. To find the correct scopes to include in the authentication token, open
   the project in the script editor, then select File &gt; Project properties and click
   the Scopes tab.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/google-apps-scripts-services.png
+image: http://api.specificationtoolbox.com/images/service-providers/google-apps-script-execution.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
@@ -66,4 +66,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

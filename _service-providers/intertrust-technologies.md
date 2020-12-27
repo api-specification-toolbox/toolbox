@@ -14,9 +14,9 @@ description: '<p>A new reality is emerging as we adjust to the world where senso
   research and development in trusted distributed computing, networked security, and
   social computing, Intertrust is up to this evermore important challenge: To build
   trust in a connected world.</p>'
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28604-www-intertrust-com.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/intertrust-technologies.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "536909"
@@ -66,4 +66,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

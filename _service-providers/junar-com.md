@@ -2,9 +2,9 @@
 name: Junar.com
 description: Fast, easy, and affordable way to transform data into resources that
   businesses, governments, NGOs, academia and citizens can use.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/827_logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/junar-com.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "2439797"
@@ -40,4 +40,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

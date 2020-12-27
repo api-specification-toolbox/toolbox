@@ -3,9 +3,9 @@ name: AppVeyor
 description: We provide continuous integration tools for Windows developers. The service
   is offered for free to open-source projects, we offer subscriptions for private
   projects and AppVeyor Enterprise installations on customer premises.
-image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/28368-app-veyor.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/appveyor.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "88724"
@@ -67,4 +67,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

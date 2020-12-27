@@ -3,9 +3,9 @@ name: Azure HDInsight
 description: <p>Azure HDInsight is a Hadoop-based service that brings an Apache Hadoop
   solution to the cloud. Gain the full value of big data with a cloud-based data platform
   that manages data of any type and size.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/azure-hdinsights-open-source-analytics.png
+image: http://api.specificationtoolbox.com/images/service-providers/azure-hdinsight.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "33"
@@ -83,4 +83,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

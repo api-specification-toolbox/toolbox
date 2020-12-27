@@ -2,9 +2,9 @@
 name: MarkLogic
 description: MarkLogic provides enterprise solutions for your business by enabling
   operational big data applications with NoSQL databases and data integration.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/StorageReview-MarkLogic-Logo.jpg
+image: http://api.specificationtoolbox.com/images/service-providers/marklogic.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "113563"
@@ -129,4 +129,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -3,9 +3,9 @@ name: CircleCI
 description: CircleCI???s continuous integration and delivery platform makes it easy
   for teams of all sizes to rapidly build and release quality software at scale.  Build
   for Linux, macOS, and Android, in the cloud or behind your firewall.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/circleci-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/circleci.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "7635"
@@ -79,4 +79,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

@@ -2,9 +2,9 @@
 name: Cisco Meraki
 description: <p>Meraki was a company that provided products for large-scale, distributed
   wired and wireless networks.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/cisco-meraki.png
+image: http://api.specificationtoolbox.com/images/service-providers/cisco-meraki.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "918"
@@ -62,4 +62,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

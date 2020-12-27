@@ -2,9 +2,9 @@
 name: Jexia
 description: JEXIA is the place to build APIs, deploy APPs and manage all your data
   streams.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/jexia-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/jexia.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "579424"
@@ -45,4 +45,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

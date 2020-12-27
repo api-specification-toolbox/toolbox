@@ -7,9 +7,9 @@ description: <p>Droplit.io is a set of tools that reduce the time and cost to la
   API. &nbsp;Ideal for buildings with many different types of devices and specialized
   equipment. Adaptable to virtually any machine or device. Integrate thousands of
   devices and use autonomous behaviors for easy notifications and control.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/droplit-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/droplit-io.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "1000000"
@@ -31,4 +31,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

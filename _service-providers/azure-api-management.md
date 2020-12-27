@@ -5,9 +5,9 @@ description: <p>Use Azure API Management as a turnkey solution for publishing AP
   for existing back-end services hosted anywhere, secure and protect them from abuse
   and overuse, and get insights into usage and health. Plus, automate and scale developer
   onboarding to help get your API program up and running.</p>
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/azure-api-management.png
+image: http://api.specificationtoolbox.com/images/service-providers/azure-api-management.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "33"
@@ -95,4 +95,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

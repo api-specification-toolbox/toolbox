@@ -24,9 +24,6 @@ layout: default
                             {% endfor %}
                          </ul>
                          <h2>{{ page.name }}</h2>
-                         <ul class="post-meta">
-                            <li><span class="icon qb-clock"></span>{{ page.modified | date: "%b %d, %y" }}</li>
-                         </ul>
                       </div>
                       <div class="text">
                         {{ page.description }}
@@ -50,7 +47,6 @@ layout: default
                       </table>
                       </div>
 
-                      <!--New Article-->
                       <ul class="new-article clearfix">
                          <li><a href="#"><span class="fa fa-angle-left"></span> &ensp; &ensp; &ensp; &ensp; Previous Article</a></li>
                          <li><a href="#">Next Article &ensp; &ensp; &ensp; &ensp; <span class="fa fa-angle-right"></span></a></li>
@@ -69,7 +65,7 @@ layout: default
 
                 {% include advertising/advertising-widget.html %}
 
-                {% include blogs/blog-tag-widget.html %}
+                {% include service-providers/service-providers-tag-widget.html %}
 
              </aside>
           </div>

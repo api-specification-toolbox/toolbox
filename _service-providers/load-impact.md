@@ -2,9 +2,9 @@
 name: Load Impact
 description: Load Impact is a cloud-based SaaS for load testing and website optimization.   We
   offer load testing and reporting as a service. Try it for free at www.loadimpact.com
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/load-impact.png
+image: http://api.specificationtoolbox.com/images/service-providers/load-impact.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "60543"
@@ -57,4 +57,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

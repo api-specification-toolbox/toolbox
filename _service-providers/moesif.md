@@ -5,9 +5,9 @@ description: We built the most advanced API Analytics service helping everyone a
   drive growth. Thousands of data-driven teams use Moesif to really understand how
   their customers and partners use their APIs and to automate the debugging of customer
   issues.
-image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist-logos/api-evangelist-red-seal.png
+image: http://api.specificationtoolbox.com/images/service-providers/moesif.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "20000000"
@@ -26,4 +26,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...

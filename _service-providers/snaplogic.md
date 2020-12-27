@@ -2,9 +2,9 @@
 name: SnapLogic
 description: SnapLogic's iPaaS platform empowers enterprises by automating application,
   data and cloud integration. Reach digital business transformation with SnapLogic.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/serviceproviders/snaplogic-logo.png
+image: http://api.specificationtoolbox.com/images/service-providers/snaplogic.jpg
 created: "2020-12-23"
-modified: "2020-12-23"
+modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "137244"
@@ -97,4 +97,4 @@ maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
   email: info@apievangelist.com
----
+...
