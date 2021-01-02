@@ -1,0 +1,12 @@
+<!--Category Widget-->
+<div class="sidebar-widget categories-widget">
+  <div class="sidebar-title">
+     <h2>Topics</h2>
+  </div>
+  <ul class="cat-list">
+    {% for topic in site.data.topics %}
+      <li class="clearfix"><a href="/tags/{{ topic.name }}">{{ topic.name }} <span>(30)</span></a></li>
+    {% endfor %}
+  </ul>
+</div>
+<!--End Category Widget-->

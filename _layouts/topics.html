@@ -27,6 +27,11 @@ layout: default
 
                 </div>
 
+            </div>
+          </div>
+
+          <div class="content-side col-lg-8 col-md-12 col-sm-12">
+             <div class="content">
 
                 <a name="news"></a>
                 <H3>News</h3>
@@ -61,6 +66,12 @@ layout: default
                    {% endif %}
                  {% endfor %}
 
+            </div>
+          </div>
+
+          <div class="content-side col-lg-8 col-md-12 col-sm-12">
+             <div class="content">
+
                 <a name="service-providers"></a>
                 <H3>Service Providers</h3>
                 {% assign service_providers = site.service-providers %}
@@ -93,6 +104,12 @@ layout: default
                    {% endif %}
                  {% endfor %}
 
+            </div>
+          </div>
+
+          <div class="content-side col-lg-8 col-md-12 col-sm-12">
+             <div class="content">
+
                 <a name="tools"></a>
                 <H3>Tools</h3>
                 {% assign tools = site.tools %}
@@ -124,6 +141,12 @@ layout: default
                      </div>
                    {% endif %}
                  {% endfor %}
+
+            </div>
+          </div>
+
+          <div class="content-side col-lg-8 col-md-12 col-sm-12">
+             <div class="content">
 
                 <a name="videos"></a>
                 <H3>Videos</h3>
@@ -165,7 +188,7 @@ layout: default
 
                 {% include advertising/advertising-widget.html %}
 
-                {% include tools/tools-widget.html %}
+                {% include topics/topics-widget.html %}
 
              </aside>
           </div>

@@ -1,13 +1,13 @@
 <!--Category Widget-->
 <div class="sidebar-widget categories-widget">
   <div class="sidebar-title">
-     <h2>Categories</h2>
+     <h2>News Topics</h2>
   </div>
   <ul class="cat-list">
     {% assign tags = site.data.news-tags  %}
     {% assign tags = tags | sort: 'name' %}
     {% for tag in tags limit: 25 %}
-      <li class="clearfix"><a href="#">{{ tag.name }} <span>(25)</span></a></li>
+      <li class="clearfix"><a href="/topics/{{ tag.name | replace: " ", "-" | downcase }}/">{{ tag.name }}</a></li>
     {% endfor %}
   </ul>
 </div>
