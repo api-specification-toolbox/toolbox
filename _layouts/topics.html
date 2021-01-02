@@ -10,32 +10,150 @@ layout: default
           <!--Content Side-->
           <div class="content-side col-lg-8 col-md-12 col-sm-12">
              <div class="content">
+
                 <div class="blog-single">
                    <div class="inner-box">
+
                       <div class="upper-box">
                          <ul class="breadcrumb-bar">
                             <li><a href="#">Home</a></li>
-                            <li>News</li>
+                            <li>Tags</li>
                             <li>{{ page.name }}</li>
-                         </ul>
-                         <ul class="tag-title">
-                            {% for tag in page.tags %}
-                              <li>{{ tag }}</li>
-                            {% endfor %}
                          </ul>
                          <h2>{{ page.name }}</h2>
                       </div>
-                      <div class="text">
-                        {{ page.description }}
-                      </div>
 
-                      <ul class="new-article clearfix">
-                         <li><a href="#"><span class="fa fa-angle-left"></span> &ensp; &ensp; &ensp; &ensp; Previous Tools</a></li>
-                         <li><a href="#">Next Tool &ensp; &ensp; &ensp; &ensp; <span class="fa fa-angle-right"></span></a></li>
-                      </ul>
                    </div>
 
                 </div>
+
+
+                <a name="news"></a>
+                <H3>News</h3>
+                {% assign news = site.news %}
+                {% assign news = news | sort: 'date' | reverse %}
+                {% for entry in news limit: 20 %}
+
+                   {% assign tag_match = 0 %}
+                   {% for tag in entry.tags %}
+                    {% if tag == page.name %}
+                      {% assign tag_match = 0 %}
+                    {% endif %}
+                   {% endfor %}
+
+                   {% if tag == page.name %}
+                     <div class="news-block-two col-lg-6 col-md-6 col-sm-12">
+                        <div class="inner-box">
+                           <div class="image">
+                              <a href="{{ entry.source }}"><img src="{{ entry.image }}" alt="" /></a>
+                              <div class="category"><a href="blog-single.html">all</a></div>
+                           </div>
+                           <div class="lower-box">
+                              <h3><a href="{{ entry.source }}">{{ entry.title }}</a></h3>
+                              <ul class="post-meta">
+                                 <li><span class="icon fa fa-clock-o"></span>{{ entry.date | date: "%b %d, %y" }}</li>
+                              </ul>
+                              <div class="text">{{ entry.details | truncate: 395 | strip_html }}</div>
+                              <a href="{{ entry.source }}" class="read-more">Read More </a>
+                           </div>
+                        </div>
+                     </div>
+                   {% endif %}
+                 {% endfor %}
+
+                <a name="service-providers"></a>
+                <H3>Service Providers</h3>
+                {% assign service_providers = site.service-providers %}
+                {% assign service_providers = service_providers | sort: 'x-rank' | reverse %}
+                {% for entry in service_providers limit: service_provider_listing_count %}
+
+                   {% assign tag_match = 0 %}
+                   {% for tag in entry.tags %}
+                    {% if tag == page.name %}
+                      {% assign tag_match = 0 %}
+                    {% endif %}
+                   {% endfor %}
+
+                   {% if tag == page.name %}
+                     <div class="news-block-two col-lg-6 col-md-6 col-sm-12">
+                        <div class="inner-box">
+                           <div class="image">
+                              <a href="{{ entry.url }}"><img src="{{ entry.image }}" alt=""></a>
+                           </div>
+                           <div class="lower-box">
+                              <h3><a href="{{ entry.url }}">{{ entry.name }}</a></h3>
+                              <ul class="post-meta">
+                                 <li><span class="icon fa fa-clock-o"></span>{{ entry.modified | date: "%b %d, %y" }}</li>
+                              </ul>
+                              <div class="text">{{ entry.description | truncate: 395 | strip_html }}</div>
+                              <a href="{{ entry.url }}" class="read-more">Read More </a>
+                           </div>
+                        </div>
+                     </div>
+                   {% endif %}
+                 {% endfor %}
+
+                <a name="tools"></a>
+                <H3>Tools</h3>
+                {% assign tools = site.tools %}
+                {% assign tools = tools | sort: 'x-rank' | reverse %}
+                {% for entry in tools limit:18 %}
+
+                   {% assign tag_match = 0 %}
+                   {% for tag in entry.tags %}
+                    {% if tag == page.name %}
+                      {% assign tag_match = 0 %}
+                    {% endif %}
+                   {% endfor %}
+
+                   {% if tag == page.name %}
+                     <div class="news-block-two col-lg-6 col-md-6 col-sm-12">
+                        <div class="inner-box">
+                           <div class="image">
+                              <img src="{{ entry.image }}" alt="" />
+                           </div>
+                           <div class="lower-box">
+                              <h3><a href="{{ entry.url }}">{{ entry.name }}</a></h3>
+                              <ul class="post-meta">
+                                 <li><span class="icon fa fa-clock-o"></span>{{ entry.modified | date: "%b %d, %y" }}</li>
+                              </ul>
+                              <div class="text">{{ entry.description | truncate: 395 | strip_html }}</div>
+                              <a href="{{ entry.url }}" class="read-more">Read More </a>
+                           </div>
+                        </div>
+                     </div>
+                   {% endif %}
+                 {% endfor %}
+
+                <a name="videos"></a>
+                <H3>Videos</h3>
+                {% assign videos = site.videos %}
+                {% assign videos = videos | sort: 'x-rank' | reverse %}
+                {% for entry in videos limit:6 %}
+
+                   {% assign tag_match = 0 %}
+                   {% for tag in entry.tags %}
+                    {% if tag == page.name %}
+                      {% assign tag_match = 0 %}
+                    {% endif %}
+                   {% endfor %}
+
+                   {% if tag == page.name %}
+                     <div class="news-block-two col-lg-6 col-md-6 col-sm-12">
+                        <div class="inner-box">
+                           <div class="image">{{ entry.embed }}</div>
+                           <div class="lower-box">
+                              <h3><a href="{{ entry.url }}">{{ entry.name }}</a></h3>
+                              <ul class="post-meta">
+                                 <li><span class="icon fa fa-clock-o"></span>{{ entry.date | date: "%b %d, %y" }}</li>
+                              </ul>
+                              <div class="text">{{ entry.description | truncate: 395 | strip_html }}</div>
+                           </div>
+                        </div>
+                     </div>
+                   {% endif %}
+                 {% endfor %}
+
              </div>
           </div>
 
@@ -47,7 +165,7 @@ layout: default
 
                 {% include advertising/advertising-widget.html %}
 
-                {% include news/news-tag-widget.html %}
+                {% include tools/tools-widget.html %}
 
              </aside>
           </div>
