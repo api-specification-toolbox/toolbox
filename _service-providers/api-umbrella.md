@@ -11,13 +11,8 @@ x-rank: "9"
 x-alexaRank: "1095784"
 url: http://api.specificationtoolbox.com/resources/service-providers/api-umbrella/
 tags:
-- Profile
 - Management
 - Have Swagger
-- Have API Paths
-- Have API
-- API Tools
-- API Service Provider
 apis: []
 x-common:
 - type: x-crunchbase

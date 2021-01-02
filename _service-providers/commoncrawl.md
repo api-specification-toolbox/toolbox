@@ -12,9 +12,6 @@ tags:
 - Search
 - Scraping Web Crawler
 - Scraping
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-about

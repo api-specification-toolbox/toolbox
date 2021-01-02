@@ -11,9 +11,7 @@ x-alexaRank: "511955"
 url: http://api.specificationtoolbox.com/resources/service-providers/ambassador-api-gateway/
 tags:
 - Kubernetes
-- Has API
 - Gateway
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

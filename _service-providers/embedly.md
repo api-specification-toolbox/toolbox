@@ -12,10 +12,8 @@ url: http://api.specificationtoolbox.com/resources/service-providers/embedly/
 tags:
 - Scraping Tools
 - Scraping
-- Have API
 - Embeddable
 - Embed
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

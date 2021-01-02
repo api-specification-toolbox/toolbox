@@ -10,10 +10,7 @@ x-rank: "7"
 x-alexaRank: "152493"
 url: http://api.specificationtoolbox.com/resources/service-providers/itsalive/
 tags:
-- Have API
 - Chats
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

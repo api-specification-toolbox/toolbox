@@ -12,8 +12,6 @@ url: http://api.specificationtoolbox.com/resources/service-providers/apis-io/
 tags:
 - Search Engine
 - ProgrammableWeb
-- Have API Paths
-- Have API
 - General Data
 - Discovery
 - Discovery
@@ -24,10 +22,7 @@ tags:
 - APIs.json
 - Apijson
 - Apicommons
-- API Tools
-- API Service Provider
 - Api Search
-- API Provider
 - API Commons
 - API
 apis: []

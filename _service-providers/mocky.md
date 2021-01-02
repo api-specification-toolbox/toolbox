@@ -12,9 +12,7 @@ tags:
 - Virtualizations
 - Testing
 - Sandbox
-- Have API
 - Code
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

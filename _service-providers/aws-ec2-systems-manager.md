@@ -11,15 +11,9 @@ x-rank: "10"
 x-alexaRank: "14"
 url: http://api.specificationtoolbox.com/resources/service-providers/aws-ec2-systems-manager/
 tags:
-- Relative Data
 - Orchestration
 - Management
-- Have API Paths
-- Have API
 - Deployment
-- API Service Provider
-- API Service Provider
-- API Provider
 - Amazon Web Services
 apis: []
 x-common:

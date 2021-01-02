@@ -19,11 +19,8 @@ tags:
 - OpenID
 - Identities
 - Identities
-- Have API
 - Authentication
 - Authentication
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

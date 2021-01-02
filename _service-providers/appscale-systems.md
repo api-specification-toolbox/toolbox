@@ -13,9 +13,7 @@ url: http://api.specificationtoolbox.com/resources/service-providers/appscale-sy
 tags:
 - Platform As A Service Providers
 - Multi-Cloud
-- Has API
 - Deployment
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

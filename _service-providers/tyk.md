@@ -10,15 +10,10 @@ x-rank: "9"
 x-alexaRank: "367675"
 url: http://api.specificationtoolbox.com/resources/service-providers/tyk/
 tags:
-- Relative Data
-- Profile
 - Management
 - Integration Landscape
 - Have Swagger
-- Have API Paths
-- Have API
 - Deployment
-- API Service Provider
 apis: []
 x-common:
 - type: x-about

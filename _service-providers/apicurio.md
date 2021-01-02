@@ -10,7 +10,6 @@ x-alexaRank: "20000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/apicurio/
 tags:
 - Design
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

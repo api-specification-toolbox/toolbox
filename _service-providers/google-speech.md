@@ -16,14 +16,7 @@ x-alexaRank: "1"
 url: http://api.specificationtoolbox.com/resources/service-providers/google-speech/
 tags:
 - Speech Recognition
-- Relative Data
-- New
 - Machine Learning
-- Have OpenAPI
-- Have API Paths
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-base-url

@@ -11,9 +11,7 @@ x-rank: "8"
 x-alexaRank: "61566"
 url: http://api.specificationtoolbox.com/resources/service-providers/api-docs/
 tags:
-- Have API
 - Documentation
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

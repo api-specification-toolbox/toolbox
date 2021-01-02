@@ -15,9 +15,7 @@ tags:
 - IPaaS
 - Integrations
 - Integration Landscape
-- Have API
 - BaaS
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

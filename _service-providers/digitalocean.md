@@ -16,13 +16,8 @@ x-rank: "7"
 x-alexaRank: "2762"
 url: http://api.specificationtoolbox.com/resources/service-providers/digitalocean/
 tags:
-- Relative Data
 - Infrastructure As A Service Providers
-- Have API Paths
-- Have API
 - Compute
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

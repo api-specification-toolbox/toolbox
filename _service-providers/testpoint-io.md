@@ -18,10 +18,7 @@ tags:
 - Test Services
 - Test End-points
 - Test Cases
-- Profile
 - Have Swagger
-- Have API Paths
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

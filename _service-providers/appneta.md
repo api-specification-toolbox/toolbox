@@ -13,9 +13,7 @@ url: http://api.specificationtoolbox.com/resources/service-providers/appneta/
 tags:
 - Networks
 - Monitoring
-- Have API
 - Applications
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

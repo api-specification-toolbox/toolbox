@@ -13,8 +13,6 @@ url: http://api.specificationtoolbox.com/resources/service-providers/rest-hooks/
 tags:
 - Webhooks
 - Webhooks
-- Have API
-- API Service Provider
 apis: []
 x-common:
 - type: x-github

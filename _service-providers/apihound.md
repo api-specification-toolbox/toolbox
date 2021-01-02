@@ -9,10 +9,7 @@ x-rank: "3"
 x-alexaRank: "8285770"
 url: http://api.specificationtoolbox.com/resources/service-providers/apihound/
 tags:
-- Profile
-- Have API
 - Discovery
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

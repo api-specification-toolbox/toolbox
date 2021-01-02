@@ -14,8 +14,6 @@ tags:
 - Networks
 - Monitoring
 - Logging
-- Have API
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

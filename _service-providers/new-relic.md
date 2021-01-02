@@ -10,12 +10,8 @@ x-rank: "8"
 x-alexaRank: "11669"
 url: http://api.specificationtoolbox.com/resources/service-providers/new-relic/
 tags:
-- Relative Data
 - Performance
 - Monitoring
-- Have API Paths
-- Have API
-- API Service Provider
 apis: []
 x-common:
 - type: x-about

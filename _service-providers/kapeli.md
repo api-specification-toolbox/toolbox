@@ -13,11 +13,8 @@ x-alexaRank: "93978"
 url: http://api.specificationtoolbox.com/resources/service-providers/kapeli/
 tags:
 - Postman Doc Search
-- New
-- Have API
 - Documentation
 - Discovery
-- API Service Provider
 apis: []
 x-common:
 - type: x-blog

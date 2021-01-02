@@ -15,14 +15,8 @@ x-alexaRank: "14"
 url: http://api.specificationtoolbox.com/resources/service-providers/aws-lambda/
 tags:
 - Serverless
-- Relative Data
 - Integration Landscape
-- Have API Paths
-- Have API
 - Deployment
-- API Service Provider
-- API Service Provider
-- API Provider
 - Amazon Web Services
 apis: []
 x-common:

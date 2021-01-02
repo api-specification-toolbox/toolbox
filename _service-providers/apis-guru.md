@@ -10,12 +10,8 @@ x-alexaRank: "549523"
 url: http://api.specificationtoolbox.com/resources/service-providers/apis-guru/
 tags:
 - Have Swagger
-- Have API Paths
-- Have API
 - General Data
 - Discovery
-- API Tools
-- API Service Provider
 - API
 apis: []
 x-common:

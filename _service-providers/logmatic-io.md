@@ -11,9 +11,6 @@ x-alexaRank: "1000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/logmatic-io/
 tags:
 - Logging
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-about

@@ -12,9 +12,6 @@ x-alexaRank: "1000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/graphite/
 tags:
 - Postman Doc Search
-- New
-- Have API
-- API Service Provider
 - Analysis
 apis: []
 x-common:

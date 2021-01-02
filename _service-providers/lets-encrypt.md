@@ -10,9 +10,7 @@ x-rank: "7"
 x-alexaRank: "16662"
 url: http://api.specificationtoolbox.com/resources/service-providers/lets-encrypt/
 tags:
-- Have API
 - Encryption
-- API Service Provider
 apis: []
 x-common:
 - type: x-about

@@ -11,10 +11,7 @@ x-alexaRank: "50868"
 url: http://api.specificationtoolbox.com/resources/service-providers/bintray/
 tags:
 - Sharing
-- Have API
 - Coding
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

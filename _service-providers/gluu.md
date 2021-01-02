@@ -13,9 +13,6 @@ url: http://api.specificationtoolbox.com/resources/service-providers/gluu/
 tags:
 - Identities
 - Have Swagger
-- Have API Paths
-- Have API
-- API Service Provider
 - API Management Other
 apis: []
 x-common:

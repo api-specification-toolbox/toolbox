@@ -13,8 +13,6 @@ url: http://api.specificationtoolbox.com/resources/service-providers/blockspring
 tags:
 - Spreadsheets
 - Spreadsheets
-- Have API
-- API Service Provider
 - API LIfeycle
 apis: []
 x-common:

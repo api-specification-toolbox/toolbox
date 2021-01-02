@@ -10,10 +10,7 @@ x-rank: "7"
 x-alexaRank: "288577"
 url: http://api.specificationtoolbox.com/resources/service-providers/choicetrade/
 tags:
-- Have API
 - Financial
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-about

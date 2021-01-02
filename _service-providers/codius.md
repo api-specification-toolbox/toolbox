@@ -9,10 +9,7 @@ x-rank: "8"
 x-alexaRank: "7197960"
 url: http://api.specificationtoolbox.com/resources/service-providers/codius/
 tags:
-- Profile
 - Legal
-- Have API
-- API Service Provider
 apis: []
 x-common:
 - type: x-crunchbase

@@ -17,9 +17,6 @@ tags:
 - Sharing
 - Registrations
 - Login
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

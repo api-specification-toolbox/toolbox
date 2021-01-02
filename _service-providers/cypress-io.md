@@ -11,9 +11,6 @@ x-alexaRank: "39084"
 url: http://api.specificationtoolbox.com/resources/service-providers/cypress-io/
 tags:
 - Testing
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-code

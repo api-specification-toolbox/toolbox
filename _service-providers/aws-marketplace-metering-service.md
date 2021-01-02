@@ -13,14 +13,8 @@ x-rank: "10"
 x-alexaRank: "14"
 url: http://api.specificationtoolbox.com/resources/service-providers/aws-marketplace-metering-service/
 tags:
-- Relative Data
 - Marketplaces
-- Have API Paths
-- Have API
 - Applications
-- API Service Provider
-- API Service Provider
-- API Provider
 - Amazon Web Services
 apis: []
 x-common:

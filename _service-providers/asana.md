@@ -10,14 +10,9 @@ x-rank: "7"
 x-alexaRank: "1083"
 url: http://api.specificationtoolbox.com/resources/service-providers/asana/
 tags:
-- Profile
 - Postman Doc Search
 - Integration Landscape
 - Have Swagger
-- Have API Paths
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

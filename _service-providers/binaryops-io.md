@@ -9,10 +9,7 @@ x-rank: "8"
 x-alexaRank: "1000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/binaryops-io/
 tags:
-- Have API
 - Deployment
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

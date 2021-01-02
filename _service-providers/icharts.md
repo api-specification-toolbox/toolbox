@@ -12,10 +12,8 @@ url: http://api.specificationtoolbox.com/resources/service-providers/icharts/
 tags:
 - Visualizations
 - Visualizations
-- Have API
 - Graphs
 - Charts
-- API Service Provider
 apis: []
 x-common:
 - type: x-base

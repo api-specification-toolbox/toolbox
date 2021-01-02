@@ -13,9 +13,7 @@ x-alexaRank: "20000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/domo/
 tags:
 - Visualizations
-- Profile
 - Management
-- API Service Provider
 - Analysis
 apis: []
 x-common:

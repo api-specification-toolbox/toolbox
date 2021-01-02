@@ -13,13 +13,9 @@ x-alexaRank: "28314"
 url: http://api.specificationtoolbox.com/resources/service-providers/ecobee/
 tags:
 - Thermostats
-- Profile
 - Internet Of Things
-- Have API
 - Energy
 - Automation
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

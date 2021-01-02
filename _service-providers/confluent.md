@@ -9,9 +9,7 @@ specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "52317"
 url: http://api.specificationtoolbox.com/resources/service-providers/confluent/
-tags:
-- Have API
-- API Service Provider
+tags: []
 apis: []
 x-common:
 - type: x-blog

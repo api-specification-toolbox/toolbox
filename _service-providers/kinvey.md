@@ -10,9 +10,7 @@ x-rank: "9"
 x-alexaRank: "789707"
 url: http://api.specificationtoolbox.com/resources/service-providers/kinvey/
 tags:
-- Have API
 - BaaS
-- API Service Provider
 - API LIfeycle
 apis: []
 x-common:

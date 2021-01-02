@@ -11,13 +11,8 @@ x-rank: "9"
 x-alexaRank: "1"
 url: http://api.specificationtoolbox.com/resources/service-providers/google-service-management/
 tags:
-- Relative Data
 - Management
-- Have API Paths
-- Have API
 - Deployment
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

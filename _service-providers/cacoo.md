@@ -12,12 +12,10 @@ x-alexaRank: "33784"
 url: http://api.specificationtoolbox.com/resources/service-providers/cacoo/
 tags:
 - Office
-- Have API
 - Diagrams
 - Diagramming
 - Diagram
 - Charts
-- API Service Provider
 - API Not Found
 apis: []
 x-common:

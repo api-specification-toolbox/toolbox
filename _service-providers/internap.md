@@ -12,12 +12,8 @@ x-rank: "7"
 x-alexaRank: "5926543"
 url: http://api.specificationtoolbox.com/resources/service-providers/internap/
 tags:
-- Profile
 - Networks
 - ISP
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-crunchbase

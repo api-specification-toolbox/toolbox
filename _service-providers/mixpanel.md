@@ -12,10 +12,7 @@ url: http://api.specificationtoolbox.com/resources/service-providers/mixpanel/
 tags:
 - Metrics
 - Integration Landscape
-- Have API
 - Business Intelligence
-- API Service Provider
-- API Provider
 - Analysis
 - Analysis
 - Analysis

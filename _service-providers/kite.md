@@ -9,9 +9,7 @@ specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "30209"
 url: http://api.specificationtoolbox.com/resources/service-providers/kite/
-tags:
-- Have API
-- API Service Provider
+tags: []
 apis: []
 x-common:
 - type: x-website

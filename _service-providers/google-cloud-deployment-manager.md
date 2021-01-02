@@ -13,13 +13,9 @@ x-rank: "9"
 x-alexaRank: "1"
 url: http://api.specificationtoolbox.com/resources/service-providers/google-cloud-deployment-manager/
 tags:
-- Relative Data
 - Orchestration
-- Have API
 - Deployment
 - Ci/cd
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-authentication

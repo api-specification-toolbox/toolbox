@@ -13,10 +13,7 @@ x-rank: "8"
 x-alexaRank: "6036464"
 url: http://api.specificationtoolbox.com/resources/service-providers/panamax-project/
 tags:
-- Profile
-- Have API
 - Containers
-- API Service Provider
 - ',API Service Provider'
 apis: []
 x-common:

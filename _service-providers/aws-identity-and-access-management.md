@@ -13,14 +13,8 @@ x-alexaRank: "14"
 url: http://api.specificationtoolbox.com/resources/service-providers/aws-identity-and-access-management/
 tags:
 - Security
-- Relative Data
 - Identities
-- Have API Paths
-- Have API
 - Authentication
-- API Service Provider
-- API Service Provider
-- API Provider
 - Amazon Web Services
 apis: []
 x-common:

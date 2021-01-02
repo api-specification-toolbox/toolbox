@@ -19,14 +19,8 @@ x-alexaRank: "14"
 url: http://api.specificationtoolbox.com/resources/service-providers/aws-cognito/
 tags:
 - Twitter
-- Relative Data
 - Identities
-- Have API Paths
-- Have API
 - Authentication
-- API Service Provider
-- API Service Provider
-- API Provider
 - Amazon Web Services
 apis: []
 x-common:

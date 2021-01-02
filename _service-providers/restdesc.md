@@ -14,9 +14,7 @@ x-alexaRank: "1000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/restdesc/
 tags:
 - Hypermedia
-- Have API
 - Discovery
-- API Service Provider
 apis: []
 x-common:
 - type: x-developer

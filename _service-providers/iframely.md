@@ -10,9 +10,7 @@ x-rank: "7"
 x-alexaRank: "58500"
 url: http://api.specificationtoolbox.com/resources/service-providers/iframely/
 tags:
-- Have API
 - Embeddable
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

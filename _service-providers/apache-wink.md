@@ -18,9 +18,6 @@ tags:
 - Java
 - Framework
 - Deployment
-- API Tools
-- API Service Provider
-- API Service Provider
 apis: []
 x-common:
 - type: x-github

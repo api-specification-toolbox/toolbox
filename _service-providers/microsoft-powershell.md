@@ -13,10 +13,8 @@ x-rank: "9"
 x-alexaRank: "33"
 url: http://api.specificationtoolbox.com/resources/service-providers/microsoft-powershell/
 tags:
-- Have API
 - Command Line Interface
 - Command Line Interface
-- API Service Provider
 apis: []
 x-common:
 - type: x-blog

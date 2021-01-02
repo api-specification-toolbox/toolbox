@@ -12,11 +12,8 @@ x-alexaRank: "90156"
 url: http://api.specificationtoolbox.com/resources/service-providers/fullcontact/
 tags:
 - Target
-- Relative Data
 - Phones
 - Office
-- My API Stack
-- Have API
 - Enrichment
 - CRM
 - Contacts
@@ -26,8 +23,6 @@ tags:
 - Business Card
 - Business
 - Append
-- API Service Provider
-- API Provider
 - API LIfeycle
 - Addresses
 apis: []

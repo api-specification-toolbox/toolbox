@@ -17,10 +17,8 @@ x-alexaRank: "2103514"
 url: http://api.specificationtoolbox.com/resources/service-providers/certificate-transparency/
 tags:
 - SSL
-- Have API
 - Encryption
 - Certificates
-- API Service Provider
 apis: []
 x-common:
 - type: x-github

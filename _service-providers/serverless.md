@@ -13,7 +13,6 @@ url: http://api.specificationtoolbox.com/resources/service-providers/serverless/
 tags:
 - Serverless
 - No API
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

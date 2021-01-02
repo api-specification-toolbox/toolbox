@@ -14,10 +14,7 @@ tags:
 - Streams
 - Streams
 - Monitoring
-- Have API Paths
-- Have API
 - API United Kingdom
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

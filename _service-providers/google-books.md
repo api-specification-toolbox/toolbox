@@ -12,12 +12,7 @@ x-rank: "9"
 x-alexaRank: "1"
 url: http://api.specificationtoolbox.com/resources/service-providers/google-books/
 tags:
-- Relative Data
-- Have API Paths
-- Have API
 - Books
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

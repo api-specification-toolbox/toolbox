@@ -10,10 +10,8 @@ x-alexaRank: "5517526"
 url: http://api.specificationtoolbox.com/resources/service-providers/mapdata-services/
 tags:
 - JavaScript
-- Have API
 - GIS
 - Demographics
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

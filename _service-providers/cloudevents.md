@@ -16,11 +16,9 @@ url: http://api.specificationtoolbox.com/resources/service-providers/cloudevents
 tags:
 - Webhooks
 - Under Active Development
-- Profile
 - Events
 - Event Declaration
 - Event Data
-- API Service Provider
 apis: []
 x-common:
 - type: x-github

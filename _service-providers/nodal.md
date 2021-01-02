@@ -11,10 +11,8 @@ x-alexaRank: "1966794"
 url: http://api.specificationtoolbox.com/resources/service-providers/nodal/
 tags:
 - Node.js
-- Have API
 - Framework
 - Deployment
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

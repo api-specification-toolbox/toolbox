@@ -12,9 +12,6 @@ url: http://api.specificationtoolbox.com/resources/service-providers/location-la
 tags:
 - Networks
 - Locations
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

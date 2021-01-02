@@ -16,13 +16,8 @@ url: http://api.specificationtoolbox.com/resources/service-providers/google-slid
 tags:
 - Word Processors
 - Slides
-- Relative Data
 - Productivity
-- Have API Paths
-- Have API
 - Documents
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-developers

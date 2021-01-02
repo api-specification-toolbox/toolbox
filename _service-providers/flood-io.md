@@ -11,10 +11,7 @@ x-alexaRank: "368670"
 url: http://api.specificationtoolbox.com/resources/service-providers/flood-io/
 tags:
 - Testing
-- Profile
 - Performance
-- Have API
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

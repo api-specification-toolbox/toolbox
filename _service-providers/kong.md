@@ -12,14 +12,10 @@ url: http://api.specificationtoolbox.com/resources/service-providers/kong/
 tags:
 - Service Mesh
 - Portals
-- New
 - Management
 - Integration Landscape
-- Have OpenAPI
-- Have API
 - Gateway
 - Design
-- API Service Provider
 apis: []
 x-common:
 - type: x-blog

@@ -10,9 +10,7 @@ x-rank: "8"
 x-alexaRank: "206374"
 url: http://api.specificationtoolbox.com/resources/service-providers/service-stack/
 tags:
-- Have API
 - Deployment
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

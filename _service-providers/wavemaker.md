@@ -13,9 +13,7 @@ x-alexaRank: "295578"
 url: http://api.specificationtoolbox.com/resources/service-providers/wavemaker/
 tags:
 - Integration
-- Have API
 - Deployment
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

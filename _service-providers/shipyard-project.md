@@ -9,9 +9,7 @@ x-rank: "8"
 x-alexaRank: "10834762"
 url: http://api.specificationtoolbox.com/resources/service-providers/shipyard-project/
 tags:
-- Have API
 - Containers
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

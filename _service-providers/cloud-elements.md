@@ -10,12 +10,7 @@ x-rank: "7"
 x-alexaRank: "212451"
 url: http://api.specificationtoolbox.com/resources/service-providers/cloud-elements/
 tags:
-- Relative Data
 - Have Swagger
-- Have API Paths
-- Have API
-- API Service Provider
-- API Provider
 - API LIfeycle
 - Aggregation
 - Aggregation

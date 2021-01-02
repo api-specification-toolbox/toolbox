@@ -11,9 +11,7 @@ x-rank: "7"
 x-alexaRank: "20000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/neptune-software/
 tags:
-- Profile
 - Management
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

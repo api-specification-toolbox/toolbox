@@ -15,9 +15,7 @@ x-rank: "7"
 x-alexaRank: "3488127"
 url: http://api.specificationtoolbox.com/resources/service-providers/smartapi/
 tags:
-- Has API
 - Discovery
-- API Service Provider
 apis: []
 x-common:
 - type: x-github

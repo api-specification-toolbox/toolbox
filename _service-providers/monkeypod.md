@@ -13,8 +13,6 @@ x-rank: "7"
 x-alexaRank: "1000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/monkeypod/
 tags:
-- Have API
-- API Service Provider
 - Accounting
 apis: []
 x-common:

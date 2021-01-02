@@ -11,9 +11,6 @@ url: http://api.specificationtoolbox.com/resources/service-providers/lightning/
 tags:
 - Visualizations
 - Visualizations
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

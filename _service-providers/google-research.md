@@ -10,8 +10,6 @@ x-alexaRank: "1000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/google-research/
 tags:
 - News And Media
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

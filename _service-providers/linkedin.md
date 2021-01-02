@@ -14,14 +14,8 @@ tags:
 - Streams
 - Streams
 - Social Networking
-- Relative Data
-- My API Stack
 - Have Swagger
-- Have API Paths
-- Have API
 - General Data
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-about

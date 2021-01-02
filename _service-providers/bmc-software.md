@@ -15,12 +15,8 @@ tags:
 - Network Management
 - Monitoring
 - ISP
-- Have API Paths
-- Have API
 - Devops
 - Applications
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

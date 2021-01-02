@@ -15,7 +15,6 @@ x-alexaRank: "120386"
 url: http://api.specificationtoolbox.com/resources/service-providers/appery-io/
 tags:
 - BaaS
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

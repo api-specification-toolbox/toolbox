@@ -12,16 +12,11 @@ x-alexaRank: "221"
 url: http://api.specificationtoolbox.com/resources/service-providers/okta/
 tags:
 - Target
-- Relative Data
 - Integration Landscape
 - Identity
 - Identities
 - Have Swagger
-- Have API Paths
-- Have API
 - Authentication
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

@@ -11,15 +11,9 @@ x-rank: "10"
 x-alexaRank: "14"
 url: http://api.specificationtoolbox.com/resources/service-providers/aws-storage-gateway-service/
 tags:
-- Relative Data
-- Have API Paths
-- Have API
 - Gateway
 - Deployment
 - Databases
-- API Service Provider
-- API Service Provider
-- API Provider
 - Amazon Web Services
 apis: []
 x-common:

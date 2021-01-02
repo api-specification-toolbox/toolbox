@@ -14,11 +14,8 @@ x-rank: "7"
 x-alexaRank: "8659"
 url: http://api.specificationtoolbox.com/resources/service-providers/drupal/
 tags:
-- Have API
 - Drupal
 - Content
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

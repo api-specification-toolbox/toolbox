@@ -12,13 +12,8 @@ x-rank: "9"
 x-alexaRank: "1"
 url: http://api.specificationtoolbox.com/resources/service-providers/google-analytics/
 tags:
-- Relative Data
 - Integration Landscape
 - Have Swagger
-- Have API Paths
-- Have API
-- API Service Provider
-- API Provider
 - Analytics
 - Analysis
 apis: []

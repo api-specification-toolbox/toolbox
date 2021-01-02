@@ -11,8 +11,6 @@ x-alexaRank: "1000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/monarch-api-manager/
 tags:
 - Management
-- Have API
-- API Service Provider
 - API Management Other
 apis: []
 x-common:

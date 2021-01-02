@@ -12,13 +12,7 @@ x-rank: "10"
 x-alexaRank: "14"
 url: http://api.specificationtoolbox.com/resources/service-providers/aws-cloudformation/
 tags:
-- Relative Data
-- Have API Paths
-- Have API
 - Deployment
-- API Service Provider
-- API Service Provider
-- API Provider
 - Amazon Web Services
 apis: []
 x-common:

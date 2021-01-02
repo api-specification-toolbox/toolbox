@@ -10,24 +10,17 @@ x-rank: "8"
 x-alexaRank: "6672"
 url: http://api.specificationtoolbox.com/resources/service-providers/heroku/
 tags:
-- Relative Data
 - Postman Doc Search
 - Platform As A Service Providers
 - PaaS
-- New
-- My API Stack
 - Issues Example
 - Issues
 - Have Swagger
-- Have API Paths
-- Have API
 - Developers
 - Databases
 - Compute
 - Command Line Interface
 - Code
-- API Service Provider
-- API Provider
 - API LIfeycle
 apis: []
 x-common:

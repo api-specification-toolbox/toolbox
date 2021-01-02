@@ -11,7 +11,6 @@ x-alexaRank: "17108"
 url: http://api.specificationtoolbox.com/resources/service-providers/appsflyer/
 tags:
 - No API
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

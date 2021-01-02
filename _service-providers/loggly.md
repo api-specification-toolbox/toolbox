@@ -13,9 +13,6 @@ url: http://api.specificationtoolbox.com/resources/service-providers/loggly/
 tags:
 - Target
 - Logging
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-base

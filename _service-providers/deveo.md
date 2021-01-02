@@ -11,8 +11,6 @@ x-alexaRank: "9635908"
 url: http://api.specificationtoolbox.com/resources/service-providers/deveo/
 tags:
 - Versioning
-- Have API
-- API Service Provider
 apis: []
 x-common:
 - type: x-base

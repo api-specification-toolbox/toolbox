@@ -24,7 +24,6 @@ tags:
 - Dnsbl
 - DNS
 - Checks
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

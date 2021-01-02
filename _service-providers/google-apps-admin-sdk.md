@@ -17,14 +17,9 @@ tags:
 - TempSave
 - Resellers
 - Reseller
-- Relative Data
 - Licensing
-- Have API Paths
-- Have API
 - Documents
 - Applications
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

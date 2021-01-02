@@ -11,8 +11,6 @@ x-alexaRank: "49512"
 url: http://api.specificationtoolbox.com/resources/service-providers/papertrail-logs/
 tags:
 - Logging
-- Have API
-- API Service Provider
 apis: []
 x-common:
 - type: x-blog

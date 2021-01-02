@@ -11,14 +11,9 @@ x-rank: "10"
 x-alexaRank: "33"
 url: http://api.specificationtoolbox.com/resources/service-providers/azure-documentdb/
 tags:
-- Relative Data
 - Microsoft
-- Have API Paths
-- Have API
 - Documents
 - Databases
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

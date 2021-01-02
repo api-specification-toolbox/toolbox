@@ -10,9 +10,7 @@ x-rank: "9"
 x-alexaRank: "73042"
 url: http://api.specificationtoolbox.com/resources/service-providers/nordic-apis/
 tags:
-- Profile
 - Conferences
-- API Service Provider
 - API LIfeycle
 - API Events
 apis: []

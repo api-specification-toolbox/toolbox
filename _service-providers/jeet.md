@@ -10,10 +10,6 @@ x-alexaRank: "2145497"
 url: http://api.specificationtoolbox.com/resources/service-providers/jeet/
 tags:
 - Single Page Applications
-- Profile
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-documentation

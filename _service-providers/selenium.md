@@ -13,9 +13,7 @@ x-alexaRank: "105894"
 url: http://api.specificationtoolbox.com/resources/service-providers/selenium/
 tags:
 - Testing
-- Profile
 - Automation
-- API Service Provider
 apis: []
 x-common:
 - type: x-blog

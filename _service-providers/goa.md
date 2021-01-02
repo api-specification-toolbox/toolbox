@@ -12,9 +12,7 @@ x-alexaRank: "3272394"
 url: http://api.specificationtoolbox.com/resources/service-providers/goa/
 tags:
 - Microservices
-- Have API
 - Deployment
-- API Service Provider
 apis: []
 x-common:
 - type: x-blog

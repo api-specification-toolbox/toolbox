@@ -12,9 +12,7 @@ x-rank: "8"
 x-alexaRank: "388468"
 url: http://api.specificationtoolbox.com/resources/service-providers/oembed/
 tags:
-- Have API
 - Embeddable
-- API Service Provider
 apis: []
 x-common:
 - type: x-blog

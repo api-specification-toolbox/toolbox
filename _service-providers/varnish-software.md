@@ -13,9 +13,7 @@ tags:
 - Proxy
 - Proxies
 - Performance
-- Have API
 - Caching
-- API Service Provider
 - API LIfeycle
 apis: []
 x-common:

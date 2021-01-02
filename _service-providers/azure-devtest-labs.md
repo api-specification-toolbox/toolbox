@@ -12,12 +12,8 @@ x-alexaRank: "33"
 url: http://api.specificationtoolbox.com/resources/service-providers/azure-devtest-labs/
 tags:
 - Testing
-- Relative Data
 - Orchestration
 - Microsoft
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

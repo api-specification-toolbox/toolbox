@@ -14,27 +14,21 @@ tags:
 - Streams
 - Streams
 - Streams
-- Relative Data
 - Programming
 - Portals
 - Orchestration
-- My API Stack
 - Issues
 - Issue Management
 - Integration Landscape
 - Imports
 - Historical Data API
 - Have Swagger
-- Have API Paths
-- Have API
 - General Data
 - Developers
 - Coding
 - Code
 - Ci/cd
 - Change Log Example
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x--net-library

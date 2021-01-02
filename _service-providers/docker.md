@@ -12,16 +12,10 @@ x-rank: "9"
 x-alexaRank: "3287"
 url: http://api.specificationtoolbox.com/resources/service-providers/docker/
 tags:
-- Profile
-- My API Stack
 - Integration Landscape
 - Have Swagger
-- Have API Paths
-- Have API
 - Containers
 - Command Line Interface
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

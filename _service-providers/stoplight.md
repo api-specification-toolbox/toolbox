@@ -14,16 +14,12 @@ tags:
 - Testing
 - Studio
 - Proxy
-- Profile
-- New
 - Mocking
 - Integration Landscape
 - Have Swagger
-- Have API
 - Documentation
 - Design
 - Clients
-- API Service Provider
 - API LIfeycle
 apis: []
 x-common:

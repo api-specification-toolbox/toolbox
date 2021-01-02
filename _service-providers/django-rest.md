@@ -16,10 +16,8 @@ url: http://api.specificationtoolbox.com/resources/service-providers/django-rest
 tags:
 - Integration Landscape
 - Hypermedia
-- Have API
 - Framework
 - Deployment
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

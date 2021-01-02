@@ -17,13 +17,8 @@ tags:
 - Streams
 - Streams
 - Spreadsheets
-- Relative Data
 - Productivity
-- Have API Paths
-- Have API
 - Documents
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

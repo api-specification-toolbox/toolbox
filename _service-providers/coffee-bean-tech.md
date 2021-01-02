@@ -10,10 +10,7 @@ x-rank: "7"
 x-alexaRank: "7147598"
 url: http://api.specificationtoolbox.com/resources/service-providers/coffee-bean-tech/
 tags:
-- Have API
 - CRM
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

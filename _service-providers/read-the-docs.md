@@ -11,9 +11,7 @@ x-rank: "7"
 x-alexaRank: "22218"
 url: http://api.specificationtoolbox.com/resources/service-providers/read-the-docs/
 tags:
-- Has API
 - Documentation
-- API Service Provider
 apis: []
 x-common:
 - type: x-crunchbase

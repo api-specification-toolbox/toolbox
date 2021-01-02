@@ -13,10 +13,8 @@ tags:
 - Recognition
 - Photos
 - JavaScript
-- Have API
 - Face
 - Detection
-- API Service Provider
 apis: []
 x-common:
 - type: x-github

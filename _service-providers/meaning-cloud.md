@@ -15,10 +15,7 @@ x-alexaRank: "446024"
 url: http://api.specificationtoolbox.com/resources/service-providers/meaning-cloud/
 tags:
 - Machine Learning
-- Have API
 - Content
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

@@ -12,15 +12,10 @@ x-rank: "9"
 x-alexaRank: "232"
 url: http://api.specificationtoolbox.com/resources/service-providers/blogger/
 tags:
-- Relative Data
-- Have API Paths
-- Have API
 - General Data
 - Content
 - CMS
 - Blogger
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

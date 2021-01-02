@@ -13,12 +13,7 @@ tags:
 - Social Sharing
 - Schedules
 - Schedules
-- Relative Data
 - Have Swagger
-- Have API Paths
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

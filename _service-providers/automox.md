@@ -12,11 +12,7 @@ url: http://api.specificationtoolbox.com/resources/service-providers/automox/
 tags:
 - Servers
 - Security
-- Relative Data
 - Operations
-- Have API Paths
-- Have API
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

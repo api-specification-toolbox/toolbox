@@ -12,10 +12,7 @@ x-alexaRank: "535724"
 url: http://api.specificationtoolbox.com/resources/service-providers/assertible/
 tags:
 - Testing
-- Profile
 - Monitoring
-- Have API
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

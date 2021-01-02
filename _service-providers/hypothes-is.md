@@ -10,10 +10,7 @@ x-rank: "8"
 x-alexaRank: "115052"
 url: http://api.specificationtoolbox.com/resources/service-providers/hypothes-is/
 tags:
-- Have API
 - Content
-- API Service Provider
-- API Provider
 - Annotations
 apis: []
 x-common:

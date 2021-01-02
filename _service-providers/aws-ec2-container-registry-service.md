@@ -20,14 +20,8 @@ x-rank: "10"
 x-alexaRank: "14"
 url: http://api.specificationtoolbox.com/resources/service-providers/aws-ec2-container-registry-service/
 tags:
-- Relative Data
-- Have API Paths
-- Have API
 - Discovery
 - Containers
-- API Service Provider
-- API Service Provider
-- API Provider
 - Amazon Web Services
 apis: []
 x-common:

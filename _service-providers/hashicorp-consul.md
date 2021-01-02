@@ -12,7 +12,6 @@ x-alexaRank: "145772"
 url: http://api.specificationtoolbox.com/resources/service-providers/hashicorp-consul/
 tags:
 - Discovery
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

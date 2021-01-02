@@ -10,8 +10,6 @@ x-rank: "7"
 x-alexaRank: "209520"
 url: http://api.specificationtoolbox.com/resources/service-providers/developer-media/
 tags:
-- Have API
-- API Service Provider
 - API LIfeycle
 apis: []
 x-common:

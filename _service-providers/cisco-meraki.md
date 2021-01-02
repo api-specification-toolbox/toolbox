@@ -11,10 +11,6 @@ x-alexaRank: "918"
 url: http://api.specificationtoolbox.com/resources/service-providers/cisco-meraki/
 tags:
 - Networks
-- Have OpenAPI
-- Have API Paths
-- Have API
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

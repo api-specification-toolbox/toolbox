@@ -16,12 +16,8 @@ x-rank: "7"
 x-alexaRank: "143694"
 url: http://api.specificationtoolbox.com/resources/service-providers/kony/
 tags:
-- Profile
 - Management
-- Have API
 - BaaS
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

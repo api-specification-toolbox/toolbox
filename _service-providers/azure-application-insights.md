@@ -13,14 +13,9 @@ x-alexaRank: "33"
 url: http://api.specificationtoolbox.com/resources/service-providers/azure-application-insights/
 tags:
 - Testing
-- Relative Data
 - Monitoring
 - Microsoft
-- Have API Paths
-- Have API
 - Diagnostics
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

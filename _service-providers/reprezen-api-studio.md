@@ -11,9 +11,7 @@ x-alexaRank: "2125302"
 url: http://api.specificationtoolbox.com/resources/service-providers/reprezen-api-studio/
 tags:
 - Studio
-- Have API
 - Design
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

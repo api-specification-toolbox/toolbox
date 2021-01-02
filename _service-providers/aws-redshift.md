@@ -15,14 +15,8 @@ x-rank: "10"
 x-alexaRank: "14"
 url: http://api.specificationtoolbox.com/resources/service-providers/aws-redshift/
 tags:
-- Relative Data
-- Have API Paths
-- Have API
 - Databases
 - Data Warehouse
-- API Service Provider
-- API Service Provider
-- API Provider
 - Amazon Web Services
 apis: []
 x-common:

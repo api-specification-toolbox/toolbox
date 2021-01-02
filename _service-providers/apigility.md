@@ -10,10 +10,8 @@ x-alexaRank: "769296"
 url: http://api.specificationtoolbox.com/resources/service-providers/apigility/
 tags:
 - Hypermedia
-- Have API
 - HAL
 - Deployment
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

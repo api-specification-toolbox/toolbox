@@ -11,12 +11,7 @@ x-rank: "10"
 x-alexaRank: "33"
 url: http://api.specificationtoolbox.com/resources/service-providers/azure-hdinsight/
 tags:
-- Relative Data
 - Microsoft
-- Have API Paths
-- Have API
-- API Service Provider
-- API Provider
 - Analysis
 apis: []
 x-common:

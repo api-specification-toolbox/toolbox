@@ -14,14 +14,9 @@ x-rank: "7"
 x-alexaRank: "96085"
 url: http://api.specificationtoolbox.com/resources/service-providers/launchdarkly/
 tags:
-- Relative Data
 - Orchestration
 - Have Swagger
-- Have API Paths
-- Have API
 - Containers
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

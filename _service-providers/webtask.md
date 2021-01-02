@@ -12,9 +12,7 @@ url: http://api.specificationtoolbox.com/resources/service-providers/webtask/
 tags:
 - Webhooks
 - Serverless
-- Have API
 - Deployment
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

@@ -12,8 +12,6 @@ x-alexaRank: "1000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/google-data-studio/
 tags:
 - Visualizations
-- API Service Provider
-- API Provider
 - Analysis
 apis: []
 x-common:

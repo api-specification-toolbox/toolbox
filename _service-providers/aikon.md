@@ -15,16 +15,8 @@ x-rank: "7"
 x-alexaRank: "651900"
 url: http://api.specificationtoolbox.com/resources/service-providers/aikon/
 tags:
-- Postman Collections
-- No API Definition
-- New
-- Have OpenAPI
-- Have API Paths
-- Have API
 - Economy
 - Blockchain
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

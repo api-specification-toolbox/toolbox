@@ -12,8 +12,6 @@ x-alexaRank: "1316331"
 url: http://api.specificationtoolbox.com/resources/service-providers/kintohub/
 tags:
 - Microservices
-- Has API
-- API Service Provider
 - API Not Found
 apis: []
 x-common:

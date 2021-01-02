@@ -11,8 +11,6 @@ x-alexaRank: "18707"
 url: http://api.specificationtoolbox.com/resources/service-providers/dell-boomi/
 tags:
 - Management
-- Have API
-- API Service Provider
 - API Management Other
 apis: []
 x-common:

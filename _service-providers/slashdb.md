@@ -13,10 +13,8 @@ x-alexaRank: "3622003"
 url: http://api.specificationtoolbox.com/resources/service-providers/slashdb/
 tags:
 - Management
-- Have API
 - Deployment
 - Databases
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

@@ -11,19 +11,13 @@ x-rank: "8"
 x-alexaRank: "7635"
 url: http://api.specificationtoolbox.com/resources/service-providers/circleci/
 tags:
-- Relative Data
-- Profile
 - Orchestration
 - Integration Landscape
 - Have Swagger
-- Have OpenAPI
-- Have API Paths
-- Have API
 - Developers
 - Continuous Integration
 - Continuous Deployment
 - Ci/cd
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

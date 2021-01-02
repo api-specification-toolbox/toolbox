@@ -13,8 +13,6 @@ tags:
 - Virtualizations
 - Prototyping
 - IDE
-- Have API
-- API Service Provider
 apis: []
 x-common:
 - type: x-code

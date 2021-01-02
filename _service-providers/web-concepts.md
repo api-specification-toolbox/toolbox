@@ -18,7 +18,6 @@ url: http://api.specificationtoolbox.com/resources/service-providers/web-concept
 tags:
 - Guides
 - Design
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

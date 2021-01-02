@@ -12,11 +12,8 @@ url: http://api.specificationtoolbox.com/resources/service-providers/fiddler/
 tags:
 - Tools
 - Proxy
-- Profile
 - Integration Landscape
-- Have API
 - Clients
-- API Service Provider
 apis: []
 x-common:
 - type: x-blog

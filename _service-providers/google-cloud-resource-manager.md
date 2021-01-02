@@ -14,13 +14,8 @@ x-rank: "9"
 x-alexaRank: "1"
 url: http://api.specificationtoolbox.com/resources/service-providers/google-cloud-resource-manager/
 tags:
-- Relative Data
 - Orchestration
-- Have API Paths
-- Have API
 - Discovery
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-authentication

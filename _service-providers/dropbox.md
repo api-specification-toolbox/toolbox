@@ -14,17 +14,10 @@ tags:
 - Storage
 - Storage
 - Sharing
-- Relative Data
-- Profile
-- My API Stack
 - Integration Landscape
 - Have Swagger
-- Have API Paths
-- Have API
 - Free
 - File Storage
-- API Service Provider
-- API Provider
 - API LIfeycle
 apis: []
 x-common:

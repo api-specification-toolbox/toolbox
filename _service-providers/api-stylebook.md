@@ -11,8 +11,6 @@ url: http://api.specificationtoolbox.com/resources/service-providers/api-stylebo
 tags:
 - Guides
 - Design
-- API Tools
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

@@ -11,9 +11,7 @@ url: http://api.specificationtoolbox.com/resources/service-providers/envkey/
 tags:
 - Security
 - Keys
-- Have API
 - Authentication
-- API Service Provider
 apis: []
 x-common:
 - type: x-blog

@@ -21,7 +21,6 @@ tags:
 - Reference
 - Ref
 - Program
-- Profile
 - Procedures
 - PowerBuilder
 - Pb9
@@ -39,7 +38,6 @@ tags:
 - Development
 - Cross
 - Code
-- API Service Provider
 - Analysis
 - 3rd Party Products And Developer Tools
 - .NET

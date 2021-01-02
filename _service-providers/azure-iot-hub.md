@@ -16,14 +16,9 @@ x-rank: "10"
 x-alexaRank: "33"
 url: http://api.specificationtoolbox.com/resources/service-providers/azure-iot-hub/
 tags:
-- Relative Data
 - Microsoft
 - Internet Of Things
-- Have API Paths
-- Have API
 - Devices
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

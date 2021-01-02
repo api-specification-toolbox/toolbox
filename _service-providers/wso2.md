@@ -11,16 +11,12 @@ x-rank: "9"
 x-alexaRank: "85729"
 url: http://api.specificationtoolbox.com/resources/service-providers/wso2/
 tags:
-- Profile
 - Portals
 - Management
 - Integration Landscape
 - Have Swagger
-- Have OpenAPI
-- Have API
 - Digital Transformation
 - Digital Business
-- API Service Provider
 - API LIfeycle
 apis: []
 x-common:

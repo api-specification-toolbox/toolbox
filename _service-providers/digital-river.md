@@ -11,12 +11,8 @@ x-rank: "8"
 x-alexaRank: "5320"
 url: http://api.specificationtoolbox.com/resources/service-providers/digital-river/
 tags:
-- Relative Data
-- Have API Paths
-- Have API
 - Commerce
 - Commerce
-- API Service Provider
 apis: []
 x-common:
 - type: x-about

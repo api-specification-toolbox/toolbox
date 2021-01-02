@@ -11,9 +11,7 @@ x-alexaRank: "767122"
 url: http://api.specificationtoolbox.com/resources/service-providers/buddy-platform/
 tags:
 - Internet Of Things
-- Have API
 - BaaS
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

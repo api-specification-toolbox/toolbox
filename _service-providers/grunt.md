@@ -14,9 +14,7 @@ url: http://api.specificationtoolbox.com/resources/service-providers/grunt/
 tags:
 - Single Page Applications
 - JavaScript
-- Have API
 - Compilers
-- API Service Provider
 apis: []
 x-common:
 - type: x-blog

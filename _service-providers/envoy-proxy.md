@@ -15,7 +15,6 @@ tags:
 - Service Mesh
 - REST
 - Proxy
-- Profile
 - Pre-built Binaries
 - Open Source
 - Microservices
@@ -30,7 +29,6 @@ tags:
 - C++
 - Bootstrap
 - Binaries
-- API Service Provider
 - API
 apis: []
 x-common:

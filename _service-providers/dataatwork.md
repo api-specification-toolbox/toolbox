@@ -14,14 +14,10 @@ x-alexaRank: "3876105"
 url: http://api.specificationtoolbox.com/resources/service-providers/dataatwork/
 tags:
 - Skills
-- Profile
 - Have Swagger
-- Have API Paths
-- Have API
 - General Data
 - Data Standards
 - Careers
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

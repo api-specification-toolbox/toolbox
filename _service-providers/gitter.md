@@ -10,15 +10,9 @@ x-rank: "8"
 x-alexaRank: "23643"
 url: http://api.specificationtoolbox.com/resources/service-providers/gitter/
 tags:
-- Relative Data
 - Postman Doc Search
-- New
-- Have API Paths
-- Have API
 - General Data
 - Communications
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

@@ -14,11 +14,7 @@ x-alexaRank: "672808"
 url: http://api.specificationtoolbox.com/resources/service-providers/avatars-io/
 tags:
 - Social Profiles
-- Profile
 - Photos
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-developer

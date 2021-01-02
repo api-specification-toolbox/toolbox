@@ -17,11 +17,7 @@ x-alexaRank: "291612"
 url: http://api.specificationtoolbox.com/resources/service-providers/apilayer/
 tags:
 - Screenshots
-- Profile
-- New
-- Have API
 - Currencies
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

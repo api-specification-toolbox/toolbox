@@ -11,9 +11,7 @@ x-alexaRank: "1489780"
 url: http://api.specificationtoolbox.com/resources/service-providers/forum-systems/
 tags:
 - Security
-- Have API
 - Application Layer Gateways
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

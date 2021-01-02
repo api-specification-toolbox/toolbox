@@ -11,9 +11,6 @@ x-alexaRank: "92333"
 url: http://api.specificationtoolbox.com/resources/service-providers/datahero/
 tags:
 - Spreadsheets
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

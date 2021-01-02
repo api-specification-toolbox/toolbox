@@ -13,9 +13,7 @@ x-rank: "7"
 x-alexaRank: "20000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/moesif/
 tags:
-- Profile
 - Monitoring
-- API Service Provider
 - Analytics
 apis: []
 x-common:

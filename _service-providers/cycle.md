@@ -14,13 +14,11 @@ url: http://api.specificationtoolbox.com/resources/service-providers/cycle/
 tags:
 - Stack
 - REST
-- Profile
 - Notification
 - Network
 - JSON
 - Job Queueing
 - DNS
-- API Service Provider
 - API Key
 - API
 apis: []

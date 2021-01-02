@@ -11,10 +11,7 @@ x-alexaRank: "8832937"
 url: http://api.specificationtoolbox.com/resources/service-providers/atooma--resonance-ai/
 tags:
 - Machine Learning
-- Have API
 - Artificial Intelligence
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-email

@@ -15,10 +15,8 @@ tags:
 - IPaaS
 - Interoperability
 - Integrations
-- Have API
 - Extraction And Transformation
 - Automation
-- API Service Provider
 apis: []
 x-common:
 - type: x-about

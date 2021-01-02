@@ -10,10 +10,7 @@ x-rank: "8"
 x-alexaRank: "120455"
 url: http://api.specificationtoolbox.com/resources/service-providers/joyent/
 tags:
-- Have API
 - Containers
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

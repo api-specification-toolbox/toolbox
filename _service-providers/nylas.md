@@ -10,12 +10,9 @@ x-rank: "8"
 x-alexaRank: "89360"
 url: http://api.specificationtoolbox.com/resources/service-providers/nylas/
 tags:
-- Have API
 - Emails
 - Contacts
 - Calendaring
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

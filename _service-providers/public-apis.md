@@ -18,7 +18,6 @@ tags:
 - Mashape
 - Discovery
 - Discovery
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

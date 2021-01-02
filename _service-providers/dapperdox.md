@@ -10,10 +10,7 @@ x-rank: "7"
 x-alexaRank: "2482186"
 url: http://api.specificationtoolbox.com/resources/service-providers/dapperdox/
 tags:
-- Have API
 - Documentation
-- API Tools
-- API Service Provider
 apis: []
 x-common:
 - type: x-github

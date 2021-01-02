@@ -19,11 +19,7 @@ tags:
 - Interoperability
 - Integrations
 - Integration Landscape
-- Have OpenAPI
-- Have API Paths
-- Have API
 - Automation
-- API Service Provider
 - API LIfeycle
 apis: []
 x-common:

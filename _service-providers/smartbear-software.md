@@ -14,14 +14,10 @@ tags:
 - Tools
 - Testing
 - Security
-- Relative Data
-- Profile
 - Products And Tools
 - Performance
 - Monitoring
-- Have API
 - GraphQL
-- API Service Provider
 - API LIfeycle
 apis: []
 x-common:

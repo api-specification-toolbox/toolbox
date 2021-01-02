@@ -12,15 +12,9 @@ x-alexaRank: "14"
 url: http://api.specificationtoolbox.com/resources/service-providers/aws-config/
 tags:
 - Security
-- Relative Data
-- Have API Paths
-- Have API
 - Governance
 - Authentication
 - Applications
-- API Service Provider
-- API Service Provider
-- API Provider
 - Amazon Web Services
 apis: []
 x-common:

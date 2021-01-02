@@ -16,14 +16,9 @@ x-alexaRank: "1"
 url: http://api.specificationtoolbox.com/resources/service-providers/google-cloud-source-repositories/
 tags:
 - TempSave
-- Relative Data
 - Orchestration
-- Have API Paths
-- Have API
 - GitHub
 - Code
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

@@ -12,11 +12,7 @@ url: http://api.specificationtoolbox.com/resources/service-providers/elastichost
 tags:
 - ISP
 - Have Swagger
-- Have API Paths
-- Have API
 - Compute
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

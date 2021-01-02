@@ -13,15 +13,10 @@ x-rank: "10"
 x-alexaRank: "33"
 url: http://api.specificationtoolbox.com/resources/service-providers/azure-api-management/
 tags:
-- Relative Data
 - Portals
 - Microsoft
 - Management
 - Integration Landscape
-- Have API Paths
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

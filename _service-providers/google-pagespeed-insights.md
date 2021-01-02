@@ -15,12 +15,7 @@ x-alexaRank: "1"
 url: http://api.specificationtoolbox.com/resources/service-providers/google-pagespeed-insights/
 tags:
 - Websites
-- Relative Data
 - Performance
-- Have API Paths
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

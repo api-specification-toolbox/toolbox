@@ -10,8 +10,6 @@ x-alexaRank: "2568501"
 url: http://api.specificationtoolbox.com/resources/service-providers/apiman/
 tags:
 - Management
-- Have API
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

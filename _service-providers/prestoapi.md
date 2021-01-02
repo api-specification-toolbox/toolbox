@@ -9,10 +9,8 @@ x-rank: "7"
 x-alexaRank: ""
 url: http://api.specificationtoolbox.com/resources/service-providers/prestoapi/
 tags:
-- Profile
 - Deployment
 - Database
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

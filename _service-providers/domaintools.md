@@ -11,15 +11,9 @@ x-rank: "7"
 x-alexaRank: "3010"
 url: http://api.specificationtoolbox.com/resources/service-providers/domaintools/
 tags:
-- Relative Data
-- Profile
 - Name Search
-- Have API Paths
-- Have API
 - General Data
 - DNS Internet
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-base

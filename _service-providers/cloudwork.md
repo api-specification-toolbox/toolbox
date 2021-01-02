@@ -13,9 +13,7 @@ tags:
 - IPaaS
 - Interoperability
 - Integrations
-- Have API
 - Automation
-- API Service Provider
 - API LIfeycle
 apis: []
 x-common:

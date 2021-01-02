@@ -10,13 +10,7 @@ x-alexaRank: "1791"
 url: http://api.specificationtoolbox.com/resources/service-providers/deltacloud/
 tags:
 - Twitter
-- Profile
 - Postman Doc Search
-- New
-- Have OpenAPI
-- Have API Paths
-- Have API
-- API Service Provider
 - Aggregation
 apis: []
 x-common:

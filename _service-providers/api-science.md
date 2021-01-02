@@ -11,12 +11,7 @@ x-rank: "10"
 x-alexaRank: "1232791"
 url: http://api.specificationtoolbox.com/resources/service-providers/api-science/
 tags:
-- Relative Data
-- My API Stack
 - Monitoring
-- Have API Paths
-- Have API
-- API Service Provider
 - API LIfeycle
 apis: []
 x-common:

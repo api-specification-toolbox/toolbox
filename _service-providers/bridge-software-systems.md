@@ -18,10 +18,7 @@ specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "6421436"
 url: http://api.specificationtoolbox.com/resources/service-providers/bridge-software-systems/
-tags:
-- Profile
-- Have API
-- API Service Provider
+tags: []
 apis: []
 x-common:
 - type: x-about

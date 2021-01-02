@@ -12,8 +12,6 @@ x-alexaRank: "20000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/katalon--simplify-web-api-mobile-desktop-automated-tests/
 tags:
 - Testing
-- Profile
-- API Service Provider
 apis: []
 x-common:
 - type: x-pricing

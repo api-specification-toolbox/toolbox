@@ -13,14 +13,9 @@ x-alexaRank: "33"
 url: http://api.specificationtoolbox.com/resources/service-providers/azure-resource-manager/
 tags:
 - Resources
-- Relative Data
 - Microsoft
 - Links
-- Have API Paths
-- Have API
 - Deployment
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-documentation

@@ -12,9 +12,6 @@ x-alexaRank: "372"
 url: http://api.specificationtoolbox.com/resources/service-providers/hootsuite/
 tags:
 - Social Networking
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-about

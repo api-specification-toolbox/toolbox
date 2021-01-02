@@ -10,10 +10,8 @@ x-rank: "8"
 x-alexaRank: "276251"
 url: http://api.specificationtoolbox.com/resources/service-providers/appsee/
 tags:
-- Have API
 - Behavior
 - Applications
-- API Service Provider
 - Analysis
 - Analysis
 apis: []

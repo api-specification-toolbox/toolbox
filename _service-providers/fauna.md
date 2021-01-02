@@ -14,10 +14,8 @@ x-alexaRank: "20000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/fauna/
 tags:
 - Serverless
-- Profile
 - GraphQL
 - Database
-- API Service Provider
 apis: []
 x-common:
 - type: x-blog

@@ -12,15 +12,9 @@ x-alexaRank: "14"
 url: http://api.specificationtoolbox.com/resources/service-providers/aws-code-pipeline/
 tags:
 - TempSave
-- Relative Data
 - Orchestration
 - Migrations
-- Have API Paths
-- Have API
 - Ci/cd
-- API Service Provider
-- API Service Provider
-- API Provider
 - Amazon Web Services
 apis: []
 x-common:

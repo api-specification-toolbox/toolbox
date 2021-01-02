@@ -14,16 +14,11 @@ tags:
 - Streams
 - Streams
 - Streams
-- Relative Data
-- Profile
 - Notifications
 - Monitoring
 - Integration Landscape
 - Incident
 - Have Swagger
-- Have API Paths
-- Have API
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

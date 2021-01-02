@@ -13,9 +13,7 @@ x-alexaRank: "192139"
 url: http://api.specificationtoolbox.com/resources/service-providers/strongloop/
 tags:
 - Management
-- Have API
 - Deployment
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

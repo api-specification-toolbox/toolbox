@@ -11,9 +11,7 @@ specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "864"
 url: http://api.specificationtoolbox.com/resources/service-providers/datasmart-cities/
-tags:
-- Have API
-- API Service Provider
+tags: []
 apis: []
 x-common:
 - type: x-website

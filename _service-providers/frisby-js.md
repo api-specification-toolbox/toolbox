@@ -12,8 +12,6 @@ x-alexaRank: "1000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/frisby-js/
 tags:
 - Testing
-- Have API
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

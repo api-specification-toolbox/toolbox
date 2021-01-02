@@ -11,11 +11,7 @@ x-alexaRank: "6255451"
 url: http://api.specificationtoolbox.com/resources/service-providers/sheetlabs/
 tags:
 - Spreadsheets
-- Have OpenAPI
-- Have API Paths
-- Have API
 - Deployment
-- API Service Provider
 apis: []
 x-common:
 - type: x-crunchbase

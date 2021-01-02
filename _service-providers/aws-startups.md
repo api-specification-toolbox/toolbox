@@ -8,11 +8,7 @@ specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "1000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/aws-startups/
-tags:
-- Has API
-- API Service Provider
-- API Service Provider
-- API Provider
+tags: []
 apis: []
 x-common:
 - type: x-website

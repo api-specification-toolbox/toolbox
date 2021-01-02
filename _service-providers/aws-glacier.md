@@ -15,12 +15,6 @@ x-alexaRank: "14"
 url: http://api.specificationtoolbox.com/resources/service-providers/aws-glacier/
 tags:
 - Storage
-- Relative Data
-- Have API Paths
-- Have API
-- API Service Provider
-- API Service Provider
-- API Provider
 - Amazon Web Services
 apis: []
 x-common:

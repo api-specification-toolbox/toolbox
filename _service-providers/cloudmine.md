@@ -10,9 +10,7 @@ x-rank: "8"
 x-alexaRank: "4808848"
 url: http://api.specificationtoolbox.com/resources/service-providers/cloudmine/
 tags:
-- Have API
 - BaaS
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

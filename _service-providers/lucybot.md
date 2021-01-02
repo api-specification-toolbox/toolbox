@@ -12,9 +12,7 @@ specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "1196903"
 url: http://api.specificationtoolbox.com/resources/service-providers/lucybot/
-tags:
-- Have API
-- API Service Provider
+tags: []
 apis: []
 x-common:
 - type: x-website

@@ -10,8 +10,6 @@ x-alexaRank: "151772"
 url: http://api.specificationtoolbox.com/resources/service-providers/cucumber/
 tags:
 - Testing
-- Have API
-- API Service Provider
 apis: []
 x-common:
 - type: x-about

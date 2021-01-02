@@ -13,13 +13,7 @@ x-rank: "8"
 x-alexaRank: "14"
 url: http://api.specificationtoolbox.com/resources/service-providers/aws-route-53/
 tags:
-- Relative Data
-- Have API Paths
-- Have API
 - DNS
-- API Service Provider
-- API Service Provider
-- API Provider
 - Amazon Web Services
 apis: []
 x-common:

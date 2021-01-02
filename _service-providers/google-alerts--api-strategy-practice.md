@@ -8,9 +8,7 @@ specificationVersion: "0.14"
 x-rank: "5"
 x-alexaRank: "1000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/google-alerts--api-strategy-practice/
-tags:
-- API Service Provider
-- API Provider
+tags: []
 apis: []
 x-common:
 - type: x-blog-rss

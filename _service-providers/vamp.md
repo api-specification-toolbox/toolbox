@@ -14,7 +14,6 @@ x-alexaRank: "2835871"
 url: http://api.specificationtoolbox.com/resources/service-providers/vamp/
 tags:
 - Microservices
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

@@ -18,15 +18,9 @@ x-rank: "10"
 x-alexaRank: "14"
 url: http://api.specificationtoolbox.com/resources/service-providers/aws-elasticache/
 tags:
-- Relative Data
 - Performance
-- Have API Paths
-- Have API
 - Cache
 - Availability
-- API Service Provider
-- API Service Provider
-- API Provider
 - Amazon Web Services
 apis: []
 x-common:

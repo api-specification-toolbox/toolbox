@@ -13,9 +13,7 @@ x-rank: "7"
 x-alexaRank: "20000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/anodot/
 tags:
-- Profile
 - Monitoring
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

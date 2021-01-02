@@ -12,13 +12,8 @@ x-rank: "9"
 x-alexaRank: "1"
 url: http://api.specificationtoolbox.com/resources/service-providers/google-play/
 tags:
-- Relative Data
 - Markets
-- Have API Paths
-- Have API
 - Games
-- API Service Provider
-- API Provider
 - Android
 apis: []
 x-common:

@@ -13,8 +13,6 @@ tags:
 - Testing
 - Security
 - Monitoring
-- Have API
-- API Service Provider
 apis: []
 x-common:
 - type: x-facebook

@@ -17,14 +17,8 @@ x-rank: "10"
 x-alexaRank: "14"
 url: http://api.specificationtoolbox.com/resources/service-providers/aws-cloudwatch/
 tags:
-- Relative Data
 - Monitoring
 - Logging
-- Have API Paths
-- Have API
-- API Service Provider
-- API Service Provider
-- API Provider
 - Analysis
 - Amazon Web Services
 apis: []

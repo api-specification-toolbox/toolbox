@@ -14,9 +14,7 @@ url: http://api.specificationtoolbox.com/resources/service-providers/optic/
 tags:
 - Versioning
 - Testing
-- Profile
 - Documentation
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

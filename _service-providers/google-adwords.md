@@ -14,10 +14,7 @@ specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "1"
 url: http://api.specificationtoolbox.com/resources/service-providers/google-adwords/
-tags:
-- Have API
-- API Service Provider
-- API Provider
+tags: []
 apis: []
 x-common:
 - type: x-about

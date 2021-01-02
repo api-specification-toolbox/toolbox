@@ -12,9 +12,7 @@ specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "197733"
 url: http://api.specificationtoolbox.com/resources/service-providers/odata-org/
-tags:
-- Have API
-- API Service Provider
+tags: []
 apis: []
 x-common:
 - type: x-website

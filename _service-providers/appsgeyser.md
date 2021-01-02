@@ -13,7 +13,6 @@ tags:
 - No API
 - Applications
 - Applications
-- API Service Provider
 - Android
 apis: []
 x-common:

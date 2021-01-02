@@ -19,7 +19,6 @@ tags:
 - Service Mesh
 - SaaS
 - Prometheus
-- Profile
 - Networking
 - Microservices
 - Microservice
@@ -27,7 +26,6 @@ tags:
 - Kubernetes Cluster
 - Jaeger
 - Compliance
-- API Service Provider
 - Api Gateway
 - API
 apis: []

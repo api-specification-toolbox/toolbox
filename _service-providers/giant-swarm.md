@@ -11,15 +11,11 @@ x-rank: "8"
 x-alexaRank: "661557"
 url: http://api.specificationtoolbox.com/resources/service-providers/giant-swarm/
 tags:
-- Profile
 - Orchestration
 - Networks
 - Networking
 - Microservices
 - Kubernetes
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

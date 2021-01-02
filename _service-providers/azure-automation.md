@@ -13,14 +13,9 @@ x-alexaRank: "33"
 url: http://api.specificationtoolbox.com/resources/service-providers/azure-automation/
 tags:
 - Webhooks
-- Relative Data
 - Orchestration
 - Microsoft
-- Have API Paths
-- Have API
 - Automation
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

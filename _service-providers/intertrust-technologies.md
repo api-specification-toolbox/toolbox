@@ -26,11 +26,7 @@ tags:
 - Marketplaces
 - ISP
 - Have Swagger
-- Have API Paths
-- Have API
 - Authentication
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

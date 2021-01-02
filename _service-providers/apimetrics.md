@@ -10,14 +10,9 @@ x-rank: "9"
 x-alexaRank: "1077691"
 url: http://api.specificationtoolbox.com/resources/service-providers/apimetrics/
 tags:
-- Profile
 - Performance
-- My API Stack
 - Monitoring
 - Integration Landscape
-- Have API Paths
-- Have API
-- API Service Provider
 apis: []
 x-common:
 - type: x-base-url

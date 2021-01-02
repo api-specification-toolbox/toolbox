@@ -12,17 +12,11 @@ x-rank: "10"
 x-alexaRank: "14"
 url: http://api.specificationtoolbox.com/resources/service-providers/aws-step-functions/
 tags:
-- Relative Data
 - Orchestration
 - IPaaS
 - Integrations
-- Have API Paths
-- Have API
 - ETL
 - Automation
-- API Service Provider
-- API Service Provider
-- API Provider
 - Amazon Web Services
 apis: []
 x-common:

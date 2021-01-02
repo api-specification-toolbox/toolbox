@@ -14,10 +14,8 @@ x-rank: "7"
 x-alexaRank: "1000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/rapidapi/
 tags:
-- Profile
 - Postman Doc Search
 - Discovery
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

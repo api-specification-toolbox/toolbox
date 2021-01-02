@@ -12,15 +12,9 @@ x-alexaRank: "14"
 url: http://api.specificationtoolbox.com/resources/service-providers/aws-elastic-load-balancing/
 tags:
 - Servers
-- Relative Data
 - Performance
-- Have API Paths
-- Have API
 - Compute
 - Availability
-- API Service Provider
-- API Service Provider
-- API Provider
 - Amazon Web Services
 apis: []
 x-common:

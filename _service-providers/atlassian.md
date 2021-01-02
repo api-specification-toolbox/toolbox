@@ -11,18 +11,12 @@ x-alexaRank: "1416"
 url: http://api.specificationtoolbox.com/resources/service-providers/atlassian/
 tags:
 - Wiki
-- Relative Data
 - Programming
 - Postman Doc Search
 - Issues
 - Have Swagger
-- Have OpenAPI
-- Have API Paths
-- Have API
 - Coding
 - Code Issues
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

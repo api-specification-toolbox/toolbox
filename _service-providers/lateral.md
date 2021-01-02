@@ -11,11 +11,8 @@ x-rank: "8"
 x-alexaRank: "498721"
 url: http://api.specificationtoolbox.com/resources/service-providers/lateral/
 tags:
-- Have API
 - Content Discovery
 - Content
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

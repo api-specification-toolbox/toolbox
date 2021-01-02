@@ -14,10 +14,8 @@ url: http://api.specificationtoolbox.com/resources/service-providers/wercker/
 tags:
 - Orchestration
 - Microservices
-- Have API
 - Containers
 - Command Line Interface
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

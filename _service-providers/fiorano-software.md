@@ -11,8 +11,6 @@ url: http://api.specificationtoolbox.com/resources/service-providers/fiorano-sof
 tags:
 - Microservices
 - Java Message Service
-- Have API
-- API Service Provider
 - API Management Other
 apis: []
 x-common:

@@ -13,11 +13,7 @@ tags:
 - Streams
 - Streams
 - Streams
-- Relative Data
 - Monitoring
-- Have API Paths
-- Have API
-- API Service Provider
 apis: []
 x-common:
 - type: x-authentication

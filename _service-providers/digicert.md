@@ -13,10 +13,7 @@ tags:
 - Third Party Certificate Authorities
 - SSL
 - Security
-- Have API
 - Encryption
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-about

@@ -16,11 +16,8 @@ x-rank: "7"
 x-alexaRank: "1457"
 url: http://api.specificationtoolbox.com/resources/service-providers/sap-com/
 tags:
-- Profile
 - Management
 - Have Swagger
-- Have API Paths
-- API Service Provider
 apis: []
 x-common:
 - type: x-about

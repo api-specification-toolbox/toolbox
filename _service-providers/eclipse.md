@@ -11,12 +11,9 @@ x-rank: "7"
 x-alexaRank: "7096"
 url: http://api.specificationtoolbox.com/resources/service-providers/eclipse/
 tags:
-- Profile
 - MQTT
 - Internet Of Things
-- Have API
 - Eclipse
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

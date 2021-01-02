@@ -14,12 +14,6 @@ url: http://api.specificationtoolbox.com/resources/service-providers/aws-polly/
 tags:
 - Texts
 - Speech
-- Relative Data
-- Have API Paths
-- Have API
-- API Service Provider
-- API Service Provider
-- API Provider
 - Amazon Web Services
 apis: []
 x-common:

@@ -10,8 +10,6 @@ x-alexaRank: "1000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/google-news-search--apis/
 tags:
 - Google
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog-rss

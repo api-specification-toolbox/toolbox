@@ -12,10 +12,7 @@ url: http://api.specificationtoolbox.com/resources/service-providers/luna-connec
 tags:
 - PSD2
 - Marketplaces
-- Have API
 - Banking
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

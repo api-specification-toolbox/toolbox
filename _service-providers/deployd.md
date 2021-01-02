@@ -10,9 +10,7 @@ x-alexaRank: "1501185"
 url: http://api.specificationtoolbox.com/resources/service-providers/deployd/
 tags:
 - Management
-- Have API
 - Deployment
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

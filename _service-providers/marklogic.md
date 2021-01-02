@@ -10,10 +10,7 @@ x-rank: "7"
 x-alexaRank: "113563"
 url: http://api.specificationtoolbox.com/resources/service-providers/marklogic/
 tags:
-- Have API
 - Databases
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

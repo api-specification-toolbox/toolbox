@@ -14,10 +14,8 @@ url: http://api.specificationtoolbox.com/resources/service-providers/apimint/
 tags:
 - Virtualizations
 - Studio
-- Have API
 - Design
 - Deployment
-- API Service Provider
 apis: []
 x-common:
 - type: x-blog

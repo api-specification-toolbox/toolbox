@@ -13,9 +13,7 @@ tags:
 - Serverless
 - Microservices
 - Internet Of Things
-- Have API
 - Deployment
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

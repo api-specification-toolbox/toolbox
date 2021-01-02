@@ -11,8 +11,6 @@ x-alexaRank: "994155"
 url: http://api.specificationtoolbox.com/resources/service-providers/datawire/
 tags:
 - Microservices
-- Have API
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

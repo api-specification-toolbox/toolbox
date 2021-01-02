@@ -11,10 +11,6 @@ x-alexaRank: "1272100"
 url: http://api.specificationtoolbox.com/resources/service-providers/farsight-security/
 tags:
 - Security
-- Have OpenAPI
-- Have API Paths
-- Have API
-- API Service Provider
 apis: []
 x-common:
 - type: x-blog

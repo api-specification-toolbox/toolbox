@@ -11,13 +11,8 @@ x-alexaRank: "3720976"
 url: http://api.specificationtoolbox.com/resources/service-providers/apica/
 tags:
 - Testing
-- Relative Data
 - Performance
 - Monitoring
-- Have API Paths
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

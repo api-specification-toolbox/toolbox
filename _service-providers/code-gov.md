@@ -11,13 +11,9 @@ x-rank: "7"
 x-alexaRank: "1455501"
 url: http://api.specificationtoolbox.com/resources/service-providers/code-gov/
 tags:
-- Have API Paths
-- Have API
 - GitHub
 - General Data
 - Developers
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-applications

@@ -10,12 +10,10 @@ x-rank: "8"
 x-alexaRank: "20000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/graphql-editor/
 tags:
-- Profile
 - IDE
 - GraphQL Editor
 - GraphQL
 - Design
-- API Service Provider
 apis: []
 x-common:
 - type: x-blog

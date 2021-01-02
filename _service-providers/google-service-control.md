@@ -13,13 +13,8 @@ x-alexaRank: "1"
 url: http://api.specificationtoolbox.com/resources/service-providers/google-service-control/
 tags:
 - Statuses
-- Relative Data
 - Monitoring
 - Logging
-- Have API Paths
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

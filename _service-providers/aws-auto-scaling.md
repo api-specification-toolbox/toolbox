@@ -17,15 +17,9 @@ x-rank: "10"
 x-alexaRank: "14"
 url: http://api.specificationtoolbox.com/resources/service-providers/aws-auto-scaling/
 tags:
-- Relative Data
 - Performance
-- Have API Paths
-- Have API
 - Deployment
 - Compute
-- API Service Provider
-- API Service Provider
-- API Provider
 - Amazon Web Services
 apis: []
 x-common:

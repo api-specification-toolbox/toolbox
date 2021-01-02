@@ -11,9 +11,6 @@ x-alexaRank: "13296"
 url: http://api.specificationtoolbox.com/resources/service-providers/media-temple/
 tags:
 - ISP
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

@@ -11,7 +11,6 @@ url: http://api.specificationtoolbox.com/resources/service-providers/appcelerato
 tags:
 - Networks
 - BaaS
-- API Service Provider
 - API LIfeycle
 apis: []
 x-common:

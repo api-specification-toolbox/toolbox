@@ -10,15 +10,12 @@ x-rank: "8"
 x-alexaRank: "19328"
 url: http://api.specificationtoolbox.com/resources/service-providers/readme-io/
 tags:
-- Profile
 - Postman Doc Search
 - Portals
 - Management
 - Integration Landscape
-- Have API
 - Documentation
 - Design
-- API Service Provider
 apis: []
 x-common:
 - type: x-blog

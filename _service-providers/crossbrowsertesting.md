@@ -14,11 +14,7 @@ tags:
 - Projects
 - Performance
 - Have Swagger
-- Have API Paths
-- Have API
 - Browser Testing
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

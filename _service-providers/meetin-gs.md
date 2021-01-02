@@ -11,10 +11,7 @@ specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "2329868"
 url: http://api.specificationtoolbox.com/resources/service-providers/meetin-gs/
-tags:
-- Have API
-- API Service Provider
-- API Provider
+tags: []
 apis: []
 x-common:
 - type: x-blog

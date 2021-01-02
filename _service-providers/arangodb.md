@@ -11,9 +11,7 @@ x-alexaRank: "210563"
 url: http://api.specificationtoolbox.com/resources/service-providers/arangodb/
 tags:
 - NoSQL
-- Have API
 - Databases
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

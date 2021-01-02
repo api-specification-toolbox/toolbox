@@ -13,10 +13,7 @@ tags:
 - US Bank
 - UK Banks
 - Spanish Bank
-- Have API
 - Banking
-- API Service Provider
-- API Provider
 - API LIfeycle
 apis: []
 x-common:

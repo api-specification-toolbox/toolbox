@@ -14,14 +14,8 @@ x-rank: "10"
 x-alexaRank: "33"
 url: http://api.specificationtoolbox.com/resources/service-providers/azure-monitor/
 tags:
-- Relative Data
-- Profile
 - Monitoring
 - Microsoft
-- Have API Paths
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

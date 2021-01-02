@@ -11,12 +11,8 @@ x-alexaRank: "103832"
 url: http://api.specificationtoolbox.com/resources/service-providers/loader-io/
 tags:
 - Testing
-- Profile
 - Performance
 - Integration Landscape
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

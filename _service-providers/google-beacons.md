@@ -15,13 +15,8 @@ x-alexaRank: "1"
 url: http://api.specificationtoolbox.com/resources/service-providers/google-beacons/
 tags:
 - Sensors
-- Relative Data
 - Internet Of Things
-- Have API Paths
-- Have API
 - Beacons
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

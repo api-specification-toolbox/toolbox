@@ -12,8 +12,6 @@ url: http://api.specificationtoolbox.com/resources/service-providers/ranorex/
 tags:
 - User Interface Testing
 - Testing
-- Profile
-- API Service Provider
 apis: []
 x-common:
 - type: x-facebook

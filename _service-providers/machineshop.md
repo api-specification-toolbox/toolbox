@@ -13,9 +13,6 @@ tags:
 - Orchestration
 - Management
 - Internet Of Things
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-about

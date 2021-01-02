@@ -17,7 +17,6 @@ tags:
 - Design
 - Collaboration
 - Code
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

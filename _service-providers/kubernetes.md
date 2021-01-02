@@ -14,15 +14,10 @@ x-rank: "8"
 x-alexaRank: "9958"
 url: http://api.specificationtoolbox.com/resources/service-providers/kubernetes/
 tags:
-- Relative Data
-- Profile
 - Integration Landscape
-- Have API Paths
-- Have API
 - Google
 - Containers
 - Containers
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

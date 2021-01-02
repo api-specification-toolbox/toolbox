@@ -10,11 +10,7 @@ x-alexaRank: "104670"
 url: http://api.specificationtoolbox.com/resources/service-providers/cloudboost-io/
 tags:
 - Have Swagger
-- Have API Paths
-- Have API
 - BaaS
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

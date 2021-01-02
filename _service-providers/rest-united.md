@@ -12,10 +12,8 @@ url: http://api.specificationtoolbox.com/resources/service-providers/rest-united
 tags:
 - Testing
 - TempSave
-- Has API
 - Documentation
 - Debugging
-- API Service Provider
 - API Management SDK
 apis: []
 x-common:

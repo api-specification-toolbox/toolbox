@@ -12,9 +12,7 @@ x-rank: "7"
 x-alexaRank: "1000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/lightstep/
 tags:
-- Profile
 - Monitoring
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

@@ -12,7 +12,6 @@ url: http://api.specificationtoolbox.com/resources/service-providers/apiembed/
 tags:
 - Documentation
 - Code
-- API Service Provider
 apis: []
 x-common:
 - type: x-github

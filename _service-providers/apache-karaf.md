@@ -12,8 +12,6 @@ x-alexaRank: "1791"
 url: http://api.specificationtoolbox.com/resources/service-providers/apache-karaf/
 tags:
 - Containers
-- API Tools
-- API Service Provider
 apis: []
 x-common:
 - type: x-events

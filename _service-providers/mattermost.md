@@ -11,14 +11,8 @@ x-rank: "8"
 x-alexaRank: "48572"
 url: http://api.specificationtoolbox.com/resources/service-providers/mattermost/
 tags:
-- Relative Data
 - Postman Doc Search
-- New
 - Networks
-- Have API Paths
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

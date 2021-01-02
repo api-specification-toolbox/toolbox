@@ -18,13 +18,8 @@ x-alexaRank: "33"
 url: http://api.specificationtoolbox.com/resources/service-providers/azure-data-lake-store/
 tags:
 - Storage
-- Relative Data
 - Microsoft
-- Have API Paths
-- Have API
 - Databases
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

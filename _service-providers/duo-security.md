@@ -13,10 +13,7 @@ url: http://api.specificationtoolbox.com/resources/service-providers/duo-securit
 tags:
 - Security
 - Security
-- Have API
 - Authentication
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-about

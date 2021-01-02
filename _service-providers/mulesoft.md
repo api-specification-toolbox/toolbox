@@ -14,10 +14,8 @@ tags:
 - Portals
 - Management
 - Integration Landscape
-- Have API
 - Design Editor
 - Design
-- API Service Provider
 apis: []
 x-common:
 - type: x-about

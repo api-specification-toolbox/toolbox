@@ -11,13 +11,9 @@ x-rank: "9"
 x-alexaRank: "934211"
 url: http://api.specificationtoolbox.com/resources/service-providers/openuma/
 tags:
-- Profile
 - Postman Doc Search
 - OAuth
-- New
-- Have API
 - Authentication
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

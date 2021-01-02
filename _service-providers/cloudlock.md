@@ -11,8 +11,6 @@ x-alexaRank: "2094179"
 url: http://api.specificationtoolbox.com/resources/service-providers/cloudlock/
 tags:
 - Security
-- Have API
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

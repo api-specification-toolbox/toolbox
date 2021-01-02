@@ -11,9 +11,7 @@ x-rank: "10"
 x-alexaRank: "80"
 url: http://api.specificationtoolbox.com/resources/service-providers/github-gists/
 tags:
-- Have API
 - Code
-- API Service Provider
 apis: []
 x-common:
 - type: x-about

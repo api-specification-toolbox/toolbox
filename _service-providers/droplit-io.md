@@ -16,8 +16,6 @@ x-alexaRank: "1000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/droplit-io/
 tags:
 - Internet Of Things
-- Have API
-- API Service Provider
 apis: []
 x-common:
 - type: x-documentation

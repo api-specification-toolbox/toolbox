@@ -12,9 +12,6 @@ x-alexaRank: "37438"
 url: http://api.specificationtoolbox.com/resources/service-providers/ovh-us/
 tags:
 - ISP
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

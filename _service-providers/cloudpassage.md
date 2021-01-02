@@ -11,10 +11,6 @@ x-alexaRank: "904162"
 url: http://api.specificationtoolbox.com/resources/service-providers/cloudpassage/
 tags:
 - Shopping
-- Profile
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

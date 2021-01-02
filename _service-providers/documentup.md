@@ -9,9 +9,7 @@ x-rank: "7"
 x-alexaRank: "1520822"
 url: http://api.specificationtoolbox.com/resources/service-providers/documentup/
 tags:
-- Profile
 - Documentation
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

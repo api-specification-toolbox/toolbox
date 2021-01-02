@@ -11,9 +11,7 @@ specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "3275049"
 url: http://api.specificationtoolbox.com/resources/service-providers/itdashboard-gov/
-tags:
-- Have API
-- API Service Provider
+tags: []
 apis: []
 x-common:
 - type: x-developers

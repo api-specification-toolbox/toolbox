@@ -12,9 +12,6 @@ url: http://api.specificationtoolbox.com/resources/service-providers/mockserver/
 tags:
 - Virtualizations
 - Have Swagger
-- Have API Paths
-- Have API
-- API Service Provider
 apis: []
 x-common:
 - type: x-github

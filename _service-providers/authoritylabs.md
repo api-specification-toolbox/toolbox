@@ -11,12 +11,7 @@ x-alexaRank: "61231"
 url: http://api.specificationtoolbox.com/resources/service-providers/authoritylabs/
 tags:
 - SEO Rank Checking Service
-- Relative Data
-- Postman Collections
-- Have API Paths
-- Have API
 - General Data
-- API Service Provider
 - Analysis
 - Analysis
 apis: []

@@ -11,9 +11,6 @@ x-alexaRank: "1000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/hypercat/
 tags:
 - Internet Of Things
-- Have API
-- API Tools
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

@@ -15,7 +15,6 @@ tags:
 - Service Mesh
 - Reverse Proxy
 - Proxy
-- Profile
 - Networking
 - Microservices
 - Load Balancer
@@ -23,7 +22,6 @@ tags:
 - GRPC
 - Gateway
 - Circuit Breaker
-- API Service Provider
 apis: []
 x-common:
 - type: x-blog

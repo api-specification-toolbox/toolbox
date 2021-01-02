@@ -46,7 +46,6 @@ tags:
 - Latent Dirichlet Allocation
 - K-means
 - Isolation Forest
-- Have API
 - Gradient Boosting
 - Gradient Boosted Trees
 - G-means
@@ -76,8 +75,6 @@ tags:
 - Big Data
 - Automl
 - Automatic Optimization
-- API Service Provider
-- API Provider
 - API
 - Anomaly Score
 - Anomaly Detector

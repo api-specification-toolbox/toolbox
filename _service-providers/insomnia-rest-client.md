@@ -11,12 +11,9 @@ x-rank: "8"
 x-alexaRank: "101075"
 url: http://api.specificationtoolbox.com/resources/service-providers/insomnia-rest-client/
 tags:
-- Profile
 - Integration Landscape
-- Have API
 - Google Chrome
 - Clients
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

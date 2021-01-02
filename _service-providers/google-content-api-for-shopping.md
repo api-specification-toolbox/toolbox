@@ -16,13 +16,8 @@ x-alexaRank: "1"
 url: http://api.specificationtoolbox.com/resources/service-providers/google-content-api-for-shopping/
 tags:
 - Shopping
-- Relative Data
-- Have API Paths
-- Have API
 - Content
 - Commerce
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-best-practices

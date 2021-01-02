@@ -12,9 +12,7 @@ x-alexaRank: "15830"
 url: http://api.specificationtoolbox.com/resources/service-providers/programmableweb/
 tags:
 - News
-- Have API
 - Discovery
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

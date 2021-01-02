@@ -15,11 +15,9 @@ tags:
 - Interoperability
 - Integrations
 - Integration Landscape
-- Have API
 - Extraction And Transformation
 - Design
 - Automation
-- API Service Provider
 apis: []
 x-common:
 - type: x-blog

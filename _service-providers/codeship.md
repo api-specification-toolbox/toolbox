@@ -11,9 +11,7 @@ x-alexaRank: "46090"
 url: http://api.specificationtoolbox.com/resources/service-providers/codeship/
 tags:
 - Orchestration
-- Have API
 - Containers
-- API Service Provider
 apis: []
 x-common:
 - type: x-blog

@@ -14,13 +14,8 @@ x-alexaRank: "1"
 url: http://api.specificationtoolbox.com/resources/service-providers/google-drive/
 tags:
 - Storage
-- Relative Data
 - Productivity
-- Have API Paths
-- Have API
 - Documents
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-best-practices

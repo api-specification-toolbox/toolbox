@@ -11,21 +11,16 @@ x-rank: "9"
 x-alexaRank: "87455"
 url: http://api.specificationtoolbox.com/resources/service-providers/axway/
 tags:
-- Profile
 - Portals
 - Payment
 - MFT Services
 - Management
-- Have OpenAPI
-- Have API Paths
-- Have API
 - Global Payment
 - Gateway
 - Foreign Payment
 - Deployment
 - B2B Solutions
 - Axway
-- API Service Provider
 - Api Gateway
 apis: []
 x-common:

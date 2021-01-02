@@ -16,11 +16,8 @@ tags:
 - JSON LD
 - Hypermedia
 - Hydra
-- Have API
 - Framework
 - Deployment
-- API Tools
-- API Service Provider
 apis: []
 x-common:
 - type: x-developer

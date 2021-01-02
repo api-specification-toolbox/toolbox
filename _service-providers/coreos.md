@@ -10,9 +10,7 @@ x-rank: "7"
 x-alexaRank: "225126"
 url: http://api.specificationtoolbox.com/resources/service-providers/coreos/
 tags:
-- Have API
 - Containers
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

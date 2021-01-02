@@ -15,12 +15,7 @@ x-alexaRank: "5738"
 url: http://api.specificationtoolbox.com/resources/service-providers/google-url-shortener/
 tags:
 - URL Shorteners
-- Relative Data
 - Links
-- Have API Paths
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

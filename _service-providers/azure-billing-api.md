@@ -12,14 +12,9 @@ x-rank: "10"
 x-alexaRank: "33"
 url: http://api.specificationtoolbox.com/resources/service-providers/azure-billing-api/
 tags:
-- Relative Data
 - Microsoft
 - Management
-- Have API Paths
-- Have API
 - Billing
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-documentation

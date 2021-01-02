@@ -9,11 +9,7 @@ x-rank: "7"
 x-alexaRank: "3127976"
 url: http://api.specificationtoolbox.com/resources/service-providers/nordic-api-gateway/
 tags:
-- Profile
-- Have API
 - Gateway
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-developer

@@ -15,11 +15,6 @@ x-alexaRank: "1"
 url: http://api.specificationtoolbox.com/resources/service-providers/google-knowledge-graph-search/
 tags:
 - Search
-- Relative Data
-- Have API Paths
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-authentication

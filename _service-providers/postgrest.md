@@ -9,11 +9,8 @@ x-rank: "7"
 x-alexaRank: "375074"
 url: http://api.specificationtoolbox.com/resources/service-providers/postgrest/
 tags:
-- Profile
-- Has API
 - Deployment
 - Database
-- API Service Provider
 apis: []
 x-common:
 - type: x-developer

@@ -11,9 +11,6 @@ x-alexaRank: "60543"
 url: http://api.specificationtoolbox.com/resources/service-providers/load-impact/
 tags:
 - Load Testing
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

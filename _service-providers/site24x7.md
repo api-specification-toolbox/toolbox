@@ -24,13 +24,9 @@ tags:
 - Server Monitoring
 - Secure Website Monitoring
 - Remote Website Monitoring
-- Relative Data
 - Networks
 - Monitoring
-- Have API Paths
-- Have API
 - Free Website Monitoring
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

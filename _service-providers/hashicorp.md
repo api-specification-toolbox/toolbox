@@ -10,15 +10,11 @@ x-rank: "7"
 x-alexaRank: "53153"
 url: http://api.specificationtoolbox.com/resources/service-providers/hashicorp/
 tags:
-- Profile
 - Orchestration
 - Microservices
 - Logging
 - Integration Landscape
-- Have API
 - Automation
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-about

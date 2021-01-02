@@ -9,10 +9,8 @@ x-rank: "8"
 x-alexaRank: "1000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/materia/
 tags:
-- Have API
 - Desktop
 - Design
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

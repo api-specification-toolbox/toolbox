@@ -12,9 +12,6 @@ x-alexaRank: "289164"
 url: http://api.specificationtoolbox.com/resources/service-providers/gremlin/
 tags:
 - Reliability
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

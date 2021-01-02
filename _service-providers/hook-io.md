@@ -12,10 +12,8 @@ url: http://api.specificationtoolbox.com/resources/service-providers/hook-io/
 tags:
 - Webhooks
 - Microservices
-- Have API
 - Deployment
 - Databases
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

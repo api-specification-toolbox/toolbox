@@ -11,14 +11,9 @@ x-rank: "8"
 x-alexaRank: "92"
 url: http://api.specificationtoolbox.com/resources/service-providers/medium/
 tags:
-- Relative Data
-- Have API Paths
-- Have API
 - General Data
 - Communications
 - Blogging
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-github

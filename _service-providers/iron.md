@@ -21,9 +21,6 @@ tags:
 - Software As A Service Providers
 - Serverless
 - Schedules
-- Have API
-- API Service Provider
-- API Provider
 - API LIfeycle
 apis: []
 x-common:

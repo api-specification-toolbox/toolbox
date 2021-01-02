@@ -12,9 +12,7 @@ x-alexaRank: "536291"
 url: http://api.specificationtoolbox.com/resources/service-providers/gravitee-io/
 tags:
 - Management
-- Have API
 - Authentication
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

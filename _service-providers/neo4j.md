@@ -11,10 +11,7 @@ x-rank: "8"
 x-alexaRank: "27755"
 url: http://api.specificationtoolbox.com/resources/service-providers/neo4j/
 tags:
-- Have API
 - Databases
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

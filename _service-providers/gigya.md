@@ -11,10 +11,7 @@ x-alexaRank: "3800"
 url: http://api.specificationtoolbox.com/resources/service-providers/gigya/
 tags:
 - Social Sharing
-- Have API
 - Authentication
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-base

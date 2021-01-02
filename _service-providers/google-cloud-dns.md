@@ -15,12 +15,7 @@ x-rank: "9"
 x-alexaRank: "1"
 url: http://api.specificationtoolbox.com/resources/service-providers/google-cloud-dns/
 tags:
-- Relative Data
-- Have API Paths
-- Have API
 - DNS
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

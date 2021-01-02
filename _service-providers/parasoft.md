@@ -14,9 +14,7 @@ url: http://api.specificationtoolbox.com/resources/service-providers/parasoft/
 tags:
 - Virtualizations
 - Testing
-- Have API
 - Commercial Services
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

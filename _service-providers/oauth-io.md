@@ -11,11 +11,8 @@ x-alexaRank: "1035394"
 url: http://api.specificationtoolbox.com/resources/service-providers/oauth-io/
 tags:
 - Imports
-- Have API Paths
-- Have API
 - Authentication
 - Authentication
-- API Service Provider
 - API LIfeycle
 apis: []
 x-common:

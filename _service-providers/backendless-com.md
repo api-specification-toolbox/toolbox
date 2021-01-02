@@ -10,9 +10,7 @@ x-rank: "7"
 x-alexaRank: "183178"
 url: http://api.specificationtoolbox.com/resources/service-providers/backendless-com/
 tags:
-- Have API
 - BaaS
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

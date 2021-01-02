@@ -10,8 +10,7 @@ specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "1000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/perforce/
-tags:
-- API Service Provider
+tags: []
 apis: []
 x-common: []
 include: []

@@ -12,11 +12,8 @@ x-rank: "8"
 x-alexaRank: "158233"
 url: http://api.specificationtoolbox.com/resources/service-providers/catchpoint/
 tags:
-- Profile
 - Performance
 - Monitoring
-- Have API
-- API Service Provider
 apis: []
 x-common:
 - type: x-blog

@@ -14,12 +14,7 @@ x-rank: "8"
 x-alexaRank: "1"
 url: http://api.specificationtoolbox.com/resources/service-providers/google-stackdriver-monitoring/
 tags:
-- Relative Data
 - Monitoring
-- Have API Paths
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

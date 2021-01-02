@@ -11,8 +11,6 @@ x-alexaRank: "2248260"
 url: http://api.specificationtoolbox.com/resources/service-providers/catch-software/
 tags:
 - Testing
-- Have API
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

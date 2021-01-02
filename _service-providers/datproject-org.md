@@ -8,8 +8,7 @@ specificationVersion: "0.14"
 x-rank: "0"
 x-alexaRank: "1000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/datproject-org/
-tags:
-- API Service Provider
+tags: []
 apis: []
 x-common: []
 include: []

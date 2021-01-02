@@ -12,9 +12,7 @@ specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "373504"
 url: http://api.specificationtoolbox.com/resources/service-providers/netty/
-tags:
-- Have API
-- API Service Provider
+tags: []
 apis: []
 x-common:
 - type: x-blog-rss

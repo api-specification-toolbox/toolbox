@@ -12,12 +12,9 @@ x-alexaRank: "40691"
 url: http://api.specificationtoolbox.com/resources/service-providers/dns-made-easy/
 tags:
 - Service Level Agreement
-- Have API
 - Domains
 - DNS General
 - DNS
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

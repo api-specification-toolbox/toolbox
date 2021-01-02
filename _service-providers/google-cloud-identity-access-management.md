@@ -14,14 +14,9 @@ x-rank: "9"
 x-alexaRank: "1"
 url: http://api.specificationtoolbox.com/resources/service-providers/google-cloud-identity-access-management/
 tags:
-- Relative Data
 - Identities
 - IAM
-- Have API Paths
-- Have API
 - Authentication
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

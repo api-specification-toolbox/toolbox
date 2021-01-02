@@ -27,8 +27,6 @@ tags:
 - Proxy
 - Previous Versions
 - Portals
-- New
-- New
 - Monitors
 - Monitoring
 - Mocking
@@ -37,9 +35,6 @@ tags:
 - Integrations
 - History
 - Have Swagger
-- Have OpenAPI
-- Have API Paths
-- Have API
 - GraphQL
 - Forking
 - Extensions
@@ -54,7 +49,6 @@ tags:
 - Clients
 - Chrome
 - Automated Testing
-- API Service Provider
 - API Description
 apis: []
 x-common:

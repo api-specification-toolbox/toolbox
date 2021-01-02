@@ -12,12 +12,10 @@ x-alexaRank: "12022"
 url: http://api.specificationtoolbox.com/resources/service-providers/visual-paradigm/
 tags:
 - UML
-- Have API
 - Diagrams
 - Design
 - Databases
 - Collaboration
-- API Service Provider
 apis: []
 x-common:
 - type: x-crunchbase

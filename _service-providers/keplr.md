@@ -11,9 +11,6 @@ url: http://api.specificationtoolbox.com/resources/service-providers/keplr/
 tags:
 - Predictions
 - Machine Learning
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

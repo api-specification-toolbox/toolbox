@@ -10,11 +10,9 @@ x-rank: "8"
 x-alexaRank: "2439797"
 url: http://api.specificationtoolbox.com/resources/service-providers/junar-com/
 tags:
-- Have API
 - Graph
 - Dashboards
 - City Government
-- API Service Provider
 apis: []
 x-common:
 - type: x-blog

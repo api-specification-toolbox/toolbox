@@ -13,14 +13,9 @@ x-alexaRank: "33"
 url: http://api.specificationtoolbox.com/resources/service-providers/azure-recovery-services/
 tags:
 - Stability
-- Relative Data
 - Recovery
 - Microsoft
-- Have API Paths
-- Have API
 - Backups
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

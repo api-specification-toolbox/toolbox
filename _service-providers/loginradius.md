@@ -11,15 +11,10 @@ x-alexaRank: "83890"
 url: http://api.specificationtoolbox.com/resources/service-providers/loginradius/
 tags:
 - Users
-- Relative Data
 - Login
 - Identities
-- Have API Paths
-- Have API
 - Authentication
 - Authentication
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-base

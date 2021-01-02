@@ -13,16 +13,11 @@ x-alexaRank: "18180"
 url: http://api.specificationtoolbox.com/resources/service-providers/dyn/
 tags:
 - Service Providers
-- Relative Data
 - ISP
-- Have API Paths
-- Have API
 - Emails
 - Emails
 - DNS General
 - DNS
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

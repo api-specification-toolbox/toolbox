@@ -11,10 +11,7 @@ x-rank: "7"
 x-alexaRank: "995304"
 url: http://api.specificationtoolbox.com/resources/service-providers/domainbox/
 tags:
-- Have API
 - Domains
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-email

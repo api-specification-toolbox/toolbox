@@ -11,10 +11,7 @@ x-rank: "10"
 x-alexaRank: "1000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/api-transformer/
 tags:
-- My API Stack
-- Have API Paths
 - Conversions
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

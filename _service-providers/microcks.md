@@ -12,7 +12,6 @@ tags:
 - Virtualizations
 - Testing
 - Mocking
-- API Service Provider
 apis: []
 x-common:
 - type: x-documentation

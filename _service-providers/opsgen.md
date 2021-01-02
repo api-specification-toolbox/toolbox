@@ -12,10 +12,8 @@ x-alexaRank: "1000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/opsgen/
 tags:
 - Spreadsheets
-- Have API
 - Deployment
 - Databases
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

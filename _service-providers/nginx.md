@@ -12,14 +12,11 @@ url: http://api.specificationtoolbox.com/resources/service-providers/nginx/
 tags:
 - Web Server
 - Proxy
-- Profile
 - NGINX
 - Management
 - Integration Landscape
-- Have API
 - Gateway
 - Deployment
-- API Service Provider
 - API LIfeycle
 apis: []
 x-common:

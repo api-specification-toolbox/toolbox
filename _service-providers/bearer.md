@@ -10,9 +10,7 @@ x-rank: "8"
 x-alexaRank: "629411"
 url: http://api.specificationtoolbox.com/resources/service-providers/bearer/
 tags:
-- Has API
 - Authentication
-- API Service Provider
 apis: []
 x-common:
 - type: x-documentation

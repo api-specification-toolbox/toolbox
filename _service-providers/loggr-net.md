@@ -17,13 +17,10 @@ tags:
 - Log Server
 - Log Analyzer
 - Log Analysis
-- Have API
 - Event Viewer
 - Event Logs
 - Event Log
 - Application Log
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

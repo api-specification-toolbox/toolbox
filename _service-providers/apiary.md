@@ -16,8 +16,6 @@ tags:
 - Mocking
 - Documentation
 - Design
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-github

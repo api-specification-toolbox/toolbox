@@ -12,12 +12,10 @@ url: http://api.specificationtoolbox.com/resources/service-providers/solace/
 tags:
 - PubSub
 - Protocols
-- Profile
 - MQTT
 - Microservices
 - Event-Driven
 - Event Brokers
-- API Service Provider
 - AMQP
 apis: []
 x-common:

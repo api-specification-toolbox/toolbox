@@ -11,16 +11,9 @@ x-alexaRank: "1246"
 url: http://api.specificationtoolbox.com/resources/service-providers/cloudflare/
 tags:
 - Security
-- Relative Data
-- Profile
 - Networks
-- My API Stack
-- Have API Paths
-- Have API
 - Encryption
 - DNS
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

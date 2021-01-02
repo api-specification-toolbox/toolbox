@@ -10,9 +10,6 @@ x-rank: "8"
 x-alexaRank: "62206"
 url: http://api.specificationtoolbox.com/resources/service-providers/localytics/
 tags:
-- Have API
-- API Service Provider
-- API Provider
 - Analysis
 - Analysis
 apis: []

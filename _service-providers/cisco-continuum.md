@@ -13,8 +13,6 @@ tags:
 - Security
 - Networks
 - ISP
-- Have API
-- API Service Provider
 apis: []
 x-common:
 - type: x-blog-rss

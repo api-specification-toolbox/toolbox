@@ -11,14 +11,8 @@ x-rank: "10"
 x-alexaRank: "14"
 url: http://api.specificationtoolbox.com/resources/service-providers/aws-kinesis-analytics/
 tags:
-- Relative Data
 - Logging
-- Have API Paths
-- Have API
 - Databases
-- API Service Provider
-- API Service Provider
-- API Provider
 - Analysis
 - Amazon Web Services
 apis: []

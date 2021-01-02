@@ -15,9 +15,6 @@ x-alexaRank: "67296"
 url: http://api.specificationtoolbox.com/resources/service-providers/figure-eight/
 tags:
 - Machine Learning
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

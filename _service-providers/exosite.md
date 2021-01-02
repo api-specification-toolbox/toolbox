@@ -12,10 +12,7 @@ url: http://api.specificationtoolbox.com/resources/service-providers/exosite/
 tags:
 - Storage
 - Internet Of Things
-- Have API
 - Cloud Storage Platform
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

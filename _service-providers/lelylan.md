@@ -14,10 +14,7 @@ specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "9374597"
 url: http://api.specificationtoolbox.com/resources/service-providers/lelylan/
-tags:
-- Have API
-- API Service Provider
-- API Provider
+tags: []
 apis: []
 x-common:
 - type: x-website

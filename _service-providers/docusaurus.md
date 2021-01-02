@@ -10,9 +10,7 @@ x-rank: "7"
 x-alexaRank: "1000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/docusaurus/
 tags:
-- Profile
 - Documentation
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

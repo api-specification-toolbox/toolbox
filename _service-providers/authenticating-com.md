@@ -10,11 +10,8 @@ x-rank: "7"
 x-alexaRank: "3464765"
 url: http://api.specificationtoolbox.com/resources/service-providers/authenticating-com/
 tags:
-- Profile
 - Marketplaces
-- Have API
 - Authentication
-- API Service Provider
 apis: []
 x-common:
 - type: x-documentation

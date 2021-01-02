@@ -9,9 +9,7 @@ x-rank: "7"
 x-alexaRank: "1117459"
 url: http://api.specificationtoolbox.com/resources/service-providers/natural-docs/
 tags:
-- Profile
 - Documentation
-- API Service Provider
 apis: []
 x-common:
 - type: x-github

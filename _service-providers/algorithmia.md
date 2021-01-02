@@ -11,16 +11,8 @@ x-rank: "8"
 x-alexaRank: "64189"
 url: http://api.specificationtoolbox.com/resources/service-providers/algorithmia/
 tags:
-- Postman Collections
-- No API Definition
-- New
 - Machine Learning
-- Have OpenAPI
-- Have API Paths
-- Have API
 - Deployment
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

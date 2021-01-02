@@ -10,9 +10,7 @@ x-alexaRank: "64908"
 url: http://api.specificationtoolbox.com/resources/service-providers/fancyapps/
 tags:
 - Photos
-- Have API
 - Display
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

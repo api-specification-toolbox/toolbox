@@ -12,9 +12,7 @@ url: http://api.specificationtoolbox.com/resources/service-providers/wrapapi/
 tags:
 - Scraping Tools
 - Scraping
-- Have API
 - Deployment
-- API Service Provider
 apis: []
 x-common:
 - type: x-documentation

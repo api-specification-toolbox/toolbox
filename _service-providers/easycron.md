@@ -12,12 +12,7 @@ x-alexaRank: "66332"
 url: http://api.specificationtoolbox.com/resources/service-providers/easycron/
 tags:
 - Workers
-- Relative Data
-- My API Stack
 - Marketplaces
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-affiliates

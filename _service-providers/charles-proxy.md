@@ -13,8 +13,6 @@ x-alexaRank: "81920"
 url: http://api.specificationtoolbox.com/resources/service-providers/charles-proxy/
 tags:
 - Proxy
-- Have API
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

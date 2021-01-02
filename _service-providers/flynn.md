@@ -9,9 +9,7 @@ x-rank: "8"
 x-alexaRank: "1153005"
 url: http://api.specificationtoolbox.com/resources/service-providers/flynn/
 tags:
-- Have API
 - BaaS
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

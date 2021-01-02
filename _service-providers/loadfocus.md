@@ -14,8 +14,6 @@ url: http://api.specificationtoolbox.com/resources/service-providers/loadfocus/
 tags:
 - Testing
 - Performance
-- Have API
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

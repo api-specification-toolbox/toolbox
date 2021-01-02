@@ -9,13 +9,8 @@ x-rank: "8"
 x-alexaRank: "9335"
 url: http://api.specificationtoolbox.com/resources/service-providers/datadog/
 tags:
-- Relative Data
 - Performance
 - Monitoring
-- Have API Paths
-- Have API
-- API Service Provider
-- API Provider
 - Aggregation
 apis: []
 x-common:

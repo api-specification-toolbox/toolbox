@@ -10,8 +10,6 @@ x-rank: "9"
 x-alexaRank: "639916"
 url: http://api.specificationtoolbox.com/resources/service-providers/cloudrail/
 tags:
-- Have API
-- API Service Provider
 - Aggregation
 apis: []
 x-common:

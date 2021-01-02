@@ -12,8 +12,6 @@ url: http://api.specificationtoolbox.com/resources/service-providers/vrest/
 tags:
 - Virtualizations
 - Testing
-- Profile
-- API Service Provider
 apis: []
 x-common:
 - type: x-pricing

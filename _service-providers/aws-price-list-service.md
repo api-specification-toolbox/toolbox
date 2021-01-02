@@ -9,10 +9,6 @@ x-rank: "8"
 x-alexaRank: "1779"
 url: http://api.specificationtoolbox.com/resources/service-providers/aws-price-list-service/
 tags:
-- Have API
-- API Service Provider
-- API Service Provider
-- API Provider
 - Apache Software Foundation
 apis: []
 x-common:

@@ -12,13 +12,8 @@ url: http://api.specificationtoolbox.com/resources/service-providers/google-fusi
 tags:
 - Visualizations
 - Spreadsheets
-- Relative Data
-- Have API Paths
-- Have API
 - Embeddable
 - Databases
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-documentation

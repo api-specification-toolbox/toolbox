@@ -14,10 +14,7 @@ tags:
 - IPaaS
 - Interoperability
 - Integrations
-- Have API
 - Cloud Storage
-- API Service Provider
-- API Provider
 - Aggregation
 - Aggregation
 apis: []

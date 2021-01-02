@@ -10,16 +10,12 @@ x-rank: "7"
 x-alexaRank: "137244"
 url: http://api.specificationtoolbox.com/resources/service-providers/snaplogic/
 tags:
-- Profile
 - Management
 - IPaaS
 - Interoperability
 - Integrations
 - Have Swagger
-- Have API Paths
-- Have API
 - Automation
-- API Service Provider
 apis: []
 x-common:
 - type: x-blog

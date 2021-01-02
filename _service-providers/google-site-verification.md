@@ -13,12 +13,7 @@ x-alexaRank: "1"
 url: http://api.specificationtoolbox.com/resources/service-providers/google-site-verification/
 tags:
 - Security
-- Relative Data
 - Links
-- Have API Paths
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

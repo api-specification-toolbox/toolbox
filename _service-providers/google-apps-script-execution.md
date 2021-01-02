@@ -16,11 +16,6 @@ x-alexaRank: "1"
 url: http://api.specificationtoolbox.com/resources/service-providers/google-apps-script-execution/
 tags:
 - Scripts
-- Relative Data
-- Have API Paths
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

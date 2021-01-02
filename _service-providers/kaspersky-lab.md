@@ -11,9 +11,7 @@ x-rank: "8"
 x-alexaRank: "2096"
 url: http://api.specificationtoolbox.com/resources/service-providers/kaspersky-lab/
 tags:
-- Have API
 - Cybersecurity
-- API Service Provider
 apis: []
 x-common:
 - type: x-blog

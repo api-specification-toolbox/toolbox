@@ -12,10 +12,8 @@ url: http://api.specificationtoolbox.com/resources/service-providers/centrify/
 tags:
 - Slack
 - Identities
-- Have API
 - Bots
 - Authentication
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

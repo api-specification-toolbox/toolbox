@@ -14,7 +14,6 @@ tags:
 - Verification
 - Stocks
 - Shopping
-- Profile
 - Phones
 - Phones
 - News
@@ -25,8 +24,6 @@ tags:
 - Locations
 - Locations
 - Have Swagger
-- Have API Paths
-- Have API
 - Global
 - Geo
 - Financial
@@ -37,9 +34,6 @@ tags:
 - Data Provider
 - Catalog
 - Business
-- API Service Provider
-- API Provider
-- API Provider
 - API Management Other
 - API LIfeycle
 - Address Verification

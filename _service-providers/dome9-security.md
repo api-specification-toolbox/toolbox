@@ -12,8 +12,6 @@ x-alexaRank: "1129072"
 url: http://api.specificationtoolbox.com/resources/service-providers/dome9-security/
 tags:
 - Security
-- Have API
-- API Service Provider
 apis: []
 x-common:
 - type: x-about

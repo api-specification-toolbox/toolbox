@@ -13,9 +13,7 @@ tags:
 - Testing
 - Security
 - Performance
-- Have API
 - Gateways
-- API Service Provider
 apis: []
 x-common:
 - type: x-about

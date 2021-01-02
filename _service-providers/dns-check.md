@@ -14,17 +14,12 @@ url: http://api.specificationtoolbox.com/resources/service-providers/dns-check/
 tags:
 - Web Tools
 - SPF Record Check
-- Relative Data
 - Mx Record Check
 - Monitoring
-- Have API Paths
-- Have API
 - DNS Monitor
 - DNS General
 - DNS Check
 - DNS
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-developer

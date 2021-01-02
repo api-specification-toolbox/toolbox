@@ -10,8 +10,6 @@ x-rank: "9"
 x-alexaRank: "1560968"
 url: http://api.specificationtoolbox.com/resources/service-providers/api-academy/
 tags:
-- Profile
-- API Service Provider
 - API Learning
 apis: []
 x-common:

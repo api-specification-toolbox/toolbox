@@ -15,10 +15,8 @@ tags:
 - Virtualizations
 - Testing
 - Studio
-- Have API
 - Design
 - Clients
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

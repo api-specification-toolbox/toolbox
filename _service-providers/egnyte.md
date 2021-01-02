@@ -12,10 +12,6 @@ x-alexaRank: "13726"
 url: http://api.specificationtoolbox.com/resources/service-providers/egnyte/
 tags:
 - Storage
-- Profile
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

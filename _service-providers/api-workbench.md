@@ -12,11 +12,8 @@ x-rank: "7"
 x-alexaRank: "2883781"
 url: http://api.specificationtoolbox.com/resources/service-providers/api-workbench/
 tags:
-- Profile
 - IDE
 - Design
-- API Tools
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

@@ -14,11 +14,7 @@ tags:
 - Web Crawler
 - Scraping
 - Management
-- Have OpenAPI
-- Have API Paths
-- Have API
 - Data Extraction
-- API Service Provider
 - API
 apis: []
 x-common:

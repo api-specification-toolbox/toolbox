@@ -14,18 +14,12 @@ x-rank: "7"
 x-alexaRank: "75973"
 url: http://api.specificationtoolbox.com/resources/service-providers/botify/
 tags:
-- Relative Data
 - Rankings
-- Profile
 - Have Swagger
-- Have API Paths
-- Have API
 - Digital Assets
 - Diagnostics
 - Content
 - Bots
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

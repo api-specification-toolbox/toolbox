@@ -13,12 +13,10 @@ url: http://api.specificationtoolbox.com/resources/service-providers/intercept-r
 tags:
 - Virtualizations
 - Testing
-- Profile
 - Monitoring
 - Mocking
 - Collaboration
 - Clients
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

@@ -10,9 +10,7 @@ x-rank: "7"
 x-alexaRank: "941279"
 url: http://api.specificationtoolbox.com/resources/service-providers/serverscheck/
 tags:
-- Profile
 - Monitoring
-- API Service Provider
 apis: []
 x-common:
 - type: x-about

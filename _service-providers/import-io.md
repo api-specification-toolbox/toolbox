@@ -10,14 +10,8 @@ x-alexaRank: "42686"
 url: http://api.specificationtoolbox.com/resources/service-providers/import-io/
 tags:
 - Scraping
-- Relative Data
 - Have Swagger
-- Have OpenAPI
-- Have API Paths
-- Have API
 - API United Kingdom
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

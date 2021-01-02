@@ -11,9 +11,7 @@ url: http://api.specificationtoolbox.com/resources/service-providers/emc/
 tags:
 - Surveillance
 - HP 3000
-- Have API
 - Data Warehousing
-- API Service Provider
 apis: []
 x-common:
 - type: x-careers

@@ -8,9 +8,7 @@ specificationVersion: "0.14"
 x-rank: "3"
 x-alexaRank: "1000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/apiful/
-tags:
-- Have API
-- API Service Provider
+tags: []
 apis: []
 x-common:
 - type: x-blog-rss

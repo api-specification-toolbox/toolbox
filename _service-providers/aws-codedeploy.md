@@ -16,14 +16,8 @@ x-alexaRank: "14"
 url: http://api.specificationtoolbox.com/resources/service-providers/aws-codedeploy/
 tags:
 - TempSave
-- Relative Data
 - Orchestration
-- Have API Paths
-- Have API
 - Ci/
-- API Service Provider
-- API Service Provider
-- API Provider
 - Amazon Web Services
 apis: []
 x-common:

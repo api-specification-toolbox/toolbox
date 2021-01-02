@@ -15,11 +15,8 @@ tags:
 - Test Editor
 - Slack
 - Screenshot Comparison
-- Profile
-- Has API
 - Developer Tools
 - Bots
-- API Service Provider
 apis: []
 x-common:
 - type: x-blog

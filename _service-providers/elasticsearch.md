@@ -12,10 +12,7 @@ url: http://api.specificationtoolbox.com/resources/service-providers/elasticsear
 tags:
 - Search
 - Netherlands
-- Have API
 - Deployment
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

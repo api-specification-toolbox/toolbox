@@ -11,9 +11,7 @@ url: http://api.specificationtoolbox.com/resources/service-providers/dexy/
 tags:
 - Open Source
 - Literate Programming
-- Have API
 - Documentation
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

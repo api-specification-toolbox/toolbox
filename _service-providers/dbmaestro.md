@@ -11,9 +11,7 @@ x-rank: "8"
 x-alexaRank: "621321"
 url: http://api.specificationtoolbox.com/resources/service-providers/dbmaestro/
 tags:
-- Have API
 - Databases
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

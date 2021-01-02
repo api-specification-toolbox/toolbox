@@ -16,12 +16,7 @@ x-alexaRank: "1"
 url: http://api.specificationtoolbox.com/resources/service-providers/google-cloud-natural-language/
 tags:
 - Sentiment Analysis
-- Relative Data
 - Machine Learning
-- Have API Paths
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

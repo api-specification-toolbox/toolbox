@@ -13,13 +13,9 @@ url: http://api.specificationtoolbox.com/resources/service-providers/addthis/
 tags:
 - Social Bookmarking
 - Sharing
-- No API Definition
 - Links
 - Links
-- Have API
 - Embeddable
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

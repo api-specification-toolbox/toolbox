@@ -13,16 +13,11 @@ x-rank: "8"
 x-alexaRank: "1"
 url: http://api.specificationtoolbox.com/resources/service-providers/apigee/
 tags:
-- Relative Data
 - Proxies
-- Postman Collections
 - Portals
 - Management
 - Integration Landscape
-- Have API Paths
-- Have API
 - Deployment
-- API Service Provider
 apis: []
 x-common:
 - type: x-about

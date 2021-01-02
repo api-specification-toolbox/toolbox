@@ -11,13 +11,8 @@ x-rank: "7"
 x-alexaRank: "1000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/authentiq-connect/
 tags:
-- Relative Data
 - Passwords
-- Have API Paths
-- Have API
 - Authentication
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

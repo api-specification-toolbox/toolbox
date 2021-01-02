@@ -16,9 +16,6 @@ tags:
 - Snippets
 - Serverless
 - Pastebin
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

@@ -14,11 +14,6 @@ x-alexaRank: "1356144"
 url: http://api.specificationtoolbox.com/resources/service-providers/google-consumer-surveys/
 tags:
 - Surveys
-- Relative Data
-- Have API Paths
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-developers

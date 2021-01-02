@@ -12,16 +12,12 @@ tags:
 - Users
 - Target
 - Service Level Agreement
-- Relative Data
 - OAuth
 - Integration Landscape
 - Identities
 - Have Swagger
-- Have API Paths
-- Have API
 - Authentication
 - Authentication
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

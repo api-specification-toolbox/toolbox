@@ -13,8 +13,6 @@ url: http://api.specificationtoolbox.com/resources/service-providers/ardoq/
 tags:
 - Visualizations
 - No API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

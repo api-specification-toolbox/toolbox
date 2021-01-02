@@ -8,9 +8,7 @@ specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "189314"
 url: http://api.specificationtoolbox.com/resources/service-providers/heartbeat/
-tags:
-- Have API
-- API Service Provider
+tags: []
 apis: []
 x-common:
 - type: x-website

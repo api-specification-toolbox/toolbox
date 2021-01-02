@@ -15,8 +15,6 @@ url: http://api.specificationtoolbox.com/resources/service-providers/apache-knox
 tags:
 - Gateway
 - Deployment
-- API Tools
-- API Service Provider
 apis: []
 x-common:
 - type: x-security

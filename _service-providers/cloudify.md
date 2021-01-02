@@ -11,11 +11,8 @@ x-alexaRank: "7887118"
 url: http://api.specificationtoolbox.com/resources/service-providers/cloudify/
 tags:
 - Programming
-- Have API
 - Containers
 - Compute
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

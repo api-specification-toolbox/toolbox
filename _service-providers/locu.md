@@ -14,9 +14,6 @@ tags:
 - Target
 - Restaurants
 - Menus
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

@@ -12,12 +12,7 @@ x-alexaRank: "33"
 url: http://api.specificationtoolbox.com/resources/service-providers/azure-traffic-manager/
 tags:
 - Traffic
-- Relative Data
 - Microsoft
-- Have API Paths
-- Have API
-- API Service Provider
-- API Provider
 - Analysis
 apis: []
 x-common:

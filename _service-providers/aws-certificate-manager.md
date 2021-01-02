@@ -19,14 +19,8 @@ x-alexaRank: "14"
 url: http://api.specificationtoolbox.com/resources/service-providers/aws-certificate-manager/
 tags:
 - Security
-- Relative Data
-- Have API Paths
-- Have API
 - Encryption
 - Certificates
-- API Service Provider
-- API Service Provider
-- API Provider
 - Amazon Web Services
 apis: []
 x-common:

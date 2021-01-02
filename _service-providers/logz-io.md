@@ -12,7 +12,6 @@ x-alexaRank: "102761"
 url: http://api.specificationtoolbox.com/resources/service-providers/logz-io/
 tags:
 - Logging
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

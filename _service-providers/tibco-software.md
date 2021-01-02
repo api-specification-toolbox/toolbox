@@ -16,10 +16,8 @@ tags:
 - Management
 - Integration Landscape
 - Have Swagger
-- Have API
 - Gateway
 - Deployment
-- API Service Provider
 - API Management Other
 apis: []
 x-common:

@@ -10,9 +10,7 @@ x-rank: "3"
 x-alexaRank: "1000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/apidox/
 tags:
-- Have API
 - Documentation
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

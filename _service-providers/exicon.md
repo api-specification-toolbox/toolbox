@@ -12,10 +12,7 @@ x-rank: "8"
 x-alexaRank: "4166446"
 url: http://api.specificationtoolbox.com/resources/service-providers/exicon/
 tags:
-- Profile
-- Have API
 - Applications
-- API Service Provider
 - API Management Other
 apis: []
 x-common:

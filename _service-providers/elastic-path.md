@@ -14,10 +14,7 @@ url: http://api.specificationtoolbox.com/resources/service-providers/elastic-pat
 tags:
 - Social Networking
 - Hypermedia
-- Have API
 - Commerce
-- API Service Provider
-- API Provider
 - API LIfeycle
 apis: []
 x-common:

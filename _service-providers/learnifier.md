@@ -12,14 +12,9 @@ x-alexaRank: "1936346"
 url: http://api.specificationtoolbox.com/resources/service-providers/learnifier/
 tags:
 - Trainings
-- Relative Data
 - Marketplaces
 - Have Swagger
-- Have API Paths
-- Have API
 - Courses
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

@@ -11,10 +11,8 @@ x-rank: "8"
 x-alexaRank: "621393"
 url: http://api.specificationtoolbox.com/resources/service-providers/openlegacy/
 tags:
-- Have API
 - Gateway
 - Deployment
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

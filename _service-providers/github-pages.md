@@ -12,8 +12,6 @@ x-alexaRank: "80"
 url: http://api.specificationtoolbox.com/resources/service-providers/github-pages/
 tags:
 - Portals
-- Have API
-- API Service Provider
 apis: []
 x-common:
 - type: x-about

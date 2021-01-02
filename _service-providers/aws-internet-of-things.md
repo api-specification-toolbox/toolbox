@@ -11,14 +11,8 @@ x-rank: "10"
 x-alexaRank: "14"
 url: http://api.specificationtoolbox.com/resources/service-providers/aws-internet-of-things/
 tags:
-- Relative Data
 - Internet Of Things
-- Have API Paths
-- Have API
 - Devices
-- API Service Provider
-- API Service Provider
-- API Provider
 - Amazon Web Services
 apis: []
 x-common:

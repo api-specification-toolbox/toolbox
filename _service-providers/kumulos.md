@@ -10,10 +10,7 @@ x-rank: "7"
 x-alexaRank: "410503"
 url: http://api.specificationtoolbox.com/resources/service-providers/kumulos/
 tags:
-- Have API
 - BaaS
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

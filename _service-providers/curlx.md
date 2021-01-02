@@ -9,9 +9,7 @@ x-rank: "7"
 x-alexaRank: "20000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/curlx/
 tags:
-- Profile
 - Clients
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

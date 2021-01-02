@@ -19,13 +19,8 @@ x-alexaRank: "33"
 url: http://api.specificationtoolbox.com/resources/service-providers/azure-key-vault/
 tags:
 - Security
-- Relative Data
 - Microsoft
-- Have API Paths
-- Have API
 - Authentication
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-blog

@@ -9,10 +9,6 @@ x-rank: "8"
 x-alexaRank: "1779"
 url: http://api.specificationtoolbox.com/resources/service-providers/aws-io-t-jobs-data-plane/
 tags:
-- Have API
-- API Service Provider
-- API Service Provider
-- API Provider
 - Apache
 apis: []
 x-common:

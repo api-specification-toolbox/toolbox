@@ -10,11 +10,8 @@ x-rank: "7"
 x-alexaRank: "52059"
 url: http://api.specificationtoolbox.com/resources/service-providers/tray-io/
 tags:
-- Profile
 - IPaaS
 - Integrations
-- Has API
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

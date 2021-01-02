@@ -12,9 +12,7 @@ x-alexaRank: "2518256"
 url: http://api.specificationtoolbox.com/resources/service-providers/seneca-js/
 tags:
 - Microservices
-- Have API
 - Deployment
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

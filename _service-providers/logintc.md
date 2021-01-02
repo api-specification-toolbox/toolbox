@@ -10,10 +10,7 @@ x-rank: "8"
 x-alexaRank: "773021"
 url: http://api.specificationtoolbox.com/resources/service-providers/logintc/
 tags:
-- Have API
 - Authentication
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

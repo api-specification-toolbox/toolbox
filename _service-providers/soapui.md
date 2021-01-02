@@ -19,7 +19,6 @@ tags:
 - SOAP
 - No API
 - Integration Landscape
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

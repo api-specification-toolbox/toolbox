@@ -13,10 +13,8 @@ x-rank: "0"
 x-alexaRank: "20000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/senya/
 tags:
-- Profile
 - IDE
 - Design
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

@@ -14,7 +14,6 @@ tags:
 - Templates
 - Storage
 - REST
-- Profile
 - Networks
 - Load Balancers
 - Kubernetes
@@ -22,7 +21,6 @@ tags:
 - Block Storage
 - Bandwidth Pooling
 - Bandwidth
-- API Service Provider
 - API
 apis: []
 x-common:

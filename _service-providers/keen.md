@@ -11,10 +11,8 @@ x-rank: "0"
 x-alexaRank: "20000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/keen/
 tags:
-- Profile
 - Monitoring
 - Integration Landscape
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

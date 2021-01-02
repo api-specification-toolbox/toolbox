@@ -13,9 +13,7 @@ tags:
 - Serverless
 - Management
 - IDE
-- Have API
 - Deployment
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

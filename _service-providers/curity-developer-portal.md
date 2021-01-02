@@ -13,15 +13,12 @@ tags:
 - Token
 - Security
 - Scalable Access
-- Profile
 - OpenID
 - OAuth
 - Identity Systems
 - Identity
 - Identification
-- Has API
 - Authentication
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

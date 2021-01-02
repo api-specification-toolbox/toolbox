@@ -10,14 +10,12 @@ x-alexaRank: "1864262"
 url: http://api.specificationtoolbox.com/resources/service-providers/dapr/
 tags:
 - Stateful
-- Profile
 - Portability
 - Open API
 - Microservices Architecture
 - Microservices
 - Event-driven Runtime
 - Event-Driven
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

@@ -13,9 +13,6 @@ x-alexaRank: "717746"
 url: http://api.specificationtoolbox.com/resources/service-providers/mobagel/
 tags:
 - Internet Of Things
-- Have API
-- API Service Provider
-- API Provider
 - Analysis
 apis: []
 x-common:

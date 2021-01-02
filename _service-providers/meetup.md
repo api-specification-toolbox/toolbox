@@ -14,15 +14,10 @@ tags:
 - Streams
 - Streams
 - Social Networking
-- Relative Data
-- My API Stack
 - Meetups
 - Marketplaces
 - Historical Data API
-- Have API
 - General Data
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-about

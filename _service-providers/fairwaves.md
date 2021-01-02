@@ -14,8 +14,6 @@ x-alexaRank: "1000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/fairwaves/
 tags:
 - Networks
-- Have API
-- API Service Provider
 apis: []
 x-common:
 - type: x-about

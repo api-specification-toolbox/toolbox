@@ -13,8 +13,6 @@ x-alexaRank: "1828032"
 url: http://api.specificationtoolbox.com/resources/service-providers/fusio/
 tags:
 - Management
-- Have API
-- API Service Provider
 apis: []
 x-common:
 - type: x-website

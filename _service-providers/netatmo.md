@@ -15,13 +15,7 @@ x-alexaRank: "1000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/netatmo/
 tags:
 - Security Cameras
-- Relative Data
 - Have Swagger
-- Have OpenAPI
-- Have API Paths
-- Have API
-- API Service Provider
-- API Provider
 apis: []
 x-common:
 - type: x-website

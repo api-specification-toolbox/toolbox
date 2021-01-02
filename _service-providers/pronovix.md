@@ -12,11 +12,8 @@ x-rank: "7"
 x-alexaRank: "763079"
 url: http://api.specificationtoolbox.com/resources/service-providers/pronovix/
 tags:
-- Profile
 - Portals
-- Have API
 - Documentation
-- API Service Provider
 apis: []
 x-common:
 - type: x-about

@@ -9,10 +9,7 @@ specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "87111"
 url: http://api.specificationtoolbox.com/resources/service-providers/dataiku/
-tags:
-- Have API
-- API Service Provider
-- API Provider
+tags: []
 apis: []
 x-common:
 - type: x-blog

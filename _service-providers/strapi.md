@@ -14,7 +14,6 @@ url: http://api.specificationtoolbox.com/resources/service-providers/strapi/
 tags:
 - Management
 - Deployment
-- API Service Provider
 apis: []
 x-common:
 - type: x-website
