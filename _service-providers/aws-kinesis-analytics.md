@@ -5,11 +5,7 @@ description: |-
   <p>Amazon Kinesis Analytics takes care of everything required to run your queries continuously and scales automatically to match the volume and throughput rate of your incoming data. With Amazon Kinesis Analytics, you only pay for the resources your queries consume. There is no minimum fee or setup cost.</p>
 image: http://api.specificationtoolbox.com/images/service-providers/aws-kinesis-analytics.jpg
 created: "2020-12-23"
-<<<<<<< HEAD
-modified: 2020-12-24PST10:00:00-28800
-=======
 modified: 2020-12-24PST10:05:00-28800
->>>>>>> a4863c807d915be416e4c9342926ad270ca6159b
 specificationVersion: "0.14"
 x-rank: "10"
 x-alexaRank: "14"

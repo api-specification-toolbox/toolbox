@@ -10,11 +10,7 @@ description: "SAP is the market leader in enterprise application software, helpi
   helps the world run better and improves people\u2019s lives."
 image: http://api.specificationtoolbox.com/images/service-providers/sap-com.jpg
 created: "2020-12-23"
-<<<<<<< HEAD
-modified: 2020-12-24PST10:00:00-28800
-=======
 modified: 2020-12-24PST10:05:00-28800
->>>>>>> a4863c807d915be416e4c9342926ad270ca6159b
 specificationVersion: "0.14"
 x-rank: "7"
 x-alexaRank: "1457"

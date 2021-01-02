@@ -6,11 +6,7 @@ description: <p>Charles is an HTTP proxy / HTTP monitor / Reverse Proxy that ena
   contain the cookies and caching information).</p>
 image: http://api.specificationtoolbox.com/images/service-providers/charles-proxy.jpg
 created: "2020-12-23"
-<<<<<<< HEAD
-modified: 2020-12-24PST10:00:00-28800
-=======
 modified: 2020-12-24PST10:05:00-28800
->>>>>>> a4863c807d915be416e4c9342926ad270ca6159b
 specificationVersion: "0.14"
 x-rank: "8"
 x-alexaRank: "81920"
