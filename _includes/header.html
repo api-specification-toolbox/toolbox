@@ -46,28 +46,31 @@
                 </div>
                 <div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
                    <ul class="navigation clearfix">
-                      <li class="current dropdown">
+
+                      <li class="{% if page.title == 'Home' %}current {% endif %}dropdown">
                          <a href="/">Home</a>
                       </li>
-                      <li class="dropdown">
-                         <a href="/about/">About Us</a>
+                      <li class="{% if page.title == 'About' %}current {% endif %}dropdown">
+                         <a href="/about/">About</a>
                       </li>
-                      <li class="dropdown">
+                      <li class="{% if page.title == 'News' %}current {% endif %}dropdown">
                          <a href="/news/">News</a>
                       </li>
-                      <li class="dropdown">
+                      <li class="{% if page.title == 'Service Providers' %}current {% endif %}dropdown">
                          <a href="/service-providers/">Service Providers</a>
                       </li>
-                      <li class="dropdown">
+                      <li class="{% if page.title == 'Tools' %}current {% endif %}dropdown">
                          <a href="/tools/">Tools</a>
                       </li>
-                      <li class="dropdown">
+                      <li class="{% if page.title == 'Videos' %}current {% endif %}dropdown">
                          <a href="/videos/">Videos</a>
                       </li>
-                      <li class="dropdown">
+                      <li class="{% if page.title == 'Blog' %}current {% endif %}dropdown">
                          <a href="/blog/">Blog</a>
                       </li>
-                      <li><a href="/contact/">Contact</a></li>
+                      <li class="{% if page.title == 'Contact' %}current {% endif %}dropdown">
+                         <a href="/contact/">Contact</a>
+                      </li>
                    </ul>
                 </div>
              </nav>
