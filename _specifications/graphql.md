@@ -15,6 +15,8 @@ url: https://raw.githubusercontent.com/api-evangelist/graphql/master/apis.json
 specificationVersion: "0.14"
 apis: []
 x-common:
+- type: APIs.json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
 - type: GitHub
   url: https://github.com/graphql
 - type: Twitter
@@ -22,7 +24,7 @@ x-common:
 - type: Website
   url: https://graphql.org/
 - type: x-screenshot
-  url: ~
+  url: http://kinlane-productions2.s3.amazonaws.com/graphql.jpg
 - type: x-workspace
   url: https://www.postman.com/api-evangelist/workspace/graphql/overview
 ...
