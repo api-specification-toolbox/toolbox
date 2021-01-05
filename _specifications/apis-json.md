@@ -1,6 +1,6 @@
 ---
 name: APIs.json
-description: Defining the next generation of API discovery.
+description: APIs.json or APIs.yaml is a machine readable format for describing the surface area of API operations. It doesn't describe a single API, but the operates around it, including OpenAPI, Postman collections and other machine readable artifacts, as well as human elements like documentation, pricing, and terms of services.
 image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/2949-apis-json.jpg
 tags:
 - definitions

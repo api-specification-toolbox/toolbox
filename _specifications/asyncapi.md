@@ -1,8 +1,8 @@
 ---
 name: AsyncAPI
-description: <p>Open source tools to easily build and maintain your event-driven architecture.
+description: Open source tools to easily build and maintain your event-driven architecture.
   All powered by the AsyncAPI specification, the industry standard for defining asynchronous
-  APIs.</p>
+  APIs. Providing a sister specification for the OpenAPI specification that can be used to describe event and message driven APIs.
 image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/asyncapi-logo.png
 tags:
 - definitions

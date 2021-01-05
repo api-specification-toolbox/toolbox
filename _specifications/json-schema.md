@@ -1,6 +1,6 @@
 ---
 name: JSON Schema
-description: ""
+description: "JSON Schema is a vocabulary that allows you to annotate and validate JSON documents, allowing you to describe existing data formats, while providing clear human and machine readable documentation, as part of testing, and the validation of data being submitted. JSON Schema is used by both OpenAPI and AsyncAPI to define objects sent back and forth as part of API communication."
 image: ""
 tags:
 - definitions

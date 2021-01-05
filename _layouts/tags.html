@@ -15,13 +15,12 @@ layout: default
                 <div class="blog-single">
                    <div class="inner-box">
 
-                      <div class="upper-box">
+                      <div class="upper-box" style="border-bottom: 0px; padding-bottom: 0px; margin-bottom: 0px;">
                          <ul class="breadcrumb-bar">
                             <li><a href="#">Home</a></li>
                             <li>Tags</li>
                             <li>{{ page.name }}</li>
                          </ul>
-                         <h2>{{ page.name }}</h2>
                       </div>
 
                       {% assign news = site.news %}
@@ -80,7 +79,7 @@ layout: default
 
                       {% assign services = site.services %}
                       {% assign any_services = 0 %}
-                      {% assign services = services | sort: 'x-rank' | reverse %}
+                      {% assign services = services | sort: 'name' %}
 
                       {% for entry in services %}
                          {% for tag in entry.tags %}
@@ -133,7 +132,7 @@ layout: default
 
                         {% assign any_tools = 0 %}
                         {% assign tools = site.tools %}
-                        {% assign tools = tools | sort: 'x-rank' | reverse %}
+                        {% assign tools = tools | sort: 'name' %}
 
                         {% for entry in tools %}
                            {% for tag in entry.tags %}
@@ -184,7 +183,7 @@ layout: default
 
                         {% assign any_videos = 0 %}
                         {% assign videos = site.videos %}
-                        {% assign videos = videos | sort: 'x-rank' | reverse %}
+                        {% assign videos = videos | sort: 'name' %}
 
                         {% for entry in videos %}
                            {% for tag in entry.tags %}
@@ -241,8 +240,6 @@ layout: default
           <!--Sidebar Side-->
           <div class="sidebar-side col-lg-4 col-md-12 col-sm-12">
              <aside class="sidebar default-sidebar right-sidebar">
-
-                {% include social/social-widget.html %}
 
                 {% include advertising/advertising-widget.html %}
 

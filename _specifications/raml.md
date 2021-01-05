@@ -1,7 +1,6 @@
 ---
 name: RAML
-description: Design, Build, Test, Document, and Share Your APIs all with an easy to
-  use, human-readable Spec.
+description: A simple but powerful syntax for modeling APIs, enabling the rapid development of APIs using an approachable syntax which can scale from hobby project to enterprise application. RAML lets you see what your API looks like as you design it, using easy to read plain text. Without having to write a single line of code you can not only perfect your API design, but also create a fully functional mock for customers, partners, and other developers.
 image: http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1917-raml.jpg
 tags:
 - definitions

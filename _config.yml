@@ -64,7 +64,7 @@ defaults:
   - scope:
       type: specifications
     values:
-      layout: specifications      
+      layout: specifications
   - scope:
       type: tools
     values:
