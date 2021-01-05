@@ -26,6 +26,8 @@ apis:
     url: https://raw.githubusercontent.com/api-evangelist/schema-org/master/schema-org-postman-collection.json
 include: []
 x-common:
+- type: APIs.json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
 - type: Blog
   url: http://blog.schema.org
 - type: Blog
@@ -37,7 +39,7 @@ x-common:
 - type: Website
   url: http://schema.org
 - type: x-screenshot
-  url: ~
+  url: http://kinlane-productions2.s3.amazonaws.com/schema-org.jpg
 - type: x-workspace
   url: https://www.postman.com/api-evangelist/workspace/schema-org/overview
 ...
