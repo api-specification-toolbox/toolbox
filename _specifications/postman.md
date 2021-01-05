@@ -70,6 +70,8 @@ apis:
   properties: []
 include: []
 x-common:
+- type: APIs.json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
 - type: Versioning
   url: https://learning.postman.com/docs/postman/design-and-develop-apis/versioning-an-api/
 - type: Website
@@ -425,7 +427,7 @@ x-common:
 - type: Workspaces
   url: https://cs-demo.postman.co/workspaces?type=team
 - type: x-screenshot
-  url: ~
+  url: http://kinlane-productions2.s3.amazonaws.com/postman.jpg
 - type: x-workspace
   url: https://www.postman.com/api-evangelist/workspace/postman/overview
 ...
