@@ -1,0 +1,4 @@
+---
+name: Training
+featured: false
+---

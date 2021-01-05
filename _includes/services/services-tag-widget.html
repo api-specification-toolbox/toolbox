@@ -1,0 +1,14 @@
+<!--Tag Widget-->
+<div class="sidebar-widget categories-widget">
+  <div class="sidebar-title">
+     <h2>Tags</h2>
+  </div>
+  <ul class="cat-list">
+    {% assign tags = site.tags  %}
+    {% assign tags = tags | sort: 'name' %}
+    {% for tag in tags limit: 25 %}
+      <li class="clearfix"><a href="/tags/{{ tag.name | replace: " ", "-" | downcase }}/#services">{{ tag.name }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+<!--End Tag Widget-->

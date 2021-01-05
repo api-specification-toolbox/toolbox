@@ -27,9 +27,9 @@ collections:
   news:
     output: true
     permalink: /news/:path/
-  service-providers:
+  services:
     output: true
-    permalink: /service-providers/:path/
+    permalink: /services/:path/
   tools:
     output: true
     permalink: /tools/:path/
@@ -39,9 +39,9 @@ collections:
   extensions:
     output: true
     permalink: /extensions/:path/
-  topics:
+  tags:
     output: true
-    permalink: /topics/:path/
+    permalink: /tags/:path/
   taxonomy:
     output: true
     permalink: /taxonomy/:path/
@@ -55,9 +55,9 @@ defaults:
     values:
       layout: news
   - scope:
-      type: service-providers
+      type: services
     values:
-      layout: service-providers
+      layout: services
   - scope:
       type: tools
     values:
@@ -71,9 +71,9 @@ defaults:
     values:
       layout: extensions
   - scope:
-      type: topics
+      type: tags
     values:
-      layout: topics
+      layout: tags
   - scope:
       type: taxonomy
     values:

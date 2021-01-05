@@ -8,31 +8,7 @@
            <div class="category">Videos</div>
         </div>
         <div class="pull-right">
-           <div>
-
-              <div data-tab="#prod-alls" class="tab-btn active-btn">All</div>
-
-              {% for tag in site.data.videos-tags %}
-                {% if tag.featured == true %}
-                  <div data-tab="#prod-design" class="tab-btn">{{ tag.name }}</div>
-                {% endif %}
-              {% endfor %}
-
-              <div class="dropdown dropdown-category">
-                 <button class="category-box-btn dropdown-toggle" type="button" id="dropdownMenu3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">More <span class="fa fa-angle-down"></span></button>
-                 <div class="dropdown-menu pull-right down-panel" aria-labelledby="dropdownMenu3">
-                    <ul class="more-category">
-
-                       {% for tag in site.data.videos-tags %}
-                        {% if tag.featured != true %}
-                         <li><a href="#">{{ tag.name }}</a></li>
-                        {% endif %}
-                       {% endfor %}
-
-                    </ul>
-                 </div>
-              </div>
-           </div>
+           <div></div>
         </div>
      </div>
      <!--Tabs Container-->
@@ -48,7 +24,7 @@
                 {% for entry in videos limit:6 %}
                    <div class="news-block-two col-lg-6 col-md-6 col-sm-12">
                       <div class="inner-box">
-                         <div class="image">{{ entry.embed }}</div>
+                         <div class="image" style="border: 8px solid #ccc; width: 100%; height: 200px;">{{ entry.embed }}</div>
                          <div class="lower-box">
                             <h3><a href="{{ entry.url }}">{{ entry.name }}</a></h3>
                             <ul class="post-meta">

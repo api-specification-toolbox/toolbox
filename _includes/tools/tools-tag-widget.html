@@ -1,16 +1,14 @@
-<!--Category Widget-->
+<!--Tag Widget-->
 <div class="sidebar-widget categories-widget">
   <div class="sidebar-title">
-     <h2>Tool Topics</h2>
+     <h2>Tags</h2>
   </div>
-  <div  style="overflow: auto; height: 500px;">
-    <ul class="cat-list">
-      {% assign tags = site.data.tools-tags  %}
-      {% assign tags = tags | sort: 'name' %}
-      {% for tag in tags limit: 25 %}
-        <li class="clearfix"><a href="/topics/{{ tag.name | replace: " ", "-" | downcase }}/">{{ tag.name }}</a></li>
-      {% endfor %}
-    </ul>
-  </div>
+  <ul class="cat-list">
+    {% assign tags = site.tags  %}
+    {% assign tags = tags | sort: 'name' %}
+    {% for tag in tags limit: 25 %}
+      <li class="clearfix"><a href="/tags/{{ tag.name | replace: " ", "-" | downcase }}/#tools">{{ tag.name }}</a></li>
+    {% endfor %}
+  </ul>
 </div>
-<!--End Category Widget-->
+<!--End Tag Widget-->
