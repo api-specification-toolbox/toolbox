@@ -15,6 +15,8 @@ url: https://raw.githubusercontent.com/api-evangelist/openapi-spec/master/apis.j
 specificationVersion: "0.14"
 apis: []
 x-common:
+- type: APIs.json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
 - type: Blog
   url: https://openapis.org/news-faq/blog
 - type: Blog RSS
@@ -40,7 +42,7 @@ x-common:
 - type: Website
   url: https://openapis.org/
 - type: x-screenshot
-  url: ~
+  url: http://kinlane-productions2.s3.amazonaws.com/openapi-spec.jpg
 - type: x-workspace
   url: https://www.postman.com/api-evangelist/workspace/openapi-spec/overview
 ...
