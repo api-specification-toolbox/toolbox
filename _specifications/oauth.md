@@ -1,10 +1,10 @@
 ---
 name: OAuth
-description: <p>An open protocol to allow secure authorization in a simple and standard
+description: An open protocol to allow secure authorization in a simple and standard
   method from web, mobile and desktop applications. OAuth is a way to get access to
   protected data from an application. It's safer and more secure than asking users
   to log in with passwords. Use OAuth to let application developers securely get access
-  to your users' data without sharing their passwords.</p>
+  to your users' data without sharing their passwords.
 image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/oauth-logo.png
 tags:
 - authentication

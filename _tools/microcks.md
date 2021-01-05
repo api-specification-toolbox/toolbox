@@ -1,6 +1,6 @@
 ---
 name: Microcks
-description: ""
+description: Microcks is a platform for turning your API and microservices assets - OpenAPI specs, AsyncAPI specs, Postman collections, SoapUI projects - into live mocks in seconds. It also reuses these assets for running compliance and non-regression tests against your API implementation. We provide integrations with Jenkins, Tekton and many others through a simple CLI.
 image: http://api.specificationtoolbox.com/images/service-providers/microcks.jpg
 created: "2020-12-23"
 modified: 2020-12-24PST10:05:00-28800

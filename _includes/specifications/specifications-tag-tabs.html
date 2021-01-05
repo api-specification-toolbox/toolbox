@@ -21,7 +21,7 @@
 
                 {% assign specifications = site.specifications %}
                 {% assign specifications = specifications | sort: 'name' %}
-                {% for entry in specifications limit: 12 %}
+                {% for entry in specifications limit: specifications_listing_count %}
 
                   {% assign screenshot_url = '' %}
                   {% for common in entry.x-common %}

@@ -1,10 +1,10 @@
 ---
 name: JSON-LD
-description: <p><span>JSON-LD is a lightweight Linked Data format. It is easy for
+description: JSON-LD is a lightweight Linked Data format. It is easy for
   humans to read and write. It is based on the already successful JSON format and
   provides a way to help JSON data interoperate at Web-scale. JSON-LD is an ideal
   data format for programming environments, REST Web services, and unstructured databases
-  such as Apache CouchDB and MongoDB.</span></p>
+  such as Apache CouchDB and MongoDB.
 image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/json-ld.png
 tags:
 - definitions

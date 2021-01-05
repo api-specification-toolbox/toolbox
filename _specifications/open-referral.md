@@ -1,9 +1,9 @@
 ---
 name: Open Referral
-description: <p>We develop data standards and open platforms that make it easy to
+description: We develop data standards and open platforms that make it easy to
   share and find information about community resources. The vision of Open Referral
   is a world where everyone has access to &mdash; and the ability to effectively use
-  &mdash; information about the resources that are available in their community.</p>
+  &mdash; information about the resources that are available in their community.
 image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/open_referral_logo.png
 tags:
 - definitions
