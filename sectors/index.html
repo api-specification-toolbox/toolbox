@@ -1,0 +1,38 @@
+---
+layout: default
+title: Service Providers
+---
+
+<!--Service Providers-->
+ <div class="sidebar-page-container" style="padding-top: 40px;">
+    <div class="auto-container">
+       <div class="row clearfix">
+
+        <!--Content Side-->
+        <div class="content-side col-lg-8 col-md-12 col-sm-12">
+
+          {% assign sectors_listing_count = 250 %}
+          {% assign sectors_tag_height = 1000 %}
+          {% include sectors/sectors-tag-tabs.html %}
+
+        </div>
+
+        <!--Sidebar Side-->
+        <div class="sidebar-side col-lg-4 col-md-12 col-sm-12">
+           <aside class="sidebar default-sidebar">
+              <div class="sidebar-inner">
+
+                 {% include advertising/advertising-widget.html %}
+
+                 {% include sectors/sectors-tag-widget.html %}
+
+              </div>
+           </aside>
+
+        </div>
+
+     </div>
+
+  </div>
+</div>
+<!--Service Providers-->

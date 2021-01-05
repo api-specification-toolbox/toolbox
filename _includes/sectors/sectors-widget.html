@@ -1,0 +1,41 @@
+<!--News Post Widget-->
+<div class="sidebar-widget posts-widget">
+  <!--Product widget Tabs-->
+  <div class="product-widget-tabs">
+     <!--Product Tabs-->
+     <div class="prod-tabs tabs-box">
+        <!--Tab Btns-->
+        <ul class="tab-btns tab-buttons clearfix">
+           <li data-tab="#prod-popular" class="tab-btn active-btn">Popular</li>
+        </ul>
+        <!--Tabs Container-->
+        <div class="tabs-content">
+           <!--Tab / Active Tab-->
+           <div class="tab active-tab" id="prod-popular">
+              <div class="content">
+
+                {% assign sectors = site.sectors %}
+                {% assign sectors = sectors | sort: 'x-rank' | reverse %}
+                {% for entry in sectors limit:6 %}
+
+                   <article class="widget-post">
+                      <figure class="post-thumb">
+                         <a href="{{ entry.url }}"><img src="{{ entry.image }}" alt=""></a>
+                         <div class="overlay"><span class="icon qb-play-arrow"></span></div>
+                      </figure>
+                      <div class="text"><a href="{{ entry.url }}">{{ entry.name }}</a></div>
+                      <div class="post-info">{{ entry.modified | date: "%b %d, %y" }}</div>
+                   </article>
+
+                 {% endfor %}
+
+              </div>
+           </div>
+           <!--Tab-->
+
+        </div>
+     </div>
+  </div>
+  <!--End Product Info Tabs-->
+</div>
+<!--End Post Widget-->

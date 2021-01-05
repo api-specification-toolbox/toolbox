@@ -30,6 +30,9 @@ collections:
   services:
     output: true
     permalink: /services/:path/
+  sectors:
+    output: true
+    permalink: /sectors/:path/
   specifications:
     output: true
     permalink: /specifications/:path/
@@ -61,6 +64,10 @@ defaults:
       type: services
     values:
       layout: services
+  - scope:
+      type: sectors
+    values:
+      layout: sectors      
   - scope:
       type: specifications
     values:
