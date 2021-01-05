@@ -14,6 +14,8 @@ url: https://raw.githubusercontent.com/api-evangelist/asyncapi/master/apis.json
 specificationVersion: "0.14"
 apis: []
 x-common:
+- type: APIs.json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
 - type: Github
   url: https://github.com/asyncapi
 - type: LinkedIn
@@ -27,7 +29,7 @@ x-common:
 - type: Blog
   url: https://www.asyncapi.com/blog/
 - type: x-screenshot
-  url: ~
+  url: http://kinlane-productions2.s3.amazonaws.com/asyncapi.jpg
 - type: x-workspace
   url: https://www.postman.com/api-evangelist/workspace/asyncapi/overview
 ...
