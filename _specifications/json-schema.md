@@ -10,12 +10,14 @@ url: https://raw.githubusercontent.com/api-evangelist/json-schema/master/apis.js
 specificationVersion: "0.14"
 apis: []
 x-common:
+- type: APIs.json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
 - type: Github
   url: https://github.com/json-schema-org
 - type: Website
   url: https://json-schema.org/
 - type: x-screenshot
-  url: ~
+  url: http://kinlane-productions2.s3.amazonaws.com/json-schema.jpg
 - type: x-workspace
   url: https://www.postman.com/api-evangelist/workspace/json-schema/overview
 ...
