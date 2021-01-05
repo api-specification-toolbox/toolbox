@@ -23,6 +23,8 @@ apis:
     url: https://raw.githubusercontent.com/api-evangelist/apis-json/master/apis-json-postman-collection.json
 include: []
 x-common:
+- type: APIs.json
+  url: https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json
 - type: Website
   url: http://apisjson.org
 - type: Blog
@@ -40,7 +42,7 @@ x-common:
 - type: Website
   url: http://apisjson.org/
 - type: x-screenshot
-  url: ~
+  url: http://kinlane-productions2.s3.amazonaws.com/apis-json.jpg
 - type: x-workspace
   url: https://www.postman.com/api-evangelist/workspace/apis-json/overview
 ...
