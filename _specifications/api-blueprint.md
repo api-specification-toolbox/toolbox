@@ -23,7 +23,7 @@ x-common:
 - type: Twitter
   url: https://twitter.com/apiblueprint
 - type: x-screenshot
-  url: ~
+  url: http://kinlane-productions2.s3.amazonaws.com/api-blueprint.jpg
 - type: x-workspace
   url: https://www.postman.com/api-evangelist/workspace/api-blueprint/overview
 ...
