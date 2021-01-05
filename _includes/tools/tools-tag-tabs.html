@@ -21,7 +21,15 @@
 
                 {% assign tools = site.tools %}
                 {% assign tools = tools | sort: 'name' %}
-                {% for entry in tools limit:12 %}
+                {% for entry in tools limit: tools_listing_count %}
+
+                  {% assign website_url = '' %}
+                  {% for common in entry.x-common %}
+                    {% if common.type == 'x-website' %}
+                      {% assign website_url = common.url %}
+                    {% endif %}
+                  {% endfor %}
+
                    <div class="news-block-two col-lg-6 col-md-6 col-sm-12">
                       <div class="inner-box">
                          <div class="image">
@@ -33,7 +41,7 @@
                                <li><span class="icon fa fa-clock-o"></span>{{ entry.modified | date: "%b %d, %y" }}</li>
                             </ul>
                             <div class="text">{{ entry.description | truncate: 395 | strip_html }}</div>
-                            <a href="{{ entry.url }}" class="read-more">Read More </a>
+                            <strong>Website:</strong> <a href="{{ website_url }}" target="_blank">{{ website_url }}</a>
                          </div>
                       </div>
                    </div>

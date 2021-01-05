@@ -1,6 +1,6 @@
 ---
 name: Nordic API Gateway
-description: ""
+description: Nordic API Gateway is a product by Spiir A/S, a licensed Payment Initiation Service Provider (PISP) and Account Information Service Provider (AISP) and operates under the supervision of the Danish Financial Supervisory Authority (FSA).
 image: http://api.specificationtoolbox.com/images/service-providers/nordic-api-gateway.jpg
 created: "2020-12-23"
 modified: 2020-12-24PST10:05:00-28800

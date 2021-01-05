@@ -1,7 +1,6 @@
 ---
 name: StopLight
-description: StopLight, providing engineering teams with the best way to document,
-  test, and build web APIs.
+description: Stoplight is a collaborative API design platform that integrates seamlessly into your existing workflows to enable all stakeholders working with APIs to be more productive. We believe in a design-first approach to API development, so we created products that provide a means for design-first development. Developing good design-first practices will minimize future costs, speed up your time to market and lead to more consistent, higher quality microservice and IoT applications.
 image: http://api.specificationtoolbox.com/images/service-providers/stoplight.jpg
 created: "2020-12-23"
 modified: 2020-12-24PST10:05:00-28800

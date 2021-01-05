@@ -35,13 +35,13 @@ layout: default
                       <table style="margin-top: 20px;" cellpadding="5" cellspacing="5">
                         <tr>
                           {% if website_url != '' %}
-                            <td style="padding: 15px;"><a href=""><img src="https://kinlane-productions2.s3.amazonaws.com/bw-icons/bw-home-icon.jpeg" width="50"></a></td>
+                            <td style="padding: 15px;"><a href="{{ website_url }}" target="_blank"><img src="https://kinlane-productions2.s3.amazonaws.com/bw-icons/bw-home-icon.jpeg" width="50"></a></td>
                           {% endif %}
                           {% if twitter_url != '' %}
-                            <td style="padding: 15px;"><a href="{{ twitter_url }}"><img src="https://kinlane-productions2.s3.amazonaws.com/bw-icons/bw-twitter-icon.png" width="50"></a></td>
+                            <td style="padding: 15px;"><a href="{{ twitter_url }}" target="_blank"><img src="https://kinlane-productions2.s3.amazonaws.com/bw-icons/bw-twitter-icon.png" width="50"></a></td>
                           {% endif %}
                           {% if github_url != '' %}
-                            <td style="padding: 15px;"><a href="{{ github_url }}"><img src="https://kinlane-productions2.s3.amazonaws.com/bw-icons/bw-github-icon.png" width="50"></a></td>
+                            <td style="padding: 15px;"><a href="{{ github_url }}" target="_blank"><img src="https://kinlane-productions2.s3.amazonaws.com/bw-icons/bw-github-icon.png" width="50"></a></td>
                           {% endif %}
                         </tr>
                       </table>
