@@ -24,9 +24,13 @@
                 {% for entry in extensions limit: extensions_listing_count %}
 
                   {% assign website_url = '' %}
+                  {% assign screenshot_url = '' %}
                   {% for common in entry.x-common %}
                     {% if common.type == 'x-website' %}
                       {% assign website_url = common.url %}
+                    {% endif %}
+                    {% if common.type == 'x-screenshot' %}
+                      {% assign screenshot_url = common.url %}
                     {% endif %}
                   {% endfor %}
 
