@@ -3,7 +3,7 @@ name: StrongLoop
 description: StrongLoop began in 2013 offering an open-source enterprise version of
   Node.js. Acquired by IBM in 2015, the StrongLoop team continues to build LoopBack,
   the open-source Node.js API Framework. IBM continues to contribute and support the
-  StrongLoop comm...
+  StrongLoop comm.
 image: http://api.specificationtoolbox.com/images/service-providers/strongloop.jpg
 created: "2020-12-23"
 modified: 2020-12-24PST10:05:00-28800

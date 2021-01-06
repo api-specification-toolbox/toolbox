@@ -5,6 +5,7 @@ description: OpenAPI Generator allows generation of API client libraries (SDK ge
 image: http://api.specificationtoolbox.com/images/tools/openapi-generator.png
 tags:
 - Generator
+- OpenAPI
 created: "2021-01-05"
 modified: "2021-01-05"
 url: https://raw.githubusercontent.com/api-specification-toolbox/toolbox/main/_tools/openapi-generator.md

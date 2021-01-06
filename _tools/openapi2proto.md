@@ -7,6 +7,7 @@ tags:
 - Protocol Buffer
 - Conversion
 - Generator
+- OpenAPI
 created: "2021-01-05"
 modified: "2021-01-05"
 url: https://raw.githubusercontent.com/api-specification-toolbox/toolbox/main/_tools/openapi2proto.md

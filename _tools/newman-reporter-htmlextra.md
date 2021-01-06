@@ -15,6 +15,8 @@ tags:
 - Testing
 - Reporting
 - HTML
+- Postman
+- Collections
 apis: []
 x-common:
 - type: x-github
