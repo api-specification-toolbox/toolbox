@@ -15,4 +15,6 @@ include: []
 x-common:
 - type: x-github
   url: https://github.com/ajv-validator/ajv
+- type: x-website
+  url: https://ajv.js.org/
 ...
