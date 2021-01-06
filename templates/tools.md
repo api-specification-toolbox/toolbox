@@ -1,5 +1,6 @@
 ---
-name:
+name: 
+slug:
 description:
 image: http://api.specificationtoolbox.com/images/tools/slug.png
 tags:
