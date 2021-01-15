@@ -1,0 +1,58 @@
+---
+layout: default
+title: Add New News
+---
+
+ <!--Sidebar Page Container-->
+ <div class="sidebar-page-container" style="padding-top: 25px;">
+    <div class="auto-container">
+       <div class="row clearfix">
+
+          <!--Content Side-->
+          <div class="content-side col-lg-8 col-md-12 col-sm-12">
+             <div class="content">
+                <div class="blog-single">
+                   <div class="inner-box">
+                      <div class="upper-box">
+                         <ul class="breadcrumb-bar">
+                            <li><a href="#">Home</a></li>
+                            <li>News</li>
+                            <li>Add or Update</li>
+                         </ul>
+                         <h2>Add or Update News in the Toolbox</h2>
+                      </div>
+                      <div class="text">
+                        <p>The API Specification Toolbox is a community project and runs 100% on Github so that anyone can submit a pull request and add or update any of the news listed here on the toolbox. <a href="https://github.com/api-specification-toolbox/toolbox/tree/main/_news">You can find the news all listed in the _news folder in the repo</a>, and each tool has a single YAML file stored as an .md file. Using YAML front end matter to publish the data to the listing and detail pages.</p>
+                        <script src="https://gist.github.com/kinlane/8e401b29cbfca8ca58c4ba525b6d91ef.js"></script>
+                        <p>To update or add news to the site you can fork the repository for the project, add or update any of the files, and then submit a pull request with all the changes. If you don't feel comfortable submitting a pull request you can just <a href="https://github.com/api-specification-toolbox/toolbox/labels/new-news">submit an issue using the "new-news" label</a>. If you are looking to help, we can really use assistance with some data entry, adding any of the existing news that have been submitted as a Github issue--we really appreciate the community contribution.</p>
+                      </div>
+
+                      <div align="center" style="border-top:1px solid #e2e2e2; margin-top: 30px;">
+                      <table style="margin-top: 20px;" cellpadding="5" cellspacing="5">
+                        <tr>
+                          <td style="padding: 15px;"><a href="https://github.com/api-specification-toolbox/toolbox/tree/main/_news"><img src="https://kinlane-productions2.s3.amazonaws.com/bw-icons/bw-github-icon.png" title="News YAML Data Store" width="110"></a></td>
+                          <td style="padding: 15px;"><a href="https://github.com/api-specification-toolbox/toolbox/labels/new-news"><img src="https://postman-toolboxes2.s3.amazonaws.com/assets/github-issues-icon.png" title="Add New News" width="95"></a></td>
+                        </tr>
+                      </table>
+                      </div>
+
+                   </div>
+
+                </div>
+             </div>
+          </div>
+
+          <!--Sidebar Side-->
+          <div class="sidebar-side col-lg-4 col-md-12 col-sm-12">
+             <aside class="sidebar default-sidebar right-sidebar">
+
+                {% include advertising/advertising-widget.html %}
+
+                {% include news/news-tag-widget.html %}
+
+             </aside>
+          </div>
+       </div>
+    </div>
+ </div>
+ <!--End Sidebar Page Container-->
