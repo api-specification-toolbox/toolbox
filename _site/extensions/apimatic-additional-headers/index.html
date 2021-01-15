@@ -100,6 +100,9 @@
                          <a href="/videos/">Videos</a>
                       </li>
                       <li class="dropdown">
+                         <a href="/projects/">Projects</a>
+                      </li>
+                      <li class="dropdown">
                          <a href="/blog/">Blog</a>
                       </li>
                    </ul>
@@ -139,6 +142,10 @@
                       <div class="text">
                         APIMATIC allows defining global headers that are sent with every API call using the Addition Headers extension. These headers are in addition to any headers required for authentication or defined as parameters. These headers can be specified inside the Security Scheme Object (v2, v3) using property name x-additional-headers.
                       </div>
+
+                        <code><pre>
+                        {"securitySchemes":{"basicAuth":{"type":"http","scheme":"basic","x-additional-headers":[{"name":"api-version","description":"The version number indicator for the API","schema":{"default":"1.1"}},{"name":"sdk-version","description":"The version number indicator for the SDK","schema":{"default":"1.1.0.1"}}]}}}
+                        </pre></code>
 
                       <ul class="new-article clearfix">
                          <li><a href="#"><span class="fa fa-angle-left"></span> &ensp; &ensp; &ensp; &ensp; Previous Extension</a></li>

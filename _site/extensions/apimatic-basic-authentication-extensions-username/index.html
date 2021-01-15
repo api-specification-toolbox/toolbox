@@ -100,6 +100,9 @@
                          <a href="/videos/">Videos</a>
                       </li>
                       <li class="dropdown">
+                         <a href="/projects/">Projects</a>
+                      </li>
+                      <li class="dropdown">
                          <a href="/blog/">Blog</a>
                       </li>
                    </ul>
@@ -141,6 +144,10 @@
                       <div class="text">
                         By default, basic authentication requires username and password as input parameters. If you need to override the names of these parameters for code generation.
                       </div>
+
+                        <code><pre>
+                        {"securitySchemes":{"basicAuth":{"type":"http","scheme":"basic","x-rename-username-as":"name"}}}
+                        </pre></code>
 
                       <ul class="new-article clearfix">
                          <li><a href="#"><span class="fa fa-angle-left"></span> &ensp; &ensp; &ensp; &ensp; Previous Extension</a></li>

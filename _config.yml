@@ -54,6 +54,9 @@ collections:
   videos:
     output: true
     permalink: /videos/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
 
 defaults:
   - scope:
@@ -67,7 +70,7 @@ defaults:
   - scope:
       type: sectors
     values:
-      layout: sectors      
+      layout: sectors
   - scope:
       type: specifications
     values:
@@ -96,3 +99,7 @@ defaults:
       type: videos
     values:
       layout: videos
+  - scope:
+      type: projects
+    values:
+      layout: projects

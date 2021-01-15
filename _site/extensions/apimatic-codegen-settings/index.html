@@ -100,6 +100,9 @@
                          <a href="/videos/">Videos</a>
                       </li>
                       <li class="dropdown">
+                         <a href="/projects/">Projects</a>
+                      </li>
+                      <li class="dropdown">
                          <a href="/blog/">Blog</a>
                       </li>
                    </ul>
@@ -141,6 +144,10 @@
                       <div class="text">
                         APIMATIC offers numerous settings that enables you to configure generic code styling, endpoint settings, model settings, continuous integration settings, code branding options, etc at the time of generating code. More details of these can be viewed at Code Generation Settings. In order to specify these settings you will need to use the CodeGen Settings extension. Using this extension simply involves using a property x-codegen-settings within the “Info” object. The “Info” object is used in Swagger for providing metadata about the API. Details of this object can be viewed at Swagger Info Object (v2, v3). The x-codegen-settings property is an object that will look something like this.
                       </div>
+
+                        <code><pre>
+                        {"info":{"x-codegen-settings":{"nullify404":true,"generateAsyncCode":true,"useMethodPrefix":true,"useModelPostfix":true,"useControllerPostfix":true,"useEnumPostfix":true,"useConstructorsForConfig":true,"iOSUseAppInfoPlist":true,"iOSGenerateCoreData":false,"androidUseAppManifest":true,"collectParameters":false,"csharpDefaultNamespace":"ACME.CORP.API","javaDefaultPackageName":"com.acme.corp.api","appendContentHeaders":true,"brandLabel":"ACME Corp.","userAgent":"APIMATIC 2.0","enableAdditionalModelProperties":false}}}
+                        </pre></code>
 
                       <ul class="new-article clearfix">
                          <li><a href="#"><span class="fa fa-angle-left"></span> &ensp; &ensp; &ensp; &ensp; Previous Extension</a></li>

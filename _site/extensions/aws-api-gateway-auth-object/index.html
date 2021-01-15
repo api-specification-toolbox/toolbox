@@ -100,6 +100,9 @@
                          <a href="/videos/">Videos</a>
                       </li>
                       <li class="dropdown">
+                         <a href="/projects/">Projects</a>
+                      </li>
+                      <li class="dropdown">
                          <a href="/blog/">Blog</a>
                       </li>
                    </ul>
@@ -141,6 +144,10 @@
                       <div class="text">
                         Defines an authorization type to be applied for authorization of method invocations in API Gateway.
                       </div>
+
+                        <code><pre>
+                        {"openapi":"3.0.1","info":{"title":"openapi3","version":"1.0"},"paths":{"/protected-by-iam":{"get":{"x-amazon-apigateway-auth":{"type":"AWS_IAM"}}}}}
+                        </pre></code>
 
                       <ul class="new-article clearfix">
                          <li><a href="#"><span class="fa fa-angle-left"></span> &ensp; &ensp; &ensp; &ensp; Previous Extension</a></li>

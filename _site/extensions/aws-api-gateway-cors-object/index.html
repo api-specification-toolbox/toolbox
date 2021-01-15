@@ -100,6 +100,9 @@
                          <a href="/videos/">Videos</a>
                       </li>
                       <li class="dropdown">
+                         <a href="/projects/">Projects</a>
+                      </li>
+                      <li class="dropdown">
                          <a href="/blog/">Blog</a>
                       </li>
                    </ul>
@@ -141,6 +144,10 @@
                       <div class="text">
                         Specifies the cross-origin resource sharing (CORS) configuration for an HTTP API. The extension applies to the root-level OpenAPI structure. To learn more, see Configuring CORS for an HTTP API.
                       </div>
+
+                        <code><pre>
+                        {"x-amazon-apigateway-cors":{"allowOrigins":["https://www.example.com"],"allowCredentials":true,"exposeHeaders":["x-apigateway-header","x-amz-date","content-type"],"maxAge":3600,"allowMethods":["GET","OPTIONS","POST"],"allowHeaders":["x-apigateway-header","x-amz-date","content-type"]}}
+                        </pre></code>
 
                       <ul class="new-article clearfix">
                          <li><a href="#"><span class="fa fa-angle-left"></span> &ensp; &ensp; &ensp; &ensp; Previous Extension</a></li>

@@ -1,0 +1,38 @@
+---
+layout: default
+title: Projects
+---
+
+<!--Service Providers-->
+ <div class="sidebar-page-container" style="padding-top: 40px;">
+    <div class="auto-container">
+       <div class="row clearfix">
+
+        <!--Content Side-->
+        <div class="content-side col-lg-8 col-md-12 col-sm-12">
+
+          {% assign projects_listing_count = 100 %}
+          {% assign projects_tag_height = 500 %}
+          {% include projects/projects-tag-tabs.html %}
+
+        </div>
+
+        <!--Sidebar Side-->
+        <div class="sidebar-side col-lg-4 col-md-12 col-sm-12">
+           <aside class="sidebar default-sidebar">
+              <div class="sidebar-inner">
+
+                 {% include advertising/advertising-widget.html %}
+
+                 {% include projects/projects-tag-widget.html %}
+
+              </div>
+           </aside>
+
+        </div>
+
+     </div>
+
+  </div>
+</div>
+<!--Service Providers-->
