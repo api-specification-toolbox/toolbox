@@ -26,16 +26,17 @@ layout: default
                          <h2>{{ page.name }}</h2>
                       </div>
                       <div class="text">
-                        {{ page.image }}
+                        <center><img src="{{ page.image }}" width="90%" align="center" style="padding: 15px;"></center>
                       </div>
                       <div class="text">
                         {{ page.description }}
                       </div>
                       <div class="text">
-                        <p><strong>Contact Information:</strong></p>
+                        <br>
+                        <strong>Contact Information:</strong><br>
                         <ul>
                             {% for maintainer in page.maintainers %}
-                              <li>{{ maintainer.FN }} (<a href="https://twitter.com/{{ maintainer.X-twitter }}">@{{ maintainer.FN }}</a>) - <a href="mailto:{{ maintainer.email }}">{{ maintainer.email }}</a></li>
+                              <li>&#8594; {{ maintainer.FN }} (<a href="https://twitter.com/{{ maintainer.X-twitter }}">@{{ maintainer.FN }}</a>) - <a href="mailto:{{ maintainer.email }}">{{ maintainer.email }}</a></li>
                             {% endfor %}
                         </ul>
                       </div>
@@ -71,8 +72,6 @@ layout: default
           <!--Sidebar Side-->
           <div class="sidebar-side col-lg-4 col-md-12 col-sm-12">
              <aside class="sidebar default-sidebar right-sidebar">
-
-                {% include social/social-widget.html %}
 
                 {% include advertising/advertising-widget.html %}
 
