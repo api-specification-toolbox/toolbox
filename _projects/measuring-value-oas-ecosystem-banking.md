@@ -1,5 +1,5 @@
 ---
-name: Measuring the value of the OAS ecosystem in Open Banking and Open Finance
+name: Measuring the Value of the OAS Ecosystem in Open Banking and Open Finance
 slug: measuring-value-oas-ecosystem-banking
 description: To map the ecosystem of Open Banking and Open Finance APIs that use the OpenAPI Initiative’s OpenAPI Specification (OAS) and demonstrate the value and benefits of the OAS for the banks, customers, developers, FinTech, the underserved, and the API industry. If you'd like to see a full copy of the proposal please email contacts below and we can share the full proposal.
 image: http://api.specificationtoolbox.com/images/projects/measuring-value-oas-ecosystem-banking.png
