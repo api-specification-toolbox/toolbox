@@ -2,7 +2,7 @@
 name: JSON Schema Documentation Update
 slug: workshops
 description: This is a project to update the JSON Schema documentation and provide up to date information for users of the specification to learn from. Making sure there is documentation to support the latest version of JSON Schema, while also supporting other implementations in OpenAPI and AsyncAPI. This work will be conducted via the existing documentation Github repository, and we are actively looking for human and financial resources to make it happen.
-image: http://api.specificationtoolbox.com/images/projects.png
+image: http://api.specificationtoolbox.com/images/projects/json-schema-docs.png
 tags:
 - JSON Schema
 - Documentation
