@@ -26,7 +26,18 @@ layout: default
                          <h2>{{ page.name }}</h2>
                       </div>
                       <div class="text">
+                        {{ page.image }}
+                      </div>
+                      <div class="text">
                         {{ page.description }}
+                      </div>
+                      <div class="text">
+                        <p><strong>Contact Information:</strong></p>
+                        <ul>
+                            {% for maintainer in page.maintainers %}
+                              <li>{{ maintainer.FN }} (<a href="https://twitter.com/{{ maintainer.X-twitter }}">@{{ maintainer.FN }}</a>) - <a href="mailto:{{ maintainer.email }}">{{ maintainer.email }}</a></li>
+                            {% endfor %}
+                        </ul>
                       </div>
 
                       {% include apis-json/set-common-properties.html %}

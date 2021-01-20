@@ -15,4 +15,8 @@ include: []
 x-common:
 - type: x-github
   url: https://github.com/api-specification-toolbox/video-interviews
+maintainers:
+- FN: Kin Lane
+  X-twitter: apievangelist
+  email: info@apievangelist.com    
 ...

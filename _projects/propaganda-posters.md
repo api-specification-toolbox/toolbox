@@ -16,4 +16,8 @@ include: []
 x-common:
 - type: x-github
   url: https://github.com/api-specification-toolbox/propaganda-posters
+maintainers:
+- FN: Kin Lane
+  X-twitter: apievangelist
+  email: info@apievangelist.com    
 ...

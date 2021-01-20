@@ -18,4 +18,8 @@ x-common:
   url: https://json-schema.org/understanding-json-schema/
 - type: x-github
   url: https://github.com/json-schema-org/understanding-json-schema
+maintainers:
+- FN: Kin Lane
+  X-twitter: apievangelist
+  email: info@apievangelist.com    
 ...
