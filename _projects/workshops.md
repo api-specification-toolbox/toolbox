@@ -2,7 +2,7 @@
 name: Workshops
 slug: workshops
 description: This is an ongoing project to develop workshops on API specifications, helping provide education for the community. The goal is to help aggregate and drive workshops from a variety of providers, and organize them into a single calendar that can be drive as part of this toolbox website. If you want to get
-image: http://api.specificationtoolbox.com/images/projects.png
+image: http://api.specificationtoolbox.com/images/projects/workshops.jpg
 tags:
 - Workshops
 - Trainings

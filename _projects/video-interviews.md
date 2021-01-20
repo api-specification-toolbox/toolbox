@@ -2,7 +2,7 @@
 name: Video Interviews
 slug: video-interviews
 description: This is a project to develop video interviews about API specifications from a variety of individuals. Providing a regular stream of video content that can be showcased here on the site and syndicated to other locations. Like all projects here, this is being managed via GitHub, and you can visit the Github repo to get involved.
-image: http://api.specificationtoolbox.com/images/projects.png
+image: http://api.specificationtoolbox.com/images/projects/video-interviews.png
 tags:
 - Videos
 - Interviws
