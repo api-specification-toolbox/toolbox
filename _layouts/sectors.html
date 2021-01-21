@@ -26,6 +26,9 @@ layout: default
                          <h2>{{ page.name }}</h2>
                       </div>
                       <div class="text">
+                        <center><img src="{{ page.image }}" width="90%" align="center" style="padding: 15px;"></center>
+                      </div>                      
+                      <div class="text">
                         {{ page.description }}
                       </div>
 
@@ -60,7 +63,7 @@ layout: default
           <!--Sidebar Side-->
           <div class="sidebar-side col-lg-4 col-md-12 col-sm-12">
              <aside class="sidebar default-sidebar right-sidebar">
-               
+
                 {% include advertising/advertising-widget.html %}
 
                 {% include sectors/sectors-tag-widget.html %}
