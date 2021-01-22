@@ -15,4 +15,6 @@ include: []
 x-common:
 - type: x-github
   url: https://github.com/RepreZen/Semoasa
+- type: x-screenshot
+  url: http://api.specificationtoolbox.com/images/specifications/semoasa.png
 ...
