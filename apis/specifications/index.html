@@ -1,0 +1,17 @@
+---
+layout: none
+---
+[{% assign specifications = site.specifications %}{% assign specifications = specifications | sort: 'name' %}{% for specification in specifications %}
+{
+   "name": "{{ specification.name | strip_html }}",
+   "description": "{{ specification.description | strip_html }}",
+   "image": "{{ specification.image }}",
+   "tags": {{ specification.tags | jsonify }},
+   "created": "{{ specification.created }}",
+   "modified": "{{ specification.modified }}",
+   "url": "{{ specification.url }}",
+   "specificationVersion": "{{ specification.specificationVersion }}",
+   "apis": {{ specification.apis | jsonify }},
+   "x-common": {{ specification.x-common | jsonify }}
+}{% if forloop.last == true %}{% else %},{% endif %}
+{% endfor %}]

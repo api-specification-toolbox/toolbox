@@ -1,0 +1,17 @@
+---
+layout: none
+---
+[{% assign tools = site.tools %}{% assign tools = tools | sort: 'name' %}{% for tool in tools %}
+{
+   "name": "{{ tool.name | strip_html }}",
+   "description": "{{ tool.description | strip_html }}",
+   "image": "{{ tool.image }}",
+   "tags": {{ tool.tags | jsonify }},
+   "created": "{{ tool.created }}",
+   "modified": "{{ tool.modified }}",
+   "url": "{{ tool.url }}",
+   "toolVersion": "{{ tool.toolVersion }}",
+   "apis": {{ tool.apis | jsonify }},
+   "x-common": {{ tool.x-common | jsonify }}
+}{% if forloop.last == true %}{% else %},{% endif %}
+{% endfor %}]

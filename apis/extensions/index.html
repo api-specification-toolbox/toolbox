@@ -1,0 +1,17 @@
+---
+layout: none
+---
+[{% assign extensions = site.extensions %}{% assign extensions = extensions | sort: 'name' %}{% for extension in extensions %}
+{
+   "name": "{{ extension.name | strip_html }}",
+   "description": "{{ extension.description | strip_html }}",
+   "image": "{{ extension.image }}",
+   "tags": {{ extension.tags | jsonify }},
+   "created": "{{ extension.created }}",
+   "modified": "{{ extension.modified }}",
+   "url": "{{ extension.url }}",
+   "extensionVersion": "{{ extension.specificationVersion }}",
+   "apis": {{ extension.apis | jsonify }},
+   "x-common": {{ extension.x-common | jsonify }}
+}{% if forloop.last == true %}{% else %},{% endif %}
+{% endfor %}]

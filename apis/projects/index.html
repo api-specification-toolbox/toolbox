@@ -1,0 +1,17 @@
+---
+layout: none
+---
+[{% assign projects = site.projects %}{% assign projects = projects | sort: 'name' %}{% for project in projects %}
+{
+   "name": "{{ project.name | strip_html }}",
+   "description": "{{ project.description | strip_html }}",
+   "image": "{{ project.image }}",
+   "tags": {{ project.tags | jsonify }},
+   "created": "{{ project.created }}",
+   "modified": "{{ project.modified }}",
+   "url": "{{ project.url }}",
+   "projectVersion": "{{ project.projectVersion }}",
+   "apis": {{ project.apis | jsonify }},
+   "x-common": {{ project.x-common | jsonify }}
+}{% if forloop.last == true %}{% else %},{% endif %}
+{% endfor %}]

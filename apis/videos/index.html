@@ -1,0 +1,17 @@
+---
+layout: none
+---
+[{% assign videos = site.videos %}{% assign videos = videos | sort: 'name' %}{% for video in videos %}
+{
+   "name": "{{ video.name | strip_html }}",
+   "description": "{{ video.description | strip_html }}",
+   "image": "{{ video.image }}",
+   "tags": {{ video.tags | jsonify }},
+   "created": "{{ video.created }}",
+   "modified": "{{ video.modified }}",
+   "url": "{{ video.url }}",
+   "videoVersion": "{{ video.videoVersion }}",
+   "apis": {{ video.apis | jsonify }},
+   "x-common": {{ video.x-common | jsonify }}
+}{% if forloop.last == true %}{% else %},{% endif %}
+{% endfor %}]

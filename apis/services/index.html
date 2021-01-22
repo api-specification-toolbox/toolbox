@@ -1,0 +1,17 @@
+---
+layout: none
+---
+[{% assign services = site.services %}{% assign services = services | sort: 'name' %}{% for service in services %}
+{
+   "name": "{{ service.name | strip_html }}",
+   "description": "{{ service.description | strip_html }}",
+   "image": "{{ service.image }}",
+   "tags": {{ service.tags | jsonify }},
+   "created": "{{ service.created }}",
+   "modified": "{{ service.modified }}",
+   "url": "{{ service.url }}",
+   "serviceVersion": "{{ service.serviceVersion }}",
+   "apis": {{ service.apis | jsonify }},
+   "x-common": {{ service.x-common | jsonify }}
+}{% if forloop.last == true %}{% else %},{% endif %}
+{% endfor %}]
