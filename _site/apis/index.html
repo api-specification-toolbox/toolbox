@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html>
+   <head>
+
+      <meta charset="utf-8">
+      <title>API Specification Toolbox</title>
+      <link href="/css/bootstrap.css" rel="stylesheet">
+      <link href="/plugins/revolution/css/settings.css" rel="stylesheet" type="text/css">
+      <link href="/plugins/revolution/css/layers.css" rel="stylesheet" type="text/css">
+      <link href="/plugins/revolution/css/navigation.css" rel="stylesheet" type="text/css">
+      <link href="/css/style.css" rel="stylesheet">
+      <link href="/css/responsive.css" rel="stylesheet">
+      <link href="/css/color-switcher-design.css" rel="stylesheet">
+      <link id="theme-color-file" href="/css/color-themes/default-theme.css" rel="stylesheet">
+      <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon">
+      <link rel="icon" href="/images/favicon.png" type="image/x-icon">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+
+      <style>
+        .button {
+          background-color: #000;
+          border: none;
+          color: white;
+          padding: 20px;
+          text-align: center;
+          text-decoration: none;
+          display: inline-block;
+          font-size: 16px;
+          margin: 5px;
+        }
+
+        .button1 {border-radius: 2px;}
+        .button2 {border-radius: 4px;}
+        .button3 {border-radius: 8px;}
+        .button4 {border-radius: 12px;}
+        .button5 {border-radius: 50%;}
+      </style>
+
+   </head>
+   <body>
+
+      <div class="page-wrapper">
+
+         <!-- Preloader -->
+         <div class="preloader"></div>
+
+          <!-- Main Header -->
+ <header class="main-header">
+    <!--Header Top-->
+    <div class="header-top">
+       <div class="auto-container">
+          <div class="row clearfix">
+             <!--Top Left-->
+             <div class="top-left col-lg-4 col-md-12 col-sm-12">
+                <ul class="clearfix">
+                   <li>Mapping Out the API Specification Landscape</li>
+                </ul>
+             </div>
+             <!--Top Right-->
+             <div class="top-right pull-right col-lg-8 col-md-12 col-sm-12">
+                <ul class="social-nav">
+                   <li><a href="https://twitter.com/APISpecToolbox"><img src="/images/social/twitter-logo-white.png" width="22"></a></li>
+                   <li><a href="https://github.com/api-specification-toolbox/toolbox"><img src="/images/social/github-logo-white.png" width="36"></a></li>
+                </ul>
+             </div>
+          </div>
+       </div>
+    </div>
+
+    <!--Header-Upper-->
+    <div class="header-upper">
+       <div class="auto-container">
+          <div class="logo-outer">
+             <div class="logo"><a href="index.html"><img src="/images/the-api-specification-toolbox-black.png" alt="" width="100%" /></a></div>
+          </div>
+       </div>
+    </div>
+    <!--End Header Upper-->
+
+    <!--Header Lower-->
+    <div class="header-lower">
+       <div class="auto-container">
+          <div class="nav-outer clearfix">
+             <!-- Main Menu -->
+             <nav class="main-menu navbar-expand-md">
+                <div class="navbar-header">
+                   <!-- Toggle Button -->
+                   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                   <span class="icon-bar"></span>
+                   <span class="icon-bar"></span>
+                   <span class="icon-bar"></span>
+                   </button>
+                </div>
+                <div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
+                   <ul class="navigation clearfix">
+
+                      <li class="dropdown">
+                         <a href="/">Home</a>
+                      </li>
+                      <li class="dropdown">
+                         <a href="/specifications/">Specifications</a>
+                      </li>
+                      <li class="dropdown">
+                         <a href="/extensions/">Extensions</a>
+                      </li>
+                      <li class="dropdown">
+                         <a href="/news/">News</a>
+                      </li>
+                      <li class="dropdown">
+                         <a href="/services/">Services</a>
+                      </li>
+                      <li class="dropdown">
+                         <a href="/tools/">Tools</a>
+                      </li>
+                      <li class="dropdown">
+                         <a href="/sectors/">Sectors</a>
+                      </li>
+                      <li class="dropdown">
+                         <a href="/videos/">Videos</a>
+                      </li>
+                      <li class="dropdown">
+                         <a href="/projects/">Projects</a>
+                      </li>
+                      <li class="dropdown">
+                         <a href="/blog/">Blog</a>
+                      </li>
+                   </ul>
+                </div>
+             </nav>
+          </div>
+       </div>
+    </div>
+    <!--End Header Lower-->
+ </header>
+ <!--End Header Style Two -->
+
+
+         <!--Page Title-->
+<section class="page-title">
+<div class="auto-container">
+	<div class="clearfix">
+    	<div class="pull-left">
+        	<h2>API Specification Toolbox APIs</h2>
+        </div>
+        <div class="pull-right">
+        	<ul class="page-title-breadcrumb">
+            	<li><a href="#"><span class="fa fa-home"></span>Home</a></li>
+                <li>APIs</li>
+            </ul>
+        </div>
+    </div>
+</div>
+</section>
+<!--End Page Title-->
+
+<!--About Section-->
+<section class="about-section">
+
+<!--Author Info-->
+<div class="author-info">
+    <div class="auto-container">
+        <div class="row clearfix">
+            <!--Image Column-->
+            <div class="image-column col-lg-4 col-md-12 col-sm-12">
+                <div class="image">
+                    <img src="/images/api-spec-toolbox.png" alt="" />
+                </div>
+            </div>
+            <!--Image Column-->
+            <div class="content-column col-lg-8 col-md-12 col-sm-12">
+                <div class="content-inner">
+                    <h2><span class="theme_color">API Specification Toolbox APIs</span></h2>
+                    <div class="text">
+                        <p>These are the simple APIs for the variety of resources made available via the API Specification Toolbox.</p>
+                    </div>
+                    <div class="text">
+                      <center>
+                        <table width="90%" align="center" cellpadding="3" cellspacing="2">
+                          <tr>
+                            <td style="padding:5px; font-size: 24px;" width="60%"><strong>Specifications</strong></td>
+                            <td style="padding:5px 25px 5px 5px;" align="center" width="20%"><a href="https://documenter.getpostman.com/view/35240/TW6tK9b6" target="_blank" style="font-size: 18px;">Documentation</a></td>
+                              <td style="padding:5px;" align="center" width="20%">
+                                <div class="postman-run-button"
+                                data-postman-action="collection/import"
+                                data-postman-var-1="c03fad1b953f3d3c2e49"></div>
+                                <script type="text/javascript">
+                                  (function (p,o,s,t,m,a,n) {
+                                    !p[s] && (p[s] = function () { (p[t] || (p[t] = [])).push(arguments); });
+                                    !o.getElementById(s+t) && o.getElementsByTagName("head")[0].appendChild((
+                                      (n = o.createElement("script")),
+                                      (n.id = s+t), (n.async = 1), (n.src = m), n
+                                    ));
+                                  }(window, document, "_pm", "PostmanRunObject", "https://run.pstmn.io/button.js"));
+                                </script>
+                              </td>
+                          </tr>
+                          <tr>
+                            <td style="padding:5px; font-size: 24px;" width="60%"><strong>Extensions</strong></td>
+                            <td style="padding:5px 25px 5px 5px;" align="center" width="20%"><a href="https://documenter.getpostman.com/view/35240/TVzaAEB6" target="_blank" style="font-size: 18px;">Documentation</a></td>
+                              <td style="padding:5px;" align="center" width="20%">
+                                <div class="postman-run-button" data-postman-action="collection/import" data-postman-var-1="206978009302bf157ee2"></div>
+                                <script type="text/javascript">
+                                  (function (p,o,s,t,m,a,n) {
+                                    !p[s] && (p[s] = function () { (p[t] || (p[t] = [])).push(arguments); });
+                                    !o.getElementById(s+t) && o.getElementsByTagName("head")[0].appendChild((
+                                      (n = o.createElement("script")),
+                                      (n.id = s+t), (n.async = 1), (n.src = m), n
+                                    ));
+                                  }(window, document, "_pm", "PostmanRunObject", "https://run.pstmn.io/button.js"));
+                                </script>
+                              </td>
+                          </tr>
+                          <tr>
+                            <td style="padding:5px; font-size: 24px;" width="60%"><strong>Services</strong></td>
+                            <td style="padding:5px 25px 5px 5px;" align="center" width="20%"><a href="https://documenter.getpostman.com/view/35240/TVzaAEFZ" target="_blank" style="font-size: 18px;">Documentation</a></td>
+                              <td style="padding:5px;" align="center" width="20%">
+                                <div class="postman-run-button"
+                                data-postman-action="collection/import"
+                                data-postman-var-1="ed6707919221a546f97b"></div>
+                                <script type="text/javascript">
+                                  (function (p,o,s,t,m,a,n) {
+                                    !p[s] && (p[s] = function () { (p[t] || (p[t] = [])).push(arguments); });
+                                    !o.getElementById(s+t) && o.getElementsByTagName("head")[0].appendChild((
+                                      (n = o.createElement("script")),
+                                      (n.id = s+t), (n.async = 1), (n.src = m), n
+                                    ));
+                                  }(window, document, "_pm", "PostmanRunObject", "https://run.pstmn.io/button.js"));
+                                </script>
+                              </td>
+                          </tr>
+                          <tr>
+                            <td style="padding:5px; font-size: 24px;" width="60%"><strong>Tools</strong></td>
+                            <td style="padding:5px 25px 5px 5px;" align="center" width="20%"><a href="https://documenter.getpostman.com/view/35240/TVzaAEFa" target="_blank" style="font-size: 18px;">Documentation</a></td>
+                              <td style="padding:5px;" align="center" width="20%">
+                                <div class="postman-run-button"
+                                data-postman-action="collection/import"
+                                data-postman-var-1="6b28c401d6c6145593ff"></div>
+                                <script type="text/javascript">
+                                  (function (p,o,s,t,m,a,n) {
+                                    !p[s] && (p[s] = function () { (p[t] || (p[t] = [])).push(arguments); });
+                                    !o.getElementById(s+t) && o.getElementsByTagName("head")[0].appendChild((
+                                      (n = o.createElement("script")),
+                                      (n.id = s+t), (n.async = 1), (n.src = m), n
+                                    ));
+                                  }(window, document, "_pm", "PostmanRunObject", "https://run.pstmn.io/button.js"));
+                                </script>
+                              </td>
+                          </tr>
+                          <tr>
+                            <td style="padding:5px; font-size: 24px;" width="60%"><strong>Sectors</strong></td>
+                            <td style="padding:5px 25px 5px 5px;" align="center" width="20%"><a href="https://documenter.getpostman.com/view/35240/TVzaAEFW" target="_blank" style="font-size: 18px;">Documentation</a></td>
+                              <td style="padding:5px;" align="center" width="20%">
+                                <div class="postman-run-button"
+                                data-postman-action="collection/import"
+                                data-postman-var-1="806bc01ff99702670b0e"></div>
+                                <script type="text/javascript">
+                                  (function (p,o,s,t,m,a,n) {
+                                    !p[s] && (p[s] = function () { (p[t] || (p[t] = [])).push(arguments); });
+                                    !o.getElementById(s+t) && o.getElementsByTagName("head")[0].appendChild((
+                                      (n = o.createElement("script")),
+                                      (n.id = s+t), (n.async = 1), (n.src = m), n
+                                    ));
+                                  }(window, document, "_pm", "PostmanRunObject", "https://run.pstmn.io/button.js"));
+                                </script>
+                              </td>
+                          </tr>
+                          <tr>
+                            <td style="padding:5px; font-size: 24px;" width="60%"><strong>Videos</strong></td>
+                            <td style="padding:5px 25px 5px 5px;" align="center" width="20%"><a href="https://documenter.getpostman.com/view/35240/TVzaAZ3d" target="_blank" style="font-size: 18px;">Documentation</a></td>
+                              <td style="padding:5px;" align="center" width="20%">
+                                <div class="postman-run-button"
+                                data-postman-action="collection/import"
+                                data-postman-var-1="8cd62508fc0a24cf493f"></div>
+                                <script type="text/javascript">
+                                  (function (p,o,s,t,m,a,n) {
+                                    !p[s] && (p[s] = function () { (p[t] || (p[t] = [])).push(arguments); });
+                                    !o.getElementById(s+t) && o.getElementsByTagName("head")[0].appendChild((
+                                      (n = o.createElement("script")),
+                                      (n.id = s+t), (n.async = 1), (n.src = m), n
+                                    ));
+                                  }(window, document, "_pm", "PostmanRunObject", "https://run.pstmn.io/button.js"));
+                                </script>
+                              </td>
+                          </tr>
+                          <tr>
+                            <td style="padding:5px; font-size: 24px;" width="60%"><strong>Projects</strong></td>
+                            <td style="padding:5px 25px 5px 5px;" align="center" width="20%"><a href="https://documenter.getpostman.com/view/35240/TVzaAEFV" target="_blank" style="font-size: 18px;">Documentation</a></td>
+                              <td style="padding:5px;" align="center" width="20%">
+                                <div class="postman-run-button"
+                                data-postman-action="collection/import"
+                                data-postman-var-1="8cac8c92bf04e520c9f2"></div>
+                                <script type="text/javascript">
+                                  (function (p,o,s,t,m,a,n) {
+                                    !p[s] && (p[s] = function () { (p[t] || (p[t] = [])).push(arguments); });
+                                    !o.getElementById(s+t) && o.getElementsByTagName("head")[0].appendChild((
+                                      (n = o.createElement("script")),
+                                      (n.id = s+t), (n.async = 1), (n.src = m), n
+                                    ));
+                                  }(window, document, "_pm", "PostmanRunObject", "https://run.pstmn.io/button.js"));
+                                </script>
+                              </td>
+                          </tr>
+                        </table>
+                        </center>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+          <!--Main Footer-->
+ <footer class="main-footer">
+    <!--Footer Bottom-->
+    <div class="footer-bottom">
+       <div class="auto-container">
+          <div class="logo">
+             <a href="index.html"><img src="/images/the-api-specification-toolbox-white.png" alt="" width="100%" /></a>
+          </div>
+       </div>
+       <!--Copyright Section-->
+       <div class="copyright-section">
+          <div class="auto-container">
+             <div class="row clearfix">
+                <div class="col-lg-6 col-md-12 col-sm-12">
+                   <ul class="footer-nav">
+                      <li><a href="/">Home</a></li>
+                      <li><a href="/about/">About</a></li>
+                      <li><a href="/apis/">APIs</a></li>
+                   </ul>
+                </div>
+                <div class="col-lg-6 col-md-12 col-sm-12">
+                   <div class="copyright">A <a href="https://postman.com" style="color: #FFF;">Postman</a> and <a href="https://apievangelist.com" style="color: #FFF;">API Evangelist</a> project to help define the API space.</div>
+                </div>
+             </div>
+          </div>
+       </div>
+    </div>
+ </footer>
+ <!--End Main Footer-->
+
+
+      </div>
+      <!--End pagewrapper-->
+
+      <!--Scroll to top-->
+      <div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-angle-double-up"></span></div>
+
+      <!--[if lt IE 9]><script src="js/html5.js"></script><![endif]-->
+      <!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+
+      <script src="/js/jquery.js"></script>
+
+      <!--Revolution Slider-->
+      <script src="/plugins/revolution/js/jquery.themepunch.revolution.min.js"></script>
+      <script src="/plugins/revolution/js/jquery.themepunch.tools.min.js"></script>
+      <script src="/plugins/revolution/js/extensions/revolution.extension.actions.min.js"></script>
+      <script src="/plugins/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
+      <script src="/plugins/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
+      <script src="/plugins/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+      <script src="/plugins/revolution/js/extensions/revolution.extension.migration.min.js"></script>
+      <script src="/plugins/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+      <script src="/plugins/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+      <script src="/plugins/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+      <script src="/plugins/revolution/js/extensions/revolution.extension.video.min.js"></script>
+      <script src="/js/main-slider-script.js"></script>
+
+      <!--End Revolution Slider-->
+      <script src="/js/popper.min.js"></script>
+      <script src="/js/bootstrap.min.js"></script>
+      <script src="/js/owl.js"></script>
+      <script src="/js/plyr.min.js"></script>
+      <script src="/js/isotope.js"></script>
+      <script src="/js/appear.js"></script>
+      <script src="/js/wow.js"></script>
+      <script src="/js/jquery.fancybox.js"></script>
+      <script src="/js/jquery.mCustomScrollbar.concat.min.js"></script>
+      <script src="/js/script.js"></script>
+      <script src="/js/color-settings.js"></script>
+
+   </body>
+</html>
