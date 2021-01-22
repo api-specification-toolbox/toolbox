@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>API Specification Toolbox</title>
+  <updated>2020-12-15T10:20:00Z</updated>
+  <link rel="self" href="http://localhost:4000/atom.xml"/>
+  <id>http://localhost:4000/feeds/news/latest.xml</id>
+	<entry>
+    <title>42Crunch Publishes New OpenAPI Security Audit Plugins for Eclipse, IntelliJ, PyCharm</title>
+    <link href="http://localhost:4000/news/42crunch-publishes-new-openapi-security-audit-plugins-for-eclipse-intellij-pycharm/"/>
+    <updated></updated>
+    <content><![CDATA[Today, API security leader and creator of the industry’s first API Firewall, 42Crunch, announced the release of new IDE OpenAPI (Swagger) editing plugins for both Eclipse and JetBrains family of IDEs including IntelliJ and PyCharm. s42Crunch’s free OpenAPI security audit plugins simplify REST API development by delivering features such as OpenAPI navigation, code snippets, intellisense, and HTML preview. More importantly, the plugins help developers take their API security to the next level by delivering audit reports right to the developer’s IDE. Thus, engineers discover and address security vulnerabilities as early as API design and development time.]]></content>
+    <id>/news/42crunch-publishes-new-openapi-security-audit-plugins-for-eclipse-intellij-pycharm/</id>
+  </entry><entry>
+    <title>AsyncAPI partners with Postman to boost development of Asynchronous APIs</title>
+    <link href="http://localhost:4000/news/asyncapi-partners-with-postman-to-boost-development-of-asynchronous-apis/"/>
+    <updated></updated>
+    <content><![CDATA[I'm proud and honored to let you know that we're partnering with Postman to boost the development of Asynchronous APIs to a new level 🚀 Since the very beginning, I knew the duty we had at hand was challenging. And still is! The specification was just the trigger of a snowball effect. What's the spec for if you can't do anything with it? Tooling is as important as the specification. However, tooling is a number of times more complex than the specification. We engineers don't want to abandon our favorite programming language and framework, therefore, it's AsyncAPI's responsibility to integrate with the existing tools in the market. The specification (and tools) should work for the user, not the other way around. Partnering with Postman allows us to boost the development of more and better tools to help engineers create and maintain Asynchronous APIs while using their favorite programming languages and frameworks.]]></content>
+    <id>/news/asyncapi-partners-with-postman-to-boost-development-of-asynchronous-apis/</id>
+  </entry><entry>
+    <title>Band Protocol Becomes First Blockchain Firm To Join OpenAPI Initiative</title>
+    <link href="http://localhost:4000/news/band-protocol-becomes-first-blockchain-firm-to-join-openapi-initiative/"/>
+    <updated></updated>
+    <content><![CDATA[Sequoia-backed cross-chain data oracle Band Protocol, has joined the OpenAPI Initiative as the first blockchain firm alongside Google, eBay and Microsoft, to connect blockchain applications to common Application Programming Interfaces (API) and streamline the exchange of data between smart contracts and off-chain data sources.]]></content>
+    <id>/news/band-protocol-becomes-first-blockchain-firm-to-join-openapi-initiative/</id>
+  </entry><entry>
+    <title>Bringing law and order to APIs with OpenAPI Specifications</title>
+    <link href="http://localhost:4000/news/bringing-law-and-order-to-apis-with-openapi-specifications/"/>
+    <updated></updated>
+    <content><![CDATA[A specification is a technical document that tells you how a thing works. If you’re building cars, a specification tells you how a car works. It includes the most important details and perhaps a list of requirements that the end product should fulfill. Once the car gets built, the owner’s manual shows a driver how to operate and maintain the car. Similarly, if you’re building APIs, a specification tells you how an API works, along with the most important details. The documentation shows a consumer how to work with the API.]]></content>
+    <id>/news/bringing-law-and-order-to-apis-with-openapi-specifications/</id>
+  </entry><entry>
+    <title>How Microcks Can Speed-Up Your AsyncAPI Adoption - Part 1</title>
+    <link href="http://localhost:4000/news/how-microcks-can-speed-up-your-asyncapi-adoption-part-1/"/>
+    <updated></updated>
+    <content><![CDATA[August 11th 2020 was the official announcement of Microcks 1.0.0 release and our first Microcks General Availability (GA) version to fully manage event-driven API through the support of AsyncAPI specification. This first post explains why we decided to start this project and provides more insights. For those who don't know Microcks yet. It is the ultimate Open source Kubernetes Native tool for Mocking and Testing all your APIs. With Microcks, you can turn your API contract, collection or SOAP UI projects into live mocks in a few seconds..]]></content>
+    <id>/news/how-microcks-can-speed-up-your-asyncapi-adoption-part-1/</id>
+  </entry><entry>
+    <title>Implementer’s Draft (OAS 3.1 RC1) Available for Feedback – Please Respond by Nov 8!</title>
+    <link href="http://localhost:4000/news/implementers-draft-oas-31-rc1-available-for-feedback-please-respond-by-nov-8/"/>
+    <updated></updated>
+    <content><![CDATA[Release candidate 1 (RC1) of OpenAPI Specification 3.1, the Implementer’s Draft, is available for testing and evaluation. The enhancements address some of the most requested features from the OpenAPI developer community. Specifically, the OpenAPI Specification is now fully compatible with the latest draft of JSON Schema. This has been a significant effort between the OpenAPI developer community and the members of the JSON Schema community.]]></content>
+    <id>/news/implementers-draft-oas-31-rc1-available-for-feedback-please-respond-by-nov-8/</id>
+  </entry>
+</feed>
