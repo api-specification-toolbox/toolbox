@@ -5,6 +5,7 @@ description: The Apache JMeter application is open source software, a 100% pure 
 image: http://api.specificationtoolbox.com/images/tools/apache-jmeter.png
 tags:
 - Testing
+- Performance
 created: "2021-01-24"
 modified: "2021-01-24"
 url: https://raw.githubusercontent.com/api-specification-toolbox/toolbox/main/_tools/apache-jmeter.md

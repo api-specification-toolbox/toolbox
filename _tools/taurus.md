@@ -5,6 +5,7 @@ description: This is the description of the tool.
 image: http://api.specificationtoolbox.com/images/tools/taurus.png
 tags:
 - Testing
+- Performance
 created: "2021-01-24"
 modified: "2021-01-24"
 url: https://raw.githubusercontent.com/api-specification-toolbox/toolbox/main/_tools/taurus.md
