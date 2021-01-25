@@ -1,12 +1,12 @@
 ---
 name: Google Cloud Pub Sub
-description: <p>Cloud Pub/Sub is a fully-managed real-time messaging service that
+description: Cloud Pub/Sub is a fully-managed real-time messaging service that
   allows you to send and receive messages between independent applications. You can
   leverage Cloud Pub/Sub&rsquo;s flexibility to decouple systems and components hosted
   on Google Cloud Platform or elsewhere on the Internet. By building on the same technology
   Google uses, Cloud Pub/Sub is designed to provide &ldquo;at least once&rdquo; delivery
   at low latency with on-demand scalability to 1 million messages per second (and
-  beyond).</p>
+  beyond).
 image: http://api.specificationtoolbox.com/images/service-providers/google-cloud-pub-sub.jpg
 created: "2020-12-23"
 modified: 2020-12-24PST10:05:00-28800
@@ -17,6 +17,8 @@ url: http://api.specificationtoolbox.com/resources/service-providers/google-clou
 tags:
 - Messages
 - Internet Of Things
+- Events
+- Real Time
 apis: []
 x-common:
 - type: x-blog

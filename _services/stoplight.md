@@ -17,6 +17,7 @@ tags:
 - Documentation
 - Design
 - Clients
+- Editors
 apis: []
 x-common:
 - type: x-website
