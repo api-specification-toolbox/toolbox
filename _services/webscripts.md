@@ -16,8 +16,6 @@ x-alexaRank: "9925548"
 url: http://api.specificationtoolbox.com/resources/service-providers/webscripts/
 tags:
 - Webhooks
-- Webhooks
-- Webhooks
 - Serverless
 - Scripts
 apis: []

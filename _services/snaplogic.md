@@ -14,8 +14,8 @@ tags:
 - IPaaS
 - Interoperability
 - Integrations
-- Have Swagger
 - Automation
+- Orchestration
 apis: []
 x-common:
 - type: x-blog

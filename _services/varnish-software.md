@@ -10,11 +10,9 @@ x-rank: "8"
 x-alexaRank: "163846"
 url: http://api.specificationtoolbox.com/resources/service-providers/varnish-software/
 tags:
-- Proxy
 - Proxies
 - Performance
 - Caching
-- API LIfeycle
 apis: []
 x-common:
 - type: x-website

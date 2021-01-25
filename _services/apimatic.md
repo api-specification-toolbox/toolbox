@@ -11,12 +11,9 @@ x-rank: "10"
 x-alexaRank: "305577"
 url: http://api.specificationtoolbox.com/resources/service-providers/apimatic/
 tags:
-- TempSave
 - Portals
-- Interesting
-- Integration Landscape
-- Have Swagger
 - Documentation
+- Code Generation
 apis: []
 x-common:
 - type: x-blog

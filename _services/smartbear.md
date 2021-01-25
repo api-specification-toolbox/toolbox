@@ -11,14 +11,13 @@ x-alexaRank: "40013"
 url: http://api.specificationtoolbox.com/resources/service-providers/smartbear-software/
 tags:
 - Virtualizations
+- Mocking
 - Tools
 - Testing
 - Security
-- Products And Tools
 - Performance
 - Monitoring
 - GraphQL
-- API LIfeycle
 apis: []
 x-common:
 - type: x-website

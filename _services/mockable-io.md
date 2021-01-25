@@ -12,6 +12,7 @@ x-alexaRank: "355757"
 url: http://api.specificationtoolbox.com/resources/service-providers/mockable-io/
 tags:
 - Virtualizations
+- Mocking
 apis: []
 x-common:
 - type: x-website

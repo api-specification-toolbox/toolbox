@@ -12,7 +12,6 @@ x-alexaRank: "20057"
 url: http://api.specificationtoolbox.com/resources/service-providers/apiary/
 tags:
 - Virtualizations
-- Plans
 - Mocking
 - Documentation
 - Design

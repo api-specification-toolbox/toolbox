@@ -11,7 +11,7 @@ x-alexaRank: "648779"
 url: http://api.specificationtoolbox.com/resources/service-providers/mockserver/
 tags:
 - Virtualizations
-- Have Swagger
+- Mocking
 apis: []
 x-common:
 - type: x-github

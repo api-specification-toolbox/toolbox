@@ -11,6 +11,7 @@ x-alexaRank: "1000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/restfiddle/
 tags:
 - Clients
+- Testing
 apis: []
 x-common:
 - type: x-blog

@@ -12,7 +12,6 @@ url: http://api.specificationtoolbox.com/resources/service-providers/apimetrics/
 tags:
 - Performance
 - Monitoring
-- Integration Landscape
 apis: []
 x-common:
 - type: x-base-url

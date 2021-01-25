@@ -13,7 +13,7 @@ x-alexaRank: "20000000"
 url: http://api.specificationtoolbox.com/resources/service-providers/optic/
 tags:
 - Versioning
-- Testing
+- Changes
 - Documentation
 apis: []
 x-common:

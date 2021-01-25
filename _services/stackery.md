@@ -4,12 +4,7 @@ description: <p>Design, deploy, and monitor your cloud-native applications, easi
   Applications running on serverless architectures scale up and down on demand with
   high availability. There is no need to provision or manage servers. Your code runs
   only when it's needed, and you only pay for the compute time you use. Stackery provides
-  operational tools for developers building serverless applications. Easily detect
-  and surface application errors, version control your serverless infrastructure,
-  and securely manage configurations and deployments. Stackery helps developers build
-  production-grade serverless applications by providing an abstraction layer on top
-  of base serverless technologies like AWS Lambda. Stackery allows you to focus on
-  your business logic rather than configuring infrastructure services.</p>
+  operational tools for developers building serverless applications.
 image: http://api.specificationtoolbox.com/images/service-providers/stackery.jpg
 created: "2020-12-23"
 modified: 2020-12-24PST10:05:00-28800

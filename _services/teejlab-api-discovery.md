@@ -10,6 +10,9 @@ x-alexaRank: ""
 url: http://api.specificationtoolbox.com/resources/service-providers/teejlab-api-discovery/
 tags:
 - Discovery
+- Governance
+- Vulnerabilities
+- Compliance
 apis: []
 x-common:
 - type: x-website

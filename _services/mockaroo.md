@@ -19,6 +19,7 @@ x-alexaRank: "136938"
 url: http://api.specificationtoolbox.com/resources/service-providers/mockaroo/
 tags:
 - Virtualizations
+- Mocking
 apis: []
 x-common:
 - type: x-website

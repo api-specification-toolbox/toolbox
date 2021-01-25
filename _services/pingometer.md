@@ -10,9 +10,6 @@ x-rank: "8"
 x-alexaRank: "1281889"
 url: http://api.specificationtoolbox.com/resources/service-providers/pingometer/
 tags:
-- Streams
-- Streams
-- Streams
 - Performance
 - Monitoring
 apis: []

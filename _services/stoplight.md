@@ -14,12 +14,9 @@ tags:
 - Studio
 - Proxy
 - Mocking
-- Integration Landscape
-- Have Swagger
 - Documentation
 - Design
 - Clients
-- API LIfeycle
 apis: []
 x-common:
 - type: x-website

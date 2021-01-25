@@ -10,7 +10,6 @@ x-alexaRank: "4729471"
 url: http://api.specificationtoolbox.com/resources/service-providers/nevatech/
 tags:
 - Management
-- API Management Other
 apis: []
 x-common:
 - type: x-website

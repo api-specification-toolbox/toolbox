@@ -10,17 +10,12 @@ x-rank: "9"
 x-alexaRank: "4831"
 url: http://api.specificationtoolbox.com/resources/service-providers/zapier/
 tags:
-- Zapier
 - Webhooks
-- Webhooks
-- Web Apps
 - Syncing
 - IPaaS
 - Interoperability
 - Integrations
-- Integration Landscape
 - Automation
-- API LIfeycle
 apis: []
 x-common:
 - type: x-website

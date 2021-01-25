@@ -11,6 +11,7 @@ url: http://api.specificationtoolbox.com/resources/service-providers/materia/
 tags:
 - Desktop
 - Design
+- Editors
 apis: []
 x-common:
 - type: x-website
