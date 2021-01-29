@@ -1,14 +1,18 @@
 {% assign twitter_url = '' %}
 {% assign website_url = '' %}
 {% assign github_url = '' %}
+{% assign postman_workspace = '' %}
 {% for common in page.x-common %}
-  {% if common.type == 'x-twitter' %}
+  {% if common.type == 'x-twitter' or common.type == 'Twitter' %}
     {% assign twitter_url = common.url %}
   {% endif %}
-  {% if common.type == 'x-website' %}
+  {% if common.type == 'x-website' or common.type == 'Website' %}
     {% assign website_url = common.url %}
   {% endif %}
-  {% if common.type == 'x-github' %}
+  {% if common.type == 'x-github' or common.type == 'Github' %}
     {% assign github_url = common.url %}
+  {% endif %}
+  {% if common.type == 'x-postman-workspace' %}
+    {% assign postman_workspace = common.url %}
   {% endif %}
 {% endfor %}
