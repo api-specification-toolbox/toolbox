@@ -1,6 +1,6 @@
 ---
 name: Swaggerplus JSON Schema oneOf
-slug: swaggerplusplus-oneOf
+slug: swaggerplusplus-oneof
 property: x-oneOf
 description: >-
   Add to a Schema Object in an OpenAPI 2.0 API description document to use newer `oneOf` JSON Schema constructs.
@@ -18,6 +18,7 @@ tags:
   - JSON Schema
 created: "2021-01-29"
 modified: "2021-01-29"
+image: http://api.specificationtoolbox.com/images/extensions/swaggerplusplus-oneof.png
 url: https://raw.githubusercontent.com/api-specification-toolbox/toolbox/main/_extensions/
 specificationVersion: "0.14"
 apis: []
