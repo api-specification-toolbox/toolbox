@@ -21,7 +21,7 @@ tags:
   - JSON Schema
 created: "2021-01-29"
 modified: "2021-01-29"
-image: http://api.specificationtoolbox.com/images/extensions/swaggerplusplus-nullable.png
+image: ../images/extensions/swaggerplusplus-nullable.png
 url: https://raw.githubusercontent.com/api-specification-toolbox/toolbox/main/_extensions/
 specificationVersion: "0.14"
 apis: []
