@@ -1,5 +1,5 @@
 ---
-name: Swaggerplus JSON Schema Required
+name: Swaggerplus JSON Schema required
 slug: swaggerplusplus-required
 property: x-required
 description: >-
@@ -17,6 +17,7 @@ tags:
   - JSON Schema
 created: "2021-01-29"
 modified: "2021-01-29"
+image: ../images/extensions/swaggerplusplus-required.png
 url: https://raw.githubusercontent.com/api-specification-toolbox/toolbox/main/_extensions/
 specificationVersion: "0.14"
 apis: []

@@ -1,5 +1,5 @@
 ---
-name: Swaggerplus JSON Schema Nullable
+name: Swaggerplus JSON Schema nullable
 slug: swaggerplusplus-nullable
 property: x-nullable
 description: >-
@@ -13,7 +13,7 @@ example:
         description: Representation of a published book.
         properties:
           title:
-            nullable: false
+            x-nullable: false
             schema:
               type: string
 tags:
@@ -21,6 +21,7 @@ tags:
   - JSON Schema
 created: "2021-01-29"
 modified: "2021-01-29"
+image: ../images/extensions/swaggerplusplus-nullable.png
 url: https://raw.githubusercontent.com/api-specification-toolbox/toolbox/main/_extensions/
 specificationVersion: "0.14"
 apis: []
