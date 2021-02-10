@@ -1,8 +1,7 @@
 ---
 name: OpenRPC
 slug: openrpc
-description: The OpenRPC Specification defines a standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs. It is both human and machine-readable. Use cases for machine-readable JSON-RPC API definition documents include, but are not limited to: specification driven development, interactive documentation
-code generation, documentation, clients, servers, and automation of test cases. OpenRPC documents describe a JSON-RPC APIs services and are represented in JSON format. These documents may either be produced and served statically or be generated dynamically from an application.
+description: The OpenRPC Specification defines a standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs. It is both human and machine-readable. Use cases for machine-readable JSON-RPC API definition documents include, but are not limited to specification driven development, interactive documentation, code generation, documentation, clients, servers, and automation of test cases. OpenRPC documents describe a JSON-RPC APIs services and are represented in JSON format.
 image: http://api.specificationtoolbox.com/images/specifications/openrpc.png
 tags:
 - RPC
