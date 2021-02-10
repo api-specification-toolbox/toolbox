@@ -15,6 +15,7 @@ tags:
 - Versioning
 - Changes
 - Documentation
+- Generators
 apis: []
 x-common:
 - type: x-website

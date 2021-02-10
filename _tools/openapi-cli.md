@@ -1,8 +1,8 @@
 ---
 name: OpenAPI CLI
 slug: openapi-cli
-description: With openapi-cli, you can quickly validate a multi-file OpenAPI definition. An unbundled definition is far easier to edit and to reduce duplicated type definitions. When the definition is ready, openapi-cli makes it easy to bundle it into one file for distribution.
-image: http://api.specificationtoolbox.com/images/service-providers/openapi-cli.png
+description: OpenAPI CLI toolbox with rich validation and bundling features. With openapi-cli, you can quickly validate a multi-file OpenAPI definition. An unbundled definition is far easier to edit and to reduce duplicated type definitions. When the definition is ready, openapi-cli makes it easy to bundle it into one file for distribution.
+image: http://api.specificationtoolbox.com/images/service-providers/openapi-cli.gif
 tags:
 - CLI
 - OpenAPI

@@ -1,7 +1,7 @@
 ---
 name: express-openapi-validator
 slug: express-openapi-validator
-description: An OpenApi validator for ExpressJS that automatically validates API requests and responses using an OpenAPI 3 specification.
+description: 🦋express-openapi-validator is an unopinionated library that integrates with new and existing API applications. express-openapi-validator lets you write code the way you want; it does not impose any coding convention or project layout. Simply, install the validator onto your express app, point it to your OpenAPI 3 specification, then define and implement routes the way you prefer.
 image: http://api.specificationtoolbox.com/images/tools/express-openapi-validator.png
 tags:
 - OpenAPI
@@ -15,7 +15,7 @@ apis: []
 include: []
 x-common:
 - type: x-website
-  url: http://example.com
+  url: https://www.npmjs.com/package/express-openapi-validator
 - type: x-github
-  url: http://github.com/org/repo
+  url: https://github.com/cdimascio/express-openapi-validator
 ...

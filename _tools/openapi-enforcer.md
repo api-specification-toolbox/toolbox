@@ -1,7 +1,7 @@
 ---
 name: OpenAPI-Enforcer
 slug: openapi-enforcer
-description: The OpenAPI Enforcer is a library that provides tools that make it easy to work with the OpenAPI specification.
+description: The OpenAPI Enforcer is a library that provides tools that make it easy to work with the OpenAPI specification. Allows you to create an API, validate against your OpenAPI documents, serialize, deserialize, and validate values using the OpenAPI schema.
 image: http://api.specificationtoolbox.com/images/tools/openapi-enforcer.png
 tags:
 - Deploy
@@ -10,7 +10,7 @@ tags:
 - Parsers
 - Validaton
 created: "2021-01-22"
-modified: "2021-01-22"
+modified: "2021-02-09"
 url: https://raw.githubusercontent.com/api-specification-toolbox/toolbox/main/_tools/openapi-enforcer.md
 specificationVersion: "0.14"
 apis: []

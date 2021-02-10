@@ -8,12 +8,14 @@ tags:
 - Swagger
 - OpenAPI
 created: "2021-01-22"
-modified: "2021-01-22"
+modified: "2021-02-09"
 url: https://raw.githubusercontent.com/api-specification-toolbox/toolbox/main/_tools/mermade-swagger-20-to-openapi-300-converter.md
 specificationVersion: "0.14"
 apis: []
 include: []
 x-common:
 - type: x-github
-  url: https://github.com/cdimascio/express-openapi-validator
+  url: https://github.com/Mermade/oas-kit
+- type: x-website
+  url: https://mermade.org.uk/openapi-converter
 ...

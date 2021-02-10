@@ -6,7 +6,7 @@ description: <p>Enter CloudEvents, a specification for describing event data in 
   development. However, its working group has received a surprising amount of industry
   interest, ranging from major cloud providers to popular SaaS companies. Our end
   goal is to offer this specification to the Cloud Native Computing Foundation.</p>
-image: http://api.specificationtoolbox.com/images/service-providers/cloudevents.png
+image: http://api.specificationtoolbox.com/images/specifications/cloudevents.png
 created: "2020-12-23"
 modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"

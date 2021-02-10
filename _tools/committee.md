@@ -1,7 +1,7 @@
 ---
 name: Committee
 slug: committee
-description: A collection of middleware to help build services with JSON Schema, OpenAPI 2, OpenAPI 3.
+description: A collection of middleware to help build services with JSON Schema, OpenAPI 2, OpenAPI 3, providing validation, codegen, and testing for APIs.
 image: http://api.specificationtoolbox.com/images/tools/committee.png
 tags:
 - JSON Schema
