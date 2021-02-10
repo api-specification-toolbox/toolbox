@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Service Providers
+title: People
 ---
 
 <!--Service Providers-->
@@ -11,9 +11,20 @@ title: Service Providers
         <!--Content Side-->
         <div class="content-side col-lg-8 col-md-12 col-sm-12">
 
-          {% assign services_listing_count = 250 %}
-          {% assign services_tag_height = 1000 %}
-          {% include services/services-tag-tabs.html %}
+          {% assign tag_match = "OpenAPI" %}
+          {% assign tag_title = "OpenAPI Specification People" %}
+          {% assign tag_desc = "These are people involved with moving forward the OpenAPI specification." %}
+          {% include people/people-tag-listing.html %}
+
+          {% assign tag_match = "AsyncAPI" %}
+          {% assign tag_title = "AsyncAPI Specification People" %}
+          {% assign tag_desc = "These are people involved with moving forward the AsyncAPI specification." %}
+          {% include people/people-tag-listing.html %}
+
+          {% assign tag_match = "JSON Schema" %}
+          {% assign tag_title = "JSON Schema Specification People" %}
+          {% assign tag_desc = "These are people involved with moving forward the JSON Schema specification." %}
+          {% include people/people-tag-listing.html %}
 
         </div>
 
@@ -22,11 +33,11 @@ title: Service Providers
            <aside class="sidebar default-sidebar">
               <div class="sidebar-inner">
 
-                <center><button class="button button4"><a href="/services/add/" style="color:#FFF;">Add or Update Services in the Toolbox</a></button></center><br>
+                <center><button class="button button4"><a href="/people/add/" style="color:#FFF;">Add or Update People in the Toolbox</a></button></center><br>
 
                  {% include advertising/advertising-widget.html %}
 
-                 {% include services/services-tag-widget.html %}
+                 {% include people/people-tag-widget.html %}
 
               </div>
            </aside>

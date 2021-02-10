@@ -1,0 +1,91 @@
+<!--Category Tabs Box-->
+<div class="category-tabs-box">
+  <!--Product Tabs-->
+  <div class="prod-tabs tabs-box">
+     <!--Tab Btns-->
+     <div class="tab-btns tab-buttons clearfix">
+        <div class="pull-left">
+           <div class="category">{{ tag_title }}</div>
+        </div>
+        <div class="pull-right">
+           <div></div>
+        </div>
+     </div>
+     <!--Tabs Container-->
+     <div class="tabs-content">
+
+        <!--Tab / Active Tab-->
+        <div class="tab active-tab" id="prod-alls">
+           <div class="content">
+              <div class="row clearfix">
+
+                {% assign people = site.people %}
+                {% assign people = people | sort: 'name' %}
+                {% for entry in people limit: people_listing_count %}
+
+                  {% assign website_url = '' %}
+                  {% assign twitter_url = '' %}
+                  {% assign github_url = '' %}
+                  {% assign linkedin_url = '' %}
+                  {% for common in entry.x-common %}
+                    {% if common.type == 'x-website' %}
+                      {% assign website_url = common.url %}
+                    {% endif %}
+                    {% if common.type == 'x-twitter' %}
+                      {% assign twitter_url = common.url %}
+                    {% endif %}
+                    {% if common.type == 'x-github' %}
+                      {% assign github_url = common.url %}
+                    {% endif %}
+                    {% if common.type == 'x-linkedin' %}
+                      {% assign linkedin_url = common.url %}
+                    {% endif %}
+                  {% endfor %}
+
+                  {% assign any_tags = 0 %}
+                  {% for tag in entry.tags %}
+                    {% if tag_match == tag %}
+                      {% assign any_tags = 1 %}
+                    {% endif %}
+                  {% endfor %}
+
+                   {% if any_tags == 1 %}
+                     <div class="news-block-two col-lg-4 col-md-4 col-sm-12">
+                        <div class="inner-box">
+                           <div class="image">
+                              <a href="{{ entry.url }}"><img src="{{ entry.image }}" alt="" style="border: 8px solid #ccc; width: 100%; height: 200px;"></a>
+                           </div>
+                           <div class="lower-box">
+                              <h3><a href="{{ entry.url }}">{{ entry.name }}</a></h3>
+                              <center>
+                              <table width="75%">
+                                <tr>
+                                  {% if website_url != '' %}
+                                    <td width="25%"><a href="{{ website_url }}" target="_blank"><img src="/images/icons/home.png" width="35" style="padding:3px;"></a></td>
+                                  {% endif %}
+                                  {% if twitter_url != '' %}
+                                    <td width="25%"><a href="{{ twitter_url }}" target="_blank"><img src="/images/icons/twitter.png" width="36" style="padding:3px;"></a></td>
+                                  {% endif %}
+                                  {% if github_url != '' %}
+                                    <td width="25%"><a href="{{ github_url }}" target="_blank"><img src="/images/icons/github.png" width="42" style="padding:3px;"></a></td>
+                                  {% endif %}
+                                  {% if linkedin_url != '' %}
+                                    <td width="25%"><a href="{{ linkedin_url }}" target="_blank"><img src="/images/icons/linkedin.png" width="45" style="padding:3px;"></a></td>
+                                  {% endif %}
+                                </tr>
+                              </table>
+                              </center>
+                           </div>
+                        </div>
+                     </div>
+                   {% endif %}
+                 {% endfor %}
+
+              </div>
+           </div>
+        </div>
+
+     </div>
+  </div>
+</div>
+<!--End Category Info Tabs-->
