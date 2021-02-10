@@ -1,5 +1,18 @@
 [
 {
+   "name": "",
+   "description": "",
+   "image": "",
+   "tags": null,
+   "created": "",
+   "modified": "",
+   "url": "/specifications/openrpc/",
+   "specificationVersion": "",
+   "apis": null,
+   "x-common": null
+},
+
+{
    "name": "API Blueprint",
    "description": "API Blueprint is a documentation-oriented API description language. A couple of semantic assumptions over the plain Markdown. API Blueprint is perfect for designing your Web API and its comprehensive documentation but also for quick prototyping and collaboration. It is easy to learn and even easier to read &ndash; after all it is just a form of plain text.",
    "image": "http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/apiblueprint-logo-2.png",
@@ -67,7 +80,7 @@
 {
    "name": "CloudEvents",
    "description": "Enter CloudEvents, a specification for describing event data in a common way. CloudEvents seeks to ease event declaration and delivery across services, platforms and beyond! CloudEvents is a new effort and it&rsquo;s still under active development. However, its working group has received a surprising amount of industry interest, ranging from major cloud providers to popular SaaS companies. Our end goal is to offer this specification to the Cloud Native Computing Foundation.",
-   "image": "http://api.specificationtoolbox.com/images/service-providers/cloudevents.png",
+   "image": "http://api.specificationtoolbox.com/images/specifications/cloudevents.png",
    "tags": ["Webhooks","Under Active Development","Events","Event Declaration","Event Data"],
    "created": "2020-12-23",
    "modified": "2020-12-24PST10:05:00-28800",
@@ -101,6 +114,32 @@
    "specificationVersion": "0.14",
    "apis": [],
    "x-common": [{"type":"Github","url":"https://github.com/json-schema-org"},{"type":"Website","url":"https://json-schema.org/"},{"type":"x-screenshot","url":"http://kinlane-productions2.s3.amazonaws.com/json-schema.jpg"},{"type":"x-postman-workspace","url":"https://www.postman.com/api-evangelist/workspace/json-schema/overview"}]
+},
+
+{
+   "name": "JSON Type Definition",
+   "description": "This document proposes a format, called JSON Type Definition (JTD), for describing the shape of JavaScript Object Notation (JSON) messages. Its main goals are to enable code generation from schemas as well as portable validation with standardized error indicators. To this end, JTD is intentionally limited to be no more expressive than the type systems of mainstream programming languages.  This intentional limitation, as well as the decision to make JTD schemas be JSON documents, makes tooling atop of JTD easier to build.",
+   "image": "http://api.specificationtoolbox.com/images/specifications/json-type-definition.png",
+   "tags": ["JSON","Modeling","Schema","Validation","Errors"],
+   "created": "2021-01-05",
+   "modified": "2021-02-09",
+   "url": "/specifications/json-type-definition/",
+   "specificationVersion": "0.14",
+   "apis": [],
+   "x-common": [{"type":"x-website","url":"https://tools.ietf.org/html/rfc8927"}]
+},
+
+{
+   "name": "JSON Web Token (JWT)",
+   "description": "JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. This information can be verified and trusted because it is digitally signed. JWTs can be signed using a secret (with the HMAC algorithm) or a public/private key pair using RSA or ECDSA.",
+   "image": "http://api.specificationtoolbox.com/images/specifications/json-web-token-jwt.png",
+   "tags": ["Authorization","Authentication","OAuth"],
+   "created": "2021-01-05",
+   "modified": "2021-02-09",
+   "url": "/specifications/json-web-token-jwt/",
+   "specificationVersion": "0.14",
+   "apis": [],
+   "x-common": [{"type":"x-website","url":"https://tools.ietf.org/html/rfc7519"}]
 },
 
 {
@@ -182,6 +221,32 @@
 },
 
 {
+   "name": "Problem Details for HTTP APIs",
+   "description": "This document defines a "problem detail" as a way to carry machine-readable details of errors in a HTTP response to avoid the need to define new error response formats for HTTP APIs.",
+   "image": "http://api.specificationtoolbox.com/images/specifications/problem-details-for-http-apis.png",
+   "tags": ["Errors","Problems"],
+   "created": "2021-01-05",
+   "modified": "2021-02-09",
+   "url": "/specifications/problem-details-for-http-apis/",
+   "specificationVersion": "0.14",
+   "apis": [],
+   "x-common": [{"type":"x-website","url":"https://ietf-wg-httpapi.github.io/rfc7807bis/draft-ietf-httpapi-rfc7807bis.html"},{"type":"x-github","url":"https://github.com/ietf-wg-httpapi/rfc7807bis"}]
+},
+
+{
+   "name": "Protocol Buffers",
+   "description": "Protocol buffers are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data – think XML, but smaller, faster, and simpler. You define how you want your data to be structured once, then you can use special generated source code to easily write and read your structured data to and from a variety of data streams and using a variety of languages.",
+   "image": "http://api.specificationtoolbox.com/images/specifications/protocol-buffers.png",
+   "tags": ["Serialization"],
+   "created": "2021-01-05",
+   "modified": "2021-02-09",
+   "url": "/specifications/protocol-buffers/",
+   "specificationVersion": "0.14",
+   "apis": [],
+   "x-common": [{"type":"x-website","url":"https://developers.google.com/protocol-buffers"},{"type":"x-website","url":"https://developers.google.com/protocol-buffers"}]
+},
+
+{
    "name": "RAML",
    "description": "A simple but powerful syntax for modeling APIs, enabling the rapid development of APIs using an approachable syntax which can scale from hobby project to enterprise application. RAML lets you see what your API looks like as you design it, using easy to read plain text. Without having to write a single line of code you can not only perfect your API design, but also create a fully functional mock for customers, partners, and other developers.",
    "image": "http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1917-raml.jpg",
@@ -192,6 +257,19 @@
    "specificationVersion": "0.14",
    "apis": [{"name":"RAML","description":null,"image":"http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/1917-raml.jpg","humanURL":"http://raml.org","baseURL":"http://raml.org","tags":[],"properties":[{"type":"x-openapi","url":"https://raw.githubusercontent.com/api-evangelist/raml/master/raml-openapi.json"},{"type":"x-postman-collecction","url":"https://raw.githubusercontent.com/api-evangelist/raml/master/raml-postman-collection.json"}]}],
    "x-common": [{"type":"Website","url":"http://raml.org"},{"type":"Blog","url":"http://open-raml.blogspot.com/"},{"type":"Blog RSS","url":"http://open-raml.blogspot.com/feeds/posts/default?alt=rss"},{"type":"Email","url":"info@raml.org"},{"type":"Forum","url":"https://forum.raml.org"},{"type":"Github","url":"https://github.com/search?utf8=%E2%9C%93&q=RAML"},{"type":"Twitter","url":"https://twitter.com/ramlapi"},{"type":"x-screenshot","url":"http://kinlane-productions2.s3.amazonaws.com/raml.jpg"},{"type":"x-workspace","url":"https://www.postman.com/api-evangelist/workspace/raml/overview"}]
+},
+
+{
+   "name": "RFC 8941 Structured Field Values for HTTP",
+   "description": "This document describes a set of data types and associated algorithms that are intended to make it easier and safer to define and handle HTTP header and trailer fields, known as "Structured Fields", "Structured Headers", or "Structured Trailers". It is intended for use by specifications of new HTTP fields that wish to use a common syntax that is more restrictive than traditional HTTP field values.",
+   "image": "http://api.specificationtoolbox.com/images/specifications/rfc-8941-structured-field-values-for-http.png",
+   "tags": ["Fields","Parameters","Headers"],
+   "created": "2021-01-05",
+   "modified": "2021-02-09",
+   "url": "/specifications/rfc-8941-structured-field-values-for-http/",
+   "specificationVersion": "0.14",
+   "apis": [],
+   "x-common": [{"type":"x-website","url":"https://www.rfc-editor.org/rfc/rfc8941.html"}]
 },
 
 {
@@ -218,6 +296,32 @@
    "specificationVersion": "0.14",
    "apis": [],
    "x-common": [{"type":"x-github","url":"https://github.com/RepreZen/Semoasa"},{"type":"x-screenshot","url":"http://api.specificationtoolbox.com/images/specifications/semoasa.png"}]
+},
+
+{
+   "name": "Smithy",
+   "description": "A language for defining services and SDKs. Smithy is designed to work with any programming language, describe services running in any environment, and work with any kind of transport or serialization format. Smithy is extended through traits. Smithy's extensible meta-model can evolve and capture more information about services without breaking changes. Customizable API standards help to automatically ensure that APIs meet customer expectations. Validation rules can be shared and applied to all APIs in an organization.",
+   "image": "http://api.specificationtoolbox.com/images/specifications/smithy.png",
+   "tags": ["AWS","Traits"],
+   "created": "2021-01-05",
+   "modified": "2021-02-09",
+   "url": "/specifications/smithy/",
+   "specificationVersion": "0.14",
+   "apis": [],
+   "x-common": [{"type":"x-website","url":"https://awslabs.github.io/smithy/"},{"type":"x-github","url":"https://github.com/awslabs/smithy"}]
+},
+
+{
+   "name": "The Open Data Initiative",
+   "description": "Deliver unparalleled business insight from your behavioral, transactional, financial, and operational data with the Open Data Initiative—a jointly developed vision by Adobe, Microsoft, and SAP. The Open Data Initiative provides a platform for a single, comprehensive view of your data, bringing together and enriching data from all your lines of business, across all your systems to deliver real-time intelligence back into your applications and services.",
+   "image": "http://api.specificationtoolbox.com/images/specifications/the-open-data-initiative.png",
+   "tags": ["Data"],
+   "created": "2021-01-05",
+   "modified": "2021-02-09",
+   "url": "/specifications/the-open-data-initiative/",
+   "specificationVersion": "0.14",
+   "apis": [],
+   "x-common": [{"type":"x-website","url":"https://www.microsoft.com/en-us/open-data-initiative"}]
 },
 
 {

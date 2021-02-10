@@ -1,5 +1,6 @@
 ---
 name: CloudEvents
+slug: cloudevents
 description: <p>Enter CloudEvents, a specification for describing event data in a
   common way. CloudEvents seeks to ease event declaration and delivery across services,
   platforms and beyond! CloudEvents is a new effort and it&rsquo;s still under active
@@ -12,7 +13,7 @@ modified: 2020-12-24PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "0"
 x-alexaRank: "1000000"
-url: http://api.specificationtoolbox.com/resources/service-providers/cloudevents/
+url: http://api.specificationtoolbox.com/resources/specifications/cloudevents/
 tags:
 - Webhooks
 - Under Active Development
