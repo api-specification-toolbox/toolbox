@@ -2,7 +2,7 @@
 name: Kévin Dunglas
 slug: kevin-dunglas
 description:
-image: http://api.specificationtoolbox.com/images/people/kevin-dunglas.png
+image: http://api.specificationtoolbox.com/images/people/kevin-dunglas.jpg
 tags:
 - OpenAPI
 created: "2021-01-22"

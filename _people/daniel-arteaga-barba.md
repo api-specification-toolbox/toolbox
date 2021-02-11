@@ -2,7 +2,7 @@
 name: Daniel Arteaga Barba
 slug: daniel-arteaga-barba
 description:
-image: http://api.specificationtoolbox.com/images/people/daniel-arteaga-barba.png
+image: http://api.specificationtoolbox.com/images/people/daniel-arteaga-barba.jpeg
 tags:
 - OpenAPI
 created: "2021-01-22"

@@ -2,7 +2,7 @@
 name: Darrel Miller
 slug: darrel-miller
 description:
-image: http://api.specificationtoolbox.com/images/people/darrel-miller.png
+image: http://api.specificationtoolbox.com/images/people/darrel-miller.jpeg
 tags:
 - OpenAPI
 created: "2021-01-22"

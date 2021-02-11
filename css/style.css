@@ -24,7 +24,7 @@
 21. Projects Single
 22. Blog Section
 23. Blog Single
-24. Comments 
+24. Comments
 25. Comment Form
 26. Shop Item
 27. Shop Single
@@ -36,7 +36,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800|Roboto+Slab:300,400,700&display=swap');
 
-/* 
+/*
 
 	font-family: 'Poppins', sans-serif;
 	font-family: 'Roboto Slab', serif;
@@ -54,14 +54,14 @@
 @import url('jquery.mCustomScrollbar.min.css');
 @import url('jquery.bootstrap-touchspin.css');
 
-/*** 
+/***
 
 ====================================================================
 	Reset
 ====================================================================
 
  ***/
- 
+
 * {
 	margin:0px;
 	padding:0px;
@@ -69,7 +69,7 @@
 	outline:none;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Global Settings
@@ -122,7 +122,7 @@ p,
 }
 
 .strike-through{
-	text-decoration:line-through;	
+	text-decoration:line-through;
 }
 
 .auto-container{
@@ -147,7 +147,7 @@ p,
 ul,li{
 	list-style:none;
 	padding:0px;
-	margin:0px;	
+	margin:0px;
 }
 
 .theme-btn{
@@ -165,7 +165,7 @@ ul,li{
 }
 
 .centered{
-	text-align:center;	
+	text-align:center;
 }
 
 /*List Style One*/
@@ -332,7 +332,7 @@ ul,li{
 	-ms-transition:all 300ms ease;
 	-o-transition:all 300ms ease;
 	-moz-transition:all 300ms ease;
-	transition:all 300ms ease;	
+	transition:all 300ms ease;
 }
 
 .social-icon-one li a:hover{
@@ -396,7 +396,7 @@ ul,li{
 	-ms-transition:all 300ms ease;
 	-o-transition:all 300ms ease;
 	-moz-transition:all 300ms ease;
-	transition:all 300ms ease;	
+	transition:all 300ms ease;
 }
 
 .social-icon-two li a:hover{
@@ -443,7 +443,7 @@ ul,li{
 	-ms-transition:all 300ms ease;
 	-o-transition:all 300ms ease;
 	-moz-transition:all 300ms ease;
-	transition:all 300ms ease;	
+	transition:all 300ms ease;
 }
 
 .social-icon-three li a:hover{
@@ -453,12 +453,12 @@ ul,li{
 
 img{
 	display:inline-block;
-	max-width:100%;	
+	max-width:100%;
 }
 
 .preloader{ position:fixed; left:0px; top:0px; width:100%; height:100%; z-index:999999; background-color:#ffffff; background-position:center center; background-repeat:no-repeat; background-image:url(../images/icons/preloader.svg); background-size:80px;}
 
-/*** 
+/***
 
 ====================================================================
 	Scroll To Top style
@@ -486,7 +486,7 @@ img{
 	-ms-transition:all 300ms ease;
 	-o-transition:all 300ms ease;
 	-moz-transition:all 300ms ease;
-	transition:all 300ms ease;		
+	transition:all 300ms ease;
 }
 
 .scroll-to-top:hover{
@@ -494,7 +494,7 @@ img{
 	background:#fa2964;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Main Header style
@@ -561,7 +561,7 @@ img{
 	-moz-animation-iteration-count: 1;
 	-op-animation-iteration-count: 1;
 	-webkit-animation-iteration-count: 1;
-	animation-iteration-count: 1;	
+	animation-iteration-count: 1;
 }
 
 .fixed-header .sticky-header .logo .letter{
@@ -787,7 +787,7 @@ img{
 
 .header-top-two .top-right .search-box .form-group{
 	position:relative;
-	margin:0px;	
+	margin:0px;
 }
 
 .header-top-two .top-right .search-box .form-group input[type="text"],
@@ -863,7 +863,7 @@ img{
 .header-top-three .social-icon li{
 	position:relative;
 	margin-left:20px;
-	display:inline-block;	
+	display:inline-block;
 }
 
 .header-top-three .social-icon li a{
@@ -895,7 +895,7 @@ img{
 
 .main-header .language .dropdown-menu{
 	top:100%;
-	width:170px;	
+	width:170px;
 	border-radius:0px;
 	padding:0px;
 	margin-top:16px;
@@ -928,7 +928,7 @@ img{
 }
 
 .main-header .language .dropdown-menu > li:last-child{
-	border-bottom:none;	
+	border-bottom:none;
 }
 
 .main-header .language .dropdown-menu > li > a{
@@ -1011,7 +1011,7 @@ img{
 	float:right;
 	margin:54px 0px;
 	margin-left:30px;
-	border-left:1px solid #d6d6d6;	
+	border-left:1px solid #d6d6d6;
 }
 
 .main-header .header-lower .search-box-outer{
@@ -1053,7 +1053,7 @@ img{
     left: auto !important;
 	transform: translate3d(0px, 0px, 0px) !important;
 	padding:0px;
-	width:280px;	
+	width:280px;
 	border-radius:0px;
 	border-top:3px solid #fa2964;
 	border-left:0px;
@@ -1068,12 +1068,12 @@ img{
 }
 
 .main-header .header-lower .search-panel .form-container{
-	padding:25px 20px;	
+	padding:25px 20px;
 }
 
 .main-header .header-lower .search-panel .form-group{
 	position:relative;
-	margin:0px;	
+	margin:0px;
 }
 
 .main-header .header-lower .search-panel input[type="text"],
@@ -1085,7 +1085,7 @@ img{
 	height:40px;
 	color:#000000;
 	line-height:24px;
-	background:#ffffff;	
+	background:#ffffff;
 	border:1px solid #e0e0e0;
 	padding:7px 40px 7px 15px;
 	-webkit-transition:all 300ms ease;
@@ -1097,7 +1097,7 @@ img{
 
 .main-header .header-lower .search-panel input:focus,
 .main-header .header-lower .search-panel select:focus{
-	border-color:#fa2964;	
+	border-color:#fa2964;
 }
 
 .main-header .header-lower .search-panel .search-btn{
@@ -1118,7 +1118,7 @@ img{
 }
 
 .main-menu .navbar-collapse{
-	padding:0px;	
+	padding:0px;
 }
 
 .main-menu .navigation{
@@ -1145,7 +1145,7 @@ img{
 .main-menu .navigation > li > a{
 	position:relative;
 	display:block;
-	padding:17px 24px;
+	padding:17px 20px;
 	font-size:14px;
 	color:#777777;
 	line-height:30px;
@@ -1189,7 +1189,7 @@ img{
 
 .sticky-header .main-menu .navigation > li > a{
 	padding:13px 15px !important;
-	color:#333333;	
+	color:#333333;
 }
 
 .sticky-header .main-menu .navigation > li.dropdown > a:before{
@@ -1237,7 +1237,7 @@ img{
 
 .main-menu .navigation > li > ul.from-right{
 	left:auto;
-	right:0px;	
+	right:0px;
 }
 
 .main-menu .navigation > li > ul > li{
@@ -1247,7 +1247,7 @@ img{
 }
 
 .main-menu .navigation > li > ul > li:last-child{
-	border-bottom:none;	
+	border-bottom:none;
 }
 
 .main-menu .navigation > li > ul > li > a{
@@ -1285,7 +1285,7 @@ img{
 	font-size:16px;
 	font-weight:normal;
 	text-align:center;
-	z-index:5;	
+	z-index:5;
 }
 
 .main-menu .navigation > li > ul > li.dropdown:hover > a:after{
@@ -1314,7 +1314,7 @@ img{
 }
 
 .main-menu .navigation > li > ul > li > ul > li:last-child{
-	border-bottom:none;	
+	border-bottom:none;
 }
 
 .main-menu .navigation > li > ul > li  > ul > li > a{
@@ -1342,7 +1342,7 @@ img{
 .main-menu .navigation > li.dropdown:hover > ul{
 	visibility:visible;
 	opacity:1;
-	top:100%;	
+	top:100%;
 }
 
 .main-menu .navigation li > ul > li.dropdown:hover > ul{
@@ -1353,7 +1353,7 @@ img{
 	-moz-transition:all 500ms ease;
 	-webkit-transition:all 500ms ease;
 	-ms-transition:all 500ms ease;
-	-o-transition:all 500ms ease;	
+	-o-transition:all 500ms ease;
 }
 
 .main-menu .navigation li.dropdown .dropdown-btn{
@@ -1483,7 +1483,7 @@ img{
 	color:#999999;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Fancy Box
@@ -1532,7 +1532,7 @@ img{
 .fancybox-next:hover span:before,
 .fancybox-prev:hover span:before{
 	background-color:#ffffff !important;
-	color:#000000;	
+	color:#000000;
 }
 
 .fancybox-type-image .fancybox-close{
@@ -1541,18 +1541,18 @@ img{
 	width:45px;
 	height:45px;
 	background:url(../images/icons/icon-cross.png) center center no-repeat;
-	background-color:#fa2964 !important;	
+	background-color:#fa2964 !important;
 }
 
 .fancybox-type-image .fancybox-close:hover{
-	background-color:#000000 !important;	
+	background-color:#000000 !important;
 }
 
 .fancybox-type-image .fancybox-skin{
-	padding:0px !important;	
+	padding:0px !important;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Sec Title
@@ -1812,7 +1812,7 @@ img{
 	margin-left:3px;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Styled Pagination
@@ -1874,7 +1874,7 @@ img{
 	padding:0px 30px;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Main Footer
@@ -1950,7 +1950,7 @@ img{
 	-ms-transition:all 500ms ease;
 	-o-transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
-	transition:all 500ms ease;	
+	transition:all 500ms ease;
 	background-color:rgba(255,255,255,0.30);
 }
 
@@ -1996,7 +1996,7 @@ img{
 	color:rgba(255,255,255,0.10);
 }
 
-/*** 
+/***
 
 ====================================================================
 	Instagram Widget
@@ -2069,7 +2069,7 @@ img{
 	-ms-transition:all 300ms ease;
 	-o-transition:all 300ms ease;
 	-moz-transition:all 300ms ease;
-	transition:all 300ms ease;	
+	transition:all 300ms ease;
 }
 
 .main-footer .newsletter-widget .form-group button{
@@ -2202,7 +2202,7 @@ img{
 	-ms-transition:all 500ms ease;
 	-o-transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
-	transition:all 500ms ease;	
+	transition:all 500ms ease;
 }
 
 .main-footer .footer-bottom .copyright-section .footer-nav li a:hover{
@@ -2215,7 +2215,7 @@ img{
 	text-align:right;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Hidden Sidebar style
@@ -2238,7 +2238,7 @@ img{
 }
 
 .hidden-bar .mCSB_inside > .mCSB_container{
-	margin-right:0px;	
+	margin-right:0px;
 }
 
 .hidden-bar.left-align {
@@ -2246,7 +2246,7 @@ img{
 }
 
 .hidden-bar.left-align.visible-sidebar{
-	left:0px;	
+	left:0px;
 }
 
 .hidden-bar.left-align {
@@ -2338,7 +2338,7 @@ img{
 
 .hidden-bar .logo img{
 	float:left;
-	max-width:100%;	
+	max-width:100%;
 }
 
 .hidden-bar .side-menu {
@@ -2358,7 +2358,7 @@ img{
 	text-transform:uppercase;
 	padding-left:22px;
 	font-size:13px;
-	color:rgba(255,255,255,0.50);	
+	color:rgba(255,255,255,0.50);
 }
 
 .hidden-bar .side-menu a.current {
@@ -2372,7 +2372,7 @@ img{
 .hidden-bar .side-menu ul li{
 	position:relative;
 	display:block;
-	border-bottom: 1px solid rgba(255,255,255,0.15);	
+	border-bottom: 1px solid rgba(255,255,255,0.15);
 }
 
 .hidden-bar .side-menu > ul > li > ul{
@@ -2409,7 +2409,7 @@ img{
 	text-transform:uppercase;
 	padding-left:22px;
 	font-size:13px;
-	color:rgba(255,255,255,0.50);	
+	color:rgba(255,255,255,0.50);
 }
 
 .hidden-bar .side-menu ul.navigation > li.active > a:after{
@@ -2423,16 +2423,16 @@ img{
 }
 
 .hidden-bar .side-menu ul.navigation > li.dropdown > a{
-	
+
 }
 
 .hidden-bar .side-menu ul.navigation > li > ul > li.dropdown > a{
-	padding-left:22px;	
+	padding-left:22px;
 }
 
 .hidden-bar .side-menu ul.navigation > li > ul > li.dropdown{
 	width:auto;
-	margin-left:22px;	
+	margin-left:22px;
 }
 
 .hidden-bar .side-menu > ul > li.dropdown > a:after{
@@ -2484,7 +2484,7 @@ img{
 }
 
 .hidden-bar .social-links li a:hover{
-	color:#ffffff;	
+	color:#ffffff;
 }
 
 .main-header .nav-toggler{
@@ -2561,7 +2561,7 @@ img{
 }
 
 .hidden-bar .hidden-bar-wrapper .sidebar-search .form-group button:hover{
-	
+
 }
 
 .hidden-bar .hidden-bar-wrapper .sidebar-search .form-group button span {
@@ -2622,7 +2622,7 @@ img{
 	width:100%;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Main Slider One
@@ -2637,7 +2637,7 @@ img{
 }
 
 .main-slider .tp-caption{
-	z-index:5;	
+	z-index:5;
 }
 
 .main-slider .slider-content{
@@ -2674,12 +2674,12 @@ img{
 }
 
 .main-slider .tp-dottedoverlay{
-	background:rgba(0,0,0,0.10) !important;	
+	background:rgba(0,0,0,0.10) !important;
 }
 
 .main-slider .tp-bannertimer,
 .main-slider .tp-bullets{
-	display:none !important;	
+	display:none !important;
 }
 
 .main-slider .tp-leftarrow{
@@ -2736,7 +2736,7 @@ img{
 .main-slider-four .owl-dots .owl-dot{
 	position:relative;
 	display:inline-block;
-	margin:0px 5px;	
+	margin:0px 5px;
 	transition: all 0.6s ease;
     -moz-transition: all 0.6s ease;
     -webkit-transition: all 0.6s ease;
@@ -2824,7 +2824,7 @@ img{
 	-ms-transition:all 500ms ease;
 	-o-transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
-	transition:all 500ms ease;	
+	transition:all 500ms ease;
 }
 
 .main-slider-three .owl-nav .owl-prev{
@@ -2873,7 +2873,7 @@ img{
 	-ms-transition:all 500ms ease;
 	-o-transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
-	transition:all 500ms ease;	
+	transition:all 500ms ease;
 }
 
 .main-slider-four .owl-nav .owl-prev{
@@ -2890,7 +2890,7 @@ img{
 	background-color:#fa2964;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Sidebar Page Container
@@ -2982,7 +2982,7 @@ img{
 	display:block;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Product Tabs Style
@@ -3052,7 +3052,7 @@ img{
 }
 
 .product-widget-tabs .prod-tabs .tabs-content{
-	position:relative;	
+	position:relative;
 }
 
 .product-widget-tabs .prod-tabs .tabs-content .tab{
@@ -3061,7 +3061,7 @@ img{
 }
 
 .product-widget-tabs .prod-tabs .tabs-content .tab.active-tab{
-	display:block;	
+	display:block;
 }
 
 /*Post Widget*/
@@ -3110,7 +3110,7 @@ img{
 	-ms-transition:all 500ms ease;
 	-o-transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
-	transition:all 500ms ease;	
+	transition:all 500ms ease;
 	background-color:rgba(255,255,255,0.50);
 }
 
@@ -3193,7 +3193,7 @@ img{
 
 .widget-post a,
 .widget-post a:hover{
-	color:#fa2964;	
+	color:#fa2964;
 }
 
 .widget-post .post-info{
@@ -3264,7 +3264,7 @@ img{
 	float:right;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Category Tabs Box
@@ -3403,7 +3403,7 @@ img{
 }
 
 .category-tabs-box .prod-tabs .tabs-content{
-	position:relative;	
+	position:relative;
 }
 
 .category-tabs-box .prod-tabs .tabs-content .tab{
@@ -3412,7 +3412,7 @@ img{
 }
 
 .category-tabs-box .prod-tabs .tabs-content .tab.active-tab{
-	display:block;	
+	display:block;
 }
 
 /*News Block Two*/
@@ -3585,7 +3585,7 @@ img{
 }
 
 .news-block-two .inner-box:hover .image > a:before{
-	
+
 }
 
 .news-block-two .inner-box .image .category{
@@ -3958,7 +3958,7 @@ img{
 .blog-carousel-section .owl-dots .owl-dot{
 	position:relative;
 	display:inline-block;
-	margin:0px 5px;	
+	margin:0px 5px;
 	transition: all 0.6s ease;
     -moz-transition: all 0.6s ease;
     -webkit-transition: all 0.6s ease;
@@ -4006,7 +4006,7 @@ img{
 	-ms-transition:all 500ms ease;
 	-o-transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
-	transition:all 500ms ease;	
+	transition:all 500ms ease;
 }
 
 .blog-carousel-section .owl-nav .owl-prev{
@@ -4176,7 +4176,7 @@ img{
 
 .sidebar .search-box .form-group{
 	position:relative;
-	margin:0px;	
+	margin:0px;
 }
 
 .sidebar .search-box .form-group input[type="text"],
@@ -4261,7 +4261,7 @@ img{
 	-ms-transition:all 500ms ease;
 	-o-transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
-	transition:all 500ms ease;	
+	transition:all 500ms ease;
 	background-color:rgba(0,0,0,0.50);
 }
 
@@ -4301,7 +4301,7 @@ img{
 
 .widget-post-two a,
 .widget-post-two a:hover{
-	color:#fa2964;	
+	color:#fa2964;
 }
 
 .widget-post-two .inner .rating{
@@ -4373,7 +4373,7 @@ img{
 .tweet-widget .owl-dots .owl-dot{
 	position:relative;
 	display:inline-block;
-	margin:0px 5px;	
+	margin:0px 5px;
 	transition: all 0.6s ease;
     -moz-transition: all 0.6s ease;
     -webkit-transition: all 0.6s ease;
@@ -4466,7 +4466,7 @@ img{
 .featured-block-section .owl-dots .owl-dot{
 	position:relative;
 	display:inline-block;
-	margin:0px 5px;	
+	margin:0px 5px;
 	transition: all 0.6s ease;
     -moz-transition: all 0.6s ease;
     -webkit-transition: all 0.6s ease;
@@ -4514,7 +4514,7 @@ img{
 	-ms-transition:all 500ms ease;
 	-o-transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
-	transition:all 500ms ease;	
+	transition:all 500ms ease;
 }
 
 .featured-block-section .owl-nav .owl-prev{
@@ -4862,7 +4862,7 @@ img{
 
 .default-portfolio-item .overlay-inner .option-btn:hover{
 	background:rgba(231,63,67,0.90);
-	color:#ffffff;	
+	color:#ffffff;
 }
 
 /*News Block Three*/
@@ -4894,7 +4894,7 @@ img{
 	-ms-transition:all 500ms ease;
 	-o-transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
-	transition:all 500ms ease;	
+	transition:all 500ms ease;
 }
 
 .news-block-eight .inner-box .image .overlay-box{
@@ -4988,7 +4988,7 @@ img{
 	padding:100px 0px 20px;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Gallery Section
@@ -5042,7 +5042,7 @@ img{
 	-ms-transition:all 500ms ease;
 	-o-transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
-	transition:all 500ms ease;	
+	transition:all 500ms ease;
 }
 
 .galley-section .owl-nav .owl-prev{
@@ -5066,7 +5066,7 @@ img{
 }
 
 .main-slider-six .default-tab-box{
-	position:relative;	
+	position:relative;
 	overflow:hidden;
 	background-color:#27292d;
 }
@@ -5162,7 +5162,7 @@ img{
 	-ms-transition:all 500ms ease;
 	-o-transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
-	transition:all 500ms ease;	
+	transition:all 500ms ease;
 }
 
 .blog-single-slider .owl-nav .owl-prev{
@@ -5604,7 +5604,7 @@ img{
 	background-color:#fa2964;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Comment Form
@@ -5693,14 +5693,14 @@ img{
 }
 
 
-/*** 
+/***
 
 ====================================================================
 	Page Title
 ====================================================================
 
  ***/
- 
+
 .page-title{
 	position:relative;
 	padding:50px 0px 50px;
@@ -5770,14 +5770,14 @@ img{
 	color:#000000;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Shop Section
 ====================================================================
 
  ***/
- 
+
 .shop-section{
 	position:relative;
 	padding:80px 0px 100px;
@@ -5785,12 +5785,12 @@ img{
 
 .shop-section .items-sorting{
 	position:relative;
-	margin-bottom:50px;	
+	margin-bottom:50px;
 }
 
 .shop-section .items-sorting .results-column,
 .shop-section .items-sorting .select-column{
-	margin-bottom:20px;	
+	margin-bottom:20px;
 }
 
 .shop-section .items-sorting .results-column h4{
@@ -5803,7 +5803,7 @@ img{
 }
 
 .shop-section .items-sorting .form-group{
-	margin-bottom:0px;	
+	margin-bottom:0px;
 }
 
 .shop-section .items-sorting select{
@@ -5826,11 +5826,11 @@ img{
 	transition:all 500ms ease;
 	-webkit-transition:all 500ms ease;
 	-ms-transition:all 500ms ease;
-	-o-transition:all 500ms ease;	
+	-o-transition:all 500ms ease;
 }
 
 .shop-section .items-sorting select option{
-	text-indent:15px;	
+	text-indent:15px;
 }
 
 /*Shop Item*/
@@ -6024,7 +6024,7 @@ img{
 
 .shop-page .basic-details .details-header{
 	position:relative;
-	margin-bottom:0px;	
+	margin-bottom:0px;
 }
 
 .shop-page .basic-details .details-header h4{
@@ -6049,7 +6049,7 @@ img{
 
 .shop-page .basic-details .details-header .rating .fa{
 	display:inline-block;
-	margin-right:1px;	
+	margin-right:1px;
 }
 
 .shop-page .basic-details .details-header .rating .fa.light{
@@ -6096,12 +6096,12 @@ img{
 	position:relative;
 	color:#777777;
 	font-size:14px;
-	line-height:1.8em;	
+	line-height:1.8em;
 	margin-bottom:25px;
 }
 
 .items-form .form-group{
-	margin-bottom:20px;	
+	margin-bottom:20px;
 }
 
 .items-form .form-group label{
@@ -6137,11 +6137,11 @@ img{
 	transition:all 500ms ease;
 	-webkit-transition:all 500ms ease;
 	-ms-transition:all 500ms ease;
-	-o-transition:all 500ms ease;	
+	-o-transition:all 500ms ease;
 }
 
 .items-form .form-group select option{
-	text-indent:15px;	
+	text-indent:15px;
 }
 
 .shop-page .basic-details .info-column .other-options .btns-box{
@@ -6203,7 +6203,7 @@ img{
 	text-transform:uppercase;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Product Tabs Style
@@ -6262,7 +6262,7 @@ img{
 }
 
 .shop-page .product-info-tabs .prod-tabs .tabs-content{
-	position:relative;	
+	position:relative;
 }
 
 .shop-page .product-info-tabs .prod-tabs .tabs-content .tab{
@@ -6274,7 +6274,7 @@ img{
 }
 
 .shop-page .product-info-tabs .prod-tabs .tabs-content .tab.active-tab{
-	display:block;	
+	display:block;
 }
 
 .shop-page .product-info-tabs .prod-tabs .tabs-content .tab .content p{
@@ -6398,7 +6398,7 @@ img{
 .shop-comment-form input:focus,
 .shop-comment-form select:focus,
 .shop-comment-form textarea:focus{
-	border-color:#f06529;	
+	border-color:#f06529;
 }
 
 /*Related Items*/
@@ -6434,7 +6434,7 @@ img{
 	-ms-transition:all 500ms ease;
 	-o-transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
-	transition:all 500ms ease;	
+	transition:all 500ms ease;
 }
 
 .related-items .owl-nav .owl-prev{
@@ -6525,7 +6525,7 @@ img{
 	line-height:1.7em;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Progress Levels Style
@@ -6541,15 +6541,15 @@ img{
 	position:relative;
 	margin-bottom:15px;
 	padding-bottom:3px;
-	overflow:hidden;	
+	overflow:hidden;
 }
 
 .skill-progress .progress-box{
-	margin-bottom:15px;	
+	margin-bottom:15px;
 }
 
 .skill-progress .progress-box:last-child{
-	margin-bottom:0px;	
+	margin-bottom:0px;
 }
 
 .skill-progress .progress-box .box-title{
@@ -6570,7 +6570,7 @@ img{
 
 .skill-progress .progress-box .bar{
 	 position:relative;
-	 height:6px;	
+	 height:6px;
 }
 
 .skill-progress .progress-box .bar .bar-innner{
@@ -6598,10 +6598,10 @@ img{
 }
 
 .skill-progress .progress-box.animated .bar .bar-fill{
-	left:0px;	
+	left:0px;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Map Section Style
@@ -6683,14 +6683,14 @@ img{
 	line-height:22px;
 	height:50px;
 	font-size:16px;
-	padding:12px 20px;	
+	padding:12px 20px;
 	background:#ffffff;
 	color:#333333;
 	border:2px solid #e0e0e0;
 	transition:all 500ms ease;
 	-webkit-transition:all 500ms ease;
 	-ms-transition:all 500ms ease;
-	-o-transition:all 500ms ease;	
+	-o-transition:all 500ms ease;
 }
 
 .contact-form input:focus,
@@ -6703,7 +6703,7 @@ img{
 .contact-form input.error,
 .contact-form select.error,
 .contact-form textarea.error{
-	border-color:#ff0000 !important;	
+	border-color:#ff0000 !important;
 }
 
 .contact-form label.error{
@@ -6714,13 +6714,13 @@ img{
 	text-transform:uppercase;
 	font-size:11px;
 	color:#ff0000;
-	font-weight:500;	
+	font-weight:500;
 }
 
 .contact-form textarea{
 	height:130px;
 	resize:none;
-	padding:10px 20px;	
+	padding:10px 20px;
 }
 
 .contact-form .submit-btn{
@@ -6737,7 +6737,7 @@ img{
 .contact-form input.error,
 .contact-form select.error,
 .contact-form textarea.error{
-	border-color:#ff0000 !important;	
+	border-color:#ff0000 !important;
 }
 
 .contact-form label.error{
@@ -6748,7 +6748,7 @@ img{
 	text-transform:uppercase;
 	font-size:11px;
 	color:#ff0000;
-	font-weight:500;	
+	font-weight:500;
 }
 
 /*info list*/
@@ -6898,7 +6898,7 @@ img{
 	-o-transition:all 0.3s ease;
 }
 
-/*** 
+/***
 
 ====================================================================
 	subscribe-style-one
@@ -6960,7 +6960,7 @@ img{
 }
 
 .subscribe-style-one .form-group input[type="email"]:focus{
-	
+
 }
 
 .subscribe-style-one .form-group input[type="submit"],
@@ -6973,7 +6973,7 @@ img{
 	display:inline-block;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Mission Section
@@ -7021,7 +7021,7 @@ img{
 	margin-bottom:20px;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Business Tabs Style
@@ -7034,7 +7034,7 @@ img{
 }
 
 .mission-info-tabs .prod-tabs{
-	position:relative;	
+	position:relative;
 }
 
 .mission-info-tabs .prod-tabs .tab-btns{
@@ -7063,7 +7063,7 @@ img{
 }
 
 .mission-info-tabs .prod-tabs .tabs-content{
-	position:relative;	
+	position:relative;
 }
 
 .mission-info-tabs .prod-tabs .tabs-content .tab{
@@ -7072,7 +7072,7 @@ img{
 }
 
 .mission-info-tabs .prod-tabs .tabs-content .tab.active-tab{
-	display:block;	
+	display:block;
 }
 
 .mission-info-tabs .prod-tabs .tabs-content .tab .text{
@@ -7088,7 +7088,7 @@ img{
 	margin-bottom:18px;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Testimonial Section
@@ -7171,7 +7171,7 @@ img{
 	display:none;
 }
 
-/*** 
+/***
 
 ====================================================================
 	About Us Section
@@ -7194,7 +7194,7 @@ img{
 	font-size:40px;
 	color:#13192d;
 	font-weight:600;
-	margin-bottom:20px;	
+	margin-bottom:20px;
 }
 
 .about-section-three .upper-title .text{
@@ -7206,17 +7206,17 @@ img{
 
 .about-section-three .content-block{
 	position:relative;
-	margin-bottom:50px;	
+	margin-bottom:50px;
 }
 
 .about-section-three .content-block .image-column{
 	position:relative;
-	margin-bottom:20px;	
+	margin-bottom:20px;
 }
 
 .about-section-three .content-block .text-column{
 	position:relative;
-	margin-bottom:20px;	
+	margin-bottom:20px;
 }
 
 .about-section-three .content-block .text-column h2{
@@ -7239,7 +7239,7 @@ img{
 	line-height:1.9em;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Error Section Style
@@ -7304,7 +7304,7 @@ img{
 
 .error-search-box .form-group{
 	position:relative;
-	margin:0px;	
+	margin:0px;
 }
 
 .error-search-box .form-group input[type="text"],
@@ -7325,7 +7325,7 @@ img{
 }
 
 .error-search-box .form-group input:focus{
-	border-color:#ff3548;	
+	border-color:#ff3548;
 }
 
 .error-search-box .form-group button{
@@ -7354,7 +7354,7 @@ img{
 	color:#ff3548;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Faq Section
@@ -7423,7 +7423,7 @@ img{
 
 .faq-section .faq-search-box .form-group{
 	position:relative;
-	margin:0px;	
+	margin:0px;
 }
 
 .faq-section .faq-search-box .form-group input[type="text"],
@@ -7465,7 +7465,7 @@ img{
 }
 
 .faq-section .faq-search-box .form-group input:focus{
-	border-color:#ff3548;	
+	border-color:#ff3548;
 }
 
 .faq-form .form-group{
@@ -7531,7 +7531,7 @@ img{
 	display:inline-block;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Accordion Style
@@ -7648,7 +7648,7 @@ img{
 }
 
 .accordion-box .block .acc-content.current{
-	display:block;	
+	display:block;
 }
 
 .accordion-box .block .content{
@@ -7660,15 +7660,15 @@ img{
 .accordion-box .block .content p{
 	margin-bottom:20px;
 	line-height:1.8em;
-	font-size:16px;	
+	font-size:16px;
 	color:rgba(0,0,10,0.60);
 }
 
 .accordion-box .block .content p:last-child{
-	margin-bottom:0px;	
+	margin-bottom:0px;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Cart Section style
@@ -7682,11 +7682,11 @@ img{
 }
 
 .cart-outer{
-	position:relative;	
+	position:relative;
 }
 
 .checkout-page .cart-outer{
-	margin-bottom:40px;	
+	margin-bottom:40px;
 }
 
 .cart-outer .table-outer{
@@ -7697,7 +7697,7 @@ img{
 
 .cart-outer .cart-table{
 	width:100%;
-	min-width:900px;	
+	min-width:900px;
 }
 
 .cart-table .cart-header{
@@ -7720,7 +7720,7 @@ img{
 }
 
 .cart-table thead tr th .fa{
-	font-size:18px;	
+	font-size:18px;
 }
 
 .cart-table thead tr th.prod-column{
@@ -7738,7 +7738,7 @@ img{
 }
 
 .cart-table tbody tr .qty .quantity-spinner{
-	background:#ffffff;	
+	background:#ffffff;
 }
 
 .cart-table tbody tr .prod-column .column-box{
@@ -7748,7 +7748,7 @@ img{
 
 .cart-table tbody tr .prod-column .column-box .prod-thumb{
 	position:relative;
-	width:100px;	
+	width:100px;
 }
 
 .cart-table tbody tr .prod-column .column-box .prod-thumb img{
@@ -7799,7 +7799,7 @@ img{
 }
 
 .cart-table tbody tr{
-	border-bottom:1px solid #e9e9e9;	
+	border-bottom:1px solid #e9e9e9;
 }
 
 .cart-table tbody tr td{
@@ -7839,7 +7839,7 @@ img{
 
 .cart-table tbody .available-info{
 	position:relative;
-	padding-left:50px;	
+	padding-left:50px;
 }
 
 .cart-table tbody .available-info .icon{
@@ -7877,7 +7877,7 @@ img{
 .cart-section .apply-coupon .form-group{
 	position:relative;
 	float:left;
-	margin-right:10px;	
+	margin-right:10px;
 }
 
 .cart-section .apply-coupon .form-group input[type="text"]{
@@ -7909,13 +7909,13 @@ img{
 	position:relative;
 	margin-bottom:20px;
 	border:1px solid #ebebeb;
-	border-radius:3px;	
+	border-radius:3px;
 }
 
 .cart-section .totals-table li{
 	line-height:24px;
 	padding:14px 22px;
-	border-bottom:1px solid #ebebeb;	
+	border-bottom:1px solid #ebebeb;
 }
 
 .cart-section .totals-table li:first-child{
@@ -7946,7 +7946,7 @@ img{
 }
 
 .cart-section .totals-table li .col:last-child{
-	text-align:right;	
+	text-align:right;
 }
 
 .cart-section .totals-table .total .price{
@@ -7964,18 +7964,18 @@ img{
 	line-height:24px;
 	padding:10px 15px !important;
 	height:46px !important;
-	box-shadow:none !important;	
+	box-shadow:none !important;
 }
 
 .product-details .basic-details .bootstrap-touchspin .input-group-btn-vertical > .btn,
 .cart-section .bootstrap-touchspin .input-group-btn-vertical > .btn{
 	padding:11px 10px;
-	background:#f4f5f6;	
+	background:#f4f5f6;
 }
 
 .product-details .bootstrap-touchspin .input-group-btn-vertical i,
 .cart-section .bootstrap-touchspin .input-group-btn-vertical i{
-	top:6px;	
+	top:6px;
 }
 
 /*Check Out Page*/
@@ -7987,7 +7987,7 @@ img{
 
 .checkout-page .default-links{
 	position:relative;
-	margin-bottom:40px;	
+	margin-bottom:40px;
 }
 
 .checkout-page .default-links li{
@@ -8007,7 +8007,7 @@ img{
 }
 
 .shop-form{
-	position:relative;	
+	position:relative;
 }
 
 .shop-form .billing-inner{
@@ -8021,11 +8021,11 @@ img{
 
 .shop-form .form-group{
 	position:relative;
-	margin-bottom:20px;	
+	margin-bottom:20px;
 }
 
 .billing-details .shop-form .form-group{
-	margin-bottom:20px;	
+	margin-bottom:20px;
 }
 
 .shop-form .form-group .field-label{
@@ -8033,14 +8033,14 @@ img{
 	line-height:24px;
 	margin-bottom:8px;
 	text-transform:capitalize;
-	color:#797979;	
+	color:#797979;
 	font-size:15px;
 	font-weight:500;
 }
 
 .shop-form .form-group .field-label sup{
 	top:0px;
-	color:#797979;	
+	color:#797979;
 	font-size:16px;
 }
 
@@ -8087,19 +8087,19 @@ img{
 }
 
 .shop-form select option{
-	text-indent:15px;	
+	text-indent:15px;
 }
 
 .shop-form textarea{
 	resize:none;
 	height:100px !important;
-	overflow:hidden;	
+	overflow:hidden;
 }
 
 .shop-form input:focus,
 .shop-form select:focus,
 .shop-form textarea:focus{
-	border-color:#fa2964;	
+	border-color:#fa2964;
 }
 
 /*Shop Order Box*/
@@ -8147,16 +8147,16 @@ img{
 .payment-options{
 	position:relative;
 	margin-top:20px;
-	margin-bottom:20px;	
+	margin-bottom:20px;
 }
 
 .checkout-page .payment-options li{
 	position:relative;
-	margin-bottom:15px;	
+	margin-bottom:15px;
 }
 
 .checkout-page .payment-options li .radio-option{
-	position:relative;		
+	position:relative;
 }
 
 .checkout-page .payment-options li .radio-option label{
@@ -8172,13 +8172,13 @@ img{
 }
 
 .checkout-page .payment-options li .radio-option label strong{
-	font-weight:600;	
+	font-weight:600;
 }
 
 .checkout-page .payment-options li .radio-option input[type="radio"]{
 	position:absolute;
 	left:0px;
-	top:3px;	
+	top:3px;
 }
 
 .checkout-page .payment-options li .radio-option label .small-text{
@@ -8197,7 +8197,7 @@ img{
 	top:-3px;
 	display:inline-block;
 	max-width:100%;
-	padding-left:30px;	
+	padding-left:30px;
 }
 
 
@@ -8260,7 +8260,7 @@ img{
 	margin-bottom:30px;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Countdown style
@@ -8333,7 +8333,7 @@ img{
 	-ms-transition:all 300ms ease;
 	-o-transition:all 300ms ease;
 	-moz-transition:all 300ms ease;
-	transition:all 300ms ease;	
+	transition:all 300ms ease;
 }
 
 .comming-soon .emailed-form .form-group input[type="submit"],
@@ -8352,14 +8352,14 @@ img{
 	background:#fa2964;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Gallery Section
 ====================================================================
 
  ***/
- 
+
 .gallery-section{
 	position:relative;
 	padding:95px 0px 55px;
@@ -8427,7 +8427,7 @@ img{
 
 .gallery-item .image-box{
 	position:relative;
-	display:block;	
+	display:block;
 }
 
 .gallery-item .image-box img{
@@ -8534,7 +8534,7 @@ img{
 	text-align:center;
 }
 
-/*** 
+/***
 
 ====================================================================
 	Gallery Single Section
@@ -8780,9 +8780,9 @@ button:focus{
 @media (min-width: 576px) and (max-width: 767px) {
 
 	.posts .post-with-audio .post-audio .plyr__controls {
-		padding: 30px; 
+		padding: 30px;
 	}
-	
+
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -8792,7 +8792,7 @@ button:focus{
 	}
 }
 
-/*** 
+/***
 
 ====================================================================
 	Blog Masonry Section

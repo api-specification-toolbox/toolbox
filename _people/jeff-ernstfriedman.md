@@ -2,7 +2,7 @@
 name: Jeff ErnstFriedman
 slug: jeff-ernstfriedman
 description:
-image: http://api.specificationtoolbox.com/images/people/jeff-ernstfriedman.png
+image: http://api.specificationtoolbox.com/images/people/jeff-ernstfriedman.jpeg
 tags:
 - OpenAPI
 created: "2021-01-22"

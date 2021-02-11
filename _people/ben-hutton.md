@@ -2,7 +2,7 @@
 name: Ben Hutton
 slug: ben-hutton
 description:
-image: http://api.specificationtoolbox.com/images/people/ben-hutton.png
+image: http://api.specificationtoolbox.com/images/people/ben-hutton.jpeg
 tags:
 - JSON Schema
 created: "2021-01-22"

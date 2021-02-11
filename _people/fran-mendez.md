@@ -2,7 +2,7 @@
 name: Fran Méndez
 slug: fran-mendez
 description:
-image: http://api.specificationtoolbox.com/images/people/fran-mendez.png
+image: http://api.specificationtoolbox.com/images/people/fran-mendez.jpg
 tags:
 - AsyncAPI
 created: "2021-01-22"

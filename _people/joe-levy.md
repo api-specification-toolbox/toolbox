@@ -2,7 +2,7 @@
 name: Joe Levy
 slug: joe-levy
 description:
-image: http://api.specificationtoolbox.com/images/people/joe-levy.png
+image: http://api.specificationtoolbox.com/images/people/joe-levy.jpg
 tags:
 - OpenAPI
 created: "2021-01-22"

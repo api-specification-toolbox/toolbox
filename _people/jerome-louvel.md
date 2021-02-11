@@ -2,7 +2,7 @@
 name: Jerome Louvel
 slug: jerome-louvel
 description:
-image: http://api.specificationtoolbox.com/images/people/jerome-louvel.png
+image: http://api.specificationtoolbox.com/images/people/jerome-louvel.jpg
 tags:
 - OpenAPI
 created: "2021-01-22"

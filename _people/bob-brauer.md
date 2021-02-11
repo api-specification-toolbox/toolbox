@@ -2,7 +2,7 @@
 name: Bob Brauer
 slug: bob-brauer
 description:
-image: http://api.specificationtoolbox.com/images/people/bob-brauer.png
+image: http://api.specificationtoolbox.com/images/people/bob-brauer.jpg
 tags:
 - OpenAPI
 created: "2021-01-22"

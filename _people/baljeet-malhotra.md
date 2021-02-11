@@ -2,7 +2,7 @@
 name: Baljeet Malhotra
 slug: baljeet-malhotra
 description:
-image: http://api.specificationtoolbox.com/images/people/baljeet-malhotra.png
+image: http://api.specificationtoolbox.com/images/people/baljeet-malhotra.jpg
 tags:
 - OpenAPI
 created: "2021-01-22"

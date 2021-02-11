@@ -2,7 +2,7 @@
 name: Antonio Gámez
 slug: antonio-gamez
 description:
-image: http://api.specificationtoolbox.com/images/people/antonio-gamez.png
+image: http://api.specificationtoolbox.com/images/people/antonio-gamez.jpeg
 tags:
 - OpenAPI
 - VMWare
