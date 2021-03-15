@@ -11,9 +11,6 @@ x-alexaRank: "367675"
 url: http://api.specificationtoolbox.com/resources/service-providers/tyk/
 tags:
 - Management
-- Integration Landscape
-- Have Swagger
-- Deployment
 apis: []
 x-common:
 - type: x-about

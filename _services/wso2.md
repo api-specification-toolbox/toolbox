@@ -13,11 +13,6 @@ url: http://api.specificationtoolbox.com/resources/service-providers/wso2/
 tags:
 - Portals
 - Management
-- Integration Landscape
-- Have Swagger
-- Digital Transformation
-- Digital Business
-- API LIfeycle
 apis: []
 x-common:
 - type: x-about

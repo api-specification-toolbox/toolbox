@@ -17,8 +17,6 @@ url: http://api.specificationtoolbox.com/resources/service-providers/soapui/
 tags:
 - Testing
 - SOAP
-- No API
-- Integration Landscape
 apis: []
 x-common:
 - type: x-website

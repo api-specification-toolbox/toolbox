@@ -16,6 +16,7 @@ tags:
 - Design
 - Databases
 - Collaboration
+- Visualizations
 apis: []
 x-common:
 - type: x-crunchbase

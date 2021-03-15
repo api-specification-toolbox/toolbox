@@ -1,6 +1,6 @@
 ---
 name: Mocky
-description: <p>Mock your HTTP responses to test your REST API.</p>
+description: Mocky is free to use, no ads, no hidden subscriptions or service limits. Your mocks will be available forever if you call it at least on time per year, but without any guarantee. Mocky is distributed with Apache 2 licence on Github. Community contributions are welcome! Ready-to-use distributions will be available to host your own Mocky instance.
 image: http://api.specificationtoolbox.com/images/service-providers/mocky.jpg
 created: "2020-12-23"
 modified: 2020-12-24PST10:05:00-28800
@@ -13,6 +13,7 @@ tags:
 - Testing
 - Sandbox
 - Code
+- Mocking
 apis: []
 x-common:
 - type: x-website

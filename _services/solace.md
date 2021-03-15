@@ -16,6 +16,8 @@ tags:
 - Microservices
 - Event-Driven
 - Event Brokers
+- Events
+- Real Time
 - AMQP
 apis: []
 x-common:

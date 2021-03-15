@@ -11,7 +11,6 @@ url: http://api.specificationtoolbox.com/resources/service-providers/api-fortres
 tags:
 - Virtualizations
 - Testing
-- No API
 - Monitoring
 apis: []
 x-common:

@@ -11,14 +11,10 @@ x-rank: "9"
 x-alexaRank: "38636"
 url: http://api.specificationtoolbox.com/resources/service-providers/tibco-software/
 tags:
-- Postman Doc Search
 - Middleware
 - Management
-- Integration Landscape
-- Have Swagger
 - Gateway
 - Deployment
-- API Management Other
 apis: []
 x-common:
 - type: x-blog

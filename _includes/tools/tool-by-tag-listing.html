@@ -1,0 +1,48 @@
+{% assign tools = site.tools %}
+{% assign tools = tools | sort: 'name' %}
+{% assign toggle = 0 %}
+{% assign tool_count = 0 %}
+<h4 style="padding-left: 20px; padding-top: 10px; padding-bottom: 10px;">Tools</h4>
+<ul style="padding-left: 30px;">
+  {% for entry in tools %}
+    {% assign tag_match = 0 %}
+    {% for tag in entry.tags %}
+      {% if tag == show_tag %}
+        {% assign tag_match = 1 %}
+      {% endif %}
+    {% endfor %}
+
+    {% if tag_match == 1 %}
+
+      {% assign website_url = '' %}
+      {% assign twitter_url = '' %}
+      {% assign github_url = '' %}
+      {% for common in entry.x-common %}
+        {% if common.type == 'x-website' %}
+          {% assign website_url = common.url %}
+        {% endif %}
+        {% if common.type == 'x-twitter' %}
+          {% assign twitter_url = common.url %}
+        {% endif %}
+        {% if common.type == 'x-github' %}
+          {% assign github_url = common.url %}
+        {% endif %}
+      {% endfor %}
+
+      <li><strong>&#8594; {{ entry.name }}</strong> (<a href="{{ website_url }}">Website</a>) {% if github_url != '' %}(<a href="{{ github_url }}">Github</a>){% endif %}</li>
+
+      {% if toggle == 0 %}
+        {% assign toggle = 1 %}
+      {% else %}
+        {% assign toggle = 0 %}
+      {% endif %}
+
+      {% assign tool_count = tool_count | plus: 1 %}
+
+    {% endif %}
+
+  {% endfor %}
+  {% if tool_count == 0 %}
+    <li><strong>&#8594; No Entries</strong></li>
+  {% endif %}
+</ul>

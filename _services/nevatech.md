@@ -1,16 +1,15 @@
 ---
 name: Nevatech
-description: API Management and SOA Governance for enterprises and developers
+description: Nevatech Sentinet is a powerful, flexible, lightweight and scalable API Management and API Governance software platform that will comprehensively address all your API Management needs. Think of any API Management feature or deployment model - and you will find it covered by Sentinet with unprecedented ease of use and completeness of capabilities.
 image: http://api.specificationtoolbox.com/images/service-providers/nevatech.jpg
 created: "2020-12-23"
-modified: 2020-12-24PST10:05:00-28800
+modified: 2021-02-09PST10:05:00-28800
 specificationVersion: "0.14"
 x-rank: "9"
 x-alexaRank: "4729471"
 url: http://api.specificationtoolbox.com/resources/service-providers/nevatech/
 tags:
 - Management
-- API Management Other
 apis: []
 x-common:
 - type: x-website

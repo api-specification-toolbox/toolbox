@@ -14,12 +14,10 @@ tags:
 - Studio
 - Proxy
 - Mocking
-- Integration Landscape
-- Have Swagger
 - Documentation
 - Design
 - Clients
-- API LIfeycle
+- Editors
 apis: []
 x-common:
 - type: x-website

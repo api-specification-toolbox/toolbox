@@ -11,9 +11,6 @@ x-rank: "7"
 x-alexaRank: "15025"
 url: http://api.specificationtoolbox.com/resources/service-providers/pingdom/
 tags:
-- Streams
-- Streams
-- Streams
 - Performance
 - Monitoring
 apis: []

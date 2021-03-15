@@ -5,6 +5,7 @@ description: JSON Schema is a powerful tool for validating the structure of JSON
 image: http://api.specificationtoolbox.com/images/tools/understanding-json-schema.png
 tags:
 - Learning
+- Documentation
 - JSON Schema
 created: "2021-01-05"
 modified: "2021-01-05"
@@ -15,6 +16,6 @@ include: []
 x-common:
 - type: x-website
   url: http://json-schema.org/understanding-json-schema/index.html
-- type: x-website
+- type: x-github
   url: https://github.com/json-schema-org/understanding-json-schema
 ...

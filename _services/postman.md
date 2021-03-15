@@ -50,6 +50,7 @@ tags:
 - Chrome
 - Automated Testing
 - API Description
+- Generators
 apis: []
 x-common:
 - type: x-versioning

@@ -11,14 +11,9 @@ x-rank: "8"
 x-alexaRank: "20159"
 url: http://api.specificationtoolbox.com/resources/service-providers/pagerduty/
 tags:
-- Streams
-- Streams
-- Streams
 - Notifications
 - Monitoring
-- Integration Landscape
-- Incident
-- Have Swagger
+- Incidents
 apis: []
 x-common:
 - type: x-website

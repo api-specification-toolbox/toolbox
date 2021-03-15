@@ -11,6 +11,7 @@ x-alexaRank: "8611463"
 url: http://api.specificationtoolbox.com/resources/service-providers/speca-io/
 tags:
 - Design
+- Documentation
 apis: []
 x-common:
 - type: x-email

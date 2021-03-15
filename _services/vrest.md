@@ -11,6 +11,7 @@ x-alexaRank: "4156668"
 url: http://api.specificationtoolbox.com/resources/service-providers/vrest/
 tags:
 - Virtualizations
+- Mocking
 - Testing
 apis: []
 x-common:

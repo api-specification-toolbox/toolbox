@@ -11,11 +11,10 @@ x-alexaRank: "18244"
 url: http://api.specificationtoolbox.com/resources/service-providers/swagger/
 tags:
 - Marketplace
-- Have Swagger
+- Hubs
 - Documentation
 - Discovery
 - Design
-- API LIfeycle
 apis: []
 x-common:
 - type: x-about
