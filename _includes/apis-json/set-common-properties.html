@@ -3,6 +3,7 @@
 {% assign github_url = '' %}
 {% assign postman_workspace = '' %}
 {% assign npm_url = '' %}
+
 {% for common in page.x-common %}
   {% if common.type == 'x-twitter' or common.type == 'Twitter' %}
     {% assign twitter_url = common.url %}
