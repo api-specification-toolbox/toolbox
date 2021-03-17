@@ -2,6 +2,7 @@
 {% assign website_url = '' %}
 {% assign github_url = '' %}
 {% assign postman_workspace = '' %}
+{% assign npm_url = '' %}
 {% for common in page.x-common %}
   {% if common.type == 'x-twitter' or common.type == 'Twitter' %}
     {% assign twitter_url = common.url %}
@@ -15,4 +16,7 @@
   {% if common.type == 'x-postman-workspace' %}
     {% assign postman_workspace = common.url %}
   {% endif %}
+  {% if common.type == 'x-npm' %}
+    {% assign npm_url = common.url %}
+  {% endif %}  
 {% endfor %}
