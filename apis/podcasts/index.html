@@ -1,0 +1,17 @@
+---
+layout: none
+---
+[{% assign podcasts = site.podcasts %}{% assign podcasts = podcasts | sort: 'name' %}{% for podcast in podcasts %}
+{
+   "name": "{{ podcast.name | strip_html }}",
+   "description": "{{ podcast.description | strip_html }}",
+   "image": "{{ podcast.image }}",
+   "tags": {{ podcast.tags | jsonify }},
+   "created": "{{ podcast.created }}",
+   "modified": "{{ podcast.modified }}",
+   "url": "{{ podcast.url }}",
+   "podcastVersion": "{{ podcast.videoVersion }}",
+   "apis": {{ podcast.apis | jsonify }},
+   "x-common": {{ podcast.x-common | jsonify }}
+}{% if forloop.last == true %}{% else %},{% endif %}
+{% endfor %}]
