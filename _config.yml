@@ -57,6 +57,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  podcasts:
+    output: true
+    permalink: /podcasts/:path/
 
 defaults:
   - scope:
@@ -103,3 +106,7 @@ defaults:
       type: projects
     values:
       layout: projects
+  - scope:
+      type: podcasts
+    values:
+      layout: podcasts
