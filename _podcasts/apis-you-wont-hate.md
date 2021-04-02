@@ -2,7 +2,7 @@
 layout: post
 name: APIs You Won't Hate
 description: <p><span>A podcast wherein Phil Sturgeon, Mike Bifulco, and Matt Trask talk about news in the world of building and designing APIs, bikes, and climate awareness.</span></p>
-image: /images/podcasts/apis-you-wont-hate.png
+image: http://api.specificationtoolbox.com/images/podcasts/apis-you-wont-hate.png
 tags:
   - Podcasts
   - OpenAPI

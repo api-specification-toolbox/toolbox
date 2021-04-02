@@ -3,7 +3,7 @@ layout: post
 name: APIs Unplugged
 description: <p><span>A podcast full of actionable insights for the API economy. Hosts Mike Amundsen and Matt McLarty 
     welcome guests to discuss digital business strategy, integration architecture, and the latest technology trends.</span></p>
-image: /images/podcasts/apis-unplugged.png
+image: http://api.specificationtoolbox.com/images/podcasts/apis-unplugged.png
 tags:
 - Podcast
 - architecture
