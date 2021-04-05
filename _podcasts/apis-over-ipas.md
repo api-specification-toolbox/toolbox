@@ -2,7 +2,7 @@
 layout: post
 name: APIs over IPAs
 description: <p><span>A podcast Moesif on all things API. Nothing better than a good API discussion over a cool IPA!</span></p>
-image: /images/podcasts/apis-over-ipas.png
+image: http://api.specificationtoolbox.com/images/podcasts/apis-over-ipas.png
 tags:
   - Podcasts
   - OpenAPI
