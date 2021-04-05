@@ -342,7 +342,7 @@
 		padding-top:0px;
 		width:100%;
 		margin:0px;
-		display:none;
+		/*display:none;*/
 	}
 	
 	.main-menu .collapse {
@@ -487,33 +487,33 @@
 	.main-menu .navbar-collapse > .navigation > li:first-child{
 		border:none;	
 	}
-	
-	.main-menu .navbar-collapse > .navigation > li > a,
-	.main-menu .navbar-collapse > .navigation > li > ul > li > a,
-	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li > a{
-		padding:10px 10px !important;
-		line-height:22px;
-		color:#ffffff;
-		background:#e73f43;
-		text-align:left;
-		min-height:0px;
-	}
+
+		.main-menu .navbar-collapse > .navigation > li > a,
+		.main-menu .navbar-collapse > .navigation > li > ul > li > a,
+		.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li > a {
+			padding: 10px 10px !important;
+			line-height: 22px;
+			color: #ffffff;
+			background: #000000;
+			text-align: left;
+			min-height: 0px;
+		}
 	
 	.main-menu .navbar-collapse > .navigation > li > a:hover,
 	.main-menu .navbar-collapse > .navigation > li > a:active,
 	.main-menu .navbar-collapse > .navigation > li > a:focus{
 		background:#e73f43;
 	}
-	
-	.main-menu .navbar-collapse > .navigation > li:hover > a,
-	.main-menu .navbar-collapse > .navigation > li > ul > li:hover > a,
-	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:hover > a,
-	.main-menu .navbar-collapse > .navigation > li.current > a,
-	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a,
-	.header-style-two.inner-header .main-menu .navigation > li > a{
-		background:#e73f43;
-		color:#ffffff !important;
-	}
+
+		.main-menu .navbar-collapse > .navigation > li:hover > a,
+		.main-menu .navbar-collapse > .navigation > li > ul > li:hover > a,
+		.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:hover > a,
+		.main-menu .navbar-collapse > .navigation > li.current > a,
+		.main-menu .navbar-collapse > .navigation > li.current-menu-item > a,
+		.header-style-two.inner-header .main-menu .navigation > li > a {
+			background: #F7F3F4;
+			color: #777777 !important;
+		}
 	
 	.main-menu .navigation li.dropdown .dropdown-btn{
 		display:block;
