@@ -1,2 +1,5 @@
 .DS_Store
+*.suo
+*.user
+*.sln.docstates
 .vs/
