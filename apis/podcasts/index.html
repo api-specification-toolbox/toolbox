@@ -10,7 +10,7 @@ layout: none
    "created": "{{ podcast.created }}",
    "modified": "{{ podcast.modified }}",
    "url": "{{ podcast.url }}",
-   "podcastVersion": "{{ podcast.videoVersion }}",
+   "podcastVersion": "{{ podcast.podcastVersion }}",
    "apis": {{ podcast.apis | jsonify }},
    "x-common": {{ podcast.x-common | jsonify }}
 }{% if forloop.last == true %}{% else %},{% endif %}
