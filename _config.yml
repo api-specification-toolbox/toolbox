@@ -60,6 +60,9 @@ collections:
   podcasts:
     output: true
     permalink: /podcasts/:path/
+  learning:
+    output: true
+    permalink: /learning/:path/
 
 defaults:
   - scope:
@@ -110,3 +113,7 @@ defaults:
       type: podcasts
     values:
       layout: podcasts
+  - scope:
+      type: learning
+    values:
+      layout: learning

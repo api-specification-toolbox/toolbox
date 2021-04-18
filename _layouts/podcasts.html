@@ -1,0 +1,76 @@
+---
+layout: default
+---
+
+<!--Sidebar Page Container-->
+<div class="sidebar-page-container" style="padding-top: 25px;">
+    <div class="auto-container">
+        <div class="row clearfix">
+
+            <!--Content Side-->
+            <div class="content-side col-lg-8 col-md-12 col-sm-12">
+                <div class="content">
+                    <div class="blog-single">
+                        <div class="inner-box">
+                            <div class="upper-box">
+                                <ul class="breadcrumb-bar">
+                                    <li><a href="/">Home</a></li>
+                                    <li><a href="/podcasts/"></a>Podcasts</li>
+                                    <li>{{ page.name }}</li>
+                                </ul>
+                                <ul class="tag-title">
+                                    {% for tag in page.tags %}
+                                    <li>{{ tag }}</li>
+                                    {% endfor %}
+                                </ul>
+                                <h2>{{ page.name }}</h2>
+                            </div>
+                            <div class="text">
+                                <center><img src="{{ page.image }}" width="90%" align="center" style="padding: 15px;"></center>
+                            </div>
+                            <div class="text">
+                                {{ page.description }}
+                            </div>
+
+                            {% include apis-json/set-common-properties.html %}
+
+                            <div align="center" style="border-top:1px solid #e2e2e2; margin-top: 30px;">
+                                <table style="margin-top: 20px;" cellpadding="5" cellspacing="5">
+                                    <tr>
+                                        {% if website_url != '' %}
+                                        <td style="padding: 15px;"><a href="{{ website_url }}" target="_blank"><img src="https://kinlane-productions2.s3.amazonaws.com/bw-icons/bw-home-icon.jpeg" width="50"></a></td>
+                                        {% endif %}
+                                        {% if twitter_url != '' %}
+                                        <td style="padding: 15px;"><a href="{{ twitter_url }}" target="_blank"><img src="https://kinlane-productions2.s3.amazonaws.com/bw-icons/bw-twitter-icon.png" width="50"></a></td>
+                                        {% endif %}
+                                        {% if github_url != '' %}
+                                        <td style="padding: 15px;"><a href="{{ github_url }}" target="_blank"><img src="https://kinlane-productions2.s3.amazonaws.com/bw-icons/bw-github-icon.png" width="50"></a></td>
+                                        {% endif %}
+                                    </tr>
+                                </table>
+                            </div>
+
+                            <ul class="new-article clearfix">
+                                <li><a href="#"><span class="fa fa-angle-left"></span> &ensp; &ensp; &ensp; &ensp; Previous Podcast</a></li>
+                                <li><a href="#">Next Podcast &ensp; &ensp; &ensp; &ensp; <span class="fa fa-angle-right"></span></a></li>
+                            </ul>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <!--Sidebar Side-->
+            <div class="sidebar-side col-lg-4 col-md-12 col-sm-12">
+                <aside class="sidebar default-sidebar right-sidebar">
+
+                    {% include advertising/advertising-widget.html %}
+
+                    {% include podcasts/podcasts-tag-widget.html %}
+
+                </aside>
+            </div>
+        </div>
+    </div>
+</div>
+<!--End Sidebar Page Container-->
