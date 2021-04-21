@@ -1,0 +1,17 @@
+---
+layout: none
+---
+[{% assign learnings = site.learning %}{% assign learnings = learnings | sort: 'name' %}{% for learning in learnings %}
+{
+   "name": "{{ learning.name | strip_html }}",
+   "description": "{{ learning.description | strip_html }}",
+   "image": "{{ learning.image }}",
+   "tags": {{ learning.tags | jsonify }},
+   "created": "{{ learning.created }}",
+   "modified": "{{ learning.modified }}",
+   "url": "{{ learning.url }}",
+   "learningVersion": "{{ learning.learningVersion }}",
+   "apis": {{ learning.apis | jsonify }},
+   "x-common": {{ learning.x-common | jsonify }}
+}{% if forloop.last == true %}{% else %},{% endif %}
+{% endfor %}]

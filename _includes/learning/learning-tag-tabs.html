@@ -1,0 +1,57 @@
+<!--Category Tabs Box-->
+<div class="category-tabs-box">
+    <!--Product Tabs-->
+    <div class="prod-tabs tabs-box">
+        <!--Tab Btns-->
+        <div class="tab-btns tab-buttons clearfix">
+            <div class="pull-left">
+                <div class="category">Learning</div>
+            </div>
+            <div class="pull-right">
+                <div></div>
+            </div>
+        </div>
+        <!--Tabs Container-->
+        <div class="tabs-content">
+
+            <!--Tab / Active Tab-->
+            <div class="tab active-tab" id="prod-alls">
+                <div class="content">
+                    <div class="row clearfix">
+
+                        {% assign learning = site.learning %}
+                        {% assign learning = learning | sort: 'x-rank' | reverse %}
+                        {% for entry in learning limit:6 %}
+
+                        {% assign website_url = '' %}
+                        {% for common in entry.x-common %}
+                            {% if common.type == 'x-website' %}
+                                {% assign website_url = common.url %}
+                            {% endif %}
+                        {% endfor %}
+
+                        <div class="news-block-two col-lg-6 col-md-6 col-sm-12">
+                            <div class="inner-box">
+                                <div class="image">
+                                    <a href="{{ entry.url }}"><img src="{{ entry.image }}" alt="{{ entry.name }}" style="border: 8px solid #ccc; width: 100%; height: 200px;" /></a>
+                                </div>
+                                <div class="lower-box">
+                                    <h3><a href="{{ entry.url }}">{{ entry.name }}</a></h3>
+                                    <ul class="post-meta">
+                                        <li><span class="icon fa fa-clock-o"></span>{{ entry.date | date: "%b %d, %y" }}</li>
+                                    </ul>
+                                    <div class="text">{{ entry.description | truncate: 395 | strip_html }}</div>
+                                    <strong>Website:</strong> <a href="{{ website_url }}" target="_blank">{{ website_url }}</a>
+                                </div>
+                            </div>
+                        </div>
+                        {% endfor %}
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<!--End Category Info Tabs-->
