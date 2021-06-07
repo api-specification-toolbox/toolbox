@@ -1,7 +1,7 @@
 ---
 name: API Design Systems
 description: An API Design System is a collection of curated standards, guidelines, practices, and principles aimed at helping teams build consistent, quality APIs. If this is your first time checking this out, have a look at the example, read the overview below, and check out the guidelines. The specification has more technical details about the format.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/api-design-systems.png
+image: https://api.specificationtoolbox.com/images/specifications/api-design-systems.png
 tags:
 - Systems
 - Governance

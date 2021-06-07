@@ -1,7 +1,7 @@
 ---
 name: JSON Web Token (JWT) Profile for OAuth 2.0 Access Tokens
 description: This specification defines a profile for issuing OAuth 2.0 access tokens in JSON web token (JWT) format.  Authorization servers and resource servers from different vendors can leverage this profile to issue and consume access tokens in interoperable manner.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/json-web-token-jwt-profile-for-oauth-20-access-tokens.png
+image: https://api.specificationtoolbox.com/images/specifications/json-web-token-jwt-profile-for-oauth-20-access-tokens.png
 tags:
 - Matching
 - Discovery

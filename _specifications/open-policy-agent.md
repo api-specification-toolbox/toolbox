@@ -1,7 +1,7 @@
 ---
 name: Open Policy Agent
 description: Stop using a different policy language, policy model, and policy API for every product and service you use. Use OPA for a unified toolset and framework for policy across the cloud native stack. Whether for one service or for all your services, use OPA to decouple policy from the service's code so you can release, analyze, and review policies (which security and compliance teams love) without sacrificing availability or performance.
-image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/open-policy-agent.png
+image: https://api.specificationtoolbox.com/images/specifications/open-policy-agent.png
 tags:
 - Policies
 created: "2021-06-05"
