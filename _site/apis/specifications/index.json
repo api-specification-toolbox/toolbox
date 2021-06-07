@@ -13,6 +13,19 @@
 },
 
 {
+   "name": "API Design Systems",
+   "description": "An API Design System is a collection of curated standards, guidelines, practices, and principles aimed at helping teams build consistent, quality APIs. If this is your first time checking this out, have a look at the example, read the overview below, and check out the guidelines. The specification has more technical details about the format.",
+   "image": "http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/api-design-systems.png",
+   "tags": ["Systems","Governance"],
+   "created": "2021-06-05",
+   "modified": "2021-06-05",
+   "url": "/specifications/api-design-systems/",
+   "specificationVersion": "0.14",
+   "apis": [],
+   "x-common": [{"type":"x-website","url":"https://apidesign.systems/"}]
+},
+
+{
    "name": "APIs.json",
    "description": "APIs.json or APIs.yaml is a machine readable format for describing the surface area of API operations. It doesn't describe a single API, but the operates around it, including OpenAPI, Postman collections and other machine readable artifacts, as well as human elements like documentation, pricing, and terms of services.",
    "image": "http://kinlane-productions2.s3.amazonaws.com/screen-capture-api/2949-apis-json.jpg",
@@ -78,6 +91,19 @@
 },
 
 {
+   "name": "Cue",
+   "description": "CUE is an open source language, with a rich set of APIs and tooling, for defining, generating, and validating all kinds of data - configuration, APIs, database schemas, code, … you name it.",
+   "image": "http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/cue.png",
+   "tags": ["Systems","Governance"],
+   "created": "2021-06-05",
+   "modified": "2021-06-05",
+   "url": "/specifications/cue/",
+   "specificationVersion": "0.14",
+   "apis": [],
+   "x-common": [{"type":"x-cue","url":"https://github.com/cuelang/"},{"type":"x-website","url":"https://cuelang.org/"}]
+},
+
+{
    "name": "GraphQL",
    "description": "GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.",
    "image": "http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/graphql.png",
@@ -88,6 +114,19 @@
    "specificationVersion": "0.14",
    "apis": [],
    "x-common": [{"type":"APIs.json","url":"https://raw.githubusercontent.com/api-evangelist/1forge/master/apis.json"},{"type":"GitHub","url":"https://github.com/graphql"},{"type":"Twitter","url":"https://twitter.com/GraphQL"},{"type":"Website","url":"https://graphql.org/"},{"type":"x-screenshot","url":"http://kinlane-productions2.s3.amazonaws.com/graphql.jpg"},{"type":"x-workspace","url":"https://www.postman.com/api-evangelist/workspace/graphql/overview"}]
+},
+
+{
+   "name": "JMESPath",
+   "description": "The JMESPath language is described in an ABNF grammar with a complete specification. This ensures that the language syntax is precisely defined. JMESPath has a full suite of data driven testcases. This ensures parity for multiple libraries, and makes it easy for developers to implement JMESPath in their language of choice.",
+   "image": "http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/jmespath.png",
+   "tags": ["Matching","Discovery","JSON"],
+   "created": "2021-06-05",
+   "modified": "2021-06-05",
+   "url": "/specifications/jmespath/",
+   "specificationVersion": "0.14",
+   "apis": [],
+   "x-common": [{"type":"x-website","url":"https://jmespath.org/"}]
 },
 
 {
@@ -130,6 +169,19 @@
 },
 
 {
+   "name": "JSON Web Token (JWT) Profile for OAuth 2.0 Access Tokens",
+   "description": "This specification defines a profile for issuing OAuth 2.0 access tokens in JSON web token (JWT) format.  Authorization servers and resource servers from different vendors can leverage this profile to issue and consume access tokens in interoperable manner.",
+   "image": "http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/json-web-token-jwt-profile-for-oauth-20-access-tokens.png",
+   "tags": ["Matching","Discovery","JSON"],
+   "created": "2021-06-05",
+   "modified": "2021-06-05",
+   "url": "/specifications/json-web-token-jwt-profile-for-oauth-20-access-tokens/",
+   "specificationVersion": "0.14",
+   "apis": [],
+   "x-common": [{"type":"x-website","url":"https://datatracker.ietf.org/doc/html/draft-ietf-oauth-access-token-jwt-11"}]
+},
+
+{
    "name": "JSON-LD",
    "description": "JSON-LD is a lightweight Linked Data format. It is easy for humans to read and write. It is based on the already successful JSON format and provides a way to help JSON data interoperate at Web-scale. JSON-LD is an ideal data format for programming environments, REST Web services, and unstructured databases such as Apache CouchDB and MongoDB.",
    "image": "http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/json-ld.png",
@@ -140,6 +192,32 @@
    "specificationVersion": "0.14",
    "apis": [],
    "x-common": [{"type":"Curated Source","url":"http://json-ld.org/index.html"},{"type":"Website","url":"http://json-ld.org"},{"type":"x-screenshot","url":"http://kinlane-productions2.s3.amazonaws.com/jsonld.jpg"},{"type":"x-workspace","url":"https://www.postman.com/api-evangelist/workspace/jsonld/overview"}]
+},
+
+{
+   "name": "JSONPath",
+   "description": "JSONPath expressions always refer to a JSON structure in the same way as XPath expression are used in combination with an XML document. Since a JSON structure is usually anonymous and doesn't necessarily have a "root member object" JSONPath assumes the abstract name $ assigned to the outer level object.",
+   "image": "http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/jsonpath.png",
+   "tags": ["Matching","Discovery","JSON"],
+   "created": "2021-06-05",
+   "modified": "2021-06-05",
+   "url": "/specifications/jsonpath/",
+   "specificationVersion": "0.14",
+   "apis": [],
+   "x-common": [{"type":"x-website","url":"https://tools.ietf.org/id/draft-goessner-dispatch-jsonpath-00.html"}]
+},
+
+{
+   "name": "JSONata",
+   "description": "JSONata is a lightweight query and transformation language for JSON data. Inspired by the 'location path' semantics of XPath 3.1, it allows sophisticated queries to be expressed in a compact and intuitive notation. A rich complement of built in operators and functions is provided for manipulating and combining extracted data, and the results of queries can be formatted into any JSON output structure using familiar JSON object and array syntax. Coupled with the facility to create user defined functions, advanced expressions can be built to tackle any JSON query and transformation task.",
+   "image": "http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/jsonata.png",
+   "tags": ["JSON","Transformation"],
+   "created": "2021-06-05",
+   "modified": "2021-06-05",
+   "url": "/specifications/jsonata/",
+   "specificationVersion": "0.14",
+   "apis": [],
+   "x-common": [{"type":"x-github","url":"https://github.com/jsonata-js"},{"type":"x-website","url":"http://docs.jsonata.org/"}]
 },
 
 {
