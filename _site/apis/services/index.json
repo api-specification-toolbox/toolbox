@@ -630,6 +630,19 @@ AWS Step Functions manages the operations and underlying infrastructure for you 
 },
 
 {
+   "name": "Backstage",
+   "description": "Backstage is an open platform for building developer portals. Powered by a centralized service catalog, Backstage restores order to your microservices and infrastructure and enables your product teams to ship high-quality code quickly — without compromising autonomy.",
+   "image": "http://api.specificationtoolbox.com/images/service-providers/backstage.png",
+   "tags": ["Portals","Documentation"],
+   "created": "2021-06-05",
+   "modified": "2021-06-05",
+   "url": "/services/backstage/",
+   "serviceVersion": "",
+   "apis": [],
+   "x-common": [{"type":"x-github","url":"https://github.com/backstage"},{"type":"x-website","url":"https://backstage.io/"}]
+},
+
+{
    "name": "Bearer",
    "description": "The ultimate technology to build plug'n play, reusable API Integrations, helping developers & companies get the most of APIs.",
    "image": "http://api.specificationtoolbox.com/images/service-providers/bearer.jpg",
@@ -1410,6 +1423,19 @@ AWS Step Functions manages the operations and underlying infrastructure for you 
 },
 
 {
+   "name": "Hasura",
+   "description": "Hasura makes data access easy, by instantly composing a GraphQL API that is backed by databases and services so that the developer team (or API consumers) get immediately productive. The nature of GraphQL itself and Hasura’s dynamic approach makes integration and iteration easy.",
+   "image": "http://api.specificationtoolbox.com/images/service-providers/hasura.png",
+   "tags": ["GraphQL"],
+   "created": "2021-06-05",
+   "modified": "2021-06-05",
+   "url": "/services/hasura/",
+   "serviceVersion": "",
+   "apis": [],
+   "x-common": [{"type":"x-github","url":"https://github.com/hasura"},{"type":"x-twitter","url":"https://twitter.com/hasurahq"},{"type":"x-pricing","url":"https://hasura.io/pricing/"},{"type":"x-website","url":"https://hasura.io/"}]
+},
+
+{
    "name": "Heroku",
    "description": "Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.",
    "image": "http://api.specificationtoolbox.com/images/service-providers/heroku.jpg",
@@ -1592,6 +1618,19 @@ AWS Step Functions manages the operations and underlying infrastructure for you 
 },
 
 {
+   "name": "Mockend",
+   "description": "Rapidly develop User Interfaces with fake APIs. Back-end not ready or just want to prototype something? Describe your data, automatically get a fake REST & GraphQL API with random values.",
+   "image": "http://api.specificationtoolbox.com/images/service-providers/mockend.png",
+   "tags": ["Mocking","Virtualization"],
+   "created": "2021-06-05",
+   "modified": "2021-06-05",
+   "url": "/services/mockend/",
+   "serviceVersion": "",
+   "apis": [],
+   "x-common": [{"type":"x-github","url":"https://github.com/mockend"},{"type":"x-website","url":"https://mockend.com/"}]
+},
+
+{
    "name": "Mocky",
    "description": "Mocky is free to use, no ads, no hidden subscriptions or service limits. Your mocks will be available forever if you call it at least on time per year, but without any guarantee. Mocky is distributed with Apache 2 licence on Github. Community contributions are welcome! Ready-to-use distributions will be available to host your own Mocky instance.",
    "image": "http://api.specificationtoolbox.com/images/service-providers/mocky.jpg",
@@ -1683,6 +1722,19 @@ AWS Step Functions manages the operations and underlying infrastructure for you 
 },
 
 {
+   "name": "New Relic",
+   "description": "New Relic One helps engineers create more perfect software. Instrument, analyze, troubleshoot, and optimize your entire software stack. No code to update, no deployments, and no lengthy monitoring standardization processes. Get started in minutes, powered by Pixie Auto-telemetry.",
+   "image": "http://api.specificationtoolbox.com/images/service-providers/new-relic.png",
+   "tags": ["Monitoring"],
+   "created": "2021-06-05",
+   "modified": "2021-06-05",
+   "url": "/services/new-relic/",
+   "serviceVersion": "",
+   "apis": [],
+   "x-common": [{"type":"x-twitter","url":"https://twitter.com/NewRelic"},{"type":"x-github","url":"https://github.com/newrelic"},{"type":"x-website","url":"https://newrelic.com/"}]
+},
+
+{
    "name": "Nimbella",
    "description": "Nimbella is a serverless cloud that helps developers and organizations adopt a cloud strategy focused on rapidly delivering business value in a changing cloud landscape. Nimbella is backed by proven enterprise-grade open source software, and offers organizations the peace of mind of being able to run across multiple clouds, including private infrastructure.",
    "image": "http://api.specificationtoolbox.com/images/service-providers/nimbella.jpg",
@@ -1693,6 +1745,19 @@ AWS Step Functions manages the operations and underlying infrastructure for you 
    "serviceVersion": "",
    "apis": [],
    "x-common": [{"type":"x-website","url":"http://nimbella.com"}]
+},
+
+{
+   "name": "Noname",
+   "description": "Our mission is to enable companies to leverage APIs safely and securely, and realize the full promise of APIs to maximize efficiency, productivity, and value. Protect your APIs from data leakage, authorization issues, abuse, misuse, and data corruption with no agents and no network modifications.",
+   "image": "http://api.specificationtoolbox.com/images/service-providers/noname.png",
+   "tags": ["Security"],
+   "created": "2021-06-05",
+   "modified": "2021-06-05",
+   "url": "/services/noname/",
+   "serviceVersion": "",
+   "apis": [],
+   "x-common": [{"type":"x-github","url":"https://github.com/nonamesec"},{"type":"x-twitter","url":"https://twitter.com/NonameSecurity"},{"type":"x-blog","url":"https://nonamesecurity.com/blog"},{"type":"x-website","url":"https://nonamesecurity.com/"}]
 },
 
 {
@@ -2005,6 +2070,32 @@ AWS Step Functions manages the operations and underlying infrastructure for you 
    "serviceVersion": "",
    "apis": [],
    "x-common": [{"type":"x-website","url":"http://www.restcase.com"},{"type":"x-blog","url":"https://blog.restcase.com"},{"type":"x-blog-rss","url":"http://blog.restcase.com/rss/"},{"type":"x-documentation","url":"http://docs.restcase.com/"},{"type":"x-email","url":"guy.levin@restcase.com"},{"type":"x-facebook","url":"https://www.facebook.com/RestCase/"},{"type":"x-github","url":"https://github.com/restcase"},{"type":"x-linkedin","url":"https://www.linkedin.com/company/restcase"},{"type":"x-login","url":"https://app.restcase.com/login"},{"type":"x-self-service-registration","url":"https://app.restcase.com/register"},{"type":"x-website","url":"https://www.restcase.com/"}]
+},
+
+{
+   "name": "Rigor",
+   "description": "Our Digital Experience Monitoring platform combines the power of synthetic monitoring with an intelligent optimization engine to help you find, fix and prevent the web and API performance issues impacting your user experience.",
+   "image": "http://api.specificationtoolbox.com/images/service-providers/rigor.png",
+   "tags": ["Monitoring"],
+   "created": "2021-06-05",
+   "modified": "2021-06-05",
+   "url": "/services/rigor/",
+   "serviceVersion": "",
+   "apis": [],
+   "x-common": [{"type":"x-website","url":"https://rigor.com/"}]
+},
+
+{
+   "name": "Roadie",
+   "description": "Roadie's SaaS platform handles hosting and upgrades and ensures you always have access to the latest Backstage features.",
+   "image": "http://api.specificationtoolbox.com/images/service-providers/roadie.png",
+   "tags": ["Portals","Documentation","Discovery"],
+   "created": "2021-06-05",
+   "modified": "2021-06-05",
+   "url": "/services/roadie/",
+   "serviceVersion": "",
+   "apis": [],
+   "x-common": [{"type":"x-website","url":"https://roadie.io/"}]
 },
 
 {
