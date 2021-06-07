@@ -12,7 +12,7 @@ specificationVersion: "0.14"
 apis: []
 include: []
 x-common:
-- type: x-cue
+- type: x-github
   url: https://github.com/cuelang/
 - type: x-website
   url: https://cuelang.org/  
