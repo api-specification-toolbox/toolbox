@@ -3,331 +3,205 @@ layout: default
 title: About
 ---
 
-<!--Page Title-->
-<section class="page-title">
-<div class="auto-container">
-	<div class="clearfix">
-    	<div class="pull-left">
-        	<h2>About The API Specification Toolbox</h2>
-        </div>
-        <div class="pull-right">
-        	<ul class="page-title-breadcrumb">
-            	<li><a href="#"><span class="fa fa-home"></span>Home</a></li>
-                <li>About</li>
-            </ul>
-        </div>
-    </div>
-</div>
-</section>
-<!--End Page Title-->
 
-<            <!--Product Info Tabs-->
-<div class="product-info-tabs">
-    <!--Product Tabs-->
-    <div class="prod-tabs tabs-box">
+<div class="sidebar-page-container" style="padding-top: 10px;">
+    <div class="auto-container">
 
-        <!--Tab Btns-->
-        <ul class="tab-btns tab-buttons clearfix">
-            <li data-tab="#prod-details" class="tab-btn active-btn">Description</li>
-            <li data-tab="#prod-reviews" class="tab-btn">Additional Info</li>
-            <li data-tab="#prod-info" class="tab-btn">Reviews (3)</li>
-        </ul>
+        <p>This is a toolbox of many specifications, services, tools, people, and other resources. There is a lot of information available here, something that is always expanding and contracting. Feel free to sort through all of the information here, or feel free to just get started with three of the most important specifications to the world of APIs.</p>
+        <table width="100%" align="center" border="1">
 
-        <!--Tabs Container-->
-        <div class="tabs-content">
+            <tr><td colspan="3"><hr></td></tr>
 
-            <!--Tab / Active Tab-->
-            <div class="tab active-tab" id="prod-details">
-                <div class="content">
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores.Lorem ipsum dolor sit amet, consectetuer adipiscing elit doli.</p>
-                    <p>Aenean commodo ligula eget dolor. Aenean massa. Cumtipsu sociis natoque penatibus et magnis dis parturient montesti, nascetur ridiculus mus.</p>
-                </div>
-            </div>
+            {% assign specifications = site.specifications %}
+            {% for entry in specifications %}
+                {% if entry.name == 'OpenAPI' %}
 
-            <!--Tab-->
-            <div class="tab" id="prod-reviews">
-                <div class="content">
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores.Lorem ipsum dolor sit amet, consectetuer adipiscing elit doli. Aenean commodo ligula eget dolor. Aenean massa. Cumtipsu sociis natoque penatibus et magnis dis parturient montesti, nascetur ridiculus mus.</p>
-                </div>
-            </div>
+                <tr>
+                    <td width="24%" align="center">                                
+                        <a href="{{ entry.url }}"><img src="{{ entry.image }}" alt="" width="375"></a><br>
+                    </td>
+                    <td width="38%" align="center">
+                        <table width="100%"
+                            <tr>
+                                <td width="40%" align="center">
+                                    <a href="{{ entry.url }}"><img src="/images/learn.png" alt="" width="90"></a><br>
+                                    <a href="{{ entry.url }}">Learn</a>                        
+                                </td>
+                                <td width="60%">
+                                    <ul>
+                                        {% for common in entry.x-common %}
+                                            {% assign tagged = 0 %}
+                                            {% for tag in common.x-tags %}
+                                                {% if tag == 'Learn' %}
+                                                    {% assign tagged = 1 %}
+                                                {% endif %}   
+                                            {% endfor %}   
+                                            {% if tagged == 1 %}                          
+                                                <li>&#8594; <a href="{{ common.url }}">{{ common.x-name }}</a></li>
+                                            {% endif %}   
+                                        {% endfor %} 
+                                    </ul>                                        
+                                </td>
+                            </tr>
+                        </table>
+                    </td> 
+                    <td width="38%" align="center">
+                        <table width="100%"
+                            <tr>
+                                <td width="40%" align="center">
+                                    <a href="{{ entry.url }}"><img src="/images/contribute.png" alt="" width="90"></a><br>
+                                    <a href="{{ entry.url }}">Contribute</a>                        
+                                </td>
+                                <td width="60%">
+                                    <ul>
+                                        {% for common in entry.x-common %}
+                                            {% assign tagged = 0 %}
+                                            {% for tag in common.x-tags %}
+                                                {% if tag == 'Contribute' %}
+                                                    {% assign tagged = 1 %}
+                                                {% endif %}   
+                                            {% endfor %}   
+                                            {% if tagged == 1 %}                          
+                                                <li>&#8594; <a href="{{ common.url }}">{{ common.x-name }}</a></li>
+                                            {% endif %}   
+                                        {% endfor %} 
+                                    </ul>                                        
+                                </td>
+                            </tr>
+                        </table>
+                    </td> 
+                </tr>
 
-            <!--Tab / Active Tab-->
-            <div class="tab" id="prod-info">
-                <div class="content">
+                {% endif %}   
+            {% endfor %} 
 
-                    <!--Comment Box-->
-                    <div class="comment-box">
-                        <div class="comment">
-                            <div class="author-thumb"><img src="images/resource/author-2.jpg" alt=""></div>
-                            <div class="comment-inner">
-                                <div class="comment-info">Sandra Mavic</div>
-                                <div class="post-date">March 03, 2017</div>
-                                <div class="text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit doli. Aenean commodo ligula eget dolor. Aenean massa. Cumtipsu sociis natoque penatibus et magnis dis parturient montesti, nascetur ridiculus mus. Donec qam penatibus et magnis .</div>
-                                <div class="rating">
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star light"></span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                <tr><td colspan="3"><hr></td></tr>
 
-                    <!--Comment Box-->
-                    <div class="comment-box reply-comment">
-                        <div class="comment">
-                            <div class="author-thumb"><img src="images/resource/author-2.jpg" alt=""></div>
-                            <div class="comment-inner">
-                                <div class="comment-info">Micheal Waugn</div>
-                                <div class="post-date">April 04, 2017</div>
-                                <div class="text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit doli. Aenean commodo ligula eget dolor. Aenean massa. Cumtipsu sociis natoque penatibus et magnis dis parturient montesti, nascetur ridiculus mus. Donec qam penatibus et magnis .</div>
-                                <div class="rating">
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star light"></span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+            {% for entry in specifications %}
+                {% if entry.name == 'AsyncAPI' %}
 
-                    <!--Comment Box-->
-                    <div class="comment-box">
-                        <div class="comment">
-                            <div class="author-thumb"><img src="images/resource/author-2.jpg" alt=""></div>
-                            <div class="comment-inner">
-                                <div class="comment-info">David Warner</div>
-                                <div class="post-date">March 10, 2017</div>
-                                <div class="text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit doli. Aenean commodo ligula eget dolor. Aenean massa. Cumtipsu sociis natoque penatibus et magnis dis parturient montesti, nascetur ridiculus mus. Donec qam penatibus et magnis .</div>
-                                <div class="rating">
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                    <span class="fa fa-star"></span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                <tr>
+                    <td width="24%" align="center">                                
+                        <a href="{{ entry.url }}"><img src="{{ entry.image }}" alt="" width="375"></a><br>
+                    </td>
+                    <td width="38%" align="center">
+                        <table width="100%"
+                            <tr>
+                                <td width="40%" align="center">
+                                    <a href="{{ entry.url }}"><img src="/images/learn.png" alt="" width="90"></a><br>
+                                    <a href="{{ entry.url }}">Learn</a>                        
+                                </td>
+                                <td width="60%">
+                                    <ul>
+                                        {% for common in entry.x-common %}
+                                            {% assign tagged = 0 %}
+                                            {% for tag in common.x-tags %}
+                                                {% if tag == 'Learn' %}
+                                                    {% assign tagged = 1 %}
+                                                {% endif %}   
+                                            {% endfor %}   
+                                            {% if tagged == 1 %}                          
+                                                <li>&#8594; <a href="{{ common.url }}">{{ common.x-name }}</a></li>
+                                            {% endif %}   
+                                        {% endfor %} 
+                                    </ul>                                        
+                                </td>
+                            </tr>
+                        </table>
+                    </td> 
+                    <td width="38%" align="center">
+                        <table width="100%"
+                            <tr>
+                                <td width="40%" align="center">
+                                    <a href="{{ entry.url }}"><img src="/images/contribute.png" alt="" width="90"></a><br>
+                                    <a href="{{ entry.url }}">Contribute</a>                        
+                                </td>
+                                <td width="60%">
+                                    <ul>
+                                        {% for common in entry.x-common %}
+                                            {% assign tagged = 0 %}
+                                            {% for tag in common.x-tags %}
+                                                {% if tag == 'Contribute' %}
+                                                    {% assign tagged = 1 %}
+                                                {% endif %}   
+                                            {% endfor %}   
+                                            {% if tagged == 1 %}                          
+                                                <li>&#8594; <a href="{{ common.url }}">{{ common.x-name }}</a></li>
+                                            {% endif %}   
+                                        {% endfor %} 
+                                    </ul>                                        
+                                </td>
+                            </tr>
+                        </table>
+                    </td> 
+                </tr>
 
-                    <!-- Comment Form -->
-                    <div class="shop-comment-form">
-                        <div class="sec-title">
-                            <h2>Add a Review</h2>
-                        </div>
-                        <div class="rating-box">
-                            <div class="text"> Your Rating:</div>
-                            <div class="rating">
-                                <a href="#"><span class="fa fa-star"></span></a>
-                            </div>
-                            <div class="rating">
-                                <a href="#"><span class="fa fa-star"></span></a>
-                                <a href="#"><span class="fa fa-star"></span></a>
-                            </div>
-                            <div class="rating">
-                                <a href="#"><span class="fa fa-star"></span></a>
-                                <a href="#"><span class="fa fa-star"></span></a>
-                                <a href="#"><span class="fa fa-star"></span></a>
-                            </div>
-                            <div class="rating">
-                                <a href="#"><span class="fa fa-star"></span></a>
-                                <a href="#"><span class="fa fa-star"></span></a>
-                                <a href="#"><span class="fa fa-star"></span></a>
-                                <a href="#"><span class="fa fa-star"></span></a>
-                            </div>
-                            <div class="rating">
-                                <a href="#"><span class="fa fa-star"></span></a>
-                                <a href="#"><span class="fa fa-star"></span></a>
-                                <a href="#"><span class="fa fa-star"></span></a>
-                                <a href="#"><span class="fa fa-star"></span></a>
-                                <a href="#"><span class="fa fa-star"></span></a>
-                            </div>
-                        </div>
-                        <form method="post" action="contact.html">
-                            <div class="row clearfix">
-                                <div class="col-md-6 col-sm-6 col-xs-12 form-group">
-                                    <input type="text" name="username" placeholder="Name ..." required>
-                                </div>
-                                <div class="col-md-6 col-sm-6 col-xs-12 form-group">
-                                    <input type="email" name="email" placeholder="Email ..." required>
-                                </div>
-                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 form-group">
-                                    <textarea name="message" placeholder="Review ..."></textarea>
-                                </div>
+                {% endif %}   
+            {% endfor %}    
 
-                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 form-group">
-                                    <button class="theme-btn btn-style-one" type="submit" name="submit-form">Submit Review</button>
-                                </div>
+            <tr><td colspan="3"><hr></td></tr>
 
-                            </div>
-                        </form>
+            {% for entry in specifications %}
+                {% if entry.name == 'JSON Schema' %}
 
-                    </div>
+                    <tr>
+                        <td width="24%" align="center">                                
+                            <a href="{{ entry.url }}"><img src="{{ entry.image }}" alt="" width="375"></a><br>
+                        </td>
+                        <td width="38%" align="center">
+                            <table width="100%"
+                                <tr>
+                                    <td width="40%" align="center">
+                                        <a href="{{ entry.url }}"><img src="/images/learn.png" alt="" width="90"></a><br>
+                                        <a href="{{ entry.url }}">Learn</a>                        
+                                    </td>
+                                    <td width="60%">
+                                        <ul>
+                                            {% for common in entry.x-common %}
+                                                {% assign tagged = 0 %}
+                                                {% for tag in common.x-tags %}
+                                                    {% if tag == 'Learn' %}
+                                                        {% assign tagged = 1 %}
+                                                    {% endif %}   
+                                                {% endfor %}   
+                                                {% if tagged == 1 %}                          
+                                                    <li>&#8594; <a href="{{ common.url }}">{{ common.x-name }}</a></li>
+                                                {% endif %}   
+                                            {% endfor %} 
+                                        </ul>                                        
+                                    </td>
+                                </tr>
+                            </table>
+                        </td> 
+                        <td width="38%" align="center">
+                            <table width="100%"
+                                <tr>
+                                    <td width="40%" align="center">
+                                        <a href="{{ entry.url }}"><img src="/images/contribute.png" alt="" width="90"></a><br>
+                                        <a href="{{ entry.url }}">Contribute</a>                        
+                                    </td>
+                                    <td width="60%">
+                                        <ul>
+                                            {% for common in entry.x-common %}
+                                                {% assign tagged = 0 %}
+                                                {% for tag in common.x-tags %}
+                                                    {% if tag == 'Contribute' %}
+                                                        {% assign tagged = 1 %}
+                                                    {% endif %}   
+                                                {% endfor %}   
+                                                {% if tagged == 1 %}                          
+                                                    <li>&#8594; <a href="{{ common.url }}">{{ common.x-name }}</a></li>
+                                                {% endif %}   
+                                            {% endfor %} 
+                                        </ul>                                        
+                                    </td>
+                                </tr>
+                            </table>
+                        </td> 
+                    </tr>
 
-                </div>
-            </div>
-
-        </div>
-    </div>
-</div>
-<!--End Product Info Tabs-->
-
-<!--Related Items-->
-<div class="related-items">
-    <div class="sec-title">
-        <h2>You May Also Like</h2>
-    </div>
-    <div class="four-item-carousel owl-carousel owl-theme">
-
-        <!--Shop Item-->
-        <div class="shop-item">
-            <div class="inner-box">
-                <div class="image-box">
-                    <a href="shop-single.html"><img src="images/resource/products/5.jpg" alt="" /></a>
-                </div>
-                <div class="lower-box">
-                    <div class="upper-box">
-                        <h4><a href="shop-single.html">Sport mountain <br> Dress</a></h4>
-                    </div>
-                    <div class="lower-content">
-                        <div class="price"><span class="discount-price">$109.00</span> $25.00</div>
-                        <a href="shop-single.html" class="cart-btn theme-btn">Add To Cart</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <!--Shop Item-->
-        <div class="shop-item">
-            <div class="inner-box">
-                <div class="off-price">-15%</div>
-                <div class="image-box">
-                    <a href="shop-single.html"><img src="images/resource/products/6.jpg" alt="" /></a>
-                </div>
-                <div class="lower-box">
-                    <div class="upper-box">
-                        <h4><a href="shop-single.html">Pleasant Shirt <br> Design</a></h4>
-                    </div>
-                    <div class="lower-content">
-                        <div class="price"><span class="discount-price">$92.00</span> $17.00</div>
-                        <a href="shop-single.html" class="cart-btn theme-btn">Add To Cart</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <!--Shop Item-->
-        <div class="shop-item">
-            <div class="inner-box">
-                <div class="image-box">
-                    <a href="shop-single.html"><img src="images/resource/products/7.jpg" alt="" /></a>
-                </div>
-                <div class="lower-box">
-                    <div class="upper-box">
-                        <h4><a href="shop-single.html">Orange Style <br> Trousers</a></h4>
-                    </div>
-                    <div class="lower-content">
-                        <div class="price">$205.00</div>
-                        <a href="shop-single.html" class="cart-btn theme-btn">Add To Cart</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <!--Shop Item-->
-        <div class="shop-item">
-            <div class="inner-box">
-                <div class="off-price">-15%</div>
-                <div class="image-box">
-                    <a href="shop-single.html"><img src="images/resource/products/8.jpg" alt="" /></a>
-                </div>
-                <div class="lower-box">
-                    <div class="upper-box">
-                        <h4><a href="shop-single.html">Summer Business <br> Blouse</a></h4>
-                    </div>
-                    <div class="lower-content">
-                        <div class="price"><span class="discount-price">$55.00</span> $12.00</div>
-                        <a href="shop-single.html" class="cart-btn theme-btn">Add To Cart</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <!--Shop Item-->
-        <div class="shop-item">
-            <div class="inner-box">
-                <div class="image-box">
-                    <a href="shop-single.html"><img src="images/resource/products/5.jpg" alt="" /></a>
-                </div>
-                <div class="lower-box">
-                    <div class="upper-box">
-                        <h4><a href="shop-single.html">Sport mountain <br> Dress</a></h4>
-                    </div>
-                    <div class="lower-content">
-                        <div class="price"><span class="discount-price">$109.00</span> $25.00</div>
-                        <a href="shop-single.html" class="cart-btn theme-btn">Add To Cart</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <!--Shop Item-->
-        <div class="shop-item">
-            <div class="inner-box">
-                <div class="off-price">-15%</div>
-                <div class="image-box">
-                    <a href="shop-single.html"><img src="images/resource/products/6.jpg" alt="" /></a>
-                </div>
-                <div class="lower-box">
-                    <div class="upper-box">
-                        <h4><a href="shop-single.html">Pleasant Shirt <br> Design</a></h4>
-                    </div>
-                    <div class="lower-content">
-                        <div class="price"><span class="discount-price">$92.00</span> $17.00</div>
-                        <a href="shop-single.html" class="cart-btn theme-btn">Add To Cart</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <!--Shop Item-->
-        <div class="shop-item">
-            <div class="inner-box">
-                <div class="image-box">
-                    <a href="shop-single.html"><img src="images/resource/products/7.jpg" alt="" /></a>
-                </div>
-                <div class="lower-box">
-                    <div class="upper-box">
-                        <h4><a href="shop-single.html">Orange Style <br> Trousers</a></h4>
-                    </div>
-                    <div class="lower-content">
-                        <div class="price">$205.00</div>
-                        <a href="shop-single.html" class="cart-btn theme-btn">Add To Cart</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <!--Shop Item-->
-        <div class="shop-item">
-            <div class="inner-box">
-                <div class="off-price">-15%</div>
-                <div class="image-box">
-                    <a href="shop-single.html"><img src="images/resource/products/8.jpg" alt="" /></a>
-                </div>
-                <div class="lower-box">
-                    <div class="upper-box">
-                        <h4><a href="shop-single.html">Summer Business <br> Blouse</a></h4>
-                    </div>
-                    <div class="lower-content">
-                        <div class="price"><span class="discount-price">$55.00</span> $12.00</div>
-                        <a href="shop-single.html" class="cart-btn theme-btn">Add To Cart</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-
+                {% endif %}   
+            {% endfor %}                                           
+        </table>
     </div>
 </div>
