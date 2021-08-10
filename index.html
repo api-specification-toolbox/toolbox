@@ -1,316 +1,207 @@
 ---
 layout: default
-title: Home
+title: About
 ---
 
-{% include slider.html %}
 
-<!--Services Posts-->
-<div class="sidebar-page-container" style="margin-bottom: 0px; padding-bottom: 0px;">
-    <div class="auto-container" style="margin-bottom: 0px; padding-bottom: 0px;">
+<div class="sidebar-page-container" style="padding-top: 10px;">
+    <div class="auto-container">
 
-        <div class="row clearfix">
+        <p>This is a toolbox of many specifications, services, tools, people, and other resources. There is a lot of information available here, something that is always expanding and contracting. Feel free to sort through all of the information here, or feel free to just get started with three of the most important specifications to the world of APIs.</p>
+        <table width="100%" align="center" border="1">
 
-            <!--Content Side-->
-            <div class="content-side col-lg-8 col-md-12 col-sm-12">
+            <tr><td colspan="3"><hr></td></tr>
 
-                {% include specifications/specifications-tag-tabs.html %}
+            {% assign specifications = site.specifications %}
+            {% for entry in specifications %}
+                {% if entry.name == 'OpenAPI' %}
 
-            </div>
+                <tr>
+                    <td width="24%" align="center">                                
+                        <a href="{{ entry.url }}"><img src="{{ entry.image }}" alt="" width="375"></a><br>
+                    </td>
+                    <td width="38%" align="center">
+                        <table width="100%"
+                            <tr>
+                                <td width="40%" align="center">
+                                    <a href="{{ entry.url }}"><img src="/images/learn.png" alt="" width="90"></a><br>
+                                    <a href="{{ entry.url }}">Learn</a>                        
+                                </td>
+                                <td width="60%">
+                                    <ul>
+                                        {% for common in entry.x-common %}
+                                            {% assign tagged = 0 %}
+                                            {% for tag in common.x-tags %}
+                                                {% if tag == 'Learn' %}
+                                                    {% assign tagged = 1 %}
+                                                {% endif %}   
+                                            {% endfor %}   
+                                            {% if tagged == 1 %}                          
+                                                <li>&#8594; <a href="{{ common.url }}">{{ common.x-name }}</a></li>
+                                            {% endif %}   
+                                        {% endfor %} 
+                                    </ul>                                        
+                                </td>
+                            </tr>
+                        </table>
+                    </td> 
+                    <td width="38%" align="center">
+                        <table width="100%"
+                            <tr>
+                                <td width="40%" align="center">
+                                    <a href="{{ entry.url }}"><img src="/images/contribute.png" alt="" width="90"></a><br>
+                                    <a href="{{ entry.url }}">Contribute</a>                        
+                                </td>
+                                <td width="60%">
+                                    <ul>
+                                        {% for common in entry.x-common %}
+                                            {% assign tagged = 0 %}
+                                            {% for tag in common.x-tags %}
+                                                {% if tag == 'Contribute' %}
+                                                    {% assign tagged = 1 %}
+                                                {% endif %}   
+                                            {% endfor %}   
+                                            {% if tagged == 1 %}                          
+                                                <li>&#8594; <a href="{{ common.url }}">{{ common.x-name }}</a></li>
+                                            {% endif %}   
+                                        {% endfor %} 
+                                    </ul>                                        
+                                </td>
+                            </tr>
+                        </table>
+                    </td> 
+                </tr>
 
-            <!--Sidebar Side-->
-            <div class="sidebar-side col-lg-4 col-md-12 col-sm-12">
-                <aside class="sidebar default-sidebar">
-                    <div class="sidebar-inner">
+                {% endif %}   
+            {% endfor %} 
 
-                        {% include advertising/advertising-widget.html %}
+                <tr><td colspan="3"><hr></td></tr>
 
-                        {% include specifications/specifications-tag-widget.html %}
+            {% for entry in specifications %}
+                {% if entry.name == 'AsyncAPI' %}
 
-                    </div>
-                </aside>
+                <tr>
+                    <td width="24%" align="center">                                
+                        <a href="{{ entry.url }}"><img src="{{ entry.image }}" alt="" width="375"></a><br>
+                    </td>
+                    <td width="38%" align="center">
+                        <table width="100%"
+                            <tr>
+                                <td width="40%" align="center">
+                                    <a href="{{ entry.url }}"><img src="/images/learn.png" alt="" width="90"></a><br>
+                                    <a href="{{ entry.url }}">Learn</a>                        
+                                </td>
+                                <td width="60%">
+                                    <ul>
+                                        {% for common in entry.x-common %}
+                                            {% assign tagged = 0 %}
+                                            {% for tag in common.x-tags %}
+                                                {% if tag == 'Learn' %}
+                                                    {% assign tagged = 1 %}
+                                                {% endif %}   
+                                            {% endfor %}   
+                                            {% if tagged == 1 %}                          
+                                                <li>&#8594; <a href="{{ common.url }}">{{ common.x-name }}</a></li>
+                                            {% endif %}   
+                                        {% endfor %} 
+                                    </ul>                                        
+                                </td>
+                            </tr>
+                        </table>
+                    </td> 
+                    <td width="38%" align="center">
+                        <table width="100%"
+                            <tr>
+                                <td width="40%" align="center">
+                                    <a href="{{ entry.url }}"><img src="/images/contribute.png" alt="" width="90"></a><br>
+                                    <a href="{{ entry.url }}">Contribute</a>                        
+                                </td>
+                                <td width="60%">
+                                    <ul>
+                                        {% for common in entry.x-common %}
+                                            {% assign tagged = 0 %}
+                                            {% for tag in common.x-tags %}
+                                                {% if tag == 'Contribute' %}
+                                                    {% assign tagged = 1 %}
+                                                {% endif %}   
+                                            {% endfor %}   
+                                            {% if tagged == 1 %}                          
+                                                <li>&#8594; <a href="{{ common.url }}">{{ common.x-name }}</a></li>
+                                            {% endif %}   
+                                        {% endfor %} 
+                                    </ul>                                        
+                                </td>
+                            </tr>
+                        </table>
+                    </td> 
+                </tr>
 
-            </div>
+                {% endif %}   
+            {% endfor %}    
 
-        </div>
+            <tr><td colspan="3"><hr></td></tr>
 
+            {% for entry in specifications %}
+                {% if entry.name == 'JSON Schema' %}
+
+                    <tr>
+                        <td width="24%" align="center">                                
+                            <a href="{{ entry.url }}"><img src="{{ entry.image }}" alt="" width="375"></a><br>
+                        </td>
+                        <td width="38%" align="center">
+                            <table width="100%"
+                                <tr>
+                                    <td width="40%" align="center">
+                                        <a href="{{ entry.url }}"><img src="/images/learn.png" alt="" width="90"></a><br>
+                                        <a href="{{ entry.url }}">Learn</a>                        
+                                    </td>
+                                    <td width="60%">
+                                        <ul>
+                                            {% for common in entry.x-common %}
+                                                {% assign tagged = 0 %}
+                                                {% for tag in common.x-tags %}
+                                                    {% if tag == 'Learn' %}
+                                                        {% assign tagged = 1 %}
+                                                    {% endif %}   
+                                                {% endfor %}   
+                                                {% if tagged == 1 %}                          
+                                                    <li>&#8594; <a href="{{ common.url }}">{{ common.x-name }}</a></li>
+                                                {% endif %}   
+                                            {% endfor %} 
+                                        </ul>                                        
+                                    </td>
+                                </tr>
+                            </table>
+                        </td> 
+                        <td width="38%" align="center">
+                            <table width="100%"
+                                <tr>
+                                    <td width="40%" align="center">
+                                        <a href="{{ entry.url }}"><img src="/images/contribute.png" alt="" width="90"></a><br>
+                                        <a href="{{ entry.url }}">Contribute</a>                        
+                                    </td>
+                                    <td width="60%">
+                                        <ul>
+                                            {% for common in entry.x-common %}
+                                                {% assign tagged = 0 %}
+                                                {% for tag in common.x-tags %}
+                                                    {% if tag == 'Contribute' %}
+                                                        {% assign tagged = 1 %}
+                                                    {% endif %}   
+                                                {% endfor %}   
+                                                {% if tagged == 1 %}                          
+                                                    <li>&#8594; <a href="{{ common.url }}">{{ common.x-name }}</a></li>
+                                                {% endif %}   
+                                            {% endfor %} 
+                                        </ul>                                        
+                                    </td>
+                                </tr>
+                            </table>
+                        </td> 
+                    </tr>
+
+                {% endif %}   
+            {% endfor %}                                           
+        </table>
     </div>
 </div>
-<!--End Services Posts-->
-{% include slider.html %}
-
-<!--News Posts-->
-<div class="sidebar-page-container" style="margin-bottom: 0px; padding-bottom: 0px;">
-    <div class="auto-container" style="margin-bottom: 0px; padding-bottom: 0px;">
-
-        <div class="row clearfix">
-
-            <!--Content Side-->
-            <div class="content-side col-lg-8 col-md-12 col-sm-12">
-
-                {% include news/news-tag-tabs.html %}
-
-            </div>
-
-            <!--Sidebar Side-->
-            <div class="sidebar-side col-lg-4 col-md-12 col-sm-12">
-                <aside class="sidebar default-sidebar">
-                    <div class="sidebar-inner">
-
-                        {% include advertising/advertising-widget.html %}
-
-                        {% include news/news-tag-widget.html %}
-
-                    </div>
-                </aside>
-
-            </div>
-
-        </div>
-
-    </div>
-</div>
-<!--End News Posts-->
-{% include advertising/full-width-ad-1.html %}
-
-<!--Services-->
-<div class="sidebar-page-container" style="margin-bottom: 0px; padding-bottom: 0px;">
-    <div class="auto-container" style="margin-bottom: 0px; padding-bottom: 0px;">
-
-        <div class="row clearfix">
-
-            <!--Content Side-->
-            <div class="content-side col-lg-8 col-md-12 col-sm-12">
-
-                {% assign services_listing_count = 6 %}
-                {% assign services_tag_height = 500 %}
-                {% include services/services-tag-tabs.html %}
-
-            </div>
-
-            <!--Sidebar Side-->
-            <div class="sidebar-side col-lg-4 col-md-12 col-sm-12">
-                <aside class="sidebar default-sidebar">
-                    <div class="sidebar-inner">
-
-                        {% include advertising/advertising-widget.html %}
-
-                        {% include services/services-tag-widget.html %}
-
-                    </div>
-                </aside>
-
-            </div>
-
-        </div>
-
-    </div>
-</div>
-<!--Services-->
-{% include advertising/full-width-ad-2.html %}
-
-<!--Tools-->
-<div class="sidebar-page-container" style="margin-bottom: 0px; padding-bottom: 0px;">
-    <div class="auto-container" style="margin-bottom: 0px; padding-bottom: 0px;">
-
-        <div class="row clearfix">
-
-            <!--Content Side-->
-            <div class="content-side col-lg-8 col-md-12 col-sm-12">
-
-                {% assign tools_listing_count = 8 %}
-                {% assign tools_tag_height = 500 %}
-                {% include tools/tools-tag-tabs.html %}
-
-            </div>
-
-            <!--Sidebar Side-->
-            <div class="sidebar-side col-lg-4 col-md-12 col-sm-12">
-                <aside class="sidebar default-sidebar">
-                    <div class="sidebar-inner">
-
-                        {% include advertising/advertising-widget.html %}
-
-                        {% include tools/tools-tag-widget.html %}
-
-                    </div>
-                </aside>
-
-            </div>
-
-        </div>
-
-    </div>
-</div>
-<!--Tools-->
-{% include advertising/full-width-ad-3.html %}
-
-<!--Services-->
-<div class="sidebar-page-container" style="margin-bottom: 0px; padding-bottom: 0px;">
-    <div class="auto-container" style="margin-bottom: 0px; padding-bottom: 0px;">
-
-        <div class="row clearfix">
-
-            <!--Content Side-->
-            <div class="content-side col-lg-8 col-md-12 col-sm-12">
-
-                {% assign extensions_listing_count = 6 %}
-                {% assign extensions_tag_height = 500 %}
-                {% include extensions/extensions-tag-tabs.html %}
-
-            </div>
-
-            <!--Sidebar Side-->
-            <div class="sidebar-side col-lg-4 col-md-12 col-sm-12">
-                <aside class="sidebar default-sidebar">
-                    <div class="sidebar-inner">
-
-                        {% include advertising/advertising-widget.html %}
-
-                        {% include extensions/extensions-tag-widget.html %}
-
-                    </div>
-                </aside>
-
-            </div>
-
-        </div>
-
-    </div>
-</div>
-<!--Services-->
-{% include advertising/full-width-ad-3.html %}
-
-<!--Videos-->
-<div class="sidebar-page-container" style="margin-bottom: 0px; padding-bottom: 0px;">
-    <div class="auto-container" style="margin-bottom: 0px; padding-bottom: 0px;">
-
-        <div class="row clearfix">
-
-            <!--Content Side-->
-            <div class="content-side col-lg-8 col-md-12 col-sm-12">
-
-                {% include videos/videos-tag-tabs.html %}
-
-            </div>
-
-            <!--Sidebar Side-->
-            <div class="sidebar-side col-lg-4 col-md-12 col-sm-12">
-                <aside class="sidebar default-sidebar">
-                    <div class="sidebar-inner">
-
-                        {% include advertising/advertising-widget.html %}
-
-                        {% include videos/videos-tag-widget.html %}
-
-                    </div>
-                </aside>
-
-            </div>
-
-        </div>
-
-    </div>
-</div>
-<!--Videos-->
-{% include advertising/full-width-ad-4.html %}
-
-<!--Blog Posts-->
-<div class="sidebar-page-container" style="margin-bottom: 0px; padding-bottom: 0px;">
-    <div class="auto-container" style="margin-bottom: 0px; padding-bottom: 0px;">
-
-        <div class="row clearfix">
-
-            <!--Content Side-->
-            <div class="content-side col-lg-8 col-md-12 col-sm-12">
-
-                {% include blogs/blog-tag-tabs.html %}
-
-            </div>
-
-            <!--Sidebar Side-->
-            <div class="sidebar-side col-lg-4 col-md-12 col-sm-12">
-                <aside class="sidebar default-sidebar">
-                    <div class="sidebar-inner">
-
-                        {% include advertising/advertising-widget.html %}
-
-                        {% include blogs/blog-tag-widget.html %}
-
-                    </div>
-                </aside>
-
-            </div>
-
-        </div>
-
-    </div>
-</div>
-<!--End Blog Posts-->
-{% include advertising/full-width-ad-5.html %}
-
-<!--Podcasts -->
-<div class="sidebar-page-container" style="margin-bottom: 0px; padding-bottom: 0px;">
-    <div class="auto-container" style="margin-bottom: 0px; padding-bottom: 0px;">
-
-        <div class="row clearfix">
-
-            <!--Content Side-->
-            <div class="content-side col-lg-8 col-md-12 col-sm-12">
-
-                {% include podcasts/podcasts-tag-tabs.html %}
-
-            </div>
-
-            <!--Sidebar Side-->
-            <div class="sidebar-side col-lg-4 col-md-12 col-sm-12">
-                <aside class="sidebar default-sidebar">
-                    <div class="sidebar-inner">
-
-                        {% include advertising/advertising-widget.html %}
-
-                        {% include podcasts/podcasts-tag-widget.html %}
-
-                    </div>
-                </aside>
-
-            </div>
-
-        </div>
-
-    </div>
-</div>
-<!--End Podcasts-->
-
-<!--Learning Resources -->
-<div class="sidebar-page-container" style="margin-bottom: 0px; padding-bottom: 0px;">
-    <div class="auto-container" style="margin-bottom: 0px; padding-bottom: 0px;">
-
-        <div class="row clearfix">
-
-            <!--Content Side-->
-            <div class="content-side col-lg-8 col-md-12 col-sm-12">
-
-                {% include learning/learning-tag-tabs.html %}
-
-            </div>
-
-            <!--Sidebar Side-->
-            <div class="sidebar-side col-lg-4 col-md-12 col-sm-12">
-                <aside class="sidebar default-sidebar">
-                    <div class="sidebar-inner">
-
-                        {% include advertising/advertising-widget.html %}
-
-                        {% include learning/learning-tag-widget.html %}
-
-                    </div>
-                </aside>
-
-            </div>
-
-        </div>
-
-    </div>
-</div>
-<!--End Podcasts-->
