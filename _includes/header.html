@@ -45,9 +45,6 @@
                  </div>
                 <div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
                     <ul class="navigation clearfix">
-                        <li class="{% if page.title == 'Home' %}current {% endif %}dropdown">
-                            <a href="/">Home</a>
-                        </li>
                         <li class="{% if page.title == 'Specifications' %}current {% endif %}dropdown">
                             <a href="/specifications/">Specs</a>
                         </li>
@@ -67,16 +64,17 @@
                             <a href="/projects/">Projects</a>
                         </li>
                         <li class="{% if page.title == 'People' %}current {% endif %}dropdown">
-                            <a href="/people/">People</a>
+                            <a href="/news/">News</a>
                         </li>
-                        <li><a href="#">Resources</a>
-                            <ul>
-                                <li><a href="/news/">News</a></li>
-                                <li><a href="/videos/">Videos</a></li>
-                                <li><a href="/podcasts/">Podcasts</a></li>
-                                <li><a href="/learning/">Learning</a></li>
-                            </ul>
-                        </li> 
+                        <li class="{% if page.title == 'People' %}current {% endif %}dropdown">
+                            <a href="/videos/">Videos</a>
+                        </li>
+                        <li class="{% if page.title == 'People' %}current {% endif %}dropdown">
+                            <a href="/podcasst/">Podcasts</a>
+                        </li>
+                        <li class="{% if page.title == 'People' %}current {% endif %}dropdown">
+                            <a href="/learning/">Learn</a>
+                        </li>                                                                        
                         <li class="{% if page.title == 'People' %}current {% endif %}dropdown">
                             <a href="/blog/">Blog</a>
                         </li>                        
