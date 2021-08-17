@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg width="200px" height="200px" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" class="lds-squaricle" style="background: none;" xmlns="http://www.w3.org/2000/svg">
-  <g transform="translate(50 50)">
-    <g transform="scale(0.798166 0.798166)">
-      <rect x="-45" y="-45" width="90" height="90" ng-attr-fill="{{config.fill}}" ng-attr-stroke="{{config.stroke}}" ng-attr-stroke-width="{{config.width}}" stroke="#f6eddc" stroke-width="5" transform="rotate(1.65049)" rx="3.3132" style="fill: rgb(9, 8, 8);"/>
-    </g>
-  </g>
-</svg>
