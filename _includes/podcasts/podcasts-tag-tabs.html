@@ -38,7 +38,7 @@
                                 <div class="lower-box">
                                     <h3><a href="{{ entry.url }}">{{ entry.name }}</a></h3>
                                     <ul class="post-meta">
-                                        <li><span class="icon fa fa-clock-o"></span>{{ entry.date | date: "%b %d, %y" }}</li>
+                                        <li><span class="icon fa fa-clock-o"></span>{{ entry.modified | date: "%b %d, %y" }}</li>
                                     </ul>
                                     <div class="text">{{ entry.description | truncate: 395 | strip_html }}</div>
                                     <strong>Podcast:</strong> <a href="{{ website_url }}" target="_blank">{{ website_url }}</a>
