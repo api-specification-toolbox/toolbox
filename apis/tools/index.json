@@ -1,17 +1,41 @@
 ---
 layout: none
 ---
-[{% assign tools = site.tools %}{% assign tools = tools | sort: 'name' %}{% for tool in tools %}
+[{% assign tools = site.tools %}{% assign tools = tools | sort: 'name' %}
+
+{% for tool in tools %}
+
+{% assign website_url = '' %}
+{% assign blog_url = '' %}
+{% assign developer_url = '' %}
+{% assign github_url = '' %}
+{% assign twitter_url = '' %}
+{% for common in tool.x-common %}
+   {% if common.type == 'x-website' %}
+      {% assign website_url = common.url %}
+   {% endif %}
+   {% if common.type == 'x-blog' %}
+      {% assign blog_url = common.url %}
+   {% endif %}   
+   {% if common.type == 'x-developer' %}
+      {% assign developer_url = common.url %}
+   {% endif %}     
+   {% if common.type == 'x-github' %}
+      {% assign github_url = common.url %}
+   {% endif %}  
+   {% if common.type == 'x-twitter' %}
+      {% assign twitter_url = common.url %}
+   {% endif %}        
+{% endfor %}
 {
    "name": "{{ tool.name | strip_html }}",
    "description": "{{ tool.description | strip_html }}",
    "image": "{{ tool.image }}",
-   "tags": {{ tool.tags | jsonify }},
-   "created": "{{ tool.created }}",
-   "modified": "{{ tool.modified }}",
-   "url": "{{ tool.url }}",
-   "toolVersion": "{{ tool.toolVersion }}",
-   "apis": {{ tool.apis | jsonify }},
-   "x-common": {{ tool.x-common | jsonify }}
+   "website_url": "{{ website_url }}",
+   "blog_url": "{{ blog_url }}",
+   "developer_url": "{{ developer_url }}",
+   "github_url": "{{ github_url }}",
+   "twitter_url": "{{ twitter_url }}"
+
 }{% if forloop.last == true %}{% else %},{% endif %}
 {% endfor %}]

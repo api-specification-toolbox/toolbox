@@ -1,16 +1,16 @@
 ---
 layout: none
 ---
-[{% assign extension = site.extension %}{% assign extension = extension | sort: 'name' %}
+[{% assign sectors = site.sectors %}{% assign sectors = sectors | sort: 'name' %}
 
-{% for extension in extension %}
+{% for sector in sectors %}
 
 {% assign website_url = '' %}
 {% assign blog_url = '' %}
 {% assign developer_url = '' %}
 {% assign github_url = '' %}
 {% assign twitter_url = '' %}
-{% for common in extension.x-common %}
+{% for common in sector.x-common %}
    {% if common.type == 'x-website' %}
       {% assign website_url = common.url %}
    {% endif %}
@@ -28,9 +28,9 @@ layout: none
    {% endif %}        
 {% endfor %}
 {
-   "name": "{{ extension.name | strip_html }}",
-   "description": "{{ extension.description | strip_html }}",
-   "image": "{{ extension.image }}",
+   "name": "{{ sector.name | strip_html }}",
+   "description": "{{ sector.description | strip_html }}",
+   "image": "{{ sector.image }}",
    "website_url": "{{ website_url }}",
    "blog_url": "{{ blog_url }}",
    "developer_url": "{{ developer_url }}",
