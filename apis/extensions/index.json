@@ -1,9 +1,9 @@
 ---
 layout: none
 ---
-[{% assign extension = site.extension %}{% assign extension = extension | sort: 'name' %}
+[{% assign extensions = site.extensions %}{% assign extensions = extensions | sort: 'name' %}
 
-{% for extension in extension %}
+{% for extension in extensions %}
 
 {% assign website_url = '' %}
 {% assign blog_url = '' %}
